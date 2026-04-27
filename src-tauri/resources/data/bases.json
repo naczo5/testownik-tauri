@@ -1,0 +1,46 @@
+{
+  "bases": [
+    {
+      "slug": "baza_fizyka_zadania",
+      "name": "baza_fizyka_zadania",
+      "displayName": "baza_fizyka_zadania",
+      "description": "",
+      "questionCount": 160
+    },
+    {
+      "slug": "fizyka",
+      "name": "fizyka",
+      "displayName": "fizyka",
+      "description": "",
+      "questionCount": 93
+    },
+    {
+      "slug": "komuna",
+      "name": "komuna",
+      "displayName": "komuna",
+      "description": "",
+      "questionCount": 107
+    },
+    {
+      "slug": "pair",
+      "name": "pair",
+      "displayName": "pair",
+      "description": "",
+      "questionCount": 112
+    },
+    {
+      "slug": "telekomuna-new",
+      "name": "telekomuna-new",
+      "displayName": "telekomuna new",
+      "description": "",
+      "questionCount": 372
+    },
+    {
+      "slug": "telekomuna-old",
+      "name": "telekomuna-old",
+      "displayName": "telekomuna old",
+      "description": "",
+      "questionCount": 107
+    }
+  ]
+}

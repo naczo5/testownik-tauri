@@ -1,0 +1,6 @@
+X0010
+Modulacja polega na:			
+transmisji informacji łącznie z dodatkowym sygnałem nośnym
+dowolnej zmianie parametrów sygnału pierwotnego, która umożliwi zmniejszenie wpływu zakłóceń na informację w kanale transmisyjnym
+uzależnieniu sygnału nośnego od sygnału pierwotnego
+zwiększeniu odporności przesyłanej informacji na zakłócenia za pomocą operacji mieszania z tzw. sygnałem zabezpieczającym

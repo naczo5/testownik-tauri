@@ -1,0 +1,2790 @@
+{
+  "name": "komuna",
+  "displayName": "komuna",
+  "description": "",
+  "questionCount": 107,
+  "questions": [
+    {
+      "id": "01",
+      "question": "Początki telekomunikacji sięgają:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "czasów odkrycia elektryczności"
+        },
+        {
+          "key": "b",
+          "text": "momentu wynalezienia telefonu"
+        },
+        {
+          "key": "c",
+          "text": "końca XVIII w."
+        },
+        {
+          "key": "d",
+          "text": "nawet kilkuset lat p.n.e."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "02",
+      "question": "Jakie procesy zachodzą przy nadawaniu w systemie telekomunikacyjnym?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "generacja informacji, kodowanie źródłowe, kodowanie kanałowe, modulacja"
+        },
+        {
+          "key": "b",
+          "text": "generacja informacji, modulacja, kodowanie źrółowe, kodowanie kanałowe"
+        },
+        {
+          "key": "c",
+          "text": "generacja informacji, kodowanie kanałowe, kodowanie źrodłowe, modulacja"
+        },
+        {
+          "key": "d",
+          "text": "generacji informacji, dekodowanie źródłowe, dekodowanie kanałowe, demodulacja"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "03",
+      "question": "Entropia:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "określa niepewność wystąpienia danego symbolu w źródle informacji"
+        },
+        {
+          "key": "b",
+          "text": "nie zależy od prawdopodobieństwa wystąpienia symbolu"
+        },
+        {
+          "key": "c",
+          "text": "jest wielkością bezwymiarową"
+        },
+        {
+          "key": "d",
+          "text": "określa stopień kompresji informacji ze źródła"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "04",
+      "question": "Po co wykonuje się kodowanie kanałowe?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zabezpieczenie przed podsłuchem"
+        },
+        {
+          "key": "b",
+          "text": "zabezpieczenie przed losowymi zakłóceniami"
+        },
+        {
+          "key": "c",
+          "text": "zabezpieczenie przed intencjonalną zmianą sygnału"
+        },
+        {
+          "key": "d",
+          "text": "zmniejszenie entropii"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "05",
+      "question": "Moc promieniowania przez punkt dostępowy wynosi 14 dBm. Jaka to moc w miliwatach?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "7 mW"
+        },
+        {
+          "key": "b",
+          "text": "14 mW"
+        },
+        {
+          "key": "c",
+          "text": "25 mW"
+        },
+        {
+          "key": "d",
+          "text": "50 mW"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "06",
+      "question": "Kabel miedziany nazywamy linią długą gdy występują następujące zależności:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "L<=Lambda/4, D<<Lambda/4"
+        },
+        {
+          "key": "b",
+          "text": "L>=Lambda/4, D<<Lambda/4"
+        },
+        {
+          "key": "c",
+          "text": "L<<Lambda/4, D=Lambda"
+        },
+        {
+          "key": "d",
+          "text": "L<<Lambda/4, D<<Lambda/4"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "07",
+      "question": "Właściwe jednostki, w których wyraża się zysk antenowy to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "[dB], [dBm]"
+        },
+        {
+          "key": "b",
+          "text": "[dBm], [dBW]"
+        },
+        {
+          "key": "c",
+          "text": "[dBi], [dBd]"
+        },
+        {
+          "key": "d",
+          "text": "[dB]"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "08",
+      "question": "W architekturze klient-serwer:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "o roli urządzenia decyduje zainstalowane na nim oprogramowanie"
+        },
+        {
+          "key": "b",
+          "text": "transmisja odbywa się tylko w kierunku od serwera do klienta"
+        },
+        {
+          "key": "c",
+          "text": "każde urządzenie nie może jednocześnie pełnić roli klienta i serwera"
+        },
+        {
+          "key": "d",
+          "text": "serwer może obsługiwać tylko jedną usługę w danym czasie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "09",
+      "question": "Akronim DSL oznacza:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "analogową pętlę abonencką"
+        },
+        {
+          "key": "b",
+          "text": "rodzaj modulacji cyfrowej"
+        },
+        {
+          "key": "c",
+          "text": "cyfrową pętlę abonencką"
+        },
+        {
+          "key": "d",
+          "text": "system transmisji szeregowej"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "10",
+      "question": "Do której generacji systemów zaliczane są systemy UMTS i HSPA?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1G"
+        },
+        {
+          "key": "b",
+          "text": "2G"
+        },
+        {
+          "key": "c",
+          "text": "3G"
+        },
+        {
+          "key": "d",
+          "text": "4G"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "100",
+      "question": "Impedancja Z jest to parametr kabli miedzianych, który:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Charakteryzuje zależność między natężeniem prądu i napięciem w obwodach prądu zmiennego."
+        },
+        {
+          "key": "b",
+          "text": "Charakteryzuje zależność między indukcyjnością prądu I napięciem w obwodach prądu zmiennego."
+        },
+        {
+          "key": "c",
+          "text": "Opisuje wielkość indukcji elektromagnetycznej pomiędzy wodnikami w kablu."
+        },
+        {
+          "key": "d",
+          "text": "Określeniem konduktancji, w obwodach prądu zmiennego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "101",
+      "question": "Kabel typu skrętka oznaczony symbolem S-FTP to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kabel ekranowany tylko siatką"
+        },
+        {
+          "key": "b",
+          "text": "kabel ekranowany folią i siatką"
+        },
+        {
+          "key": "c",
+          "text": "kabel nieekranowany"
+        },
+        {
+          "key": "d",
+          "text": "kabel ekranowany tylko folią"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "102",
+      "question": "Z jakich podstawowych elementów składa się nadajnik systemu telekomunikacyjnego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dekoder źródłowy, dekoder kanałowy, demodulator"
+        },
+        {
+          "key": "b",
+          "text": "koder źródłowy, koder kanałowy, modulator"
+        },
+        {
+          "key": "c",
+          "text": "koder źródłowy, koder kanałowy, modulator, kanał transmisyjny"
+        },
+        {
+          "key": "d",
+          "text": "źródło informacji, koder źródłowy, koder kanałowy, modulator"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "103",
+      "question": "Jaka kolejność przetwarzania sygnału po stronie nadawczej kanału telekomunikacyjnego jest poprawna?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "szyfrowanie, kompresja, kodowanie kanałowe, kodowanie źródłowe"
+        },
+        {
+          "key": "b",
+          "text": "kompresja, szyfrowanie, kodowanie kanałowe, kodowanie źródłowe"
+        },
+        {
+          "key": "c",
+          "text": "kodowanie kanałowe, szyfrowanie, kompresja, kodowanie źródłowe"
+        },
+        {
+          "key": "d",
+          "text": "kodowanie źródłowe, kompresja, szyfrowanie, kodowanie kanałowe"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "104",
+      "question": "W systemach okablowania strukturalnego zaleca się stosowanie kabli symetrycznych zrównoważonych o impedancji charakterystycznej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "75 OHM +/- 3 OHM"
+        },
+        {
+          "key": "b",
+          "text": "50 OHM +/- 2 OHM"
+        },
+        {
+          "key": "c",
+          "text": "100 OHM +/-15 ОНМ"
+        },
+        {
+          "key": "d",
+          "text": "120 OHM +/-15 ОНМ"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "105",
+      "question": "Twierdzenie Shannona-Hartleya:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "umożliwia dobranie kodowania do typu kanału telekomunikacyjnego"
+        },
+        {
+          "key": "b",
+          "text": "umożliwia wyznaczenie częstotliwości próbkowania sygnału analogowego"
+        },
+        {
+          "key": "c",
+          "text": "umożliwia wyznaczenie teoretycznej pojemności kanału telekomunikacyjnego"
+        },
+        {
+          "key": "d",
+          "text": "zadna z pozostałych odpowiedzi nie jest prawidłowa"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "106",
+      "question": "Sygnał modulujący to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wynikowy sygnał procesu modulacji"
+        },
+        {
+          "key": "b",
+          "text": "fala nośna"
+        },
+        {
+          "key": "c",
+          "text": "sygnał niosący informację"
+        },
+        {
+          "key": "d",
+          "text": "musi być cyfrowy"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "107",
+      "question": "Technika zwielokrotniania TDM polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wydłużeniu przedziału czasu wykorzystywanego w obrębie tego samego medium transmisyjnego"
+        },
+        {
+          "key": "b",
+          "text": "wykorzystaniu wielu sąsiadujących szczelin czasowych w obrębie tego samego medium transmisyjnego"
+        },
+        {
+          "key": "c",
+          "text": "wielokrotnym, sekwencyjnym wykorzystaniu tego samego kanału transmisyjnego w kolejnych chwilach czasu"
+        },
+        {
+          "key": "d",
+          "text": "wykorzystaniu wielu różnych częstotliwości w obrębie tego samego medium transmisyjnego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "11",
+      "question": "Za wynalazcę radia uznaje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Hertza"
+        },
+        {
+          "key": "b",
+          "text": "M. Maxwella"
+        },
+        {
+          "key": "c",
+          "text": "N. Teslę"
+        },
+        {
+          "key": "d",
+          "text": "J. Bairda"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "12",
+      "question": "Systemy nanośne (nasobne) należą do grupy sieci:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "WLAN"
+        },
+        {
+          "key": "b",
+          "text": "WPAN"
+        },
+        {
+          "key": "c",
+          "text": "WBAN"
+        },
+        {
+          "key": "d",
+          "text": "komórkowych"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "13",
+      "question": "Kiedy zostało wynalezione radio?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pierwsza połowa XX w."
+        },
+        {
+          "key": "b",
+          "text": "końcówka XVII w."
+        },
+        {
+          "key": "c",
+          "text": "druga połowa XIX w."
+        },
+        {
+          "key": "d",
+          "text": "lata 50. XX w."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "14",
+      "question": "Jakie procesy zachodzą przy odbiorze w systemie telekomunikacyjnym?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "demodulacja, dekodowanie źródłowe, dekodowanie kanałowe"
+        },
+        {
+          "key": "b",
+          "text": "demodulacja, kodowanie kanałowe, kodowanie źródłowe"
+        },
+        {
+          "key": "c",
+          "text": "demodulacja, dekodowanie kanałowe, dekodowanie źródłowe"
+        },
+        {
+          "key": "d",
+          "text": "demodulacja, kodowanie źródłowe, kodowanie kanałowe"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "15",
+      "question": "Sygnał okresowy to sygnał, którego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wartości amplitudy są dowolne"
+        },
+        {
+          "key": "b",
+          "text": "wartość amplitudy może zmieniać się tylko liniowo w niektórych okresach"
+        },
+        {
+          "key": "c",
+          "text": "wartości amplitudy powtarzają się co pewien czas"
+        },
+        {
+          "key": "d",
+          "text": "jego częstotliwość zmienia się niezależnie od czasu trwania"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "16",
+      "question": "Czym różni się korekcja błędów w przód (FEC) od automatycznego żądania powtórzenia (ARQ)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Niczym. To są te same systemy kodowania kanałowego tylko użyte w różnych systemach"
+        },
+        {
+          "key": "b",
+          "text": "FEC nadaje oddzielnym kanałem bity informacyjne, a oddzielnym bity korekcyjne. Łączenie bitów i korekcja odbywa się dopiero w odbiorniku. Stąd nazwa FEC"
+        },
+        {
+          "key": "c",
+          "text": "FEC pozwala na korygowanie błędów w odbiorniku, podczas gdy ARQ pozwala tylko na detekcję błędów w odbiorniku"
+        },
+        {
+          "key": "d",
+          "text": "ARQ dokłada bity nadmiarowe umożliwiające korekcję błędów w odbiorniku na podstawie informacji z odbiornika o jakości kanału telekomunikacyjnego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "17",
+      "question": "Charakterystyką promieniowania anteny możemy się posługiwać dopiero w tzw. dalekiej strefie promieniowania. W przypadku anteny parabolicznej o średnicy 1,5 m nadającej falę o długości 5 cm (częstotliwość 6 GHz) strefa ta zaczyna się w odległości:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "0,9 m"
+        },
+        {
+          "key": "b",
+          "text": "9 m"
+        },
+        {
+          "key": "c",
+          "text": "90 m"
+        },
+        {
+          "key": "d",
+          "text": "60 m"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "18",
+      "question": "Dopasowanie impedancyjne n=(Z1-Z2)/(Z1+Z2) dwóch odcinków kabla o impedancjach charakterystycznych, odpowiednio Z1 i Z2, ma miejsce jeżeli:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "n = 1"
+        },
+        {
+          "key": "b",
+          "text": "n = ?"
+        },
+        {
+          "key": "c",
+          "text": "n = 0"
+        },
+        {
+          "key": "d",
+          "text": "Z1 >> Z2"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "19",
+      "question": "Wybierz poprawne stwierdzenie dotyczące stosu protokołów:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stos protokołów TCP/IP tworzą zamknięte standardy"
+        },
+        {
+          "key": "b",
+          "text": "protokół IPv6 nie należy do stosu TCP/IP"
+        },
+        {
+          "key": "c",
+          "text": "użycie protokołów otwartych wymaga zgody ich twórców"
+        },
+        {
+          "key": "d",
+          "text": "stos protokołów jest zbiorem protokołów współpracujących ze sobą w celu zapewnienia komunikacji w sieci"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "20",
+      "question": "DAB+ to system:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "naziemnej telewizji cyfrowej"
+        },
+        {
+          "key": "b",
+          "text": "multimedialnej platformy satelitarnej"
+        },
+        {
+          "key": "c",
+          "text": "radiofonii cyfrowej w paśmie VHF"
+        },
+        {
+          "key": "d",
+          "text": "radiofonii cyfrowej na falach średnich"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "21",
+      "question": "Do której generacji systemów zaliczany jest system LTE?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1G"
+        },
+        {
+          "key": "b",
+          "text": "2G"
+        },
+        {
+          "key": "c",
+          "text": "4G"
+        },
+        {
+          "key": "d",
+          "text": "3G"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "22",
+      "question": "Która technologia oferuje największą przepustowość?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ADSL"
+        },
+        {
+          "key": "b",
+          "text": "HDSL"
+        },
+        {
+          "key": "c",
+          "text": "VDSL"
+        },
+        {
+          "key": "d",
+          "text": "IDSL"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "23",
+      "question": "Pierwsza elektroniczna centrala telefoniczna sterowana programowo (SPC) powstała:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "w 1880 r."
+        },
+        {
+          "key": "b",
+          "text": "przed II wojną światową"
+        },
+        {
+          "key": "c",
+          "text": "w latach 60-tych XX w."
+        },
+        {
+          "key": "d",
+          "text": "w latach 80-tych XX w."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "24",
+      "question": "W procesie modulacji:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "parametry sygnału informacyjnego zmieniane są zgodnie z falą nośną"
+        },
+        {
+          "key": "b",
+          "text": "fala nośna to sygnał z pasma podstawowego"
+        },
+        {
+          "key": "c",
+          "text": "parametry fali nośnej zmieniane są zgodnie z sygnałem informacyjnym"
+        },
+        {
+          "key": "d",
+          "text": "fala zmodulowana to sygnał informacyjny o wysokiej częstotliwości"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "25",
+      "question": "Sygnał cyfrowy to sygnał, którego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "amplituda ma charakter ciągły"
+        },
+        {
+          "key": "b",
+          "text": "tylko czas ma charakter dyskretny"
+        },
+        {
+          "key": "c",
+          "text": "czas i amplituda mają charakter dyskretny"
+        },
+        {
+          "key": "d",
+          "text": "czas i amplituda mają charakter ciągły"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "26",
+      "question": "Modulacja polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "transmisji informacji łącznie z dodatkowym sygnałem nośnym"
+        },
+        {
+          "key": "b",
+          "text": "dowolnej zmianie parametrów sygnału pierwotnego, która umożliwi zmniejszenie wpływu zakłóceń na informację w kanale transmisyjnym"
+        },
+        {
+          "key": "c",
+          "text": "uzależnieniu sygnału nośnego od sygnału pierwotnego"
+        },
+        {
+          "key": "d",
+          "text": "zwiększeniu odporności przesyłanej informacji na zakłócenia za pomocą operacji mieszania z tzw. sygnałem zabezpieczającym"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "27",
+      "question": "Impedancja charakterystyczna kabli miedzianych współosiowych stosowanych w telekomunikacji wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "100 Ohm, 120 Ohm, 150 Ohm"
+        },
+        {
+          "key": "b",
+          "text": "600 Ohm, 60 Ohm"
+        },
+        {
+          "key": "c",
+          "text": "50  Ohm, 75 Ohm (rzadko 93 Ohm)"
+        },
+        {
+          "key": "d",
+          "text": "45 Ohm, 65 Ohm"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "28",
+      "question": "Do urządzeń końcowych należą:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "routery"
+        },
+        {
+          "key": "b",
+          "text": "przełączniki"
+        },
+        {
+          "key": "c",
+          "text": "tablety"
+        },
+        {
+          "key": "d",
+          "text": "punkty dostępowe"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "29",
+      "question": "Techniki xDSL jako medium transmisyjne wykorzystują:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "światłowód"
+        },
+        {
+          "key": "b",
+          "text": "miedziany kabel koncentryczny"
+        },
+        {
+          "key": "c",
+          "text": "falowód"
+        },
+        {
+          "key": "d",
+          "text": "skrętkę miedzianą"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "30",
+      "question": "Na jakiej częstotliwości i gdzie znajduje się obecnie nadajnik I Programu Polskiego Radia na falach długich?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "180kHz, Konstantynów"
+        },
+        {
+          "key": "b",
+          "text": "225kHz, Babice"
+        },
+        {
+          "key": "c",
+          "text": "225kHz, Solec Kujawski"
+        },
+        {
+          "key": "d",
+          "text": "180kHz, Solec Kujawski"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "31",
+      "question": "Które ze zdań jest prawdziwe dla bezprzewodowych sieci sensorowych (WSN)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zagadnieniem priorytetowym dla WSN jest duża przepustowość"
+        },
+        {
+          "key": "b",
+          "text": "typowym przykładem systemu WSN jest ZigBee"
+        },
+        {
+          "key": "c",
+          "text": "zagadnieniem priorytetowym dla WSN jest energooszczędność i praca w czasie rzeczywistym"
+        },
+        {
+          "key": "d",
+          "text": "systemy WSN są zorientowane na użytkownika"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "32",
+      "question": "Modulacja cyfrowa to modulacja, w której:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sygnał nośny ma postać cyfrową"
+        },
+        {
+          "key": "b",
+          "text": "zarówno sygnał nośny jak i informacyjny ma postać cyfrową"
+        },
+        {
+          "key": "c",
+          "text": "sygnał informacyjny ma postać cyfrową"
+        },
+        {
+          "key": "d",
+          "text": "nie ma modulacji cyfrowych, są tylko analogowe"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "33",
+      "question": "Próbkowanie to proces:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przydzielania wartości amplitudy próbkom"
+        },
+        {
+          "key": "b",
+          "text": "przekształcania sygnału cyfrowego na analogowy"
+        },
+        {
+          "key": "c",
+          "text": "pobierania wartości sygnału w pewnych chwilach czasu"
+        },
+        {
+          "key": "d",
+          "text": "w którym częstotliwość próbkowania może być dowolnie dobrana"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "34",
+      "question": "W przypadku modulacji cyfrowych demodulacja optymalna to proces, który:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "minimalizuje zasoby widmowe potrzebne do transmisji informacji"
+        },
+        {
+          "key": "b",
+          "text": "maksymalizuje szybkość transmisji informacji"
+        },
+        {
+          "key": "c",
+          "text": "minimalizuje prawdopodobieństwo wystąpienia błędów w procesie wydzielania informacji"
+        },
+        {
+          "key": "d",
+          "text": "minimalizuje wydatek energetyczny potrzebny do transmisji informacji"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "35",
+      "question": "Parametry stratne linii długiej (kabla miedzianego), które rozpraszają energię, to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "C - pojemność, L - indukcyjność"
+        },
+        {
+          "key": "b",
+          "text": "Z - impedancja, alfa - stała tłumieniowa"
+        },
+        {
+          "key": "c",
+          "text": "R - rezystancja, G - konduktancja"
+        },
+        {
+          "key": "d",
+          "text": "gamma - stała propagacji"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "36",
+      "question": "Do urządzeń pośredniczących nie należą:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "punkty dostępowe"
+        },
+        {
+          "key": "b",
+          "text": "przełączniki"
+        },
+        {
+          "key": "c",
+          "text": "telefony VoIP"
+        },
+        {
+          "key": "d",
+          "text": "routery"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "37",
+      "question": "Jaki efekt przyniesie w poprawnie zaprojektowanej sieci komórkowej zwiększenie liczebności klastra częstotliwościowego (N - grupy komórek, którym przydzielono różne kanały radiowe)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększenie pojemności transmisyjnej poszczególnych stacji bazowych i zwiększenie pojemności transmisyjnej całej sieci"
+        },
+        {
+          "key": "b",
+          "text": "zwiększenie liczby stacji bazowych w sieci i zwiększenie pojemności transmisyjnej całej sieci"
+        },
+        {
+          "key": "c",
+          "text": "zwiększenie poziomu zakłóceń wspólnokanałowych na obszarze sieci i gorszą jakość transmisji na krańcach poszczególnych komórek, przy braku wpływu na pojemność transmisyjną sieci"
+        },
+        {
+          "key": "d",
+          "text": "zmniejszenie poziomu zakłóceń wspólnokanałowych na obszarze sieci i poprawę jakości i szybkości transmisji na krańcach poszczególnych komórek, przy mniejszej pojemności transmisyjnej sieci"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "38",
+      "question": "Satelita pracujący w technice \"bent pipe\" po odebraniu sygnału realizuje następujące operacje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "demoduluje sygnał szerokopasmowy, wzmacnia go, modeluje ponownie, przenosi do pasma (DL), wzmacnia i emituje w kierunku Ziemi"
+        },
+        {
+          "key": "b",
+          "text": "demoduluje i dekoduje sygnał, poprawia błędy, ponownie koduje i modeluje, wzmacnia i emituje w kierunku Ziemi"
+        },
+        {
+          "key": "c",
+          "text": "demoduluje i dekoduje sygnał, poprawia błędy, ponownie koduje i modeluje oraz przenosi do pasma (DL), wzmacnia i emituje w kierunku Ziemi"
+        },
+        {
+          "key": "d",
+          "text": "przenosi sygnał szerokopasmowy do pasma łącza w dół (DL), wzmacnia go i emituje w kierunku Ziemi"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "39",
+      "question": "Aktualnie stosowany w Polsce system telewizji naziemnej to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "DVBS MPEG 2"
+        },
+        {
+          "key": "b",
+          "text": "DVBT MPEG 2"
+        },
+        {
+          "key": "c",
+          "text": "DVBT MPEG 4"
+        },
+        {
+          "key": "d",
+          "text": "DVBS MPEG 4"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "40",
+      "question": "Które stwierdzenie jest prawdziwe w odniesieniu do systemu Bluetooth:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "maksymalna szybkość transmisji w systemie Bluetooth 1.2 wynosi 54 Mb/s"
+        },
+        {
+          "key": "b",
+          "text": "do urzadzenia Bluetooth może się przyłączyć maksymalnie 512 innych urządzeń"
+        },
+        {
+          "key": "c",
+          "text": "kanał częstotliwościowy zmienia się wielokrotnie w trakcie transmisji"
+        },
+        {
+          "key": "d",
+          "text": "pasmo pracy to ISM 5 GHz"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "41",
+      "question": "Z jakiej liczby komórek (N) powinien składać się klaster częstotliwościowy (grupy komórek, którym przydzielono różne kanały radiowe) modelu siatkowego systemu GSM, aby uzyskać sieć o największej pojemności i akceptowalnym poziomie zakłóceń?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "N=1"
+        },
+        {
+          "key": "b",
+          "text": "N=3"
+        },
+        {
+          "key": "c",
+          "text": "N=7"
+        },
+        {
+          "key": "d",
+          "text": "N=11"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "42",
+      "question": "Które ze zdań jest prawdziwe dla interakcji fali EM z ośrodkami propagacyjnymi?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "współczynnik odbicia jest taki sam dla polaryzacji H i V"
+        },
+        {
+          "key": "b",
+          "text": "to, czy powierzchnia odbicia jest rozpraszająca, zależy od długości fali padającej"
+        },
+        {
+          "key": "c",
+          "text": "długość fali EM w ośrodku o większej impedancji falowej ulega skróceniu względem jej długości w próżni"
+        },
+        {
+          "key": "d",
+          "text": "dyfrakcja to inaczej załamanie fali EM na granicy dwóch ośrodków"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "43",
+      "question": "Okres sygnał o częstotliwości 100Hz to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "100 ms"
+        },
+        {
+          "key": "b",
+          "text": "10 ms"
+        },
+        {
+          "key": "c",
+          "text": "10 s"
+        },
+        {
+          "key": "d",
+          "text": "1 s"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "44",
+      "question": "Dla realizacji których usług krytyczna jest poprawna aktualizacja położenia stacji ruchomej w sieci komórkowej",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Rozliczania kosztów realizacji usług w sieci komórkowej"
+        },
+        {
+          "key": "b",
+          "text": "Realizacji usług (np. transmisji danych i głosu) do terminala w stanie czuwania"
+        },
+        {
+          "key": "c",
+          "text": "Handover – przeniesienia połączenia między stacjami bazowymi"
+        },
+        {
+          "key": "d",
+          "text": "Realizacji usług (np. transmisji danych i głosu) od terminala do sieci w stanie aktywnym"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "45",
+      "question": "Moc promieniowana przez nadajnik wynosi 11 dBm. Jaka to moc w miliwatach?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "12.5 mW"
+        },
+        {
+          "key": "b",
+          "text": "25 mW"
+        },
+        {
+          "key": "c",
+          "text": "5 mW"
+        },
+        {
+          "key": "d",
+          "text": "2.5 mW"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "46",
+      "question": "Liczba adresów IPv6 jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie można jej określić"
+        },
+        {
+          "key": "b",
+          "text": "większa niż liczba adresów IPv4"
+        },
+        {
+          "key": "c",
+          "text": "mniejsza od liczby adresów IPv4"
+        },
+        {
+          "key": "d",
+          "text": "taka sama jak liczba adresów IPv4"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "47",
+      "question": "W Polsce Urząd Komunikacji Elektronicznej pełni rolę:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Regulatora rynku telekomunikacyjnego"
+        },
+        {
+          "key": "b",
+          "text": "Służby systemu łączności ds. kryzysowych"
+        },
+        {
+          "key": "c",
+          "text": "Instytucji standaryzacyjnej"
+        },
+        {
+          "key": "d",
+          "text": "Operatora telekomunikacyjnego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "48",
+      "question": "Przykładem sieci światłowodowej dostępowej jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "GPS"
+        },
+        {
+          "key": "b",
+          "text": "PON"
+        },
+        {
+          "key": "c",
+          "text": "LTE"
+        },
+        {
+          "key": "d",
+          "text": "UMTS"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "49",
+      "question": "Które stwierdzenie jest prawdziwe w odniesieniu do systemów WLAN?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Pierwszym standardem WLAN był system 802.11ac (przepustowość 1 Mb/s, 2 Mb/s)"
+        },
+        {
+          "key": "b",
+          "text": "Router WLAN pełni w sieci bezprzewodowej rolę przełącznika (switch)"
+        },
+        {
+          "key": "c",
+          "text": "Stosują procedurę wielodostępu CSMA/CA"
+        },
+        {
+          "key": "d",
+          "text": "Systemy V2V służą do dalekosiężnej łączności sensorowej o niskiej przepustowości"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "50",
+      "question": "Transformata Fouriera:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "umożliwia przejście z dziedziny czasu na dziedzinę częstotliwości"
+        },
+        {
+          "key": "b",
+          "text": "umożliwia przejście z dziedziny częstotliwości na dziedzinę czasu"
+        },
+        {
+          "key": "c",
+          "text": "umożliwia przejście z dziedziny czasu na dziedzinę amplitudy"
+        },
+        {
+          "key": "d",
+          "text": "jest nieodwracalna"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "51",
+      "question": "Budżet energetyczny łącza radiowego jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "całkowitą mocą doprowadzoną do anteny nadawczej"
+        },
+        {
+          "key": "b",
+          "text": "wartością mocy odebranej przez antenę odbiorczą, pomniejszoną o straty w kablu dosyłowym"
+        },
+        {
+          "key": "c",
+          "text": "iloczynem mocy nadajnika, strat w kablu i zysku energetycznego anteny"
+        },
+        {
+          "key": "d",
+          "text": "sumą mocy, zysków i strat na drodze propagacji sygnału"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "52",
+      "question": "Pojemność informacyjna rzeczywistego kanału telekomunikacyjnego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zależy od stosunku S/N w tym kanale"
+        },
+        {
+          "key": "b",
+          "text": "nie zależy od jego szerokości"
+        },
+        {
+          "key": "c",
+          "text": "zależy od szybkości transmisji sygnału w tym kanale"
+        },
+        {
+          "key": "d",
+          "text": "wyrażana jest w b/s/Hz"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "53",
+      "question": "Wspólną cechą realizacji układowej modulatora analogowego i cyfrowego jest zastosowanie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "integratora (układu całkującego)"
+        },
+        {
+          "key": "b",
+          "text": "mieszacza sygnałów"
+        },
+        {
+          "key": "c",
+          "text": "sumatora sygnałów"
+        },
+        {
+          "key": "d",
+          "text": "generatora poziomów"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "54",
+      "question": "ADSL oznacza:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "analogowo-cyfrową sieć dostępu"
+        },
+        {
+          "key": "b",
+          "text": "asymetryczną cyfrową pętlę abonencką"
+        },
+        {
+          "key": "c",
+          "text": "zaawansowaną cyfrową linię abonencką"
+        },
+        {
+          "key": "d",
+          "text": "asynchroniczną technikę przekazu"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "55",
+      "question": "Gdzie w najnowszych sieciach komórkowych przechowuje się informację o położeniu stacji ruchomej (terminala)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "W rejestrze stacji bazowej"
+        },
+        {
+          "key": "b",
+          "text": "Rejestrze wyposażenia EIR"
+        },
+        {
+          "key": "c",
+          "text": "W serwerze HSS"
+        },
+        {
+          "key": "d",
+          "text": "W rejestrze HLR lub VLR (zależnie od tego, który z nich został zaimplementowany)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "56",
+      "question": "W pewnym systemie telekomunikacyjnym czterokrotnie zwiększono szerokość kanału. Jaki miało to wpływ na pojemność informacyjną systemu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wzrosła ok. 2 razy"
+        },
+        {
+          "key": "b",
+          "text": "zmniejszyła się ok. 2 razy"
+        },
+        {
+          "key": "c",
+          "text": "wzrosła ok. 4 razy"
+        },
+        {
+          "key": "d",
+          "text": "nie zmieniła się"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "57",
+      "question": "Widmo nieskończonego, idealnego sygnału sinusoidalnego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ma postać pojedynczego prążka"
+        },
+        {
+          "key": "b",
+          "text": "ma postać funkcji (sin(x))/x"
+        },
+        {
+          "key": "c",
+          "text": "jest nieskończone"
+        },
+        {
+          "key": "d",
+          "text": "nie istnieje"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "58",
+      "question": "Widmo amplitudowe impulsu prostokątnego o określonym czasie trwania T:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest skończone"
+        },
+        {
+          "key": "b",
+          "text": "jest niezależne od czasu trwania impulsu"
+        },
+        {
+          "key": "c",
+          "text": "ma postać funkcji |(sin(x))/x|"
+        },
+        {
+          "key": "d",
+          "text": "jego szerokość jest równa 1/T"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "59",
+      "question": "Parametr S/N na wejściu odbiornika:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie ma wpływu na poprawny odbiór sygnału w odbiorniku"
+        },
+        {
+          "key": "b",
+          "text": "określa stosunek sygnału użytecznego do szumu"
+        },
+        {
+          "key": "c",
+          "text": "powinien mieć jak najmniejszą wartość"
+        },
+        {
+          "key": "d",
+          "text": "jest taki sam dla każdej możliwej do zastosowania modulacji"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "60",
+      "question": "Jeżeli szybkość przesyłania informacji jest większa od pojemności kanału to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "szybkość transmisji nie ma wpływu na występowanie błędów transmisji"
+        },
+        {
+          "key": "b",
+          "text": "możliwa jest bezbłędna transmisja przez ten kanał"
+        },
+        {
+          "key": "c",
+          "text": "zawsze wystąpią błędy transmisji"
+        },
+        {
+          "key": "d",
+          "text": "niemożliwe jest wystąpienie błędów transmisji"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "61",
+      "question": "Najmniejsze opóźnienie propagacyjne sygnału przekazywanego z Ziemi poprzez satelitę geostacjonarnego na Ziemię wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "708 ms"
+        },
+        {
+          "key": "b",
+          "text": "119 ms"
+        },
+        {
+          "key": "c",
+          "text": "238 ms"
+        },
+        {
+          "key": "d",
+          "text": "476 ms"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "62",
+      "question": "Który parametr nie jest parametrem elektromagnetycznym materii?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "częstotliwość"
+        },
+        {
+          "key": "b",
+          "text": "przenikalność magnetyczna"
+        },
+        {
+          "key": "c",
+          "text": "konduktywność"
+        },
+        {
+          "key": "d",
+          "text": "przenikalność elektryczna"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "63",
+      "question": "Wynalezienie telefonu datuje się na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Pierwszą połowę XX w."
+        },
+        {
+          "key": "b",
+          "text": "Drugą połowę XIX w."
+        },
+        {
+          "key": "c",
+          "text": "Lata pięćdziesiąte XX w."
+        },
+        {
+          "key": "d",
+          "text": "Koniec XVIII w."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "64",
+      "question": "Które z pasm nie są wykorzystywane w standardach z grupy IEEE 802.11x?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2,4 GHz"
+        },
+        {
+          "key": "b",
+          "text": "5-6 GHz"
+        },
+        {
+          "key": "c",
+          "text": "433 MHz"
+        },
+        {
+          "key": "d",
+          "text": "800-1000 MHz"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "65",
+      "question": "Które ze stwierdzeń jest prawdziwe dla systemów RFID pracujących w paśmie UHF?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Odczyt z tagu możliwy jest dzięki odbiciu od niego fali EM emitowanej przez czytnik"
+        },
+        {
+          "key": "b",
+          "text": "Odczyt z tagu możliwy jest dzięki indukcji magnetycznej"
+        },
+        {
+          "key": "c",
+          "text": "Odczyt z tagu możliwy w każdej jego orientacji względem czytnika"
+        },
+        {
+          "key": "d",
+          "text": "Odczyt z tagu możliwy jest dzięki sprzężeniu pojemnościowemu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "66",
+      "question": "Widmo nieskończonego, okresowego sygnału prostokątnego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ma charakter ciągły"
+        },
+        {
+          "key": "b",
+          "text": "nie da się wyznaczyć ze względu na nieskończoność sygnału"
+        },
+        {
+          "key": "c",
+          "text": "nie zależy od częstotliwości sygnału prostokątnego"
+        },
+        {
+          "key": "d",
+          "text": "ma charakter prążkowy"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "67",
+      "question": "Modulacja polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększeniu odporności przesyłanej informacji na zakłócenia za pomocą operacji mieszania z tzw. sygnałem zabezpieczającym"
+        },
+        {
+          "key": "b",
+          "text": "uzależnieniu sygnału nośnego od sygnału pierwotnego"
+        },
+        {
+          "key": "c",
+          "text": "dowolnej zmianie parametrów sygnału pierwotnego, która umożliwi zmniejszenie wpływu zakłóceń na informację w kanale transmisyjnym"
+        },
+        {
+          "key": "d",
+          "text": "transmisji informacji łącznie z dodatkowym sygnałem nośnym"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "68",
+      "question": "Światłowód jednomodowy prowadzi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Mody wyższego rzędu"
+        },
+        {
+          "key": "b",
+          "text": "Mod podstawowy lub mody wyższego rzędu"
+        },
+        {
+          "key": "c",
+          "text": "Tylko mod podstawowy"
+        },
+        {
+          "key": "d",
+          "text": "Mod podstawowy i mody wyższego rzędu"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "69",
+      "question": "Technika zwielokrotnienia FDM polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wielokrotnym, sekwencyjnym wykorzystywaniu tego samego kanału transmisyjnego"
+        },
+        {
+          "key": "b",
+          "text": "wielokrotnym wykorzystywaniu tego samego przedziału czasu w obrębie tego samego medium transmisyjnego"
+        },
+        {
+          "key": "c",
+          "text": "wielokrotnym wykorzystywaniu tego samego zakresu częstotliwości w obrębie tego samego medium transmisyjnego"
+        },
+        {
+          "key": "d",
+          "text": "zwiększeniu wykorzystywanego zakresu częstotliwości w obrębie tego samego medium transmisyjnego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "70",
+      "question": "Poprawna postać adresu MAC to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "00:05:9A:3C:78:2H"
+        },
+        {
+          "key": "b",
+          "text": "0005.9G3C.7800"
+        },
+        {
+          "key": "c",
+          "text": "00:05:9A:3C:78:00"
+        },
+        {
+          "key": "d",
+          "text": "172.16.31.233"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "71",
+      "question": "W Stanach Zjednoczonych rolę regulatora rynku telekomunikacyjnego pełni:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "FCC"
+        },
+        {
+          "key": "b",
+          "text": "ITU"
+        },
+        {
+          "key": "c",
+          "text": "ETSI"
+        },
+        {
+          "key": "d",
+          "text": "ISO"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "72",
+      "question": "Współczynnik Fresnela jest to, inaczej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "współczynnik tłumienia"
+        },
+        {
+          "key": "b",
+          "text": "współczynnik dyfrakcji"
+        },
+        {
+          "key": "c",
+          "text": "współczynnik rozproszenia"
+        },
+        {
+          "key": "d",
+          "text": "współczynnik odbicia/załamania"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "73",
+      "question": "Sygnał rozchodzący się w medium transmisyjnym:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest tłumiony i zmienia się jego amplituda"
+        },
+        {
+          "key": "b",
+          "text": "nie jest podatny na zakłócenia pochodzące z innych źródeł"
+        },
+        {
+          "key": "c",
+          "text": "jego parametry nie zmieniają się"
+        },
+        {
+          "key": "d",
+          "text": "jest tłumiony i zmienia się jego częstotliwość"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "74",
+      "question": "W modulacji PCM, w której częstotliwość próbkowania wynosi 8kHz i zastosowano 4-bitowe kwantowanie, szybkość transmisji wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "32 kb/s"
+        },
+        {
+          "key": "b",
+          "text": "4 kb/s"
+        },
+        {
+          "key": "c",
+          "text": "2 kb/s"
+        },
+        {
+          "key": "d",
+          "text": "16 kb/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "75",
+      "question": "Światłowód ze szkła krzemionkowego do zastosowań w telekomunikacji optycznej ma małe straty dla fali optycznej o długości:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "15 nm"
+        },
+        {
+          "key": "b",
+          "text": "1500 nm"
+        },
+        {
+          "key": "c",
+          "text": "150 nm"
+        },
+        {
+          "key": "d",
+          "text": "15000 nm"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "76",
+      "question": "W sieci światłowodowej szkieletowej DWDM stosuje się zwielokrotnienie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przestrzenne"
+        },
+        {
+          "key": "b",
+          "text": "kodowe"
+        },
+        {
+          "key": "c",
+          "text": "w dziedzinie czasu"
+        },
+        {
+          "key": "d",
+          "text": "w dziedzinie długości fali"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "77",
+      "question": "Wynalazcą telefonu był:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "James Clerk Maxwell"
+        },
+        {
+          "key": "b",
+          "text": "Heinrich Hertz"
+        },
+        {
+          "key": "c",
+          "text": "Thomas Edison"
+        },
+        {
+          "key": "d",
+          "text": "Graham Bell"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "78",
+      "question": "Wybrać poprawną kontynuację zdania: Kod Huffmana...",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zapewnia optymalne zakodowanie informacji (maksymalizacja entropii)"
+        },
+        {
+          "key": "b",
+          "text": "jest jedną z interpretacji entropii"
+        },
+        {
+          "key": "c",
+          "text": "jest kodem korekcyjnym"
+        },
+        {
+          "key": "d",
+          "text": "jest algorytmem szyfrującym"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "79",
+      "question": "Kwantowanie to proces:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nadawania wartości amplitud pobranym próbkom"
+        },
+        {
+          "key": "b",
+          "text": "niezależny od rozdzielczości kwantyzera"
+        },
+        {
+          "key": "c",
+          "text": "bezstratny, nie powodujący utraty informacji"
+        },
+        {
+          "key": "d",
+          "text": "w którym przedział kwantowania musi być równomierny"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "80",
+      "question": "Adres MAC:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest zależny od adresu sieci, do której należy urządzenie"
+        },
+        {
+          "key": "b",
+          "text": "składa się z 8 bajtów"
+        },
+        {
+          "key": "c",
+          "text": "jest to adres nadawany przez użytkownika urządzenia"
+        },
+        {
+          "key": "d",
+          "text": "zapisywany jest w notacji szesnastkowej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "81",
+      "question": "Który parametr jest jedną z cech fali elektromagnetycznej?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "impedancja falowa"
+        },
+        {
+          "key": "b",
+          "text": "kondyktywność"
+        },
+        {
+          "key": "c",
+          "text": "przenikalność elektryczna"
+        },
+        {
+          "key": "d",
+          "text": "częstotliwość"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "82",
+      "question": "Które stwierdzenie jest prawdziwe w odniesieniu do systemu Internetu Rzeczy (IoT)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Systemy komórkowe IoT, z uwagi na wąskie pasma pracy, nie należą do 5. Generacji"
+        },
+        {
+          "key": "b",
+          "text": "Systemy masowego IoT służą do transmisji szerokopasmowej o dużych przepustowościach"
+        },
+        {
+          "key": "c",
+          "text": "Priorytetem w systemach masowego IoT jest duży zasięg"
+        },
+        {
+          "key": "d",
+          "text": "System IoT służą do transmisji z dużymi szybkościami na duże odległości"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "83",
+      "question": "Na podstawie prawa Shannona stosunek sygnał/szum (S/N) wynosi 20 dB. Ile wynosi stosunek pojemności informacyjnej do szerokości pasma [kB/s/Hz]:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "7"
+        },
+        {
+          "key": "c",
+          "text": "10"
+        },
+        {
+          "key": "d",
+          "text": "4"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "84",
+      "question": "Jaka jest odległość Starlinków od Ziemi w nadirze:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "340 km"
+        },
+        {
+          "key": "b",
+          "text": "550 km"
+        },
+        {
+          "key": "c",
+          "text": "1150 km"
+        },
+        {
+          "key": "d",
+          "text": "812 km"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "85",
+      "question": "Głównym telewizyjnym centrum nadawczym dostarczającym sygnał na teren Wrocławia jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "RTCN Sky Tower"
+        },
+        {
+          "key": "b",
+          "text": "RTCN Ślęża"
+        },
+        {
+          "key": "c",
+          "text": "RTCN Śnieżne Kotły"
+        },
+        {
+          "key": "d",
+          "text": "RTCN Chełmiec"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "86",
+      "question": "Która z poniższych operacji opisuje proces modulacji:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mieszanie informacji z sygnałem zabezpieczającym"
+        },
+        {
+          "key": "b",
+          "text": "zmiana parametrów sygnału niosącego informację, która umożliwi zmniejszenie wpływu zakłóceń na informację w kanale transmisyjnym"
+        },
+        {
+          "key": "c",
+          "text": "uzależnienie sygnału nośnego od sygnału pierwotnego niosącego informację"
+        },
+        {
+          "key": "d",
+          "text": "transmisja informacji łącznie z dodatkowym sygnałem nośnym"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "87",
+      "question": "Który z wymienionych poniżej bloków funkcjonalnych jest wykorzystywany zarówno w modulatorze analogowym jak i cyfrowym bez względu na schemat modulacji:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sumator"
+        },
+        {
+          "key": "b",
+          "text": "generator poziomów"
+        },
+        {
+          "key": "c",
+          "text": "integrator (układ całkujący)"
+        },
+        {
+          "key": "d",
+          "text": "mieszacz"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "88",
+      "question": "Do głównych etapów samego procesu modulacji cyfrowej należą:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przetwarzanie AC i CA"
+        },
+        {
+          "key": "b",
+          "text": "próbkowanie, kwantyzacja i kodowanie"
+        },
+        {
+          "key": "c",
+          "text": "mieszanie symboli z harmoniczną falą nośną"
+        },
+        {
+          "key": "d",
+          "text": "podział strumienia binarnego na symbole i przyporządkowanie zbioru symboli do zbioru sygnałów"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "89",
+      "question": "Światłowód telekomunikacyjny jest światłowodem dielektrycznym służącym do przesyłania światła z zakresu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "400-1030 nm"
+        },
+        {
+          "key": "b",
+          "text": "1700-3000 nm"
+        },
+        {
+          "key": "c",
+          "text": "850-1700 nm"
+        },
+        {
+          "key": "d",
+          "text": "200-850 nm"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "90",
+      "question": "Która z wymienionych technik wielodostępu zapewnia obsługę największej liczby użytkowników w systemach telekomunikacyjnych?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "CDMA"
+        },
+        {
+          "key": "b",
+          "text": "TDMA"
+        },
+        {
+          "key": "c",
+          "text": "MIMO"
+        },
+        {
+          "key": "d",
+          "text": "FDM"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "91",
+      "question": "Proszę określić odległość Hamminga pomiędzy ciągami [010],[111]:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "WH = 12"
+        },
+        {
+          "key": "b",
+          "text": "WH = 3"
+        },
+        {
+          "key": "c",
+          "text": "WH = 5"
+        },
+        {
+          "key": "d",
+          "text": "WH = 2"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "92",
+      "question": "Skręcanie żył w kablu UTP ma za zadanie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie ma żadnego specjalnego zadania"
+        },
+        {
+          "key": "b",
+          "text": "nadanie odpowiedniej elastyczności przewodu"
+        },
+        {
+          "key": "c",
+          "text": "kasowanie zakłóceń pochodzących od drugiego przewodu w parze"
+        },
+        {
+          "key": "d",
+          "text": "ułatwienie zamocowania złącza RJ-45"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "93",
+      "question": "Widmo impulsu prostokątnego o skończonym czasie trwania:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest okresowe"
+        },
+        {
+          "key": "b",
+          "text": "jest tym szersze, im dłuższy czas trwania impulsu"
+        },
+        {
+          "key": "c",
+          "text": "jest nieskończone"
+        },
+        {
+          "key": "d",
+          "text": "to pojedynczy prążek"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "94",
+      "question": "Kiedy proces demodulacji cyfrowego sygnału zmodulowanego jest optymalny?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "gdy transmisji informacji jest prowadzona przy najmniejszym wydatku energetycznym"
+        },
+        {
+          "key": "b",
+          "text": "gdy osiągnięta szybkości transmisji binarnej jest największa"
+        },
+        {
+          "key": "c",
+          "text": "gdy zasoby widmowe potrzebne do transmisji informacji są minimalne"
+        },
+        {
+          "key": "d",
+          "text": "gdy liczba błędów podczas transmisji informacji jest najmniejsza"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "95",
+      "question": "Widmo nieskończonego okresowego sygnału prostokątnego ma postać:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "szeregu prążków"
+        },
+        {
+          "key": "b",
+          "text": "pojedynczego prążka"
+        },
+        {
+          "key": "c",
+          "text": "jest ciągłe"
+        },
+        {
+          "key": "d",
+          "text": "sinusoidy"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "96",
+      "question": "Dwużyłowy kabel miedziany jest symetryczny, jeżeli parametry pierwotne linii długiej R,L,C i G każdego z przewodników spełniają następujący warunek:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "R1>R2; L1>L2; C1<C2; G1<G2"
+        },
+        {
+          "key": "b",
+          "text": "R1<R2; L1<L2; C1<C2; G1<G2"
+        },
+        {
+          "key": "c",
+          "text": "R1<R2; L1<L2; C1>C2; G1>G2"
+        },
+        {
+          "key": "d",
+          "text": "R1=R2; L1=L2; C1=C2; G1=G2"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "97",
+      "question": "Sygnał modulujący:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to wynikowy sygnał procesu modulacji"
+        },
+        {
+          "key": "b",
+          "text": "musi być cyfrowy"
+        },
+        {
+          "key": "c",
+          "text": "fala nośna"
+        },
+        {
+          "key": "d",
+          "text": "sygnał niosący informację"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "98",
+      "question": "Wybierz poprawny schemat procesu kapsułkowania:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bity -> ramka -> pakiet -> segment -> dane"
+        },
+        {
+          "key": "b",
+          "text": "dane -> pakiet -> segment -> ramka -> bity"
+        },
+        {
+          "key": "c",
+          "text": "bity -> dane -> segment -> pakiet -> ramka"
+        },
+        {
+          "key": "d",
+          "text": "dane -> segment -> pakiet -> ramka -> bity"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "99",
+      "question": "Administrator sieci sprawdza dziennik zabezpieczeń i zauważa, że w weekend nastąpił nieautoryzowany dostęp do wewnętrznego serwera plików. Po dalszym badaniu dziennika systemu plików administratir zauważa, że kilka ważnych dokumentów zostało skopiowanych na host znajdujący się poza firmą. Jakie zagrożenie reprezentowane jest w tym scenariuszu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kradzież informacji"
+        },
+        {
+          "key": "b",
+          "text": "utrata danych"
+        },
+        {
+          "key": "c",
+          "text": "zakłócenie usługi"
+        },
+        {
+          "key": "d",
+          "text": "kradzież tożsamości"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    }
+  ]
+}

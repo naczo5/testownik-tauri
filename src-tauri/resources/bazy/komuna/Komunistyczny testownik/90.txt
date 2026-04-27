@@ -1,0 +1,6 @@
+X1000
+Która z wymienionych technik wielodostępu zapewnia obsługę największej liczby użytkowników w systemach telekomunikacyjnych? 
+CDMA 
+TDMA 
+MIMO 
+FDM

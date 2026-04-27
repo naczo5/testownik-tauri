@@ -1,0 +1,6 @@
+X0001
+Adres MAC:
+jest zależny od adresu sieci, do której należy urządzenie
+składa się z 8 bajtów
+jest to adres nadawany przez użytkownika urządzenia
+zapisywany jest w notacji szesnastkowej

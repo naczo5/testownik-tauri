@@ -1,0 +1,6 @@
+X0100
+Kabel miedziany nazywamy linią długą gdy występują następujące zależności:
+L<=Lambda/4, D<<Lambda/4
+L>=Lambda/4, D<<Lambda/4
+L<<Lambda/4, D=Lambda
+L<<Lambda/4, D<<Lambda/4

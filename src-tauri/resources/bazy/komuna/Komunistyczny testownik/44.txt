@@ -1,0 +1,6 @@
+X0010
+Dla realizacji których usług krytyczna jest poprawna aktualizacja położenia stacji ruchomej w sieci komórkowej
+Rozliczania kosztów realizacji usług w sieci komórkowej
+Realizacji usług (np. transmisji danych i głosu) do terminala w stanie czuwania
+Handover – przeniesienia połączenia między stacjami bazowymi
+Realizacji usług (np. transmisji danych i głosu) od terminala do sieci w stanie aktywnym

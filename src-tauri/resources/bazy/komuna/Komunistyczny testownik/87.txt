@@ -1,0 +1,6 @@
+X0001
+Który z wymienionych poniżej bloków funkcjonalnych jest wykorzystywany zarówno w modulatorze analogowym jak i cyfrowym bez względu na schemat modulacji:
+sumator
+generator poziomów
+integrator (układ całkujący)
+mieszacz

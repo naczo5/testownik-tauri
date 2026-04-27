@@ -1,0 +1,6 @@
+X1000
+Z jakiej liczby komórek (N) powinien składać się klaster częstotliwościowy (grupy komórek, którym przydzielono różne kanały radiowe) modelu siatkowego systemu GSM, aby uzyskać sieć o największej pojemności i akceptowalnym poziomie zakłóceń?
+N=1
+N=3
+N=7
+N=11

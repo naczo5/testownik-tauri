@@ -1,0 +1,6 @@
+X0010
+W procesie modulacji:
+parametry sygnału informacyjnego zmieniane są zgodnie z falą nośną
+fala nośna to sygnał z pasma podstawowego
+parametry fali nośnej zmieniane są zgodnie z sygnałem informacyjnym
+fala zmodulowana to sygnał informacyjny o wysokiej częstotliwości

@@ -1,0 +1,2568 @@
+{
+  "name": "pair",
+  "displayName": "pair",
+  "description": "",
+  "questionCount": 112,
+  "questions": [
+    {
+      "id": "001",
+      "question": "Resolwer to urządzenie służące do:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Dekodowania informacji zapisanej w postaci magnetycznej"
+        },
+        {
+          "key": "b",
+          "text": "Pomiaru przyspieszenia robota"
+        },
+        {
+          "key": "c",
+          "text": "Uzyskania informacji na temat prędkości i kierunku obrotu koła"
+        },
+        {
+          "key": "d",
+          "text": "Uzyskania informacji na temat położenia kątowego przegubu obrotowego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "002",
+      "question": "Enkoder magnetyczny to urządzenie służące do:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Dekodowania informacji zapisanej w postaci magnetycznej"
+        },
+        {
+          "key": "b",
+          "text": "Pomiaru przyspieszenia robota"
+        },
+        {
+          "key": "c",
+          "text": "Uzyskiwania informacji na temat prędkości i kierunku obrotu koła"
+        },
+        {
+          "key": "d",
+          "text": "Chwytania elementów (mocuje się je na końcu efektora manipulatora)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "003",
+      "question": "Odometria to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Przyrząd do pomiaru odległości przebytej przez robota"
+        },
+        {
+          "key": "b",
+          "text": "Metoda określania położenia robota mobilnego w przestrzeni bazująca na enkoderach w kołach"
+        },
+        {
+          "key": "c",
+          "text": "Czujnik zapachowy"
+        },
+        {
+          "key": "d",
+          "text": "Nauka o różnicach w budowie robotów ze względu na środowisko działania urządzenia"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "004",
+      "question": "Czym mierzymy temperaturę?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "termoskopem"
+        },
+        {
+          "key": "b",
+          "text": "termoelementem"
+        },
+        {
+          "key": "c",
+          "text": "termotronem"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "005",
+      "question": "Który z poniższych protokołów nie jest protokołem przemysłowym?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Net bus"
+        },
+        {
+          "key": "b",
+          "text": "UDP"
+        },
+        {
+          "key": "c",
+          "text": "Profibus"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "007",
+      "question": "Jak wykonywane są instrukcje w sterowniku PLC?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "krokowo"
+        },
+        {
+          "key": "b",
+          "text": "cyklicznie >10min"
+        },
+        {
+          "key": "c",
+          "text": "cyklicznie <100ms"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "008",
+      "question": "Wczesne sterowniki PLC nie realizowały:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zależności czasowych"
+        },
+        {
+          "key": "b",
+          "text": "Przetwarzania sygnałów analogowych"
+        },
+        {
+          "key": "c",
+          "text": "Przetwarzania sygnałów cyfrowych"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "009",
+      "question": "Podstawową strukturą w regulacji automatycznej jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dodatnie sprzężenie zwrotne"
+        },
+        {
+          "key": "b",
+          "text": "ujemne sprzężenie zwrotne"
+        },
+        {
+          "key": "c",
+          "text": "struktura równoległa"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "010",
+      "question": "W układzie regulacji sygnał błędu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "może wynosić zero"
+        },
+        {
+          "key": "b",
+          "text": "zawsze wynosi zero"
+        },
+        {
+          "key": "c",
+          "text": "nigdy nie wynosi zero"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "011",
+      "question": "Uchyb jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wyjściem całego układu"
+        },
+        {
+          "key": "b",
+          "text": "Wejściem całego układu"
+        },
+        {
+          "key": "c",
+          "text": "Wejściem układu sterującego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "012",
+      "question": "Wzór na sygnał wyjściowy (w układzie zamkniętym) regulatora: //układ zamknięty czyli ze sprzężeniem zwrotnym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "e=y_zadane-y"
+        },
+        {
+          "key": "b",
+          "text": "e=u-y"
+        },
+        {
+          "key": "c",
+          "text": "e=u+y"
+        },
+        {
+          "key": "d",
+          "text": "e=calka(u+y)dt"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "013",
+      "question": "Uchyb regulacji to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "różnica pomiędzy wejściem obiektu a wartością zadaną"
+        },
+        {
+          "key": "b",
+          "text": "różnica pomiędzy wejściem a wyjściem obiektu"
+        },
+        {
+          "key": "c",
+          "text": "różnica pomiędzy wartością zadaną a wyjściem obiektu"
+        },
+        {
+          "key": "d",
+          "text": "różnica pomiędzy wyjściem obiektu a jego wartością w chwili końcowej"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "015",
+      "question": "W układzie automatycznej regulacji wejściem obiektu jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wyjście regulatora"
+        },
+        {
+          "key": "b",
+          "text": "uchyb regulacji"
+        },
+        {
+          "key": "c",
+          "text": "wartość zadana jego wyjścia"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "016",
+      "question": "Uchyb ustalony w układzie nie określa jego: //uchyb ustalony występuje po upłynięciu czasu regulacji (źródło: Horla",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zapasu stabilności"
+        },
+        {
+          "key": "b",
+          "text": "zachowania się w czasie regulacji"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "017",
+      "question": "Układ regulacji z otwartą pętlą sprzężenia zwrotnego to układ w którym: //regulator nie ma informacji o wyjściu układu (y)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "obiekt regulacji jest podłączony na wejściu regulatora"
+        },
+        {
+          "key": "b",
+          "text": "sygnał zadany jest wejściem regulatora"
+        },
+        {
+          "key": "c",
+          "text": "uchyb regulacji jest wejściem regulatora"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "018",
+      "question": "Uchyb nadążania URA (układ regulacji automatycznej) w przypadku regulacji stałowartościowej możnasprowadzić dokładnie do zera przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wprowadzenie członu całkującego"
+        },
+        {
+          "key": "b",
+          "text": "zwiększenie wzmocnienia"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "019",
+      "question": "Metoda doboru nastaw regulatorów to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "metoda Taylora"
+        },
+        {
+          "key": "b",
+          "text": "metoda Nyquista"
+        },
+        {
+          "key": "c",
+          "text": "metoda Zieglera-Nicholsa"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "021",
+      "question": "Które z poniższych zdań jest prawdziwe:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "duża wartość uchybu w stanie ustalonym powoduje dużą wartość całkowego kryterium regulacji"
+        },
+        {
+          "key": "b",
+          "text": "dużą wartość całkowego kryterium regulacji powoduje duże przeregulowanie"
+        },
+        {
+          "key": "c",
+          "text": "krótki czas regulacji powoduje małe przeregulowanie"
+        },
+        {
+          "key": "d",
+          "text": "duża wartość przeregulowania powoduje dużą wartość uchybu w stanie ustalonym"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "024",
+      "question": "Które z wymienionych wielkości należą do parametrów nastawialnych uniwersalnych regulatorów przemysłowych:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wzmocnienie"
+        },
+        {
+          "key": "b",
+          "text": "czas zdwojenia"
+        },
+        {
+          "key": "c",
+          "text": "czas wyprzedzenia"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "026",
+      "question": "Pętla histerezy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Występuje w każdym systemie dynamicznym"
+        },
+        {
+          "key": "b",
+          "text": "Jest elementem regulatorów PID"
+        },
+        {
+          "key": "c",
+          "text": "Oznacza ujemne sprzężenie zwrotne w układzie automatycznej regulacji"
+        },
+        {
+          "key": "d",
+          "text": "Opisuje regulator dwustanowy"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "027",
+      "question": "Klasyczny regulator PID jest regulatorem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "liniowym lub nieliniowym zależnie od sterowanego obiektu"
+        },
+        {
+          "key": "b",
+          "text": "nieliniowym"
+        },
+        {
+          "key": "c",
+          "text": "liniowym lub nieliniowym zależnie od podstaw"
+        },
+        {
+          "key": "d",
+          "text": "liniowym"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "028",
+      "question": "Czy kontroler PID zawiera człon całkujący?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Tak"
+        },
+        {
+          "key": "b",
+          "text": "Czasami"
+        },
+        {
+          "key": "c",
+          "text": "Nie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "029",
+      "question": "Ile parametrów nastawimy w regulatorze typu PID:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jeden"
+        },
+        {
+          "key": "b",
+          "text": "zależy od konkretnego regulatora PID"
+        },
+        {
+          "key": "c",
+          "text": "trzy"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "030",
+      "question": "W regulatorze typu PID:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wszystkie człony połączone są szeregowo"
+        },
+        {
+          "key": "b",
+          "text": "Wszystkie człony połączone są równolegle"
+        },
+        {
+          "key": "c",
+          "text": "Człony P i I połączone są szeregowo a D równolegle"
+        },
+        {
+          "key": "d",
+          "text": "Człony P i D połączone są równolegle a I szeregowo"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "032",
+      "question": "Czy sterując wejściem można zdestabilizować układ zamknięty z członem PID?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie"
+        },
+        {
+          "key": "b",
+          "text": "zależy"
+        },
+        {
+          "key": "c",
+          "text": "tak"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "033",
+      "question": "Człon proporcjonalny jest członem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pierwszego rzędu"
+        },
+        {
+          "key": "b",
+          "text": "zerowego rzędu"
+        },
+        {
+          "key": "c",
+          "text": "drugiego rzędu"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "034",
+      "question": "Człon oscylacyjny jest członem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zerowego rzędu"
+        },
+        {
+          "key": "b",
+          "text": "pierwszego rzędu"
+        },
+        {
+          "key": "c",
+          "text": "drugiego rzędu"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "035",
+      "question": "Spośród podstawowych członów dynamicznych zjawisko rezonansu może zachodzić w:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tylko w członie oscylacyjnym."
+        },
+        {
+          "key": "b",
+          "text": "tylko w członie człona."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "036",
+      "question": "Człon inercyjny I-go rzędu to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "model matematyczny układów wspólny dla specyficznych układów o dowolnej naturze fizycznej"
+        },
+        {
+          "key": "b",
+          "text": "inna nazwa czwórnika elektrycznego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "037",
+      "question": "Identyfikując człon inercyjny I rzędu wyznaczamy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jeden parametr"
+        },
+        {
+          "key": "b",
+          "text": "dwa parametry"
+        },
+        {
+          "key": "c",
+          "text": "trzy parametry"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "038",
+      "question": "Podczas aproksymacji obiektu regulacji obiektem inercyjnym II rzędu z opóźnieniem musimy wyznaczyć:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "trzy parametry"
+        },
+        {
+          "key": "b",
+          "text": "dwa parametry"
+        },
+        {
+          "key": "c",
+          "text": "cztery parametry"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "039",
+      "question": "Odpowiedź skokowa obiektu inercyjnego I rzędu jest funkcją:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rosnącą"
+        },
+        {
+          "key": "b",
+          "text": "niemalejącą"
+        },
+        {
+          "key": "c",
+          "text": "malejącą"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "040",
+      "question": "Odpowiedź skokowa obiektu różniczkującego z inercją jest funkcją:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "malejącą"
+        },
+        {
+          "key": "b",
+          "text": "stałą"
+        },
+        {
+          "key": "c",
+          "text": "rosnącą"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "041",
+      "question": "Odpowiedź skokowa obiektu różniczkującego jest funkcją:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "malejącą"
+        },
+        {
+          "key": "b",
+          "text": "stałą"
+        },
+        {
+          "key": "c",
+          "text": "rosnącą"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "042",
+      "question": "Odpowiedź skokowa członu całkującego ma wartość:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Stałą"
+        },
+        {
+          "key": "b",
+          "text": "Rosnącą"
+        },
+        {
+          "key": "c",
+          "text": "Malejącą"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "043",
+      "question": "Odpowiedzią obiektu całkującego jest funkcją:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Malejącą"
+        },
+        {
+          "key": "b",
+          "text": "Stałą"
+        },
+        {
+          "key": "c",
+          "text": "Rosnącą"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "044",
+      "question": "Czy na podstawie znajomości odpowiedzi impulsowej możemy wyznaczyć model układu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tylko całkujący"
+        },
+        {
+          "key": "b",
+          "text": "tak"
+        },
+        {
+          "key": "c",
+          "text": "nie"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "045",
+      "question": "Czy można wyznaczyć model uproszczony obiektu na podstawie jego wykresu odpowiedzi skokowej?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie"
+        },
+        {
+          "key": "b",
+          "text": "tak"
+        },
+        {
+          "key": "c",
+          "text": "tylko dla obiektu całkującego"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "046",
+      "question": "Obiekt liniowy jest stabilny jeżeli:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jego odpowiedź skokowa nie ma oscylacji"
+        },
+        {
+          "key": "b",
+          "text": "jego sygnał wejściowy jest ograniczony"
+        },
+        {
+          "key": "c",
+          "text": "jego odpowiedź impulsowa zanika do zera"
+        },
+        {
+          "key": "d",
+          "text": "jego warunki początkowe są zerowe"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "047",
+      "question": "Odpowiedź skokowa stabilnego systemu liniowego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "maleje do zera"
+        },
+        {
+          "key": "b",
+          "text": "zawsze rośnie lecz nie szybciej niż wykładniczo"
+        },
+        {
+          "key": "c",
+          "text": "nie wiadomo zależy to od warunku początkowego"
+        },
+        {
+          "key": "d",
+          "text": "ustala się na stałej wartości"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "048",
+      "question": "Która z metod nawigacji wózków AGV obsługujących ESP(elastyczne systemy produkcyjne) jest najmniej dokładna:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "metoda sonarowa"
+        },
+        {
+          "key": "b",
+          "text": "metoda laserowa"
+        },
+        {
+          "key": "c",
+          "text": "metoda GPS"
+        },
+        {
+          "key": "d",
+          "text": "metoda żyroskopowa"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "049",
+      "question": "Najdokładniejszą metodą nawigacji jest metoda",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Sonarowa"
+        },
+        {
+          "key": "b",
+          "text": "GPS"
+        },
+        {
+          "key": "c",
+          "text": "Laserowa"
+        },
+        {
+          "key": "d",
+          "text": "żyroskopowa"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "050",
+      "question": "Która z metod nawigacji AGV jest najmniej dokładna?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "metoda pętli indukcyjnej"
+        },
+        {
+          "key": "b",
+          "text": "metoda laserowa"
+        },
+        {
+          "key": "c",
+          "text": "metoda żyroskopowa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "051",
+      "question": "Która z metod nawigacji AGV jest najmniej dokładna?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "metoda żyroskopowa"
+        },
+        {
+          "key": "b",
+          "text": "metoda sonarowa"
+        },
+        {
+          "key": "c",
+          "text": "metoda laserowa"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "052",
+      "question": "Proste zadanie kinematyki polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wyznaczeniu trajektorii współrzędnych wewnętrznych robota znając współrzędne trajektorii chwytaka"
+        },
+        {
+          "key": "b",
+          "text": "Wyznaczeniu wektora trajektorii współrzędnych wewnętrznych robota znając współrzędne trajektorii chwytaka"
+        },
+        {
+          "key": "c",
+          "text": "Wyznaczeniu trajektorii chwytaka znając wewnętrzne współrzędne trajektorii robota"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "053",
+      "question": "Rozwiązanie prostego zadania kinematyki dla zadanego robota polega na wyznaczeniu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "trajektorii punktu pracy"
+        },
+        {
+          "key": "b",
+          "text": "współrzędnych zewnętrznych punktu pracy dla zadanego wektora współrzędnych naturalnych"
+        },
+        {
+          "key": "c",
+          "text": "wyznaczeniu nastaw w przegubach dla danego położenia punktu pracy we współrzędnych zewnętrznych"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "054",
+      "question": "Rozwiązanie odwrotnego zadania kinematyki dla zadanego robota polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wyznaczeniu trajektorii współrzędnych wewnętrznych dla znanej trajektorii chwytaka"
+        },
+        {
+          "key": "b",
+          "text": "wyznaczeniu wektora współrzędnych wewnętrznych dla końcowego punktu pracy"
+        },
+        {
+          "key": "c",
+          "text": "wyznaczeniu nastaw w przegubach dla danego położenia punktu pracy we współrzędnych zewnętrznych"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "056",
+      "question": "Robot typu antropomorficzny to robot o konfiguracji odcinka regionalnego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "OOP"
+        },
+        {
+          "key": "b",
+          "text": "OOO"
+        },
+        {
+          "key": "c",
+          "text": "OPO"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "057",
+      "question": "Robot sferyczny ma regionalny odcinek łańcucha kinematycznego notowany jako:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "OPP"
+        },
+        {
+          "key": "b",
+          "text": "OOP"
+        },
+        {
+          "key": "c",
+          "text": "POP"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "058",
+      "question": "Robot typu sferyczny to robot o konfiguracji odcinka regionalnego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "OOP"
+        },
+        {
+          "key": "b",
+          "text": "OOO"
+        },
+        {
+          "key": "c",
+          "text": "OPO"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "059",
+      "question": "Robot typu kartezjański to robot o konfiguracji odcinka regionalnego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "PPP"
+        },
+        {
+          "key": "b",
+          "text": "OOO"
+        },
+        {
+          "key": "c",
+          "text": "OPO"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "060",
+      "question": "Robot cylindryczny jest robotem o konfiguracji:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "POO"
+        },
+        {
+          "key": "b",
+          "text": "OOP"
+        },
+        {
+          "key": "c",
+          "text": "OPP"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "062",
+      "question": "Robot typu Scara to robot o konfiguracji odcinka regionalnego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "OOP"
+        },
+        {
+          "key": "b",
+          "text": "OOO"
+        },
+        {
+          "key": "c",
+          "text": "OPO"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "063",
+      "question": "Robot IRB 1400 jest robotem o konfiguracji:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "antropomorficznej"
+        },
+        {
+          "key": "b",
+          "text": "sferycznej"
+        },
+        {
+          "key": "c",
+          "text": "kartezjańskiej"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "064",
+      "question": "Robot IRB1400 to robot:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Monolityczny prosty"
+        },
+        {
+          "key": "b",
+          "text": "Monolityczny złożony"
+        },
+        {
+          "key": "c",
+          "text": "Modułowy dymensyjny"
+        },
+        {
+          "key": "d",
+          "text": "Modułowy prosty"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "065",
+      "question": "Robot PR-02 to robot:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "monolityczny prosty"
+        },
+        {
+          "key": "b",
+          "text": "modułowy dymensyjny"
+        },
+        {
+          "key": "c",
+          "text": "modułowy prosty"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "066",
+      "question": "Robot programowany przez tzw. uczenie należy do robotów:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "III generacji"
+        },
+        {
+          "key": "b",
+          "text": "Prostych"
+        },
+        {
+          "key": "c",
+          "text": "II generacji"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "067",
+      "question": "Każdy obiekt liniowy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest obiektem z czasem ciągłym"
+        },
+        {
+          "key": "b",
+          "text": "spełnia zasadę superpozycji"
+        },
+        {
+          "key": "c",
+          "text": "jest stabilny"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "068",
+      "question": "Obiekt opisany równaniem różniczkowym y(t)=u'(t) jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "liniowy dynamiczny z czasem ciągłym"
+        },
+        {
+          "key": "b",
+          "text": "nieliniowy dynamiczny z czasem ciągłym"
+        },
+        {
+          "key": "c",
+          "text": "nieliniowy statyczny z czasem dyskretnym"
+        },
+        {
+          "key": "d",
+          "text": "liniowy statyczny z czasem dyskretnym"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "069",
+      "question": "Obiekt opisany równaniem różniczkowym y(t)=u’(t)*u(t) jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "liniowy statyczny z czasem dyskretnym"
+        },
+        {
+          "key": "b",
+          "text": "nieliniowy dynamiczny z czasem ciągłym"
+        },
+        {
+          "key": "c",
+          "text": "nieliniowy statyczny z czasem dyskretnym"
+        },
+        {
+          "key": "d",
+          "text": "liniowy dynamiczny z czasem ciągłym"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "070",
+      "question": "Stacjonarny system dynamiczny:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Spełnia zasadę superpozycji"
+        },
+        {
+          "key": "b",
+          "text": "Jest stabilny"
+        },
+        {
+          "key": "c",
+          "text": "Posiada ujemne sprzężenie zwrotne"
+        },
+        {
+          "key": "d",
+          "text": "Może być opisywany równaniem różniczkowym"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "072",
+      "question": "Stabilność liniowego układu dynamicznego oznacza:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ograniczoną odpowiedź na ograniczone wejście"
+        },
+        {
+          "key": "b",
+          "text": "stałą odpowiedź na ograniczone wejście"
+        },
+        {
+          "key": "c",
+          "text": "zerową odpowiedź na ograniczone wejście"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "073",
+      "question": "Każdy system BIBO (bounded input bounded output) stabilny:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest systemem dynamicznym"
+        },
+        {
+          "key": "b",
+          "text": "przy nieograniczonym wyjściu daje nieograniczone wejście"
+        },
+        {
+          "key": "c",
+          "text": "przy nieograniczonym wyjściu daje nieograniczone wejście"
+        },
+        {
+          "key": "d",
+          "text": "żadna z powyższych odpowiedzi"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "074",
+      "question": "Charakterystyki częstotliwościowe układu dynamicznego [pokazują/] pozwalają bezpośrednio określić:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wzmocnienie i przesunięcie fazowe w funkcji częstotliwości"
+        },
+        {
+          "key": "b",
+          "text": "zależność przesunięcia fazowego i wzmocnienia od pulsacji"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "075",
+      "question": "Badając charakterystyki częstotliwościowe układu na jego wejście podajemy wymuszenie sinusoidalne o:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Stałej amplitudzie i stałej pulsacji"
+        },
+        {
+          "key": "b",
+          "text": "Zmiennej amplitudzie i stałej pulsacji"
+        },
+        {
+          "key": "c",
+          "text": "Zmiennej amplitudzie i zmiennej pulsacji"
+        },
+        {
+          "key": "d",
+          "text": "Stałej amplitudzie i zmiennej pulsacji"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "076",
+      "question": "Transformata Laplace’a przekształca funkcję rzeczywistą zmiennej rzeczywistej w:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "funkcję zespoloną zmiennej zespolonej"
+        },
+        {
+          "key": "b",
+          "text": "funkcję zespoloną zmiennej rzeczywistej"
+        },
+        {
+          "key": "c",
+          "text": "funkcję rzeczywistą zmiennej rzeczywistej"
+        },
+        {
+          "key": "d",
+          "text": "funkcję rzeczywistą zmiennej zespolonej"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "077",
+      "question": "Na czym polega korzyść z zastosowania transformaty Laplace'a?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przekształca splot w iloczyn"
+        },
+        {
+          "key": "b",
+          "text": "pozwala na analizę obiektów nieliniowych"
+        },
+        {
+          "key": "c",
+          "text": "pozwala na analizę obiektów dyskretnych"
+        },
+        {
+          "key": "d",
+          "text": "sprowadza równania zespolone do rzeczywistych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "079",
+      "question": "Transmitancja jest zdefiniowana tylko dla:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Układów liniowych i nieliniowych"
+        },
+        {
+          "key": "b",
+          "text": "Układów liniowych"
+        },
+        {
+          "key": "c",
+          "text": "Układów nieliniowych"
+        },
+        {
+          "key": "d",
+          "text": "Układów dyskretnych"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "081",
+      "question": "Układ ma transmitancję G(s)=k/((1+sT1)(1-sT2)s. Układ ten jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "stabilny"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "082",
+      "question": "Pomiar temperatury czujnikiem Pt100 w zakresie (0-400)°C wykorzystano przetwornik pomiarowy w standardzie (4-20)mA. Wykonano pomiar tego prądu i uzyskano wynik 12.00 mA stąd wynika, że:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "100 °C"
+        },
+        {
+          "key": "b",
+          "text": "200 °C"
+        },
+        {
+          "key": "c",
+          "text": "300 °C"
+        },
+        {
+          "key": "d",
+          "text": "400 °C"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "083",
+      "question": "W pomiarach przemysłowych dla sygnałów ciągłych (analogowych) nie stosuje się standardu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "(0-5) V"
+        },
+        {
+          "key": "b",
+          "text": "(0-10) V"
+        },
+        {
+          "key": "c",
+          "text": "(0-20) mA"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "084",
+      "question": "Robot IRB 1400 potrzebuje m = 3 współrzędnych aby ustawić ramię na jednej płaszczyźnie. Ile wynosi stopień redundancji dla tego zadania? // w - liczba stopni swobody, w IRB 1400 = 6. Wzór: redundancja = w – m.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "085",
+      "question": "Jeśli robot IRB 1400 wykonuje zadania przemieszczania w jednej płaszczyźnie (do opisania trajektorii chwytaka potrzeba m=4 współrzędnych zewnętrznych) to: // w - stopnie swobody, w IRB 1400 = 6, redundancja = w - m",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jego stopień redundancji dla tej klasy trajektorii wynosi 4"
+        },
+        {
+          "key": "b",
+          "text": "jego stopień redundancji dla tej klasy trajektorii wynosi 2"
+        },
+        {
+          "key": "c",
+          "text": "jego stopień redundancji dla tej klasy trajektorii wynosi 1"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "086",
+      "question": "Jeśli robot posiada 1 przegub 4 klasy i 5 przegubów 5 klasy to jego liczba stopni swobody wynosi: // w=6*n-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha, i - klasa, p - liczba połączeń (przegubów) i-tej klasy lub prościej: w=p1*(6-i1)+p2*(6-i2)+...",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Sześć"
+        },
+        {
+          "key": "b",
+          "text": "Pięć"
+        },
+        {
+          "key": "c",
+          "text": "Siedem"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "087",
+      "question": "Jeśli robot posiada 2 przeguby 4 klasy i 2 przeguby 5 klasy to jego ruchliwość wynosi: // r=6*(n-1)-Σ(i*p), w - stopnie swobody, n - liczba ruchomych członów (par) łańcucha (w przypadku ruchliwości i manewrowości zwiększona o 1), i - klasa, p - liczba połączeń (przegubów) i-tej klasy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "0"
+        },
+        {
+          "key": "b",
+          "text": "6"
+        },
+        {
+          "key": "c",
+          "text": "8"
+        },
+        {
+          "key": "d",
+          "text": "5"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "088",
+      "question": "Robot ma 2 przeguby 4 klasy i 3 przeguby 5 klasy. jaka jest ruchliwość? // r=6*(n-1)-Σ(i*p), w - stopnie swobody, n - liczba ruchomych członów (par) łańcucha (w przypadku ruchliwości i manewrowości zwiększamy o 1), i - klasa, p - liczba połączeń (przegubów) i-tej klasy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sześć"
+        },
+        {
+          "key": "b",
+          "text": "pięć"
+        },
+        {
+          "key": "c",
+          "text": "trzy"
+        },
+        {
+          "key": "d",
+          "text": "siedem"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "089",
+      "question": "Ile maszyna ma stopni swobody jeśli ma 3 przeguby 5 klasy i 2 przeguby 4 klasy? // w=6*n-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha, i - klasa, p - liczba połączeń (przegubów) i-tej klasy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "7"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "6"
+        },
+        {
+          "key": "d",
+          "text": "8"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "090",
+      "question": "Robot ma 2 przeguby klasy 4 i 2 przeguby 5 klasy. Jaka jest jego manewrowość? // m=6*(n-2)-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha (w przypadku ruchliwości i manewrowości zwiększona o 1), i - klasa, p - liczba połączeń (przegubów) i-tej klasy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "0"
+        },
+        {
+          "key": "b",
+          "text": "5"
+        },
+        {
+          "key": "c",
+          "text": "6"
+        },
+        {
+          "key": "d",
+          "text": "7"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "091",
+      "question": "Jeśli robot posiada 2 przeguby 4 klasy i 4 przeguby 5 klasy to jego liczba stopni swobody wynosi: // w=6*n-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha, i - klasa, p - liczba połączeń (przegubów) i-tej klasy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sześć"
+        },
+        {
+          "key": "b",
+          "text": "siedem"
+        },
+        {
+          "key": "c",
+          "text": "osiem"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "092",
+      "question": "Robot o dwóch modułach klasy IV i dwóch klasy V ma ile stopni swobody? // w=p1*(6-i1)+p2*(6-i2)+..., p - liczba modułów, i - klasa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "8"
+        },
+        {
+          "key": "b",
+          "text": "6"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "093",
+      "question": "Jeśli robot posiada 3 przeguby 4 klasy i 4 przeguby 5 klasy to jego liczba stopni swobody wynosi: // w=6*n-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha, i - klasa, p - liczba połączeń (przegubów) i-tej klasy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "10"
+        },
+        {
+          "key": "b",
+          "text": "6"
+        },
+        {
+          "key": "c",
+          "text": "8"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "094",
+      "question": "Ile stopni swobody ma robot o 1 przegubie klasy 3 i 3 przegubach klasy 5? // w=6*n-Σ(i*p), gdzie n - liczba ruchomych członów (par) łańcucha, i - klasa, p - liczba połączeń (przegubów) i-tej klasy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sześć"
+        },
+        {
+          "key": "b",
+          "text": "siedem"
+        },
+        {
+          "key": "c",
+          "text": "pięć"
+        },
+        {
+          "key": "d",
+          "text": "osiem"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "095",
+      "question": "Histogramy brzegowe (lateralne) są stosowane:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "do lokalizowania obiektów na obrazach"
+        },
+        {
+          "key": "b",
+          "text": "do skalowania obrazów"
+        },
+        {
+          "key": "c",
+          "text": "do kolorowania obrazów monochromatycznych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "096",
+      "question": "Do detekcji uszkodzeń",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykorzystywane są tylko kamery na podczerwień i światło widzialne"
+        },
+        {
+          "key": "b",
+          "text": "mogą być użyte skanery laserowe"
+        },
+        {
+          "key": "c",
+          "text": "nie są stosowane kamery pracujące w paśmie ultrafioletowym oraz obrazy rentgenowskie"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "100",
+      "question": "Nazwa regulatora dwustawnego lub dwupołożeniowego pochodzi stąd, że:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "można mu wprowadzić dwie wartości zadane"
+        },
+        {
+          "key": "b",
+          "text": "jego wyjście może znajdować się tylko w jednym z dwóch stanów"
+        },
+        {
+          "key": "c",
+          "text": "może stabilizować wielkość sterowaną tylko na dwóch poziomach"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "101",
+      "question": "Regulator Watta:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykorzystuje wzmacniacz operacyjny ua741"
+        },
+        {
+          "key": "b",
+          "text": "wykorzystywał siłę odśrodkową"
+        },
+        {
+          "key": "c",
+          "text": "wykorzystywam pole elektormagnetyczne"
+        },
+        {
+          "key": "d",
+          "text": "posiada transmitancję elementu intercyjnego pierwszego rzędu"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "103",
+      "question": "Układ stabilny w sensie BIBO:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest ukladem typu MISO"
+        },
+        {
+          "key": "b",
+          "text": "może być pobudzany tylko sygnałami ograniczonymi"
+        },
+        {
+          "key": "c",
+          "text": "może być pobudzany dowolnymi sygnałami"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "104",
+      "question": "Odpowiedź skokowa obiektu całkującego jest funkcją:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "malejącą"
+        },
+        {
+          "key": "b",
+          "text": "stałą"
+        },
+        {
+          "key": "c",
+          "text": "rosnącą"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "105",
+      "question": "Jaki element jest wykorzystywany najczęściej do realizacji separacji galwanicznej binarnych WEJŚĆ sterownika PLC:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "transformator"
+        },
+        {
+          "key": "b",
+          "text": "transoptor"
+        },
+        {
+          "key": "c",
+          "text": "przekaźnik elektromechaniczny"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "106",
+      "question": "Metoda k-najbiższych sąsiadów:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "może być wykorzystywana do klasyfikacji"
+        },
+        {
+          "key": "b",
+          "text": "rezultaty zawsze nie zależą od liczby k"
+        },
+        {
+          "key": "c",
+          "text": "może być tylko stosowana do danych znormalizowanych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "107",
+      "question": "Sieci neuronowe:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie mogą być użyte do sterowania nieliniowych obiektów dynamicznych"
+        },
+        {
+          "key": "b",
+          "text": "mogą być wykorzystywane do predykcji szeregów czasowych"
+        },
+        {
+          "key": "c",
+          "text": "są zawsze rekurencyjne"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "110",
+      "question": "Rozwiązanie odwrotnego zadania kinematyki dla zadanego robota polega na wyznaczeniu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "trajektorii punktu pracy"
+        },
+        {
+          "key": "b",
+          "text": "współrzędnych zewnętrznych punktu pracy, dla zadanego wektora współrzędnych wewnętrznych"
+        },
+        {
+          "key": "c",
+          "text": "wyznaczeniu nastaw w przegubach dla danego położenia punktu pracy we współrzędnych zewnętrznych"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "112",
+      "question": "Sieci neuronowe głębokie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mogą mieć kilkanaście warstw"
+        },
+        {
+          "key": "b",
+          "text": "nie mają żadnej warstwy ukrytej"
+        },
+        {
+          "key": "c",
+          "text": "zawsze wymagają wykonania wcześniejszej ekstrakcji cech"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "114",
+      "question": "W sterowaniu predykcyjnym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykorzystuje się pojęcie zwane predykotrem horyzontu"
+        },
+        {
+          "key": "b",
+          "text": "nie stosuje się modelu obiektu"
+        },
+        {
+          "key": "c",
+          "text": "wykorzystuje się jedynie regulatory typu PI"
+        },
+        {
+          "key": "d",
+          "text": "wykorzystuje się pojęcie zwane horyzontem predykcji"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "115",
+      "question": "Sterowanie przegubami robota w otwartej pętli stosuje się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "w cobotach"
+        },
+        {
+          "key": "b",
+          "text": "robotach prostych"
+        },
+        {
+          "key": "c",
+          "text": "w robotach złożonych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "116",
+      "question": "Jeśli manipulator posiada 1 przegub 4 klasy i 3 przeguby 5 klasy to jego ruchliwość wynosi: // r=6*(n-1)-Σ(i*p), w - stopnie swobody, n - liczba ruchomych członów (par) łańcucha (w przypadku ruchliwości i manewrowości zwiększamy o 1), i - klasa, p - liczba połączeń (przegubów) i-tej klasy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pięć"
+        },
+        {
+          "key": "b",
+          "text": "cztery"
+        },
+        {
+          "key": "c",
+          "text": "siedem"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "117",
+      "question": "Jeśli wszystkie nastawy regulatora o transmitancji G(s)=Kp(1+1/Ts+Ts) są różne od zera i ograniczone to realizuje on algorytm:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "P"
+        },
+        {
+          "key": "b",
+          "text": "PI"
+        },
+        {
+          "key": "c",
+          "text": "PID"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "118",
+      "question": "Uchyb regulacji jest sygnałem",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sterującym"
+        },
+        {
+          "key": "b",
+          "text": "wejściowym regulatora"
+        },
+        {
+          "key": "c",
+          "text": "zawsze nieujemnym"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "126",
+      "question": "W sterowaniu odpornym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie dokonuje się zmian nastaw regulatorów w trakcie pracy układów"
+        },
+        {
+          "key": "b",
+          "text": "zawsze wykorzystuje się estymatory odporne"
+        },
+        {
+          "key": "c",
+          "text": "nie stosuje się estymatorów odpornych"
+        },
+        {
+          "key": "d",
+          "text": "wejście obiektu jest odporne na zakłócenia"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "127",
+      "question": "Który z parametrów przegubu jest zmienny dla obrotowej pary kinematycznej V klasy?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kąt skrętu członu"
+        },
+        {
+          "key": "b",
+          "text": "kąt konfiguracji"
+        },
+        {
+          "key": "c",
+          "text": "odsunięcie członu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "128",
+      "question": "Założenia i prototyp pierwszego elektronicznego programowalnego sterownika logicznego(...) //nie da się dalej odczytać, pewnie chodzi o to kto jest odpowiedzialny za jego powstanie czy coś",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Siemens (1972)"
+        },
+        {
+          "key": "b",
+          "text": "General Motors (1968)"
+        },
+        {
+          "key": "c",
+          "text": "Shell (1974)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "129",
+      "question": "Robot YuMi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "robot złożony monolityczny"
+        },
+        {
+          "key": "b",
+          "text": "robot złożony modułowy"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "130",
+      "question": "Klasyczny regulator PI jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Liniowy"
+        },
+        {
+          "key": "b",
+          "text": "Nieliniowy"
+        },
+        {
+          "key": "c",
+          "text": "To zalezy"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "131",
+      "question": "Jeśli wszystkie nastawy regulatora o transmitancji G(s)=(Kp+Ki/Ts+KdTs) są różne od zera i ograniczone to realizuje on algorytm:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "P"
+        },
+        {
+          "key": "b",
+          "text": "PI"
+        },
+        {
+          "key": "c",
+          "text": "PID"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "132",
+      "question": "Jakiej minimalnej liczby przekaźników elektromagnetycznych musimy użyć, zrealizować iloczyn logiczny dwóch zmiennych:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "133",
+      "question": "Która z metod nawigacji dla AGV (Automated Guided Vehicle) jest stosowana w wózkach Elettric80",
+      "answers": [
+        {
+          "key": "a",
+          "text": "metoda sonarowa"
+        },
+        {
+          "key": "b",
+          "text": "metoda laserowa"
+        },
+        {
+          "key": "c",
+          "text": "metoda GPS"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "134",
+      "question": "Wielowarstwowe (chyba) perceptrony",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie mają wyjść"
+        },
+        {
+          "key": "b",
+          "text": "mają wiele warstw ukrytych"
+        },
+        {
+          "key": "c",
+          "text": "odpowiedź 3"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "135",
+      "question": "Histogram brzegowy można używać:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tylko w kolorze"
+        },
+        {
+          "key": "b",
+          "text": "w odcieniach szarości"
+        },
+        {
+          "key": "c",
+          "text": "czarnobiałe"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "136",
+      "question": "Który z parametrów przegubu jest zmienny dla translacyjnej pary kinematycznej V klasy?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kąt skrętu członu"
+        },
+        {
+          "key": "b",
+          "text": "długość członu"
+        },
+        {
+          "key": "c",
+          "text": "kąt konfiguracji"
+        },
+        {
+          "key": "d",
+          "text": "odsunięcie członu"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "137",
+      "question": "Do detekcji uszkodzeń:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mogą być użyte kamery"
+        },
+        {
+          "key": "b",
+          "text": "nie mogą być użyte kamery"
+        },
+        {
+          "key": "c",
+          "text": "nie mogą być użyte lasery"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "138",
+      "question": "Jaki element jest wykorzystywany najczęściej do realizacji separacji galwanicznej binarnych WYJŚĆ sterownika PLC:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kondensator"
+        },
+        {
+          "key": "b",
+          "text": "transoptor"
+        },
+        {
+          "key": "c",
+          "text": "przekaźnik elektromechaniczny"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "139",
+      "question": "Rozwiązanie odwrotnego zadania kinematyki dla zadanego robota polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wyznaczeniu trajektorii współrzędnych wewnętrznych dla znanej trajektorii chwytaka"
+        },
+        {
+          "key": "b",
+          "text": "wyznaczeniu wektora współrzędnych wewnętrznych dla końcowego punktu pracy"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+X0010
+Która technologia oferuje największą przepustowość?
+ADSL
+HDSL
+VDSL
+IDSL

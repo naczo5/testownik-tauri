@@ -1,0 +1,6 @@
+X0010
+Która z poniższych operacji opisuje proces modulacji:
+mieszanie informacji z sygnałem zabezpieczającym
+zmiana parametrów sygnału niosącego informację, która umożliwi zmniejszenie wpływu zakłóceń na informację w kanale transmisyjnym
+uzależnienie sygnału nośnego od sygnału pierwotnego niosącego informację
+transmisja informacji łącznie z dodatkowym sygnałem nośnym

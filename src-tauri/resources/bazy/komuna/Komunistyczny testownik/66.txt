@@ -1,0 +1,6 @@
+X0001
+Widmo nieskończonego, okresowego sygnału prostokątnego:
+ma charakter ciągły
+nie da się wyznaczyć ze względu na nieskończoność sygnału
+nie zależy od częstotliwości sygnału prostokątnego
+ma charakter prążkowy

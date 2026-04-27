@@ -1,0 +1,6 @@
+X0010
+Impedancja charakterystyczna kabli miedzianych współosiowych stosowanych w telekomunikacji wynosi:
+100 Ohm, 120 Ohm, 150 Ohm
+600 Ohm, 60 Ohm
+50  Ohm, 75 Ohm (rzadko 93 Ohm)
+45 Ohm, 65 Ohm

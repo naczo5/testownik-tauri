@@ -1,0 +1,6 @@
+X0100
+Parametr S/N na wejściu odbiornika:
+nie ma wpływu na poprawny odbiór sygnału w odbiorniku
+określa stosunek sygnału użytecznego do szumu
+powinien mieć jak najmniejszą wartość
+jest taki sam dla każdej możliwej do zastosowania modulacji

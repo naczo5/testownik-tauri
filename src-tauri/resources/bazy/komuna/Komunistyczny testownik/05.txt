@@ -1,0 +1,6 @@
+X0010
+Moc promieniowania przez punkt dostępowy wynosi 14 dBm. Jaka to moc w miliwatach?
+7 mW
+14 mW
+25 mW
+50 mW

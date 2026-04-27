@@ -1,0 +1,6 @@
+X0100
+Kabel typu skrętka oznaczony symbolem S-FTP to: 
+kabel ekranowany tylko siatką
+kabel ekranowany folią i siatką 
+kabel nieekranowany 
+kabel ekranowany tylko folią

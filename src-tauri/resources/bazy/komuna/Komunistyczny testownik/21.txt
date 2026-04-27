@@ -1,0 +1,6 @@
+X0010
+Do której generacji systemów zaliczany jest system LTE?
+1G
+2G
+4G
+3G

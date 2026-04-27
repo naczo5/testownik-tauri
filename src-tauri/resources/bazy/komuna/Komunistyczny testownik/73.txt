@@ -1,0 +1,6 @@
+X1000
+Sygnał rozchodzący się w medium transmisyjnym:
+jest tłumiony i zmienia się jego amplituda
+nie jest podatny na zakłócenia pochodzące z innych źródeł
+jego parametry nie zmieniają się
+jest tłumiony i zmienia się jego częstotliwość

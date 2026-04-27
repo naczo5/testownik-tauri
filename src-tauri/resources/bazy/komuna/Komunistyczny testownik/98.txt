@@ -1,0 +1,6 @@
+X0001
+Wybierz poprawny schemat procesu kapsułkowania:
+bity -> ramka -> pakiet -> segment -> dane 
+dane -> pakiet -> segment -> ramka -> bity 
+bity -> dane -> segment -> pakiet -> ramka 
+dane -> segment -> pakiet -> ramka -> bity

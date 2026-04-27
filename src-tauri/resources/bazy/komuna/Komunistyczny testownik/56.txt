@@ -1,0 +1,6 @@
+X0010
+W pewnym systemie telekomunikacyjnym czterokrotnie zwiększono szerokość kanału. Jaki miało to wpływ na pojemność informacyjną systemu:
+wzrosła ok. 2 razy
+zmniejszyła się ok. 2 razy
+wzrosła ok. 4 razy
+nie zmieniła się

@@ -1,0 +1,6 @@
+X0001
+Budżet energetyczny łącza radiowego jest:
+całkowitą mocą doprowadzoną do anteny nadawczej
+wartością mocy odebranej przez antenę odbiorczą, pomniejszoną o straty w kablu dosyłowym
+iloczynem mocy nadajnika, strat w kablu i zysku energetycznego anteny
+sumą mocy, zysków i strat na drodze propagacji sygnału

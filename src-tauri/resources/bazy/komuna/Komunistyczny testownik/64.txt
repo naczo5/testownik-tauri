@@ -1,0 +1,6 @@
+X0010
+Które z pasm nie są wykorzystywane w standardach z grupy IEEE 802.11x?
+2,4 GHz
+5-6 GHz
+433 MHz
+800-1000 MHz
