@@ -47,8 +47,18 @@ fn save_base(app: AppHandle, slug: String, content: String) -> Result<(), String
     fs::write(file_path, content).map_err(|e| e.to_string())
 }
 
+#[cfg(target_os = "linux")]
+fn apply_linux_webkit_workarounds() {
+    if std::env::var_os("WEBKIT_DISABLE_DMABUF_RENDERER").is_none() {
+        std::env::set_var("WEBKIT_DISABLE_DMABUF_RENDERER", "1");
+    }
+}
+
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
+    #[cfg(target_os = "linux")]
+    apply_linux_webkit_workarounds();
+
     tauri::Builder::default()
         .setup(|app| {
             let app_data_dir = app.path().app_data_dir().unwrap();

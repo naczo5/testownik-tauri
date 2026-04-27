@@ -55,3 +55,13 @@ This repository includes `.github/workflows/release.yml` to build unsigned relea
 
 - Artifacts are unsigned in the current setup.
 - `old-testownik/` is temporarily ignored in `.gitignore` during migration/release prep.
+
+## Troubleshooting (Linux AppImage)
+
+If AppImage startup fails with `Could not create surfaceless EGL display: EGL_BAD_ALLOC`, run:
+
+```bash
+WEBKIT_DISABLE_DMABUF_RENDERER=1 ./Testownik_0.1.0_amd64.AppImage
+```
+
+This workaround is now also applied automatically by the app at startup on Linux for future builds.
