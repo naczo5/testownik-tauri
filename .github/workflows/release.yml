@@ -57,6 +57,8 @@ jobs:
         uses: tauri-apps/tauri-action@v0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXCLUDE_LIBS: "libwayland-client.so.0,libwayland-cursor.so.0,libwayland-egl.so.1,libwayland-server.so.0"
+          LINUXDEPLOY_PLUGIN_GTK_OMIT_LIBRARIES: "wayland:gstreamer"
         with:
           tagName: ${{ github.ref_name }}
           releaseName: Testownik ${{ github.ref_name }}
