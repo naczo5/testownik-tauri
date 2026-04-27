@@ -14,7 +14,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [ubuntu-22.04, windows-latest]
+        os: [ubuntu-24.04, windows-latest]
 
     runs-on: ${{ matrix.os }}
 
@@ -40,21 +40,33 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
 
       - name: Install Linux system dependencies
-        if: matrix.os == 'ubuntu-22.04'
+        if: matrix.os == 'ubuntu-24.04'
         run: |
           sudo apt-get update
+          # Keep AppImage builds on a known-good WebKitGTK 2.44 stack.
+          # Newer combinations have caused EGL_BAD_ALLOC gray-screen startup failures.
+          WEBKIT_VERSION="$(apt-cache madison libwebkit2gtk-4.1-dev | awk '$3 ~ /^2\.44\./ { print $3; exit }')"
+          if [[ -z "${WEBKIT_VERSION}" ]]; then
+            echo "::error::Could not find a WebKitGTK 2.44 package candidate on this runner."
+            exit 1
+          fi
           sudo apt-get install -y \
-            libwebkit2gtk-4.1-dev \
             libgtk-3-dev \
             libayatana-appindicator3-dev \
             librsvg2-dev \
-            patchelf
+            patchelf \
+            "libwebkit2gtk-4.1-0=${WEBKIT_VERSION}" \
+            "libwebkit2gtk-4.1-dev=${WEBKIT_VERSION}" \
+            "libjavascriptcoregtk-4.1-0=${WEBKIT_VERSION}" \
+            "libjavascriptcoregtk-4.1-dev=${WEBKIT_VERSION}" \
+            "gir1.2-javascriptcoregtk-4.1=${WEBKIT_VERSION}" \
+            "gir1.2-webkit2-4.1=${WEBKIT_VERSION}"
 
       - name: Install frontend dependencies
         run: npm ci
 
       - name: Build and upload release artifacts
-        uses: tauri-apps/tauri-action@v0
+        uses: tauri-apps/tauri-action@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           EXCLUDE_LIBS: "libwayland-client.so.0,libwayland-cursor.so.0,libwayland-egl.so.1,libwayland-server.so.0"

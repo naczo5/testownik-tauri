@@ -3,9 +3,6 @@
 
 fn main() {
     #[cfg(target_os = "linux")]
-    {
-        std::env::set_var("WEBKIT_DISABLE_DMABUF_RENDERER", "1");
-        std::env::set_var("WEBKIT_DISABLE_COMPOSITING_MODE", "1");
-    }
+    testownik_app_lib::apply_linux_startup_workarounds();
     testownik_app_lib::run()
 }

@@ -61,7 +61,8 @@ This repository includes `.github/workflows/release.yml` to build unsigned relea
 If AppImage startup fails with `Could not create surfaceless EGL display: EGL_BAD_ALLOC`, run:
 
 ```bash
-WEBKIT_DISABLE_DMABUF_RENDERER=1 ./Testownik_0.1.0_amd64.AppImage
+GDK_BACKEND=x11 LIBGL_ALWAYS_SOFTWARE=1 WEBKIT_DISABLE_DMABUF_RENDERER=1 WEBKIT_DISABLE_COMPOSITING_MODE=1 ./Testownik_0.1.4_amd64.AppImage
 ```
 
-This workaround is now also applied automatically by the app at startup on Linux for future builds.
+These environment defaults are now applied automatically at Linux startup (with stronger AppImage-safe defaults).
+The release workflow also pins Linux AppImage builds to a known-good WebKitGTK 2.44 stack to reduce cross-distro EGL startup issues.

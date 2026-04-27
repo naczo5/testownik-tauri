@@ -48,16 +48,28 @@ fn save_base(app: AppHandle, slug: String, content: String) -> Result<(), String
 }
 
 #[cfg(target_os = "linux")]
-fn apply_linux_webkit_workarounds() {
-    if std::env::var_os("WEBKIT_DISABLE_DMABUF_RENDERER").is_none() {
-        std::env::set_var("WEBKIT_DISABLE_DMABUF_RENDERER", "1");
+fn set_linux_default_env_var(name: &str, value: &str) {
+    if std::env::var_os(name).is_none() {
+        std::env::set_var(name, value);
+    }
+}
+
+#[cfg(target_os = "linux")]
+pub fn apply_linux_startup_workarounds() {
+    set_linux_default_env_var("WEBKIT_DISABLE_DMABUF_RENDERER", "1");
+    set_linux_default_env_var("WEBKIT_DISABLE_COMPOSITING_MODE", "1");
+
+    let is_appimage = std::env::var_os("APPIMAGE").is_some() || std::env::var_os("APPDIR").is_some();
+    if is_appimage {
+        set_linux_default_env_var("GDK_BACKEND", "x11");
+        set_linux_default_env_var("LIBGL_ALWAYS_SOFTWARE", "1");
     }
 }
 
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
     #[cfg(target_os = "linux")]
-    apply_linux_webkit_workarounds();
+    apply_linux_startup_workarounds();
 
     tauri::Builder::default()
         .setup(|app| {
