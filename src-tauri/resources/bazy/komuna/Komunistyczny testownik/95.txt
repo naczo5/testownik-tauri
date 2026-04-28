@@ -1,6 +1,0 @@
-X1000
-Widmo nieskończonego okresowego sygnału prostokątnego ma postać:
-szeregu prążków
-pojedynczego prążka
-jest ciągłe
-sinusoidy

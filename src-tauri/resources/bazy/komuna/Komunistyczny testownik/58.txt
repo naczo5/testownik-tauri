@@ -1,6 +1,0 @@
-X0010
-Widmo amplitudowe impulsu prostokątnego o określonym czasie trwania T:
-jest skończone
-jest niezależne od czasu trwania impulsu
-ma postać funkcji |(sin(x))/x|
-jego szerokość jest równa 1/T

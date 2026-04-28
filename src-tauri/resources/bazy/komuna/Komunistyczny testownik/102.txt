@@ -1,6 +1,0 @@
-X0100
-Z jakich podstawowych elementów składa się nadajnik systemu telekomunikacyjnego: 
-dekoder źródłowy, dekoder kanałowy, demodulator 
-koder źródłowy, koder kanałowy, modulator 
-koder źródłowy, koder kanałowy, modulator, kanał transmisyjny 
-źródło informacji, koder źródłowy, koder kanałowy, modulator

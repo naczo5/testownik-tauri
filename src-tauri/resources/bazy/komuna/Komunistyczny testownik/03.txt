@@ -1,6 +1,0 @@
-X1000
-Entropia:
-określa niepewność wystąpienia danego symbolu w źródle informacji
-nie zależy od prawdopodobieństwa wystąpienia symbolu
-jest wielkością bezwymiarową
-określa stopień kompresji informacji ze źródła

@@ -1,6 +1,0 @@
-X0010
-Sygnał modulujący to: 
-wynikowy sygnał procesu modulacji 
-fala nośna 
-sygnał niosący informację 
-musi być cyfrowy

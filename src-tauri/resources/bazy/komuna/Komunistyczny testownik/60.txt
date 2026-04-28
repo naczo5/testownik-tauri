@@ -1,6 +1,0 @@
-X0010
-Jeżeli szybkość przesyłania informacji jest większa od pojemności kanału to:
-szybkość transmisji nie ma wpływu na występowanie błędów transmisji
-możliwa jest bezbłędna transmisja przez ten kanał
-zawsze wystąpią błędy transmisji
-niemożliwe jest wystąpienie błędów transmisji

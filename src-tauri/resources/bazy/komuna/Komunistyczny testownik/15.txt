@@ -1,6 +1,0 @@
-X0010
-Sygnał okresowy to sygnał, którego:
-wartości amplitudy są dowolne
-wartość amplitudy może zmieniać się tylko liniowo w niektórych okresach
-wartości amplitudy powtarzają się co pewien czas
-jego częstotliwość zmienia się niezależnie od czasu trwania

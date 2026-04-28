@@ -1,6 +1,0 @@
-X1000
-W modulacji PCM, w której częstotliwość próbkowania wynosi 8kHz i zastosowano 4-bitowe kwantowanie, szybkość transmisji wynosi:
-32 kb/s
-4 kb/s
-2 kb/s
-16 kb/s

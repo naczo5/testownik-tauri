@@ -1,6 +1,0 @@
-X0010
-Akronim DSL oznacza:
-analogową pętlę abonencką
-rodzaj modulacji cyfrowej
-cyfrową pętlę abonencką
-system transmisji szeregowej

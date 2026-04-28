@@ -1,6 +1,0 @@
-X1000
-Jakie procesy zachodzą przy nadawaniu w systemie telekomunikacyjnym?
-generacja informacji, kodowanie źródłowe, kodowanie kanałowe, modulacja
-generacja informacji, modulacja, kodowanie źrółowe, kodowanie kanałowe
-generacja informacji, kodowanie kanałowe, kodowanie źrodłowe, modulacja
-generacji informacji, dekodowanie źródłowe, dekodowanie kanałowe, demodulacja

@@ -1,6 +1,0 @@
-X0010
-Światłowód telekomunikacyjny jest światłowodem dielektrycznym służącym do przesyłania światła z zakresu: 
-400-1030 nm 
-1700-3000 nm 
-850-1700 nm 
-200-850 nm

@@ -1,6 +1,0 @@
-X0010
-Technika zwielokrotniania TDM polega na:
-wydłużeniu przedziału czasu wykorzystywanego w obrębie tego samego medium transmisyjnego 
-wykorzystaniu wielu sąsiadujących szczelin czasowych w obrębie tego samego medium transmisyjnego 
-wielokrotnym, sekwencyjnym wykorzystaniu tego samego kanału transmisyjnego w kolejnych chwilach czasu 
-wykorzystaniu wielu różnych częstotliwości w obrębie tego samego medium transmisyjnego

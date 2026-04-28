@@ -1,6 +1,0 @@
-X0010
-Systemy nanośne (nasobne) należą do grupy sieci:
-WLAN
-WPAN
-WBAN
-komórkowych

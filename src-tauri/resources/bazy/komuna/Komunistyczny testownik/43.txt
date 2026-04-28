@@ -1,6 +1,0 @@
-X0100
-Okres sygnał o częstotliwości 100Hz to:
-100 ms
-10 ms
-10 s
-1 s

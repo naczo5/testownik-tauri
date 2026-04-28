@@ -1,6 +1,0 @@
-X0100
-Światłowód ze szkła krzemionkowego do zastosowań w telekomunikacji optycznej ma małe straty dla fali optycznej o długości:
-15 nm
-1500 nm
-150 nm
-15000 nm

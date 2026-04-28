@@ -1,6 +1,0 @@
-X0010
-Widmo impulsu prostokątnego o skończonym czasie trwania: 
-a) jest okresowe 
-b) jest tym szersze, im dłuższy czas trwania impulsu 
-c) jest nieskończone 
-d) to pojedynczy prążek

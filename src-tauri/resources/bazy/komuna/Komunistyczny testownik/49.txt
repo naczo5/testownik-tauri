@@ -1,6 +1,0 @@
-X0010
-Które stwierdzenie jest prawdziwe w odniesieniu do systemów WLAN?
-Pierwszym standardem WLAN był system 802.11ac (przepustowość 1 Mb/s, 2 Mb/s)
-Router WLAN pełni w sieci bezprzewodowej rolę przełącznika (switch)
-Stosują procedurę wielodostępu CSMA/CA
-Systemy V2V służą do dalekosiężnej łączności sensorowej o niskiej przepustowości

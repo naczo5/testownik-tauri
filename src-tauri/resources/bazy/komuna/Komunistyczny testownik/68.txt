@@ -1,6 +1,0 @@
-X0010
-Światłowód jednomodowy prowadzi:
-Mody wyższego rzędu 
-Mod podstawowy lub mody wyższego rzędu 
-Tylko mod podstawowy 
-Mod podstawowy i mody wyższego rzędu

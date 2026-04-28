@@ -1,6 +1,0 @@
-X0010
-Właściwe jednostki, w których wyraża się zysk antenowy to:
-[dB], [dBm]
-[dBm], [dBW]
-[dBi], [dBd]
-[dB]

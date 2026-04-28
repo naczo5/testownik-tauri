@@ -1,6 +1,0 @@
-X0100
-Które ze zdań jest prawdziwe dla bezprzewodowych sieci sensorowych (WSN)?
-zagadnieniem priorytetowym dla WSN jest duża przepustowość
-typowym przykładem systemu WSN jest ZigBee
-zagadnieniem priorytetowym dla WSN jest energooszczędność i praca w czasie rzeczywistym
-systemy WSN są zorientowane na użytkownika

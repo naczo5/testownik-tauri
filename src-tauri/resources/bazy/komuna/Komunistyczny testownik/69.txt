@@ -1,6 +1,0 @@
-X0001
-Technika zwielokrotnienia FDM polega na:
-wielokrotnym, sekwencyjnym wykorzystywaniu tego samego kanału transmisyjnego
-wielokrotnym wykorzystywaniu tego samego przedziału czasu w obrębie tego samego medium transmisyjnego
-wielokrotnym wykorzystywaniu tego samego zakresu częstotliwości w obrębie tego samego medium transmisyjnego
-zwiększeniu wykorzystywanego zakresu częstotliwości w obrębie tego samego medium transmisyjnego

@@ -1,6 +1,0 @@
-X0001
-Jaki efekt przyniesie w poprawnie zaprojektowanej sieci komórkowej zwiększenie liczebności klastra częstotliwościowego (N - grupy komórek, którym przydzielono różne kanały radiowe)?
-zwiększenie pojemności transmisyjnej poszczególnych stacji bazowych i zwiększenie pojemności transmisyjnej całej sieci
-zwiększenie liczby stacji bazowych w sieci i zwiększenie pojemności transmisyjnej całej sieci
-zwiększenie poziomu zakłóceń wspólnokanałowych na obszarze sieci i gorszą jakość transmisji na krańcach poszczególnych komórek, przy braku wpływu na pojemność transmisyjną sieci
-zmniejszenie poziomu zakłóceń wspólnokanałowych na obszarze sieci i poprawę jakości i szybkości transmisji na krańcach poszczególnych komórek, przy mniejszej pojemności transmisyjnej sieci
