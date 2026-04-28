@@ -1,6 +1,6 @@
 [package]
 name = "testownik-app"
-version = "0.1.6"
+version = "0.1.7"
 description = "Desktop app for practicing exam questions with import/export support."
 authors = ["Testownik contributors"]
 edition = "2021"
