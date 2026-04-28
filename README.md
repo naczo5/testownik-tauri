@@ -1,90 +1,90 @@
 # Testownik
 
-Testownik to aplikacja desktopowa (Tauri + React + TypeScript) do nauki na bazach pytań: rozwiązywanie testów, śledzenie postępów, import różnych formatów i eksport do Anki. Działa na Windowsie i Linuxie.
+Testownik is a desktop application (Tauri + React + TypeScript) for practicing question bases: solving tests, tracking progress, importing different base formats, and exporting to Anki. It runs on Windows and Linux.
 
-## Najważniejsze funkcje
+## Key features
 
-- Rozwiązywanie baz pytań z zapisem postępu per baza
-- Import starszego formatu katalogowego (`.txt` + obrazy)
-- Import nowszego formatu JSON (`.json`)
-- Edycja pytań i odpowiedzi bezpośrednio w aplikacji
-- Eksport bazy do formatu Anki (`.txt` + katalog `media/`)
+- Solve question bases with per-base progress tracking
+- Import legacy directory format (`.txt` + images)
+- Import newer JSON format (`.json`)
+- Edit questions and answers directly in the app
+- Export a base to Anki format (`.txt` + `media/` directory)
 
-## Wymagania
+## Requirements
 
 - Node.js 20+
 - Rust (stable)
-- Wymagania systemowe Tauri dla Twojego systemu
+- Tauri build prerequisites for your operating system
 
-## Szybki start (development)
+## Quick start (development)
 
 ```bash
 npm ci
 npm run tauri dev
 ```
 
-## Build frontendu
+## Frontend build
 
 ```bash
 npm run build
 ```
 
-## Wspierane formaty baz (schematy)
+## Supported base formats (schematics)
 
-### 1) Stary format (`.txt`) — import katalogu
+### 1) Legacy format (`.txt`) — directory import
 
-Aplikacja akceptuje jeden z poniższych układów (wybierasz katalog główny importu):
+The app accepts one of the following layouts (you select the top-level import directory):
 
 ```text
-wybrany_katalog/
+selected_directory/
 ├─ baza/
 │  ├─ 001.txt
 │  ├─ 002.txt
-│  └─ obrazek1.png
+│  └─ image1.png
 ├─ 001.txt
 ├─ 002.txt
-└─ nazwa_bazy/
+└─ base_name/
    ├─ baza/
    │  ├─ 001.txt
-   │  └─ obrazek2.jpg
+   │  └─ image2.jpg
    └─ 001.txt
 ```
 
-Obsługiwane rozszerzenia obrazów: `png`, `jpg`, `jpeg`, `gif`, `webp`.
+Supported image extensions: `png`, `jpg`, `jpeg`, `gif`, `webp`.
 
-Schemat pojedynczego pliku pytania `.txt`:
+Single `.txt` question file format:
 
 ```text
 X1010
-Treść pytania...
-[img]obraz_pytania.png[/img]
-a) Odpowiedź A
-b) [img]obraz_odpowiedzi_b.jpg[/img]
-c) Odpowiedź C
-d) Odpowiedź D
+Question content...
+[img]question_image.png[/img]
+a) Answer A
+b) [img]answer_b_image.jpg[/img]
+c) Answer C
+d) Answer D
 ```
 
-Znaczenie pierwszej linii (`X...`): po `X` kolejne znaki `1/0` oznaczają poprawność odpowiedzi `a..h` (np. `X1010` => poprawne: `a`, `c`).
+Meaning of the first line (`X...`): after `X`, each `1/0` marks correctness for answers `a..h` (e.g. `X1010` => correct: `a`, `c`).
 
-### 2) Nowy format (`.json`) — import pliku
+### 2) New format (`.json`) — file import
 
-Minimalny schemat danych:
+Minimal data schema:
 
 ```json
 {
-  "name": "Nazwa bazy",
-  "slug": "nazwa-bazy",
-  "displayName": "Nazwa Bazy",
+  "name": "Base Name",
+  "slug": "base-name",
+  "displayName": "Base Name",
   "description": "",
   "questionCount": 1,
   "questions": [
     {
       "id": "q1",
-      "question": "Treść pytania",
-      "images": ["pytanie.png"],
+      "question": "Question content",
+      "images": ["question.png"],
       "answers": [
-        { "key": "a", "text": "Odpowiedź A" },
-        { "key": "b", "image": "odp_b.jpg" }
+        { "key": "a", "text": "Answer A" },
+        { "key": "b", "image": "answer_b.jpg" }
       ],
       "correct": ["a"]
     }
@@ -92,10 +92,10 @@ Minimalny schemat danych:
 }
 ```
 
-Opcjonalne źródła obrazów przy imporcie nowego formatu (względem katalogu z plikiem `.json`):
+Optional image source locations during new-format import (relative to the `.json` file directory):
 
 ```text
-katalog_z_json/
+json_directory/
 ├─ baza.json
 ├─ baza/
 │  └─ ...
@@ -104,37 +104,37 @@ katalog_z_json/
    └─ <name>/baza/...
 ```
 
-### 3) Eksport do Anki
+### 3) Export to Anki
 
-Po eksporcie do wybranego katalogu:
+After export to a selected directory:
 
 ```text
-folder_eksportu/
+export_directory/
 ├─ <slug>.txt
 └─ media/
-   ├─ <slug>_<id_pytania>_<nazwa_obrazu_1>
-   └─ <slug>_<id_pytania>_<nazwa_obrazu_2>
+   ├─ <slug>_<question_id>_<image_name_1>
+   └─ <slug>_<question_id>_<image_name_2>
 ```
 
-Plik `<slug>.txt` zawiera karty w formacie `front<TAB>back` (HTML, `<br>`, `<img ...>`), gotowe do importu w Anki.
+The `<slug>.txt` file contains cards in `front<TAB>back` format (HTML, `<br>`, `<img ...>`), ready to import into Anki.
 
-## Workflow wydań GitHub
+## GitHub release workflow
 
-Repozytorium zawiera `.github/workflows/release.yml`, który buduje **niepodpisane** artefakty dla:
+This repository includes `.github/workflows/release.yml`, which builds **unsigned** release artifacts for:
 
 - Linux (`appimage`, `deb`, `rpm`)
 - Windows (`nsis`)
 
-### Jak przygotować wydanie
+### How to cut a release
 
-1. Utrzymaj zgodne wersje w:
+1. Keep versions aligned in:
    - `package.json`
    - `src-tauri/tauri.conf.json`
    - `src-tauri/Cargo.toml`
-2. Utwórz i wypchnij tag, np. `v0.1.0`.
-3. GitHub Actions uruchomi workflow **Release** i utworzy/zaktualizuje draft wydania.
-4. Zweryfikuj draft i opublikuj wydanie w GitHub.
+2. Create and push a tag, e.g. `v0.1.0`.
+3. GitHub Actions runs the **Release** workflow and creates/updates a draft release.
+4. Review the draft and publish the release on GitHub.
 
-### Uruchomienie ręczne workflow
+### Manual workflow run
 
-- Workflow można uruchomić ręcznie z zakładki Actions, ale użyj **refa taga** (nie gałęzi).
+- You can run the workflow manually from the Actions tab, but use a **tag ref** (not a branch).
