@@ -2,7 +2,7 @@
   "name": "testownik-app",
   "description": "Desktop app for practicing exam questions with import/export support.",
   "private": true,
-  "version": "0.1.5",
+  "version": "0.1.6",
   "type": "module",
   "scripts": {
     "dev": "vite",
