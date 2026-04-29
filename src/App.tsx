@@ -4,8 +4,10 @@ import { getBasesIndex, getBase, saveBase, getImageUrl, importOldBase, importNew
 import { open } from "@tauri-apps/plugin-dialog";
 import { openUrl } from "@tauri-apps/plugin-opener";
 
-type Screen = "select" | "quiz" | "results";
+type Screen = "select" | "quiz" | "results" | "settings";
+type NonSettingsScreen = Exclude<Screen, "settings">;
 type ResultsMode = "session" | "completed";
+type AnswerBlurMode = "off" | "conditional" | "always";
 
 interface QuestionStats {
   attempts: number;
@@ -19,8 +21,40 @@ interface BaseProgress {
   questionStats: Record<string, QuestionStats>;
 }
 
+interface AppSettings {
+  answerBlurMode: AnswerBlurMode;
+  answerBlurThreshold: number;
+}
+
 const PROGRESS_STORAGE_KEY = "testownik_progress";
+const SETTINGS_STORAGE_KEY = "testownik_settings";
 const GEMINI_SEARCH_PREFIX = "Pomóż mi odpowiedzieć na to pytanie:";
+const DEFAULT_SETTINGS: AppSettings = {
+  answerBlurMode: "off",
+  answerBlurThreshold: 1,
+};
+
+const normalizeBlurThreshold = (value: unknown): number => {
+  const parsed = typeof value === "number" ? value : Number(value);
+  if (!Number.isFinite(parsed)) return DEFAULT_SETTINGS.answerBlurThreshold;
+  return Math.min(20, Math.max(1, Math.floor(parsed)));
+};
+
+const normalizeSettings = (value: unknown): AppSettings => {
+  if (!value || typeof value !== "object") return DEFAULT_SETTINGS;
+  const candidate = value as Partial<AppSettings>;
+  const answerBlurMode: AnswerBlurMode =
+    candidate.answerBlurMode === "off" ||
+    candidate.answerBlurMode === "conditional" ||
+    candidate.answerBlurMode === "always"
+      ? candidate.answerBlurMode
+      : DEFAULT_SETTINGS.answerBlurMode;
+
+  return {
+    answerBlurMode,
+    answerBlurThreshold: normalizeBlurThreshold(candidate.answerBlurThreshold),
+  };
+};
 
 const normalizeSearchText = (value: string): string => value.replace(/\s+/g, " ").trim();
 
@@ -98,6 +132,10 @@ const persistProgressData = (data: Record<string, BaseProgress>) => {
   localStorage.setItem(PROGRESS_STORAGE_KEY, JSON.stringify(data));
 };
 
+const persistSettings = (settings: AppSettings) => {
+  localStorage.setItem(SETTINGS_STORAGE_KEY, JSON.stringify(settings));
+};
+
 const cloneQuestion = (question: Question): Question => ({
   ...question,
   images: question.images ? [...question.images] : undefined,
@@ -143,6 +181,8 @@ function App() {
   const [correctAnswersCount, setCorrectAnswersCount] = useState(0);
   const [resultsMode, setResultsMode] = useState<ResultsMode>("session");
   const [completedStats, setCompletedStats] = useState({ correct: 0, wrong: 0 });
+  const [settings, setSettings] = useState<AppSettings>(DEFAULT_SETTINGS);
+  const [lastNonSettingsScreen, setLastNonSettingsScreen] = useState<NonSettingsScreen>("select");
 
   // Edit State
   const [editQuestionText, setEditQuestionText] = useState("");
@@ -155,7 +195,14 @@ function App() {
   useEffect(() => {
     loadBases();
     loadProgress();
+    loadSettings();
   }, []);
+
+  useEffect(() => {
+    if (screen !== "settings") {
+      setLastNonSettingsScreen(screen);
+    }
+  }, [screen]);
 
   const loadBases = async () => {
     try {
@@ -175,6 +222,24 @@ function App() {
         console.error("Failed to parse progress data", e);
       }
     }
+  };
+
+  const loadSettings = () => {
+    const data = localStorage.getItem(SETTINGS_STORAGE_KEY);
+    if (!data) return;
+    try {
+      setSettings(normalizeSettings(JSON.parse(data)));
+    } catch (e) {
+      console.error("Failed to parse settings data", e);
+    }
+  };
+
+  const updateSettings = (updates: Partial<AppSettings>) => {
+    setSettings(prev => {
+      const next = normalizeSettings({ ...prev, ...updates });
+      persistSettings(next);
+      return next;
+    });
   };
 
   const startQuiz = async (slug: string, forceRestart = false) => {
@@ -428,8 +493,24 @@ function App() {
     }
   };
 
+  const openSettings = () => {
+    setScreen("settings");
+  };
+
+  const closeSettings = () => {
+    setScreen(lastNonSettingsScreen);
+  };
+
   const currentQ = shuffledQuestions[currentQuestionIndex];
   const geminiSearchUrl = currentQ ? buildGeminiSearchUrl(currentQ) : null;
+  const shouldBlurCurrentAnswers = Boolean(
+    currentQ &&
+      !isEditing &&
+      !isAnswerChecked &&
+      (settings.answerBlurMode === "always" ||
+        (settings.answerBlurMode === "conditional" &&
+          currentQ.answers.length <= settings.answerBlurThreshold)),
+  );
   
   const [imageUrls, setImageUrls] = useState<Record<string, string>>({});
   
@@ -516,6 +597,17 @@ function App() {
       <header className="header">
         <div className="header-content">
           <h1 className="logo">📚 Testownik</h1>
+          <div className="header-actions">
+            {screen === "settings" ? (
+              <button className="btn btn-secondary btn-header" onClick={closeSettings}>
+                ← Wróć
+              </button>
+            ) : (
+              <button className="btn btn-secondary btn-header" onClick={openSettings}>
+                ⚙️ Ustawienia
+              </button>
+            )}
+          </div>
         </div>
       </header>
 
@@ -569,6 +661,62 @@ function App() {
                   </div>
                 );
               })}
+            </div>
+          </section>
+        )}
+
+        {screen === "settings" && (
+          <section className="screen screen-settings">
+            <h2 className="screen-title">Ustawienia</h2>
+            <p className="screen-subtitle">Dopasuj zachowanie odpowiedzi do swojego stylu nauki.</p>
+
+            <div className="settings-card">
+              <div className="settings-row">
+                <label htmlFor="answer-blur-mode" className="settings-label">
+                  Rozmywanie możliwych odpowiedzi
+                </label>
+                <select
+                  id="answer-blur-mode"
+                  className="settings-select"
+                  value={settings.answerBlurMode}
+                  onChange={e => {
+                    const nextMode = e.target.value;
+                    if (nextMode === "off" || nextMode === "conditional" || nextMode === "always") {
+                      updateSettings({ answerBlurMode: nextMode });
+                    }
+                  }}
+                >
+                  <option value="off">Wyłączone</option>
+                  <option value="conditional">Warunkowe (gdy liczba odpowiedzi ≤ X)</option>
+                  <option value="always">Zawsze</option>
+                </select>
+                <p className="settings-help">Rozmycie znika po kliknięciu „Sprawdź”.</p>
+              </div>
+
+              {settings.answerBlurMode === "conditional" && (
+                <div className="settings-row">
+                  <label htmlFor="answer-blur-threshold" className="settings-label">
+                    Próg X (domyślnie 1)
+                  </label>
+                  <input
+                    id="answer-blur-threshold"
+                    className="settings-input"
+                    type="number"
+                    min={1}
+                    max={20}
+                    value={settings.answerBlurThreshold}
+                    onChange={e => {
+                      const threshold = Number.parseInt(e.target.value, 10);
+                      if (!Number.isNaN(threshold)) {
+                        updateSettings({ answerBlurThreshold: threshold });
+                      }
+                    }}
+                  />
+                  <p className="settings-help">
+                    Rozmyj odpowiedzi, gdy liczba opcji w pytaniu jest mniejsza lub równa X.
+                  </p>
+                </div>
+              )}
             </div>
           </section>
         )}
@@ -638,7 +786,7 @@ function App() {
                       />
                     )}
                     <span className="answer-key">{ans.key}</span>
-                    <span className="answer-text">
+                    <span className={`answer-text${shouldBlurCurrentAnswers ? " answer-text-blurred" : ""}`}>
                       {ans.image && imageUrls[ans.image] ? (
                         <img src={imageUrls[ans.image]} alt="A" className="answer-image" />
                       ) : isEditing ? (
@@ -658,7 +806,7 @@ function App() {
               })}
             </div>
 
-            <div className="actions">
+            <div className={isEditing ? "actions" : "actions-quiz"}>
               {isEditing ? (
                 <>
                   <button className="btn btn-secondary" onClick={toggleEdit}>❌ Anuluj</button>
@@ -666,21 +814,25 @@ function App() {
                 </>
               ) : (
                 <>
-                  <button className="btn btn-secondary" onClick={toggleEdit}>✏️ Edytuj</button>
-                  <button className="btn btn-secondary" onClick={() => setScreen("select")}>← Wróć do listy</button>
-                  <button className="btn btn-secondary" onClick={handleOpenGeminiSearch} disabled={!geminiSearchUrl}>
-                    🤖 Zapytaj Gemini AI
-                  </button>
-                  {!isAnswerChecked && (
-                    <button className="btn btn-primary" onClick={checkAnswer} disabled={selectedAnswers.size === 0}>
-                      Sprawdź
+                  <div className="actions-quiz-secondary">
+                    <button className="btn btn-secondary" onClick={toggleEdit}>✏️ Edytuj</button>
+                    <button className="btn btn-secondary" onClick={() => setScreen("select")}>← Wróć do listy</button>
+                    <button className="btn btn-secondary" onClick={handleOpenGeminiSearch} disabled={!geminiSearchUrl}>
+                      🤖 Zapytaj Gemini AI
                     </button>
-                  )}
-                  {isAnswerChecked && (
-                    <button className="btn btn-primary" onClick={nextQuestion}>
-                      Następne pytanie →
-                    </button>
-                  )}
+                  </div>
+                  <div className="actions-quiz-primary">
+                    {!isAnswerChecked && (
+                      <button className="btn btn-primary" onClick={checkAnswer} disabled={selectedAnswers.size === 0}>
+                        Sprawdź
+                      </button>
+                    )}
+                    {isAnswerChecked && (
+                      <button className="btn btn-primary" onClick={nextQuestion}>
+                        Następne pytanie →
+                      </button>
+                    )}
+                  </div>
                 </>
               )}
             </div>
