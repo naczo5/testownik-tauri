@@ -1,6 +1,0 @@
-X0010
-Modulacja cyfrowa to modulacja, w której:
-sygnał nośny ma postać cyfrową
-zarówno sygnał nośny jak i informacyjny ma postać cyfrową
-sygnał informacyjny ma postać cyfrową
-nie ma modulacji cyfrowych, są tylko analogowe

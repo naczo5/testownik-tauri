@@ -1,6 +1,0 @@
-X0001
-Wybierz poprawne stwierdzenie dotyczące stosu protokołów:
-stos protokołów TCP/IP tworzą zamknięte standardy
-protokół IPv6 nie należy do stosu TCP/IP
-użycie protokołów otwartych wymaga zgody ich twórców
-stos protokołów jest zbiorem protokołów współpracujących ze sobą w celu zapewnienia komunikacji w sieci

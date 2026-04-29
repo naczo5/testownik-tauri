@@ -1,6 +1,0 @@
-X0010
-Które stwierdzenie jest prawdziwe w odniesieniu do systemu Bluetooth:
-maksymalna szybkość transmisji w systemie Bluetooth 1.2 wynosi 54 Mb/s
-do urzadzenia Bluetooth może się przyłączyć maksymalnie 512 innych urządzeń
-kanał częstotliwościowy zmienia się wielokrotnie w trakcie transmisji
-pasmo pracy to ISM 5 GHz

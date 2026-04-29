@@ -1,6 +1,0 @@
-X0010
-Charakterystyką promieniowania anteny możemy się posługiwać dopiero w tzw. dalekiej strefie promieniowania. W przypadku anteny parabolicznej o średnicy 1,5 m nadającej falę o długości 5 cm (częstotliwość 6 GHz) strefa ta zaczyna się w odległości:
-0,9 m
-9 m
-90 m
-60 m

@@ -1,6 +1,0 @@
-X0010
-Twierdzenie Shannona-Hartleya: 
-umożliwia dobranie kodowania do typu kanału telekomunikacyjnego 
-umożliwia wyznaczenie częstotliwości próbkowania sygnału analogowego 
-umożliwia wyznaczenie teoretycznej pojemności kanału telekomunikacyjnego
-zadna z pozostałych odpowiedzi nie jest prawidłowa

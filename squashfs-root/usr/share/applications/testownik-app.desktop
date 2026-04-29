@@ -1,9 +1,0 @@
-[Desktop Entry]
-Categories=
-Comment=A Tauri App
-Exec=testownik-app
-StartupWMClass=testownik-app
-Icon=testownik-app
-Name=testownik-app
-Terminal=false
-Type=Application

@@ -1,6 +1,0 @@
-X0010
-Najmniejsze opóźnienie propagacyjne sygnału przekazywanego z Ziemi poprzez satelitę geostacjonarnego na Ziemię wynosi:
-708 ms
-119 ms
-238 ms
-476 ms

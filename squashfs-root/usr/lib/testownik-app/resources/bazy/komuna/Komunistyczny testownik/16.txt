@@ -1,6 +1,0 @@
-X0010
-Czym różni się korekcja błędów w przód (FEC) od automatycznego żądania powtórzenia (ARQ)?
-Niczym. To są te same systemy kodowania kanałowego tylko użyte w różnych systemach
-FEC nadaje oddzielnym kanałem bity informacyjne, a oddzielnym bity korekcyjne. Łączenie bitów i korekcja odbywa się dopiero w odbiorniku. Stąd nazwa FEC
-FEC pozwala na korygowanie błędów w odbiorniku, podczas gdy ARQ pozwala tylko na detekcję błędów w odbiorniku
-ARQ dokłada bity nadmiarowe umożliwiające korekcję błędów w odbiorniku na podstawie informacji z odbiornika o jakości kanału telekomunikacyjnego

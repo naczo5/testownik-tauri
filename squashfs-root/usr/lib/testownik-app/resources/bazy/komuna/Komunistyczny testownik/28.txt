@@ -1,6 +1,0 @@
-X0010
-Do urządzeń końcowych należą:
-routery
-przełączniki
-tablety
-punkty dostępowe

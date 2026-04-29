@@ -1,6 +1,0 @@
-X0100
-Po co wykonuje się kodowanie kanałowe?
-zabezpieczenie przed podsłuchem
-zabezpieczenie przed losowymi zakłóceniami
-zabezpieczenie przed intencjonalną zmianą sygnału
-zmniejszenie entropii

@@ -1,6 +1,0 @@
-X0100
-Na podstawie prawa Shannona stosunek sygnał/szum (S/N) wynosi 20 dB. Ile wynosi stosunek pojemności informacyjnej do szerokości pasma [kB/s/Hz]:
-1
-7
-10
-4

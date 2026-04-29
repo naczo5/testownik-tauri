@@ -1,6 +1,0 @@
-X0010
-Dopasowanie impedancyjne n=(Z1-Z2)/(Z1+Z2) dwóch odcinków kabla o impedancjach charakterystycznych, odpowiednio Z1 i Z2, ma miejsce jeżeli:
-n = 1
-n = ?
-n = 0
-Z1 >> Z2

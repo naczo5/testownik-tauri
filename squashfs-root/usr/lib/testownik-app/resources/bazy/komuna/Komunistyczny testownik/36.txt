@@ -1,6 +1,0 @@
-X0010
-Do urządzeń pośredniczących nie należą:
-punkty dostępowe
-przełączniki
-telefony VoIP
-routery

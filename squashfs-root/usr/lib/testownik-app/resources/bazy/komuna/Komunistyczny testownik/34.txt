@@ -1,6 +1,0 @@
-X0010
-W przypadku modulacji cyfrowych demodulacja optymalna to proces, który:
-minimalizuje zasoby widmowe potrzebne do transmisji informacji
-maksymalizuje szybkość transmisji informacji
-minimalizuje prawdopodobieństwo wystąpienia błędów w procesie wydzielania informacji
-minimalizuje wydatek energetyczny potrzebny do transmisji informacji

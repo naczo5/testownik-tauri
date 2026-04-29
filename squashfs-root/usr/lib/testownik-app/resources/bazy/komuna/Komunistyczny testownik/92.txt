@@ -1,6 +1,0 @@
-X0010
-Skręcanie żył w kablu UTP ma za zadanie: 
-nie ma żadnego specjalnego zadania 
-nadanie odpowiedniej elastyczności przewodu 
-kasowanie zakłóceń pochodzących od drugiego przewodu w parze 
-ułatwienie zamocowania złącza RJ-45

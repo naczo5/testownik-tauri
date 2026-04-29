@@ -1,6 +1,0 @@
-X0001
-Do głównych etapów samego procesu modulacji cyfrowej należą:
-przetwarzanie AC i CA
-próbkowanie, kwantyzacja i kodowanie 
-mieszanie symboli z harmoniczną falą nośną 
-podział strumienia binarnego na symbole i przyporządkowanie zbioru symboli do zbioru sygnałów

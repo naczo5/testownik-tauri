@@ -1,6 +1,0 @@
-X0001
-Dwużyłowy kabel miedziany jest symetryczny, jeżeli parametry pierwotne linii długiej R,L,C i G każdego z przewodników spełniają następujący warunek:
-a) R1>R2; L1>L2; C1<C2; G1<G2 
-b) R1<R2; L1<L2; C1<C2; G1<G2 
-c) R1<R2; L1<L2; C1>C2; G1>G2 
-d) R1=R2; L1=L2; C1=C2; G1=G2

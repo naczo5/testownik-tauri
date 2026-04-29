@@ -1,6 +1,0 @@
-X0010
-Jakie procesy zachodzą przy odbiorze w systemie telekomunikacyjnym?
-demodulacja, dekodowanie źródłowe, dekodowanie kanałowe
-demodulacja, kodowanie kanałowe, kodowanie źródłowe
-demodulacja, dekodowanie kanałowe, dekodowanie źródłowe
-demodulacja, kodowanie źródłowe, kodowanie kanałowe

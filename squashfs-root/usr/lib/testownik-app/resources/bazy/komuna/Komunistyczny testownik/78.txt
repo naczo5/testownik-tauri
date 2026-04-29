@@ -1,6 +1,0 @@
-X1000
-Wybrać poprawną kontynuację zdania: Kod Huffmana...
-zapewnia optymalne zakodowanie informacji (maksymalizacja entropii)
-jest jedną z interpretacji entropii
-jest kodem korekcyjnym
-jest algorytmem szyfrującym

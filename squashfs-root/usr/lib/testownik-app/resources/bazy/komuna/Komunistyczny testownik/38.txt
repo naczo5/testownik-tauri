@@ -1,6 +1,0 @@
-X0001
-Satelita pracujący w technice "bent pipe" po odebraniu sygnału realizuje następujące operacje:
-demoduluje sygnał szerokopasmowy, wzmacnia go, modeluje ponownie, przenosi do pasma (DL), wzmacnia i emituje w kierunku Ziemi
-demoduluje i dekoduje sygnał, poprawia błędy, ponownie koduje i modeluje, wzmacnia i emituje w kierunku Ziemi	
-demoduluje i dekoduje sygnał, poprawia błędy, ponownie koduje i modeluje oraz przenosi do pasma (DL), wzmacnia i emituje w kierunku Ziemi
-przenosi sygnał szerokopasmowy do pasma łącza w dół (DL), wzmacnia go i emituje w kierunku Ziemi

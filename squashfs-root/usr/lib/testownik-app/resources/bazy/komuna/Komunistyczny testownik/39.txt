@@ -1,6 +1,0 @@
-X0010
-Aktualnie stosowany w Polsce system telewizji naziemnej to:
-DVBS MPEG 2
-DVBT MPEG 2
-DVBT MPEG 4
-DVBS MPEG 4

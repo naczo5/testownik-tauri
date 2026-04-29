@@ -10,6 +10,8 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+src-tauri/target/
+squashfs-root/
 *.local
 old-testownik/
 

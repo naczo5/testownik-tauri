@@ -1,6 +1,0 @@
-X0010
-W systemach okablowania strukturalnego zaleca się stosowanie kabli symetrycznych zrównoważonych o impedancji charakterystycznej: 
-75 OHM +/- 3 OHM 
-50 OHM +/- 2 OHM 
-100 OHM +/-15 ОНМ 
-120 OHM +/-15 ОНМ

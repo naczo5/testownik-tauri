@@ -1,6 +1,0 @@
-X0100
-Modulacja polega na:
-zwiększeniu odporności przesyłanej informacji na zakłócenia za pomocą operacji mieszania z tzw. sygnałem zabezpieczającym
-uzależnieniu sygnału nośnego od sygnału pierwotnego
-dowolnej zmianie parametrów sygnału pierwotnego, która umożliwi zmniejszenie wpływu zakłóceń na informację w kanale transmisyjnym
-transmisji informacji łącznie z dodatkowym sygnałem nośnym
