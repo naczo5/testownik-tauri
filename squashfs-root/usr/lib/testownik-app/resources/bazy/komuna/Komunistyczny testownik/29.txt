@@ -1,0 +1,6 @@
+X0001
+Techniki xDSL jako medium transmisyjne wykorzystują:
+światłowód
+miedziany kabel koncentryczny
+falowód
+skrętkę miedzianą

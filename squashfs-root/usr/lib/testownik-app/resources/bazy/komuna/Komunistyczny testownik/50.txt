@@ -1,0 +1,6 @@
+X1000
+Transformata Fouriera:
+umożliwia przejście z dziedziny czasu na dziedzinę częstotliwości
+umożliwia przejście z dziedziny częstotliwości na dziedzinę czasu
+umożliwia przejście z dziedziny czasu na dziedzinę amplitudy
+jest nieodwracalna

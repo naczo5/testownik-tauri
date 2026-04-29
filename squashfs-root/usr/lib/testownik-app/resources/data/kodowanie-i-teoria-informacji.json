@@ -1,0 +1,2930 @@
+{
+  "name": "Kodowanie-i-teoria-informacji",
+  "displayName": "Kodowanie i teoria informacji",
+  "description": "Testownik do Kodowania do wykładu dr Borowca",
+  "questionCount": 111,
+  "questions": [
+    {
+      "id": "001",
+      "question": "Kody ściśle równoważne charakteryzują się następującymi cechami:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mają inne przyporządkowanie słów informacyjnych do słów kodowych"
+        },
+        {
+          "key": "b",
+          "text": "mają takie same macierze generujące"
+        },
+        {
+          "key": "c",
+          "text": "mają tą samą zdolność korekcyjną i detekcyjną"
+        },
+        {
+          "key": "d",
+          "text": "mają ten sam zbiór słów kodowych i informacyjnych ale inne przyporządkowanie pomiędzy słowami kodowymi i informacyjnymi."
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "002",
+      "question": "Kod równoległy jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kodem liniowym blokowym"
+        },
+        {
+          "key": "b",
+          "text": "kodem cyklicznym"
+        },
+        {
+          "key": "c",
+          "text": "kodem splotowym"
+        },
+        {
+          "key": "d",
+          "text": "szczególnym przypadkiem kodu Mac Donalda"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "003",
+      "question": "Zależność zapisana wzorem c(x)=R_(x^n+1)*[h(x)*g(x)] umożliwia:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "na nic nie pozwala"
+        },
+        {
+          "key": "b",
+          "text": "sprawdzenie, czy wielomian g(x) jest wielomianem generującym kod"
+        },
+        {
+          "key": "c",
+          "text": "wyznaczenie słów kodu systematycznego"
+        },
+        {
+          "key": "d",
+          "text": "wyznaczenie słów kodu niesystematycznego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "004",
+      "question": "Mając do dyspozycji wagę Hamminga syndromu możemy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "określić długość odebranych ciągów"
+        },
+        {
+          "key": "b",
+          "text": "nic nie możemy"
+        },
+        {
+          "key": "c",
+          "text": "określić liczbę błędów"
+        },
+        {
+          "key": "d",
+          "text": "określić, czy ciąg został odebrany poprawnie"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "005",
+      "question": "Jeżeli w ciele CG(p) 3+2=0, to ile wynosi 2-3, w tym ciele?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "-1"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "2"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "006",
+      "question": "Do dekodowania korekcyjnego kodów cyklicznych można zastosować:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "metodę polowania na błędy"
+        },
+        {
+          "key": "b",
+          "text": "miękkodecyzyjny algorytm Viterbiego"
+        },
+        {
+          "key": "c",
+          "text": "tablicę dekodującą"
+        },
+        {
+          "key": "d",
+          "text": "macierz kontrolną"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "007",
+      "question": "Do dekodowania kodów splotowych stosujemy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "macierz kontrolną H"
+        },
+        {
+          "key": "b",
+          "text": "metodę polowania na błędy?"
+        },
+        {
+          "key": "c",
+          "text": "algorytm Viterbiego"
+        },
+        {
+          "key": "d",
+          "text": "tablicę dekodującą"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "008",
+      "question": "Termin: „Przekształcenie f jest izomorficzne” oznacza, że:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przekształcenie f jest funkcją stałą niezależną od argumentu"
+        },
+        {
+          "key": "b",
+          "text": "przekształcenie f jest liniowe i wzajemnie jednoznaczne"
+        },
+        {
+          "key": "c",
+          "text": "przekształcenie f jest wzajemnie jednoznaczne, ale nie musi być liniowe"
+        },
+        {
+          "key": "d",
+          "text": "przekształcenie f jest liniowe"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "009",
+      "question": "Mamy kod cykliczny o parametrach (n, k). Jaki jest stopień wielomianu do zapisu słowa informacyjnego?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "k-1"
+        },
+        {
+          "key": "b",
+          "text": "n-k-1"
+        },
+        {
+          "key": "c",
+          "text": "n-1"
+        },
+        {
+          "key": "d",
+          "text": "n-k"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "010",
+      "question": "Dany jest kod liniowy o parametrach (n, k), to syndrom będzie miał długość:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "n+k"
+        },
+        {
+          "key": "b",
+          "text": "k"
+        },
+        {
+          "key": "c",
+          "text": "n"
+        },
+        {
+          "key": "d",
+          "text": "n-k"
+        },
+        {
+          "key": "e",
+          "text": "n-k-1"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "011",
+      "question": "Proszę wskazać, które z wymienionych zbiorów liczb mogą stanowić elementy ciała prostego Galoisa:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "0,1"
+        },
+        {
+          "key": "b",
+          "text": "1,2,3"
+        },
+        {
+          "key": "c",
+          "text": "0,1,2"
+        },
+        {
+          "key": "d",
+          "text": "0,1,2,3,4"
+        },
+        {
+          "key": "e",
+          "text": "1,2,3,4,5"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "012",
+      "question": "Do czego służy macierz kontrolna H^t?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "do kontroli poprawności ciągu odebranego przez dekoder"
+        },
+        {
+          "key": "b",
+          "text": "do generowania słów informacyjnych ze słów odebranych"
+        },
+        {
+          "key": "c",
+          "text": "do wyznaczania syndromu ciągu odebranego przez dekoder"
+        },
+        {
+          "key": "d",
+          "text": "do mnożenia słów kodowych celem przekonania się czy są one kodowe przed wysłaniem w kanał telekomunikacyjny"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "013",
+      "question": "Proszę podać ile wynosi zdolność detekcyjna kodu, jeżeli odległość minimalna w zbiorze słów kodowych wynosi dmin=1",
+      "answers": [
+        {
+          "key": "a",
+          "text": "0"
+        },
+        {
+          "key": "b",
+          "text": "1"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "3"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "014",
+      "question": "Kodowanie kanałowe informacji ma za zadanie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zabezpieczenie informacji przed przypadkowymi błędami"
+        },
+        {
+          "key": "b",
+          "text": "zabezpieczenie informacji przed celowym przekłamaniem"
+        },
+        {
+          "key": "c",
+          "text": "zabezpieczenie informacji przed niepowołanym dostępem"
+        },
+        {
+          "key": "d",
+          "text": "dopasowanie sygnału cyfrowego do standardu stosowanego w komputerach PC"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "015",
+      "question": "Czy wektory bazowe rozpinające przestrzeń liniową muszą być ortogonalne?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie, ale pod warunkiem, że jest ich więcej niż dwa"
+        },
+        {
+          "key": "b",
+          "text": "tak, a ponadto muszą być liniowo niezależne"
+        },
+        {
+          "key": "c",
+          "text": "ctak"
+        },
+        {
+          "key": "d",
+          "text": "nie, ale muszą być liniowo niezależne"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "016",
+      "question": "Czy kod z bitem parzystości jest kodem systematycznym rozdzielnym?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tak"
+        },
+        {
+          "key": "b",
+          "text": "kod z bitem parzystości nie ma szansy być kodem systematycznym, gdyż jest to kod splotowy"
+        },
+        {
+          "key": "c",
+          "text": "tak, ale tylko wtedy, gdy bit parzystości będzie na początku"
+        },
+        {
+          "key": "d",
+          "text": "nie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "017",
+      "question": "Ilu wymiarową przestrzeń rozepnie pięć równoległych wektorów o różnych długościach?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "0"
+        },
+        {
+          "key": "b",
+          "text": "1"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "3"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "018",
+      "question": "Ile wynosi waga Hamminga ciągu: 4310012, którego elementy pochodzą z ciała CG(5)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "3"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "5"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "019",
+      "question": "Co ma na celu wydłużenie słów kodowych na przykład poprzez dodanie do słów kodowych bitu parzystości?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie prowadzi się takiego zabiegu. Co najwyżej dokonywane jest skracanie kodu"
+        },
+        {
+          "key": "b",
+          "text": "poprawienie zdolności detekcyjnej kodu"
+        },
+        {
+          "key": "c",
+          "text": "poprawienie sprawności kodu"
+        },
+        {
+          "key": "d",
+          "text": "poprawienie spójności słów kodowych"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "020",
+      "question": "Jak można obliczyć minimalną odległość Hamminga w zbiorze słów kodowych?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "znajdując słowo kodowe w zbiorze słów kodowych o najmniejszej wadze Hamminga z pominięciem słowa złożonego z samych zer. Waga Hamminga tego słowa jest odległością minimalną w zbiorze słów kodowych"
+        },
+        {
+          "key": "b",
+          "text": "sprawdzając odległości pomiędzy wszystkimi słowami kodowymi i wybierając odległość najmniejszą"
+        },
+        {
+          "key": "c",
+          "text": "znajdując słowo kodowe w zbiorze słów kodowych o najmniejszej wadze Hamminga. Waga Hamminga tego słowa jest odległością minimalną w zbiorze słów kodowych"
+        },
+        {
+          "key": "d",
+          "text": "znajdując najmniejszą liczbę wierszy macierzy generującej sumującej się do zera"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "021",
+      "question": "Waga Hamminga reszty r(x)=R_e(x)*[y(x)] po pierwszym teście jest większa od zdolności korekcyjnej kodu cyklicznego, to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Mogły wystąpic błędy w części informacyjnej"
+        },
+        {
+          "key": "b",
+          "text": "Mogły wystąpić błędy w części informacyjnej i na pewno można je skorygować"
+        },
+        {
+          "key": "c",
+          "text": "Wystąpił na pewno błąd, którego się nie da skorygować"
+        },
+        {
+          "key": "d",
+          "text": "Wystąpiły błędy w części kontrolnej kodu, ale można je skorygować"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "022",
+      "question": "Systematyczny rozdzielny kod cykliczny możemy uzyskać stosujšc regułę kodowania",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c(x)=h(x)g(x)"
+        },
+        {
+          "key": "b",
+          "text": "c(x)=R_(x^n+1)*[c(x)*v(x)]"
+        },
+        {
+          "key": "c",
+          "text": "c(x)=x^r*h(x)+R_g(x)*[x^r*h(x)]"
+        },
+        {
+          "key": "d",
+          "text": "c(x)=R_g(x)*[x^n+1]"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "023",
+      "question": "Jeżeli stopień wielomianu generującego wynosi 3, to syndrom składa się z:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1 bita"
+        },
+        {
+          "key": "b",
+          "text": "2 bitów"
+        },
+        {
+          "key": "c",
+          "text": "3 bitów"
+        },
+        {
+          "key": "d",
+          "text": "4 bitów"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "024",
+      "question": "W wyniku działania algorytmu Viterbiego",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Uzyskujemy informację o ilości nadanych jedynek"
+        },
+        {
+          "key": "b",
+          "text": "Uzyskujemy bloki słów kodowych na wyjściu modulatora"
+        },
+        {
+          "key": "c",
+          "text": "Uzyskujemy estymator informacji nadanej"
+        },
+        {
+          "key": "d",
+          "text": "Jesteśmy w stanie narysować kratę przejścia modulatora"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "025",
+      "question": "Mamy cia³o rozszerzone CG(4). Które z podanych zbiorów nie mog¹ stanowiæ zbioru jego elementów.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "0, 1, x, x+1"
+        },
+        {
+          "key": "b",
+          "text": "0, 1, a, a^2"
+        },
+        {
+          "key": "c",
+          "text": "0, 1, 2, 3"
+        },
+        {
+          "key": "d",
+          "text": "0, a^0, a, a^2"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "026",
+      "question": "Mając do dyspozycji tylko i wyłącznie wielomian generujący kodu cyklicznego możemy wyznaczyć",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Macierz kontrolną kodu"
+        },
+        {
+          "key": "b",
+          "text": "Określić długość syndromu"
+        },
+        {
+          "key": "c",
+          "text": "Macierz generującą kodu"
+        },
+        {
+          "key": "d",
+          "text": "Kratę stanów modulatora"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "027",
+      "question": "Ilu wymiarową przestrzeń mogą rozpiąć 3 wektory 110, 011, 101",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "3"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "028",
+      "question": "Który z kodów nie ma szansy zostać kodem idealnym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "O nieparzystej odległości minimalnej"
+        },
+        {
+          "key": "b",
+          "text": "O zdolności detekcyjnej 2"
+        },
+        {
+          "key": "c",
+          "text": "O parzystej odległości minimalnej"
+        },
+        {
+          "key": "d",
+          "text": "Kod Hamminga"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "029",
+      "question": "Kody splotowe zaliczamy do kodów",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Liniowych"
+        },
+        {
+          "key": "b",
+          "text": "BCH"
+        },
+        {
+          "key": "c",
+          "text": "Blokowych"
+        },
+        {
+          "key": "d",
+          "text": "Cyklicznych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "030",
+      "question": "Który z algorytmów Viterbiego opiera się na minimalizacji drogi przez kratę stanów dekodera",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Algorytm twardodecyzyjny"
+        },
+        {
+          "key": "b",
+          "text": "Algorytm drogi"
+        },
+        {
+          "key": "c",
+          "text": "Algorytm kratowy"
+        },
+        {
+          "key": "d",
+          "text": "Algorytm optymalny"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "031",
+      "question": "Kodowanie kanałowe informacji ma za zadanie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zabezpieczenie informacji przed przypadkowymi błędami"
+        },
+        {
+          "key": "b",
+          "text": "Dopasowanie sygnału cyfrowego do standardu stosowanego w komputerach PC"
+        },
+        {
+          "key": "c",
+          "text": "Zabezpieczenie informacji przed niepowołanym dostępem"
+        },
+        {
+          "key": "d",
+          "text": "Zabezpieczenie informacji przed błędami i podsłuchem"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "032",
+      "question": "Syndrom jest wektorem o długości",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Większej niż długość wektora kodowego"
+        },
+        {
+          "key": "b",
+          "text": "Jest to zawsze tylko jeden bit: 0- informacja poprawna, 1- informacja niepoprawna"
+        },
+        {
+          "key": "c",
+          "text": "Mniejszej od długości wektora kodowego"
+        },
+        {
+          "key": "d",
+          "text": "Równej długości wektora kodowego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "033",
+      "question": "Dany jest wielomian generujący g(x)=x3+x+1. Który z wymienionych kodów może być wygenerowany takim wielomianem",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Cykliczny (3, 1)"
+        },
+        {
+          "key": "b",
+          "text": "BCH (7, 4)"
+        },
+        {
+          "key": "c",
+          "text": "Cykliczny (15, 13)"
+        },
+        {
+          "key": "d",
+          "text": "Cykliczny (7, 3)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "034",
+      "question": "Zdolność korekcyjna kodu o parametrach (n,k) zależy od",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Maksymalnej odległości w zbiorze słów kodowych"
+        },
+        {
+          "key": "b",
+          "text": "Zależy od długości ciągów kodowych"
+        },
+        {
+          "key": "c",
+          "text": "Minimalnej odległości w zbiorze słów kodowych"
+        },
+        {
+          "key": "d",
+          "text": "Od wyniku (n-k)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "035",
+      "question": "Macierz generująca kod dualny do kodu projektowanego jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Macierzą generującą kod"
+        },
+        {
+          "key": "b",
+          "text": "Macierzą kontrolną kodu"
+        },
+        {
+          "key": "c",
+          "text": "Macierzą syndromu"
+        },
+        {
+          "key": "d",
+          "text": "Macierzą zawierającą wszystkie słowa kodowe"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "036",
+      "question": "W którym systemie kodowania występuje macierz generująca półnieskończona",
+      "answers": [
+        {
+          "key": "a",
+          "text": "W kodowaniu cyklicznym"
+        },
+        {
+          "key": "b",
+          "text": "W kodowaniu BCH"
+        },
+        {
+          "key": "c",
+          "text": "W kodach splotowych"
+        },
+        {
+          "key": "d",
+          "text": "Nie ma takiego pojęcia"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "037",
+      "question": "Jeżeli mamy kod cykliczny o parametrach(n, k) to jaki jest stopień wielomianu generującego",
+      "answers": [
+        {
+          "key": "a",
+          "text": "n+k"
+        },
+        {
+          "key": "b",
+          "text": "n-k+1"
+        },
+        {
+          "key": "c",
+          "text": "n-k"
+        },
+        {
+          "key": "d",
+          "text": "n-k-1"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "038",
+      "question": "Który z ciągów kodowych jest wynikiem kodowania z bitem parzystości(tu może być błąd w odpowiedzi)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Ten ciąg kodowy w którym liczba zer jest parzysta"
+        },
+        {
+          "key": "b",
+          "text": "Tylko ciągi kodowe o parzystej długości, w której liczba zer oraz liczba jedynek są parzyste"
+        },
+        {
+          "key": "c",
+          "text": "Suma bitów ciągu kodowego modulo 2 daje w wyniku 0"
+        },
+        {
+          "key": "d",
+          "text": "Suma bitów ciągu kodowego modulo 2 daje w wyniku 1"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "039",
+      "question": "Tablicę dekodowania stosujemy do dekodowania korekcyjnego",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wszystkich kodów"
+        },
+        {
+          "key": "b",
+          "text": "Kodów z bitem parzystości"
+        },
+        {
+          "key": "c",
+          "text": "Wszystkich kodów liniowych blokowych o odległości minimalnej większej niż 2"
+        },
+        {
+          "key": "d",
+          "text": "Wszystkich kodów liniowych blokowych o odległości minimalnej mniejszej niż 3"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "040",
+      "question": "Dany jest binarny blokowy kod liniowy (n, k), to oznacza, że mamy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2^n –słów kodowych i 2^k – słów informacyjnych"
+        },
+        {
+          "key": "b",
+          "text": "2^n –słów kodowych i 2^n – słów informacyjnych"
+        },
+        {
+          "key": "c",
+          "text": "2^k –słów kodowych i 2^k – słów informacyjnych"
+        },
+        {
+          "key": "d",
+          "text": "2^k –słów kodowych i 2^n – słów informacyjnych"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "041",
+      "question": "Niemiecka maszyna szyfrująca ENIGMA",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Dokonywała podstawienia monoalfabetowego"
+        },
+        {
+          "key": "b",
+          "text": "Dokonywała mieszania blokowego"
+        },
+        {
+          "key": "c",
+          "text": "Dokonywała podstawienia wieloalfabetowego"
+        },
+        {
+          "key": "d",
+          "text": "Dokonywała podstawień poligramowych"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "042",
+      "question": "Kiedy entropia osiąga maksymalną wartość",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Kiedy wszystkie informacje są  jednakowo prawdopodobne"
+        },
+        {
+          "key": "b",
+          "text": "Kiedy wszystkie informacje są jednakowe"
+        },
+        {
+          "key": "c",
+          "text": "Maksymalna wartość entropii jest zawsze równa 1"
+        },
+        {
+          "key": "d",
+          "text": "Maksymalna wartość entropii jest nieskończona"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "043",
+      "question": "Poufność doskonałą systemu kryptograficznego osiągamy, gdy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Szyfrogramy są długie"
+        },
+        {
+          "key": "b",
+          "text": "Szyfrogramy są krótkie"
+        },
+        {
+          "key": "c",
+          "text": "Długość klucza jest niemniejsza niż długość szyfrogramu"
+        },
+        {
+          "key": "d",
+          "text": "Długość szyfrogramu jest większa niż długość klucza"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "044",
+      "question": "Szyfr Playfaira jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Szyfrem poligramowym podstawieniowym"
+        },
+        {
+          "key": "b",
+          "text": "Szyfrem poligramowym permutacyjnym"
+        },
+        {
+          "key": "c",
+          "text": "Podstawieniowym monoalfabetycznym"
+        },
+        {
+          "key": "d",
+          "text": "Podstawieniowym wieloalfabetowym"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "045",
+      "question": "Czy szyfr homofoniczny może być teoretycznie nieprzełamywalny ? (dyskusyjne pytanie)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Tak, każdy szyfr homofoniczny jest teoretycznie nieprzełamywalny"
+        },
+        {
+          "key": "b",
+          "text": "Nie"
+        },
+        {
+          "key": "c",
+          "text": "Tak, o ile każdej literze w tekście jawnym będzie odpowiadał jeden homofon"
+        },
+        {
+          "key": "d",
+          "text": "Nie ma możliwości zbudowania takiego szyfru homofonicznego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "046",
+      "question": "Do szyfrów teoretycznie nieprzełamywalnych można zaliczyć szyfrowanie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Z kluczem jednorazowym"
+        },
+        {
+          "key": "b",
+          "text": "IDEA"
+        },
+        {
+          "key": "c",
+          "text": "DES"
+        },
+        {
+          "key": "d",
+          "text": "RSA"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "047",
+      "question": "Kod BCH (n=7,k=4,t=1) to: (Ma współ. wiel. gen na 100 % z drugim średnio)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ciag 1011 może być współczynnikami wielomianu generującego"
+        },
+        {
+          "key": "b",
+          "text": "ciag 1011 może stanowic reszte z dzielenia ciągu odebranego przez wielomian generujący"
+        },
+        {
+          "key": "c",
+          "text": "ciąg 1011 może być ciągiem informacyjnym"
+        },
+        {
+          "key": "d",
+          "text": "ciąg 1011 może być ciągiem kodowym"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "048",
+      "question": "Elementem którego ciała prostego może być liczba 3?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "CG(2)"
+        },
+        {
+          "key": "b",
+          "text": "CG(3)"
+        },
+        {
+          "key": "c",
+          "text": "CG(4)"
+        },
+        {
+          "key": "d",
+          "text": "CG(5)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "049",
+      "question": "ilu wymiarowa przestrzeń mogą rozpiąc trzy wektory równolegle do siebie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "500"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "050",
+      "question": "Czy wektory bazowe przestrzeni muszą być ortogonalne",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tak ponadto musza być linowo niezależne"
+        },
+        {
+          "key": "b",
+          "text": "nie pod warunkiem ze jest ich wiecej niż 2"
+        },
+        {
+          "key": "c",
+          "text": "tak"
+        },
+        {
+          "key": "d",
+          "text": "nie"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "051",
+      "question": "Odległość Hamminga pomiędzy dwoma ciągami 4010301 oraz 2040101 gdzie elementy pochodzą z ciała GC(5) wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "4"
+        },
+        {
+          "key": "b",
+          "text": "ma inna wartośc"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "5"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "052",
+      "question": "Jesli Syndrom S(y) wynosi 101 to oznacze że",
+      "answers": [
+        {
+          "key": "a",
+          "text": "odebrany ciąg y jest błędny Błąd w ciągu y wystąpił na 3 i 1 pozycji"
+        },
+        {
+          "key": "b",
+          "text": "odebrany ciąg jest bezbłędny"
+        },
+        {
+          "key": "c",
+          "text": "odebrany ciąg jest błędny"
+        },
+        {
+          "key": "d",
+          "text": "oznacza coś innego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "053",
+      "question": "Skrócenie kodu powoduje? (ogólnie to sprawność się zwiększy, ale dmin nie będzie mniejsze, także luźno traktujcie tę odp)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększenie sprawnosci i zmniejszenie odległosci minimalnej"
+        },
+        {
+          "key": "b",
+          "text": "zmniejszenie sprawności"
+        },
+        {
+          "key": "c",
+          "text": "nic nie powoduje"
+        },
+        {
+          "key": "d",
+          "text": "powoduje coś"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "054",
+      "question": "Proszę wskazać, których warunków nie spełnia liniowy blokowy kod cykliczny po skróceniu.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Słowa informacyjne i kodowe są wzajemnie jednoznacznie przyporządkowane"
+        },
+        {
+          "key": "b",
+          "text": "Kod jest liniowy"
+        },
+        {
+          "key": "c",
+          "text": "Dowolne przesunięcie cykliczne słowa kodowego daje nam inne słowo kodowe"
+        },
+        {
+          "key": "d",
+          "text": "Suma dwóch dowolnych słów kodowych daje nam inne słowo kodowe"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "055",
+      "question": "Czy kodowanie splotowe nazywamy kodowaniem z pamięcią?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Tak, ponieważ koder pamięta wysyłane symbole."
+        },
+        {
+          "key": "b",
+          "text": "Nie, bo nie ma potrzaby pamiętać nadanych symboli gdyż i tak nie ma możliwości ich retransmisji z powodu braku kanału zwrotnego."
+        },
+        {
+          "key": "c",
+          "text": "Nie! Koder splotowy nie ma pamięci."
+        },
+        {
+          "key": "d",
+          "text": "Tak, bo symbole kodowe na wyjściu kodera zależą nie tylko od symboli aktualnie wchodzących na koder, ale również od stanu kodera."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "056",
+      "question": "Z ilu pozycji składa sie syndrom dla kodu (n,n-1)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "0"
+        },
+        {
+          "key": "c",
+          "text": "ma inna wartosc"
+        },
+        {
+          "key": "d",
+          "text": "1"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "057",
+      "question": "Synonimem kodowania protekcyjnego jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zabezpieczenie przed niepowołanym dostępem"
+        },
+        {
+          "key": "b",
+          "text": "kodowanie źródłowe"
+        },
+        {
+          "key": "c",
+          "text": "kodowanie nadmiarowe"
+        },
+        {
+          "key": "d",
+          "text": "kodowanie kanałowe"
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "058",
+      "question": "Czy kod z bitem parzystości jest kodem systematycznym rozdzielnym?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tak, ale tylko wtedy, gdy byt parzystości będzie na początku"
+        },
+        {
+          "key": "b",
+          "text": "nie"
+        },
+        {
+          "key": "c",
+          "text": "tak"
+        },
+        {
+          "key": "d",
+          "text": "kod z bitem parzystości nie ma szansy być kodem systematycznym, gdyż jest to kod splotowy ma szansy być kodem systematycznym, gdyż jest to kod splotowy"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "059",
+      "question": "Synonim „kodowanie protekcyjne”",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nadmiarowe"
+        },
+        {
+          "key": "b",
+          "text": "inne"
+        },
+        {
+          "key": "c",
+          "text": "liniowe"
+        },
+        {
+          "key": "d",
+          "text": "cykliczne"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "060",
+      "question": "Dany jest wielomian generujący g(x)=x3 + x +1, który z kodów może być nim generowany (różne nazwy)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "BCH"
+        },
+        {
+          "key": "b",
+          "text": "Cykliczny"
+        },
+        {
+          "key": "c",
+          "text": "Niecykliczny"
+        },
+        {
+          "key": "d",
+          "text": "inne"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "061",
+      "question": "Waga Hamminga ciągu 10101 wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "3"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "1"
+        },
+        {
+          "key": "d",
+          "text": "0"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "063",
+      "question": "Jeżeli 3+4=1 to z jakim p w ciele Cg(p) mamy do czynienia",
+      "answers": [
+        {
+          "key": "a",
+          "text": "CG(6)"
+        },
+        {
+          "key": "b",
+          "text": "CG(5)"
+        },
+        {
+          "key": "c",
+          "text": "CG(2)"
+        },
+        {
+          "key": "d",
+          "text": "CG(7)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "064",
+      "question": "Z ilu pozycji składa się syndrom dla kodu (n, n-1)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "0"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "066",
+      "question": "Które z kodów są kodami liniowymi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wszystkie"
+        },
+        {
+          "key": "b",
+          "text": "niektóre"
+        },
+        {
+          "key": "c",
+          "text": "zadne"
+        },
+        {
+          "key": "d",
+          "text": "tylko cykliczne"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "067",
+      "question": "Który z kodów ma szanse być kodem idealnym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Haminga"
+        },
+        {
+          "key": "b",
+          "text": "Pascala"
+        },
+        {
+          "key": "c",
+          "text": "Borowca"
+        },
+        {
+          "key": "d",
+          "text": "Twojego starego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "068",
+      "question": "Do dekodowania korekcyjnego kodów splotowych stosujemy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "algorytm Viterbiego"
+        },
+        {
+          "key": "b",
+          "text": "metodę polowania na błędy"
+        },
+        {
+          "key": "c",
+          "text": "macierz dekodującą"
+        },
+        {
+          "key": "d",
+          "text": "macierz typu H"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "069",
+      "question": "Tabele dekodera stosujemy do dekodowania korekcyjnego",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wszystkich kodów, z bitami parzystości"
+        },
+        {
+          "key": "b",
+          "text": "wszystkich kodów"
+        },
+        {
+          "key": "c",
+          "text": "niektórych kodów"
+        },
+        {
+          "key": "d",
+          "text": "zadnych kodow"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "070",
+      "question": "Jeżeli dmin=4 to zdolność korekcyjna kodu równa się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "5"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "071",
+      "question": "Zbiór 00, 01, 11, 10 ile wynosi odległość minimalna w zbiorze",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "5"
+        },
+        {
+          "key": "d",
+          "text": "10"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "072",
+      "question": "Zdolność korekcyjna kodu o parametrach (n,k) zależy od:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "minimalnej odległości w zbiorze słów kodowych"
+        },
+        {
+          "key": "b",
+          "text": "długości ciągów kodowych"
+        },
+        {
+          "key": "c",
+          "text": "jest równa n-k"
+        },
+        {
+          "key": "d",
+          "text": "maksymalnej odległości w zbiorze słów kodowych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "073",
+      "question": "Elementem którego ciała prostego może być liczba 3",
+      "answers": [
+        {
+          "key": "a",
+          "text": "5"
+        },
+        {
+          "key": "b",
+          "text": "7"
+        },
+        {
+          "key": "c",
+          "text": "11"
+        },
+        {
+          "key": "d",
+          "text": "13"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "074",
+      "question": "Kodowanie kanałowe informacji polega na",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ma za zadanie zmniejszyć wpływ szumów na jakość transmisji"
+        },
+        {
+          "key": "b",
+          "text": "zabezpieczeniu danych przed przechwyceniem"
+        },
+        {
+          "key": "c",
+          "text": "cos innego"
+        },
+        {
+          "key": "d",
+          "text": "zadnym z powyzszym"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "075",
+      "question": "Jakie zwyczajowe oznaczenie przyjmują macierze",
+      "answers": [
+        {
+          "key": "a",
+          "text": "G"
+        },
+        {
+          "key": "b",
+          "text": "H"
+        },
+        {
+          "key": "c",
+          "text": "C"
+        },
+        {
+          "key": "d",
+          "text": "P"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "076",
+      "question": "Sprawność kodu",
+      "answers": [
+        {
+          "key": "a",
+          "text": "q=k/n"
+        },
+        {
+          "key": "b",
+          "text": "n-k"
+        },
+        {
+          "key": "c",
+          "text": "n"
+        },
+        {
+          "key": "d",
+          "text": "k"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "081",
+      "question": "Jeśli syndrom wynosi 010 to",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ciąg jest błędny"
+        },
+        {
+          "key": "b",
+          "text": "ciąg jest poprawny"
+        },
+        {
+          "key": "c",
+          "text": "zaden"
+        },
+        {
+          "key": "d",
+          "text": "zmienny"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "082",
+      "question": "+5=1 to z jakim p w ciele Cg(p) mamy do czynienie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "7"
+        },
+        {
+          "key": "b",
+          "text": "5"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "15"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "085",
+      "question": "Jakie oznaczenie ma macierz generująca cykliczny dualny kod",
+      "answers": [
+        {
+          "key": "a",
+          "text": "H"
+        },
+        {
+          "key": "b",
+          "text": "G"
+        },
+        {
+          "key": "c",
+          "text": "C"
+        },
+        {
+          "key": "d",
+          "text": "P"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "087",
+      "question": "Mamy wielomian g(x)=x3 + x +1 jaki kod on generuje",
+      "answers": [
+        {
+          "key": "a",
+          "text": "BCH(15,11)"
+        },
+        {
+          "key": "b",
+          "text": "BCH(7,4)"
+        },
+        {
+          "key": "c",
+          "text": "BCH(7,3)"
+        },
+        {
+          "key": "d",
+          "text": "BCH(9,6)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "088",
+      "question": "Jeżeli 2+3=0 to z jakim pa mamy do czynienia w Cg(p)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "5"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "7"
+        },
+        {
+          "key": "d",
+          "text": "9"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "089",
+      "question": "Sprawność kodu jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "odwrotnie proporcjonalna do nadmiaru kodu"
+        },
+        {
+          "key": "b",
+          "text": "wprost proporcjonalna do nadmiaru kodu"
+        },
+        {
+          "key": "c",
+          "text": "nie proporcjonalna do niczego"
+        },
+        {
+          "key": "d",
+          "text": "nieznacząca"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "090",
+      "question": "Proszę wskazać, które warunki spełnia kod cykliczny po skróceniu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kod jest liniowy"
+        },
+        {
+          "key": "b",
+          "text": "Słowa informacyjne i kodowe są wzajemnie jednoznacznie przyporządkowane"
+        },
+        {
+          "key": "c",
+          "text": "Dowolne przesunięcie cykliczne słowa kodowego daje nam inne słowo kodowe"
+        },
+        {
+          "key": "d",
+          "text": "Suma dwóch dowolnych słów kodowych, daje nam inne słowo kodowe"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "091",
+      "question": "Działanie kodera splotowego można opisać za pomocą:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykresu drzewiastego"
+        },
+        {
+          "key": "b",
+          "text": "grafu automatu"
+        },
+        {
+          "key": "c",
+          "text": "kraty stanów"
+        },
+        {
+          "key": "d",
+          "text": "macierzy Viterbiego"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "092",
+      "question": "Co oznacza, że metryka drogi przez kratę stanu w dekoderze równa się 2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Podczas transmisji zakodowanej informacji w kanale wystąpiło przekłamanie dwóch symboli."
+        },
+        {
+          "key": "b",
+          "text": "jest to ilość stanów dekodera."
+        },
+        {
+          "key": "c",
+          "text": "Nic nie oznacza."
+        },
+        {
+          "key": "d",
+          "text": "Odległość pomiędzy stanami dekodera jest równa 2, a więc może od detekować jeden błąd."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "093",
+      "question": "Które ze stwierdzeń są prawdziwe w stosunku do kodów splotowych?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Odpowiedniość pomiędzy symbolem informacyjnym, a symbolem końcowym."
+        },
+        {
+          "key": "b",
+          "text": "Wychodzący symbol kodowy zależy od stanu kodera w danym momencie."
+        },
+        {
+          "key": "c",
+          "text": "Symbol kodowy na wyjściu kodera w danym momencie zależy tylko od symbolu informacyjnego wchodzącego aktualnie na koder"
+        },
+        {
+          "key": "d",
+          "text": "Symbol kodowy wychodzący w danym momencie zależy od symbolu informacyjnego"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "094",
+      "question": "Czym różni się algorytm Viterbiego miękkodecyzyjny od twardodecyzyjnego?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Tym, że w miękkodecyzyjnym pod uwagę brany jest współczynnik wiarygodności odebranej wartości bitu."
+        },
+        {
+          "key": "b",
+          "text": "Niczym, pojęcie ma za zadanie odróżnienie tylko technologii wykonania dekodera."
+        },
+        {
+          "key": "c",
+          "text": "nie ma takiego pojęcia."
+        },
+        {
+          "key": "d",
+          "text": "Droga przez kratę stanu ustalana jest na podstawie maksymalizacji prawdopodobieństwa ćeiżki, a nie minimalizacji długości drogi."
+        }
+      ],
+      "correct": [
+        "a",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "095",
+      "question": "W wyniku działania algorytmu Viterbiego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jesteśmy w stanie narysować kratę przejścia modulatora"
+        },
+        {
+          "key": "b",
+          "text": "uzyskujemy bloki słów kodowych na wyjściu modulatora."
+        },
+        {
+          "key": "c",
+          "text": "uzyskujemy informację i ilości nadanych jedynek."
+        },
+        {
+          "key": "d",
+          "text": "uzyskujemy estymator informacji nadanej."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "096",
+      "question": "Proszę uzupełnić zbiór słów kodowych [01010, 00000, 11110] kodu (5,2) o brakujące słowo:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "10100"
+        },
+        {
+          "key": "b",
+          "text": "01010"
+        },
+        {
+          "key": "c",
+          "text": "10101"
+        },
+        {
+          "key": "d",
+          "text": "11111"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "097",
+      "question": "Jeżeli dodamy dwa różne słowa kodowe, kodu liniowego blokowego, to uzyskamy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "inne słowo kodowe"
+        },
+        {
+          "key": "b",
+          "text": "wiersz macierzy H"
+        },
+        {
+          "key": "c",
+          "text": "syndrom"
+        },
+        {
+          "key": "d",
+          "text": "macierz Vitebriego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "098",
+      "question": "*** słów kodowych systematycznego rozdzienego kodu",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c(x)= Rg(x)[X^n-1]"
+        },
+        {
+          "key": "b",
+          "text": "(x)=x^r*h(x) + Rg(x)*[x^r*h(x)]"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "099",
+      "question": "Na jakiej podstawie dekoder Viterbiego wybiera … przez kratę stanów?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Porówuje tylko drogi doprowadzające do wspólnych węzłów."
+        },
+        {
+          "key": "b",
+          "text": "Stosuje algorytm najkrótszych skoków."
+        },
+        {
+          "key": "c",
+          "text": "w każdym kroku sekwencyjnie wybiera najkrótszą drogę"
+        },
+        {
+          "key": "d",
+          "text": "sprawdza wszystkie możliwe drogi przejścia przez kratę"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "100",
+      "question": "Jeśli pomnożymy macierz generującą G przez macierz kontrolną H^t, to otrzymamy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "macierz złożonych z samych zer."
+        },
+        {
+          "key": "b",
+          "text": "macierz złożoną z samych jedynek."
+        },
+        {
+          "key": "c",
+          "text": "nie da się pomnożyć."
+        },
+        {
+          "key": "d",
+          "text": "syndrom."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "101",
+      "question": "Który z przedstawionych kodów liniowych nie jest kodem blokowym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "splotowy"
+        },
+        {
+          "key": "b",
+          "text": "z bitem parzystości"
+        },
+        {
+          "key": "c",
+          "text": "BCH"
+        },
+        {
+          "key": "d",
+          "text": "cykliczny"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "102",
+      "question": "Wskaż, które stwierdzenia dotyczące wierszy macierzy generującej G kodu cyklicznego są prawdziwe:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sumują się do wektora zerowego"
+        },
+        {
+          "key": "b",
+          "text": "są liniowo niezależne"
+        },
+        {
+          "key": "c",
+          "text": "są to wektory bazowe"
+        },
+        {
+          "key": "d",
+          "text": "są to słowa kodowe."
+        }
+      ],
+      "correct": [
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "103",
+      "question": "Mamy dany kod liniowy blokowy o parametrach (7,4). Proszę określić ile kolumn będzie miała macierz kontrolna H^t.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "3"
+        },
+        {
+          "key": "c",
+          "text": "7"
+        },
+        {
+          "key": "d",
+          "text": "4"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "104",
+      "question": "Jeżeli mamy kod cykliczny (n,k) to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wielomian informacyjny jest stopnia k."
+        },
+        {
+          "key": "b",
+          "text": "syndrom jest wielomianem stopnia n-k-1"
+        },
+        {
+          "key": "c",
+          "text": "syndrom jest wielomianem stopnia n-k bitów"
+        },
+        {
+          "key": "d",
+          "text": "wielomian informacyjny jest stopnia k-1."
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "105",
+      "question": "Jakie są cechy kodowania z korekcją błędów w przód?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "żąda powtórzenia transmisji, jeśli ilość błędów przekroczyła zdolność korekcyjną kodu."
+        },
+        {
+          "key": "b",
+          "text": "Do nadawanych słów informacyjnych dokładamy jest nadmiar informacyjny umożliwiający korekcję błędów w dekoderze."
+        },
+        {
+          "key": "c",
+          "text": "Koryguje błędy transmisji o ile jego dmin>2"
+        },
+        {
+          "key": "d",
+          "text": "służy tylko i wyłącznie do detekcji błędów."
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "106",
+      "question": "Czy zredukowane residuum i funkcja eulera to to samo",
+      "answers": [
+        {
+          "key": "a",
+          "text": "TAK"
+        },
+        {
+          "key": "b",
+          "text": "NIE"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "107",
+      "question": "Czy kodowanie źródłowe i kodowanie kanałowe to to samo",
+      "answers": [
+        {
+          "key": "a",
+          "text": "NIE"
+        },
+        {
+          "key": "b",
+          "text": "TAK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "108",
+      "question": "Oblicz wartość funkcji Eulera dla liczby 1:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "109",
+      "question": "Oblicz wartość funkcji Eulera dla liczby 2:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "110",
+      "question": "Oblicz wartość funkcji Eulera dla liczby 3:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "111",
+      "question": "Oblicz wartość funkcji Eulera dla liczby 4:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "112",
+      "question": "Oblicz wartość funkcji Eulera dla liczby 5:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "113",
+      "question": "Oblicz wartość funkcji Eulera dla liczby 6:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "114",
+      "question": "Oblicz wartość funkcji Eulera dla liczby 7:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "115",
+      "question": "Oblicz wartość funkcji Eulera dla liczby(12•11)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "40"
+        },
+        {
+          "key": "b",
+          "text": "25"
+        },
+        {
+          "key": "c",
+          "text": "35"
+        },
+        {
+          "key": "d",
+          "text": "30"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "116",
+      "question": "Oblicz wartość funkcji Eulera dla liczby(13•7)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "72"
+        },
+        {
+          "key": "b",
+          "text": "45"
+        },
+        {
+          "key": "c",
+          "text": "28"
+        },
+        {
+          "key": "d",
+          "text": "91"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "117",
+      "question": "Tw. Shanona Hartleya mówi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "żadna z powyższych"
+        },
+        {
+          "key": "b",
+          "text": "o pojemności w kanale telekomunikacyjnym"
+        },
+        {
+          "key": "c",
+          "text": "o częstotliwości próbkowania"
+        },
+        {
+          "key": "d",
+          "text": "o zasadzie modulacji"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "118",
+      "question": "Entropia",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jest miarą chaosu"
+        },
+        {
+          "key": "b",
+          "text": "Określa średnią ilość bitów na zdarzenie"
+        },
+        {
+          "key": "c",
+          "text": "Jest miarą ilości informacji"
+        },
+        {
+          "key": "d",
+          "text": "Osiąga minimum gdy wszystkie zdarzenia są jednakowo prawdopodobne"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "119",
+      "question": "Do czego używana jest funkcja Eulera",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Do kodowania liniowego blokowego"
+        },
+        {
+          "key": "b",
+          "text": "Żadna z pozostałych"
+        },
+        {
+          "key": "c",
+          "text": "Do wyznaczenia wartości odwrotnych w ciele liczb skończonych"
+        },
+        {
+          "key": "d",
+          "text": "Do kodowania liniowego splotowego"
+        },
+        {
+          "key": "e",
+          "text": "Do niczego, to tylko pewna figura matematyczna"
+        },
+        {
+          "key": "f",
+          "text": "Do ilości permutacji liczb pierwszych"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "120",
+      "question": "Oblicz wartość funkcji Eulera dla liczby(3•11)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "33"
+        },
+        {
+          "key": "b",
+          "text": "60"
+        },
+        {
+          "key": "c",
+          "text": "96"
+        },
+        {
+          "key": "d",
+          "text": "100"
+        },
+        {
+          "key": "e",
+          "text": "20"
+        },
+        {
+          "key": "f",
+          "text": "12"
+        },
+        {
+          "key": "g",
+          "text": "22"
+        },
+        {
+          "key": "h",
+          "text": "36"
+        }
+      ],
+      "correct": [
+        "e"
+      ],
+      "images": []
+    }
+  ]
+}

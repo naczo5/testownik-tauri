@@ -1,0 +1,6 @@
+X0001
+Kiedy proces demodulacji cyfrowego sygnału zmodulowanego jest optymalny? 
+a) gdy transmisji informacji jest prowadzona przy najmniejszym wydatku energetycznym 
+b) gdy osiągnięta szybkości transmisji binarnej jest największa 
+c) gdy zasoby widmowe potrzebne do transmisji informacji są minimalne 
+d) gdy liczba błędów podczas transmisji informacji jest najmniejsza

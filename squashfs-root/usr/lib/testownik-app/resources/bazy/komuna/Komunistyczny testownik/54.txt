@@ -1,0 +1,6 @@
+X0100
+ADSL oznacza:
+analogowo-cyfrową sieć dostępu
+asymetryczną cyfrową pętlę abonencką
+zaawansowaną cyfrową linię abonencką
+asynchroniczną technikę przekazu

@@ -1,0 +1,6 @@
+X0010
+Do której generacji systemów zaliczane są systemy UMTS i HSPA?
+1G
+2G
+3G
+4G

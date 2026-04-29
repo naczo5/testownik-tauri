@@ -1,0 +1,6 @@
+X0010
+Sygnał cyfrowy to sygnał, którego:
+amplituda ma charakter ciągły
+tylko czas ma charakter dyskretny
+czas i amplituda mają charakter dyskretny
+czas i amplituda mają charakter ciągły

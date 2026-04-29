@@ -1,0 +1,6 @@
+X0010
+Próbkowanie to proces:
+przydzielania wartości amplitudy próbkom
+przekształcania sygnału cyfrowego na analogowy
+pobierania wartości sygnału w pewnych chwilach czasu
+w którym częstotliwość próbkowania może być dowolnie dobrana

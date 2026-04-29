@@ -1,0 +1,6 @@
+X1000
+Moc promieniowana przez nadajnik wynosi 11 dBm. Jaka to moc w miliwatach?
+12.5 mW
+25 mW
+5 mW
+2.5 mW

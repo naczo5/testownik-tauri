@@ -1,0 +1,6 @@
+X1000
+Impedancja Z jest to parametr kabli miedzianych, który: 
+Charakteryzuje zależność między natężeniem prądu i napięciem w obwodach prądu zmiennego. 
+Charakteryzuje zależność między indukcyjnością prądu I napięciem w obwodach prądu zmiennego. 
+Opisuje wielkość indukcji elektromagnetycznej pomiędzy wodnikami w kablu. 
+Określeniem konduktancji, w obwodach prądu zmiennego

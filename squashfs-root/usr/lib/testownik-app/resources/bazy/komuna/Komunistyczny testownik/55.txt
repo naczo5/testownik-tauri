@@ -1,0 +1,6 @@
+X0001
+Gdzie w najnowszych sieciach komórkowych przechowuje się informację o położeniu stacji ruchomej (terminala)?
+W rejestrze stacji bazowej
+Rejestrze wyposażenia EIR
+W serwerze HSS
+W rejestrze HLR lub VLR (zależnie od tego, który z nich został zaimplementowany)

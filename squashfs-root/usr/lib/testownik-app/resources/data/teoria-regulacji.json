@@ -1,0 +1,2506 @@
+{
+  "name": "Teoria-regulacji",
+  "displayName": "Teoria regulacji",
+  "description": "Wykład prowadzony przez Dr. Mzyka.",
+  "questionCount": 118,
+  "questions": [
+    {
+      "id": "001",
+      "question": "wykres Michajlowa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykres Nyquista"
+        },
+        {
+          "key": "b",
+          "text": "charakterystyke amplitudowo-fazowo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "001.png"
+      ]
+    },
+    {
+      "id": "002",
+      "question": "K(jw)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "M(jw)"
+        },
+        {
+          "key": "b",
+          "text": "K(e^(jw))"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "002.png"
+      ]
+    },
+    {
+      "id": "003",
+      "question": "L(s)=0ß",
+      "answers": [
+        {
+          "key": "a",
+          "text": "M(s)=0"
+        },
+        {
+          "key": "b",
+          "text": "L(s)+M(s)=0"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "003.png"
+      ]
+    },
+    {
+      "id": "004",
+      "question": "y\"+3y'+5y=u\"+4u'-6u",
+      "answers": [
+        {
+          "key": "a",
+          "text": "y\"+3y'+5y=0"
+        },
+        {
+          "key": "b",
+          "text": "y\"+4y'-6y=u\"+3u'+5u"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "004.png"
+      ]
+    },
+    {
+      "id": "005",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "005B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "005C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "005.png"
+      ]
+    },
+    {
+      "id": "006",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "006B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "006C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "006.png"
+      ]
+    },
+    {
+      "id": "007",
+      "question": "y\"+3y'+4y=u\"+5y'+6",
+      "answers": [
+        {
+          "key": "a",
+          "text": "y\"+5y'+6y=u\"+3y'+4"
+        },
+        {
+          "key": "b",
+          "text": "y\"+5y'+6y=0"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "007.png"
+      ]
+    },
+    {
+      "id": "008",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "008B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "008C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "008.png"
+      ]
+    },
+    {
+      "id": "009",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "009B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "009C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "009.png"
+      ]
+    },
+    {
+      "id": "010",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "010B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "010C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "010.png"
+      ]
+    },
+    {
+      "id": "011",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "011B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "011C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "011.png"
+      ]
+    },
+    {
+      "id": "012",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "012B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "012C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "012.png"
+      ]
+    },
+    {
+      "id": "013",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "013B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "013C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "013.png"
+      ]
+    },
+    {
+      "id": "014",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "014B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "014C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "014.png"
+      ]
+    },
+    {
+      "id": "015",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "015B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "015C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "015.png"
+      ]
+    },
+    {
+      "id": "016",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "016B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "016C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "016.png"
+      ]
+    },
+    {
+      "id": "017",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "017B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "017C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "017.png"
+      ]
+    },
+    {
+      "id": "018",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "018B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "018C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "018.png"
+      ]
+    },
+    {
+      "id": "019",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "019B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "019C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "019.png"
+      ]
+    },
+    {
+      "id": "020",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "020B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "020C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "020.png"
+      ]
+    },
+    {
+      "id": "021",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "021B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "021C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "021.png"
+      ]
+    },
+    {
+      "id": "022",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "022B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "022C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "022.png"
+      ]
+    },
+    {
+      "id": "023",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "023B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "023C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "023.png"
+      ]
+    },
+    {
+      "id": "024",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "024B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "024C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "024.png"
+      ]
+    },
+    {
+      "id": "025",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "025B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "025C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "025.png"
+      ]
+    },
+    {
+      "id": "026",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "026B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "026C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "026.png"
+      ]
+    },
+    {
+      "id": "027",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "027B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "027C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "027.png"
+      ]
+    },
+    {
+      "id": "028",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "028B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "028C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "028.png"
+      ]
+    },
+    {
+      "id": "029",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "029B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "029C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "029.png"
+      ]
+    },
+    {
+      "id": "030",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "zależy to od ß"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "030.png"
+      ]
+    },
+    {
+      "id": "031",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "zależy to od alfa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "031.png"
+      ]
+    },
+    {
+      "id": "032",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "032B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "032C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "032.png"
+      ]
+    },
+    {
+      "id": "033",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "033B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "033C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "033.png"
+      ]
+    },
+    {
+      "id": "034",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "034B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "034C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "034.png"
+      ]
+    },
+    {
+      "id": "035",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "035B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "035C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "035.png"
+      ]
+    },
+    {
+      "id": "036",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "036B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "036C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "036.png"
+      ]
+    },
+    {
+      "id": "037",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "037B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "037C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "037.png"
+      ]
+    },
+    {
+      "id": "038",
+      "question": "jest równa 0",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest różna od zera"
+        },
+        {
+          "key": "b",
+          "text": "istnieje"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "038.png"
+      ]
+    },
+    {
+      "id": "039",
+      "question": "jest równa 0",
+      "answers": [
+        {
+          "key": "a",
+          "text": "istnieje"
+        },
+        {
+          "key": "b",
+          "text": "nie istnieje"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "039.png"
+      ]
+    },
+    {
+      "id": "040",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "nie wiadomo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "040.png"
+      ]
+    },
+    {
+      "id": "041",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "nie wiadomo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "041.png"
+      ]
+    },
+    {
+      "id": "042",
+      "question": "jest równa 0",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest różna od 0"
+        },
+        {
+          "key": "b",
+          "text": "nie istnieje"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "042.png"
+      ]
+    },
+    {
+      "id": "043",
+      "question": "stała, różna od 0",
+      "answers": [
+        {
+          "key": "a",
+          "text": "równa 0"
+        },
+        {
+          "key": "b",
+          "text": "sinusoidą"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "043.png"
+      ]
+    },
+    {
+      "id": "044",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "3"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "044.png"
+      ]
+    },
+    {
+      "id": "045",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "5"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "045.png"
+      ]
+    },
+    {
+      "id": "046",
+      "question": "konieczny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wystarczający"
+        },
+        {
+          "key": "b",
+          "text": "konieczny i wystarczający"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "046.png"
+      ]
+    },
+    {
+      "id": "047",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Żadna z powyższych odpowiedzi nie jest prawdziwa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "047.png"
+      ]
+    },
+    {
+      "id": "048",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Żadna z powyższych odpowiedzi nie jest prawdziwa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "048.png"
+      ]
+    },
+    {
+      "id": "049",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "049B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "049C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "049.png"
+      ]
+    },
+    {
+      "id": "050",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "050B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "050C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "050.png"
+      ]
+    },
+    {
+      "id": "051",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "051B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "051C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "051.png"
+      ]
+    },
+    {
+      "id": "052",
+      "question": "konieczny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wystarczający"
+        },
+        {
+          "key": "b",
+          "text": "konieczny i wystarczający"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "052.png"
+      ]
+    },
+    {
+      "id": "053",
+      "question": "w prawej półpłaszczyźnie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "na osi jw"
+        },
+        {
+          "key": "b",
+          "text": "Żadna w powyższych odpowiedzi nie jest prawdziwa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "053.png"
+      ]
+    },
+    {
+      "id": "054",
+      "question": "w prawej półpłaszczyźnie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "na osi jw"
+        },
+        {
+          "key": "b",
+          "text": "Żadna w powyższych odpowiedzi nie jest prawdziwa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "054.png"
+      ]
+    },
+    {
+      "id": "055",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "055B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "055C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "055.png"
+      ]
+    },
+    {
+      "id": "056",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "056B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "056C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "056.png"
+      ]
+    },
+    {
+      "id": "057",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "057.png"
+      ]
+    },
+    {
+      "id": "058",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "3"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "058.png"
+      ]
+    },
+    {
+      "id": "059",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "059.png"
+      ]
+    },
+    {
+      "id": "060",
+      "question": "konieczny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wystarczający"
+        },
+        {
+          "key": "b",
+          "text": "konieczny i wystarczający"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "060.png"
+      ]
+    },
+    {
+      "id": "061",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "061B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "061C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "061.png"
+      ]
+    },
+    {
+      "id": "062",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "062B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "062C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "062.png"
+      ]
+    },
+    {
+      "id": "063",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "063B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "063C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "063.png"
+      ]
+    },
+    {
+      "id": "064",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "064B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "064C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "064.png"
+      ]
+    },
+    {
+      "id": "065",
+      "question": "konieczny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wystarczający"
+        },
+        {
+          "key": "b",
+          "text": "konieczny i wystarczający"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "065.png"
+      ]
+    },
+    {
+      "id": "066",
+      "question": "wykres Nyquista",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykres Michajłowa"
+        },
+        {
+          "key": "b",
+          "text": "charakterystykę amplitudowo-fazową"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "066.png"
+      ]
+    },
+    {
+      "id": "067",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "067B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "067C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "067.png"
+      ]
+    },
+    {
+      "id": "068",
+      "question": "wszystkie pierwiastki w lewej półpłaszczyźnie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pierwiastek na osi liczb urojonych"
+        },
+        {
+          "key": "b",
+          "text": "pierwiastek w prawej półpłaszczyźnie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "068.png"
+      ]
+    },
+    {
+      "id": "069",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "069B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "069C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "069.png"
+      ]
+    },
+    {
+      "id": "070",
+      "question": "konieczny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wystarczający"
+        },
+        {
+          "key": "b",
+          "text": "konieczny i wystarczający"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "070.png"
+      ]
+    },
+    {
+      "id": "071",
+      "question": "o dowolnej strukturze",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ze sprzężeniem zwrotnym"
+        },
+        {
+          "key": "b",
+          "text": "otwartego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "071.png"
+      ]
+    },
+    {
+      "id": "072",
+      "question": "zawsze jest niestabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "może być niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Żadna z powyższych odpowiedzi nie jest prawdziwa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "072.png"
+      ]
+    },
+    {
+      "id": "073",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "073B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "073C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "073.png"
+      ]
+    },
+    {
+      "id": "074",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "074B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "074C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "074.png"
+      ]
+    },
+    {
+      "id": "075",
+      "question": "M(s)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "L(s)-M(s)"
+        },
+        {
+          "key": "b",
+          "text": "L(s)+M(s)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "075.png"
+      ]
+    },
+    {
+      "id": "076",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "076B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "076C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "076.png"
+      ]
+    },
+    {
+      "id": "077",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "077B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "077C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "077.png"
+      ]
+    },
+    {
+      "id": "078",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "078B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "078C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "078.png"
+      ]
+    },
+    {
+      "id": "079",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "079B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "079C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "079.png"
+      ]
+    },
+    {
+      "id": "080",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "080B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "080C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "080.png"
+      ]
+    },
+    {
+      "id": "081",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "081B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "081C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "081.png"
+      ]
+    },
+    {
+      "id": "082",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "082B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "082C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "082.png"
+      ]
+    },
+    {
+      "id": "083",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "083B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "083C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "083.png"
+      ]
+    },
+    {
+      "id": "084",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "084B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "084C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "084.png"
+      ]
+    },
+    {
+      "id": "085",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "085B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "085C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "085.png"
+      ]
+    },
+    {
+      "id": "086",
+      "question": "P",
+      "answers": [
+        {
+          "key": "a",
+          "text": "PI"
+        },
+        {
+          "key": "b",
+          "text": "PID"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "086.png"
+      ]
+    },
+    {
+      "id": "087",
+      "question": "P",
+      "answers": [
+        {
+          "key": "a",
+          "text": "PI"
+        },
+        {
+          "key": "b",
+          "text": "PID"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "087.png"
+      ]
+    },
+    {
+      "id": "088",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "nie wiadomo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "088.png"
+      ]
+    },
+    {
+      "id": "089",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "nie wiadomo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "089.png"
+      ]
+    },
+    {
+      "id": "090",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "090B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "090C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "090.png"
+      ]
+    },
+    {
+      "id": "091",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "091B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "091C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "091.png"
+      ]
+    },
+    {
+      "id": "092",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "092B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "092C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "092.png"
+      ]
+    },
+    {
+      "id": "093",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "093B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "093C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "093.png"
+      ]
+    },
+    {
+      "id": "094",
+      "question": ",1,1,0,0,...,",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1,1,1,0,0,...,"
+        },
+        {
+          "key": "b",
+          "text": "1,1,1,1,1,...,"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "094.png"
+      ]
+    },
+    {
+      "id": "095",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "095B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "095C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "095.png"
+      ]
+    },
+    {
+      "id": "096",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "096B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "096C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "096.png"
+      ]
+    },
+    {
+      "id": "097",
+      "question": "BRAK ODP<--ta_wlasciwa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "BRAK ODP"
+        },
+        {
+          "key": "b",
+          "text": "BRAK ODP"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "097.png"
+      ]
+    },
+    {
+      "id": "098",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "098B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "098C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "098.png"
+      ]
+    },
+    {
+      "id": "099",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "099B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "099C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "099.png"
+      ]
+    },
+    {
+      "id": "100",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "100B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "100C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "100.png"
+      ]
+    },
+    {
+      "id": "101",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "101B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "101C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "101.png"
+      ]
+    },
+    {
+      "id": "102",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "102B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "102C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "102.png"
+      ]
+    },
+    {
+      "id": "103",
+      "question": ",24,28,...,",
+      "answers": [
+        {
+          "key": "a",
+          "text": "16,8,4,...,"
+        },
+        {
+          "key": "b",
+          "text": "16,24,12,...,"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "103.png"
+      ]
+    },
+    {
+      "id": "104",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "104B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "104C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "104.png"
+      ]
+    },
+    {
+      "id": "105",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "105B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "105C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "105.png"
+      ]
+    },
+    {
+      "id": "106",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "106B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "106C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "106.png"
+      ]
+    },
+    {
+      "id": "107",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "107B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "107C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "107.png"
+      ]
+    },
+    {
+      "id": "108",
+      "question": "w lewej półpłaszczyźnie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "w kole jednostkowym"
+        },
+        {
+          "key": "b",
+          "text": "w kole jednostkowym lub na jego obwodzie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "108.png"
+      ]
+    },
+    {
+      "id": "109",
+      "question": "w lewej półpłaszczyźnie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "w kole jednostkowym"
+        },
+        {
+          "key": "b",
+          "text": "w kole jednostkowym lub na jego obwodzie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "109.png"
+      ]
+    },
+    {
+      "id": "110",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Nie wiadomo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "110.png"
+      ]
+    },
+    {
+      "id": "111",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Nie wiadomo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "111.png"
+      ]
+    },
+    {
+      "id": "112",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Nie wiadomo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "112.png"
+      ]
+    },
+    {
+      "id": "113",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Nie wiadomo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "113.png"
+      ]
+    },
+    {
+      "id": "114",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Zależy to od a(alfa)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "114.png"
+      ]
+    },
+    {
+      "id": "115",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Zależy to od a(alfa)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "115.png"
+      ]
+    },
+    {
+      "id": "116",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Zależy to od a(alfa)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "116.png"
+      ]
+    },
+    {
+      "id": "117",
+      "question": "stabilny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niestabilny"
+        },
+        {
+          "key": "b",
+          "text": "Zależy to od a(alfa)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "117.png"
+      ]
+    },
+    {
+      "id": "118",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "118B.png"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "118C.png"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "118.png"
+      ]
+    }
+  ]
+}

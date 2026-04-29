@@ -1,0 +1,1159 @@
+{
+  "name": "Modulacje-cyfrowe",
+  "displayName": "Modulacje cyfrowe",
+  "description": "",
+  "questionCount": 48,
+  "questions": [
+    {
+      "id": "1",
+      "question": "Zgodnie z twierdzeniem Shannona o pojemności informacyjnej kanałutransmisyjnego, pojemność kanału C [bitów/s] jest proporcjonalna do szerokości pasma częstotliwości B [Hz] jakie zajmuje i wyraża się wzorem C=B* alfa. Jaka jest wartość współczynnika alfa dla zakłóceń w postaci addytywnego szumu gaussowskiego i stosunku S/N na wejsciu odbiornika >=0 dB?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "alfa>=1"
+        },
+        {
+          "key": "b",
+          "text": "alfa<=1"
+        },
+        {
+          "key": "c",
+          "text": "alfa=1"
+        },
+        {
+          "key": "d",
+          "text": "alfa=0"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "10",
+      "question": "Wzrost stosunku S/N na wejściu demodulatora powoduje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zmniejszenie P(e)"
+        },
+        {
+          "key": "b",
+          "text": "zwiekszenie P(e)"
+        },
+        {
+          "key": "c",
+          "text": "wartosc P(e) nie zmieni sie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "11",
+      "question": "Wzrost wartościowości M w systemie modulacji przy stałym stosunku S/N na wejściu demodulatora powoduje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększenie P(e)"
+        },
+        {
+          "key": "b",
+          "text": "zmniejszenie P(e)"
+        },
+        {
+          "key": "c",
+          "text": "wartość P(e) nie zmieni sie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "12",
+      "question": "Kodowanie różnicowe w przypadku modulacji PSK ma na celu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "eliminację błędu niejednoznaczności odtwarzania fazy"
+        },
+        {
+          "key": "b",
+          "text": "kodowanie różnicowe nie wystepuje w modulacji PSK"
+        },
+        {
+          "key": "c",
+          "text": "żadna z powyższych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "13",
+      "question": "Wraz ze wzrostem wartościowości M w przypadku modulacji M-PSK współczynnik wykorzystania pasma (Rs/B):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rośnie"
+        },
+        {
+          "key": "b",
+          "text": "maleje"
+        },
+        {
+          "key": "c",
+          "text": "nie zmienia sie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "14",
+      "question": "Wzrost szerokości pasma filtru gaussowskiego na wejściu modulatora MSK (w modulacji GMSK) powoduje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "poszerzenie widma sygnału"
+        },
+        {
+          "key": "b",
+          "text": "zwezenie widma sygnału"
+        },
+        {
+          "key": "c",
+          "text": "widmo syganalo nie zmienia sie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "15",
+      "question": "Zastosowanie filtru gaussowskiego na wejściu modulatora MSK (modulacja GMSK) powoduje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększenie BER"
+        },
+        {
+          "key": "b",
+          "text": "zmniejszenie BER"
+        },
+        {
+          "key": "c",
+          "text": "wartosc BER nie zmienia sie"
+        },
+        {
+          "key": "d",
+          "text": "żadna z powyższych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "16",
+      "question": "Wzrost szybkości transmisji przy zachowaniu szerokości pasma częstotliwości sygnału w kanale powoduje, ze współczynnik wykorzystania pasma:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rośnie"
+        },
+        {
+          "key": "b",
+          "text": "maleje"
+        },
+        {
+          "key": "c",
+          "text": "nie zmienia sie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "17",
+      "question": "Prawdopodobieństwa wytapiania błędu w przypadku koherentnej demodulacji sygnałów BPSK i 2-ASK są:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "P(e)BPSK=P(e)2-ASK"
+        },
+        {
+          "key": "b",
+          "text": "P(e)BPSK>P(e)2-ASK"
+        },
+        {
+          "key": "c",
+          "text": "P(e)BPSK<P(e)2-ASK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "19",
+      "question": "Jak można porównać między sobą modulacje BPSK i 2-ASK pod względem energetycznym?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "EśrBPSK=Eśr2-ASK"
+        },
+        {
+          "key": "b",
+          "text": "EśrBPSK>Eśr2-ASK"
+        },
+        {
+          "key": "c",
+          "text": "EśrBPSK<Eśr2-ASK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "2",
+      "question": "Transmisja danych w kanale z addytywnym szumem gaussowskim o pojemności C jest możliwa z dowolnie małym prawdopodobieństwem błędu P(e) (nawet P(e)=0!) tylko wtedy, gdy szybkość transmisji Rs spełnia następujący warunek:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Rs<=C"
+        },
+        {
+          "key": "b",
+          "text": "Rs=C"
+        },
+        {
+          "key": "c",
+          "text": "Rs>=C"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "20",
+      "question": "Różnica pomiędzy MSK i GMSK:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "szerokość widma gęstości mocy"
+        },
+        {
+          "key": "b",
+          "text": "sposób kształtowania sygnału"
+        },
+        {
+          "key": "c",
+          "text": "MSK I GMSK nie roznia sie od siebie"
+        },
+        {
+          "key": "d",
+          "text": "zadna z powyższych"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "21",
+      "question": "Jakie zmiany wartości fazy mogą wysterować na styku segmentu z modulacją pi/4 QPSK?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pi/4"
+        },
+        {
+          "key": "b",
+          "text": "3/4*pi"
+        },
+        {
+          "key": "c",
+          "text": "pi"
+        },
+        {
+          "key": "d",
+          "text": "pi/2"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "22",
+      "question": "Które z wymienionych sygnałów można odbierać w sposób niekoherentny?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pi/4 QPSK"
+        },
+        {
+          "key": "b",
+          "text": "FSK"
+        },
+        {
+          "key": "c",
+          "text": "DPSK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "23",
+      "question": "Zaznacz właściwe elementy QAM",
+      "answers": [
+        {
+          "key": "a",
+          "text": "większa efektywność energetyczna w porównaniu z 8-PSK"
+        },
+        {
+          "key": "b",
+          "text": "mniejsza efektywność energetyczna w porównaniu z 8-PSK"
+        },
+        {
+          "key": "c",
+          "text": "taka sama efektywność energetyczna w porównaniu z 8-PSK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "24",
+      "question": "Które stwierdzenie charakteryzuje QPSK:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "większa zwartość widma niż BPSK"
+        },
+        {
+          "key": "b",
+          "text": "sygnał ma stałą amplitudę"
+        },
+        {
+          "key": "c",
+          "text": "mniejsza zawartosc widma niz BPSK"
+        },
+        {
+          "key": "d",
+          "text": "sygnal ma zmienna amplitude"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "25",
+      "question": "Jakie cechy różnią dwa sygnały zmodulowane tym samym ciągiem mod. Jeden QPSK a drugi OQPSK",
+      "answers": [
+        {
+          "key": "a",
+          "text": "częstotliwość zmiany fazy zmodulowanego sygnału"
+        },
+        {
+          "key": "b",
+          "text": "maksymalna wartość skoku fazy na styku segmentu"
+        },
+        {
+          "key": "c",
+          "text": "szybkość symbolowa transmisji"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "26",
+      "question": "Która modulacja charakteryzuje się największą wydajnością widmowa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "8-PSK"
+        },
+        {
+          "key": "b",
+          "text": "8 QAM"
+        },
+        {
+          "key": "c",
+          "text": "żadna z powyższych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "27",
+      "question": "Która modulacja wymaga zapewnienia największej Eb/g0 na wejściu detektora, jeśli w każdym przypadku stopa błędu bin powinna być taka sama",
+      "answers": [
+        {
+          "key": "a",
+          "text": "8-PSK"
+        },
+        {
+          "key": "b",
+          "text": "8 QAM"
+        },
+        {
+          "key": "c",
+          "text": "BPSK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "28",
+      "question": "Cechy sygnału z dwuwartościowym kluczowaniem fazy BPSK",
+      "answers": [
+        {
+          "key": "a",
+          "text": "musi być odbierana koherentnie"
+        },
+        {
+          "key": "b",
+          "text": "zachowuje ciągłość fazy na styku segmentów"
+        },
+        {
+          "key": "c",
+          "text": "nie musi być odbierana koherentnie"
+        },
+        {
+          "key": "d",
+          "text": "nie zachowuje ciągłości fazy na styku segmentów"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "30",
+      "question": "Zaznaczyć warunki niezbędne do uzyskania ortogonalności dwuwartościowej FSK",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zachowanie określonego odstępu częstotliwości nominalnych sygnału"
+        },
+        {
+          "key": "b",
+          "text": "uzależnienie odstępu częstotliwości od szybkości transmisji"
+        },
+        {
+          "key": "c",
+          "text": "brak uzależnienia odstępu częstotliwości od szybkości transmisji"
+        },
+        {
+          "key": "d",
+          "text": "brak zachowania określonego odstępu częstotliwości nominalnych sygnału"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "31",
+      "question": "Zaznaczyć prawdziwe stwierdzenia wskazujące zalety modulacji jednowstęgowej SSB-SC w porównaniu z modulacja AZM z pełnym widmem",
+      "answers": [
+        {
+          "key": "a",
+          "text": "oszczędność wykorzystania pasma transmisji"
+        },
+        {
+          "key": "b",
+          "text": "efektywniejsze wykorzystanie mocy nadajnika"
+        },
+        {
+          "key": "c",
+          "text": "większy zysk odniesiony mod. Jednowstęgowe"
+        },
+        {
+          "key": "d",
+          "text": "mniejszy zysk odniesiony mod. Jednowstęgowe"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "32",
+      "question": "Zaznaczyć prawdziwe stwierdzenia dotyczące odbiory sygnałów cyfrowych z filtrem dolnoprzepustowym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększa wiarygodność poprawnej decyzji"
+        },
+        {
+          "key": "b",
+          "text": "w chwili próbkowania sygnału poddawanego filtracji jego amplituda jest największa"
+        },
+        {
+          "key": "c",
+          "text": "zmniejsza wiarygodnosc poprawnej decyzji"
+        },
+        {
+          "key": "d",
+          "text": "zadne z powyzszych"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "33",
+      "question": "W jaki sposób można zapienić stały (niezależnie od chwilowej wartości sygnału) odstęp sygnału od szumu kwantyzacji przy przetwarzaniu A/C w PCM",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stosując nierównomierne kwantowanie sygnału"
+        },
+        {
+          "key": "b",
+          "text": "brak takiej mozliwosci"
+        },
+        {
+          "key": "c",
+          "text": "zadna z powyzszych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "34",
+      "question": "Jaką charakterystykę powinien mieć układ kompresji sygnału analogowego log(y)=k ln(x)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "antysymetryczna y(-x)=-y(x)"
+        },
+        {
+          "key": "b",
+          "text": "symetryczna y(-x)=-y(x)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "35",
+      "question": "Od czego zależy S/N przy modulacji delta zastosowanej dla Asin(t)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pulsacji sygnału analogowego"
+        },
+        {
+          "key": "b",
+          "text": "fp"
+        },
+        {
+          "key": "c",
+          "text": "zadna z wymienionych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "36",
+      "question": "Impulsy o czasie trwania T(sek) przesyłane są bez modulacji w paśmie podstawowym. Jaka musi być najmniejsza szerokość B (Hz) toru transmisji, aby można przesłać bez interferencji i jaki kształt powinna posiadać transmitancja filtru ...",
+      "answers": [
+        {
+          "key": "a",
+          "text": "B=1/2 T charakterystyka podniesionego cosinusa"
+        },
+        {
+          "key": "b",
+          "text": "B=2 T charakterystyka podniesionego cosinusa"
+        },
+        {
+          "key": "c",
+          "text": "B=1/4 T charakterystyka podniesionego cosinusa"
+        },
+        {
+          "key": "d",
+          "text": "B=1 T charakterystyka podniesionego cosinusa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "37",
+      "question": "Zaznaczyć właściwości POAM z próbkowaniem naturalnym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "istnieje możliwość detekcji sygnału przy pomocy FDP"
+        },
+        {
+          "key": "b",
+          "text": "obwiednia widma sygnału ma postać sin(x)/x"
+        },
+        {
+          "key": "c",
+          "text": "moc sygnału zależy od współczynnika wypełnienia fali nośnej"
+        },
+        {
+          "key": "d",
+          "text": "zadna z powyzszych"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "38",
+      "question": "Zaznaczyć cechy FM zmodulowanego Asin(t)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pasmo sygnału zmodulowanego nie zależy od fm"
+        },
+        {
+          "key": "b",
+          "text": "widmo sygnału zmodulowanego nie jest ciągłe"
+        },
+        {
+          "key": "c",
+          "text": "widmo sygnału zmodulowanego  jest ciągłe"
+        },
+        {
+          "key": "d",
+          "text": "pasmo sygnału zmodulowanego  zależy od fm"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "39",
+      "question": "od czego zależy zysk mod. w systemie z mod. częstotliwości",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest zależny od pasma zajmowanego przez sygnał"
+        },
+        {
+          "key": "b",
+          "text": "jest nieliniowo uzależniony od dewiacji sygnału"
+        },
+        {
+          "key": "c",
+          "text": "zadna z powyzszych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "4",
+      "question": "Optymalny demodulator to taki, dla którego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "P(e) = min"
+        },
+        {
+          "key": "b",
+          "text": "P(e) = max"
+        },
+        {
+          "key": "c",
+          "text": "P(e) = 0"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "40",
+      "question": "W jakim celu stosowana jest preemfaza i deemfaza przy modulacjach kątowych",
+      "answers": [
+        {
+          "key": "a",
+          "text": "poprawy S/N na wyjściu odbiornika"
+        },
+        {
+          "key": "b",
+          "text": "nie stosuje sie ich w modulacjach katowych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "41",
+      "question": "Co reprezentuje charakterystyka szumowa systemu transmisyjnego",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stosunek S/N na wyjściu w funkcji S/N na wejściu"
+        },
+        {
+          "key": "b",
+          "text": "stosunek S/N na wejsciu w funkcji S/N na wyjsciu"
+        },
+        {
+          "key": "c",
+          "text": "stosunek S/N na wyjściu w funkcji S/N na wyjściu"
+        },
+        {
+          "key": "d",
+          "text": "stosunek S/N na wejściu w funkcji S/N na wejściu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "42",
+      "question": "Dlugosc fali o czestotliwosci 1kHz",
+      "answers": [
+        {
+          "key": "a",
+          "text": "300km"
+        },
+        {
+          "key": "b",
+          "text": "300m"
+        },
+        {
+          "key": "c",
+          "text": "3000km"
+        },
+        {
+          "key": "d",
+          "text": "30km"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "43",
+      "question": "Utrzymanie jakości transmisji gdy pogorszy sie jakość sygnału - co trzeba zrobić",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zwiekszyć moc"
+        },
+        {
+          "key": "b",
+          "text": "Zmniejszyć moc"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "45",
+      "question": "Do jakiej grupy należy MSK",
+      "answers": [
+        {
+          "key": "a",
+          "text": "z ciągą fazą i stałą amplitudą"
+        },
+        {
+          "key": "b",
+          "text": "z ciągą fazą i zmienna amplitudą"
+        },
+        {
+          "key": "c",
+          "text": "z nieciągą fazą i stałą amplitudą"
+        },
+        {
+          "key": "d",
+          "text": "z nieciągą fazą i zmienna amplitudą"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "46",
+      "question": "Konfiguracja geometryczna zbioru sygnałów pokazanych na rysunku przedstawia sygnały:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "A2-PSK"
+        },
+        {
+          "key": "b",
+          "text": "2-PSK lub 2-ASK"
+        },
+        {
+          "key": "c",
+          "text": "2-PAM"
+        },
+        {
+          "key": "d",
+          "text": "2-PSK lub 2-FSK"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "47",
+      "question": "Czy możliwe jest bezbłędne przesłanie informacji (z szybkością Rs ) w kanale transmisyjnym o szerokości B [Hz], zakłócanym addytywnym szumem Gaussowskim, gdy moc szumu oraz mocy sygnału użytecznego są równe na wejściu odbiornika:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "NIE"
+        },
+        {
+          "key": "b",
+          "text": "TAK, ale tylko gdy Rs <= B"
+        },
+        {
+          "key": "c",
+          "text": "TAK"
+        },
+        {
+          "key": "d",
+          "text": "TAK, ale tylko gdy informacja jest odpowiednio zabezpieczona"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "48",
+      "question": "Najwyższy współczynnik skuteczności wykorzystania pasma, przy ustalonym stosunku (S/N) na wejściu demodulatora, ustalonej szybkości transmisji Rs oraz określonej jakości transmisji P(e) , będzie miała modulacja:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "PSK"
+        },
+        {
+          "key": "b",
+          "text": "PAM"
+        },
+        {
+          "key": "c",
+          "text": "QAM"
+        },
+        {
+          "key": "d",
+          "text": "FSK"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "5",
+      "question": "Warunek koherentności w procesie demodulacji oznacza, że w demodulatorze (po stronie odbiornika):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "istnieje pełna synchronizacja z modulatorem (po stronie nadajnika)"
+        },
+        {
+          "key": "b",
+          "text": "nie istnieje pełna synchronizacja z modulatorem (po stronie nadajnika)"
+        },
+        {
+          "key": "c",
+          "text": "żadna z powyższych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "50",
+      "question": "Największą szerokości pasma częstotliwości, przy ustalonym stosunku S/n na wejściu demodulatora, ustalonej szybkości transmisji Rs oraz określonej jakości transmisji P(e) , będą zajmowały sygnały:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ASK"
+        },
+        {
+          "key": "b",
+          "text": "PSK"
+        },
+        {
+          "key": "c",
+          "text": "QAM"
+        },
+        {
+          "key": "d",
+          "text": "FSK"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "52",
+      "question": "Uszeregować modulacje pod względnem sprawności energetycznej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ASK>PSK>QAM>FSK"
+        },
+        {
+          "key": "b",
+          "text": "FSK>QAM>PSK>ASK"
+        },
+        {
+          "key": "c",
+          "text": "PSK>ASK>FSK>QAM"
+        },
+        {
+          "key": "d",
+          "text": "QAM>PSK>ASK>FSK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "53",
+      "question": "jednostka współczynnika pasma",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bit/s*Hz"
+        },
+        {
+          "key": "b",
+          "text": "bit/s"
+        },
+        {
+          "key": "c",
+          "text": "s/bit*Hz"
+        },
+        {
+          "key": "d",
+          "text": "symb/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "54",
+      "question": "Uszereguj w stopniu rosnącym modulacje według wydajności widmowej(chyba):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "FSK, QAM, PSK, ASK"
+        },
+        {
+          "key": "b",
+          "text": "QAM, PSK, ASK, FSK"
+        },
+        {
+          "key": "c",
+          "text": "PSK, ASK, FSK, QAM,"
+        },
+        {
+          "key": "d",
+          "text": "QAM, PSK, ASK, FSK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "6",
+      "question": "Demodulator działający na zasadzie maksymalizacji ilorazu wiarygodności podejmuje decyzje na podstawie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "korelacji wzajemnej pomiędzy sygnałem odebranym a sygnałami wzorcowymi"
+        },
+        {
+          "key": "b",
+          "text": "korelacji wzajemnej pomiędzy sygnałem odebranym a sygnałami zparametryzowany"
+        },
+        {
+          "key": "c",
+          "text": "żadna z powyższych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "7",
+      "question": "Brak koherentności w procesie demodulacji powoduje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększenie P(e)"
+        },
+        {
+          "key": "b",
+          "text": "zmiejszenie P(e)"
+        },
+        {
+          "key": "c",
+          "text": "żadna z powyższych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "8",
+      "question": "Koherentny demodulator korelacyjny M-wartościowej modulacji PSK zawiera co najmniej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Dwa kanały z układami korelatorów"
+        },
+        {
+          "key": "b",
+          "text": "Trzy kanały z układami korelatorów"
+        },
+        {
+          "key": "c",
+          "text": "Cztery kanały z układami korelatorów"
+        },
+        {
+          "key": "d",
+          "text": "Jeden kanał z układami kontrolerów"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "9",
+      "question": "Koherentny demodulator korelacyjny M-wartościowej modulacji ASK zawiera co najmniej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jeden kanał z układem korelatorów"
+        },
+        {
+          "key": "b",
+          "text": "dwa kanały z układem korelatorów"
+        },
+        {
+          "key": "c",
+          "text": "trzy kanały z układem korelatorów"
+        },
+        {
+          "key": "d",
+          "text": "cztery kanał z układem korelatorów"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    }
+  ]
+}

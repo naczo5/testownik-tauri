@@ -1,0 +1,6 @@
+X1000
+Kwantowanie to proces:
+nadawania wartości amplitud pobranym próbkom
+niezależny od rozdzielczości kwantyzera
+bezstratny, nie powodujący utraty informacji
+w którym przedział kwantowania musi być równomierny

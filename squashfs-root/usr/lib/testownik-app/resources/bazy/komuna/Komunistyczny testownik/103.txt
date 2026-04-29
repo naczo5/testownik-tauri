@@ -1,0 +1,6 @@
+X0001
+Jaka kolejność przetwarzania sygnału po stronie nadawczej kanału telekomunikacyjnego jest poprawna? 
+szyfrowanie, kompresja, kodowanie kanałowe, kodowanie źródłowe 
+kompresja, szyfrowanie, kodowanie kanałowe, kodowanie źródłowe 
+kodowanie kanałowe, szyfrowanie, kompresja, kodowanie źródłowe
+kodowanie źródłowe, kompresja, szyfrowanie, kodowanie kanałowe

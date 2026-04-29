@@ -1,0 +1,6 @@
+X0010
+Parametry stratne linii długiej (kabla miedzianego), które rozpraszają energię, to:
+C - pojemność, L - indukcyjność
+Z - impedancja, alfa - stała tłumieniowa
+R - rezystancja, G - konduktancja
+gamma - stała propagacji

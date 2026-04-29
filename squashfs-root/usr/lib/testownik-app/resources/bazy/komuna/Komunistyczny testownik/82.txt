@@ -1,0 +1,6 @@
+X0010
+Które stwierdzenie jest prawdziwe w odniesieniu do systemu Internetu Rzeczy (IoT)?
+Systemy komórkowe IoT, z uwagi na wąskie pasma pracy, nie należą do 5. Generacji
+Systemy masowego IoT służą do transmisji szerokopasmowej o dużych przepustowościach
+Priorytetem w systemach masowego IoT jest duży zasięg
+System IoT służą do transmisji z dużymi szybkościami na duże odległości

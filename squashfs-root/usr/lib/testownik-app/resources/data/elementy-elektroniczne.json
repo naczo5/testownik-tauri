@@ -1,0 +1,884 @@
+{
+  "name": "Elementy-elektroniczne",
+  "displayName": "Elementy elektroniczne",
+  "description": "Prowadzący: prof. dr hab. inż. Janusz Mroczka",
+  "questionCount": 34,
+  "questions": [
+    {
+      "id": "01",
+      "question": "Półprzewodnik samoistny to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "materiał samoistnie generujący prąd"
+        },
+        {
+          "key": "b",
+          "text": "półprzewodnik z pojedynczym elektronem walencyjnym"
+        },
+        {
+          "key": "c",
+          "text": "czysty półprzewodnik pozbawiony domieszek i z efektów sieci"
+        },
+        {
+          "key": "d",
+          "text": "materiał który samoistnie powstał w wyniku powstałego mieszku"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "02",
+      "question": "Wraz ze wzrostem temperatury w półprzewodniku :",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rezystancja maleje"
+        },
+        {
+          "key": "b",
+          "text": "rezystancja nie zmienia się"
+        },
+        {
+          "key": "c",
+          "text": "rezystancja rośnie wykładniczo"
+        },
+        {
+          "key": "d",
+          "text": "rezystancja rośnie liniowo"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "03",
+      "question": "Obszar ładunku przestrzennego w złączu PN:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "blokuje ruch nośników większościowych"
+        },
+        {
+          "key": "b",
+          "text": "przyśpiesza nośniki większościowe"
+        },
+        {
+          "key": "c",
+          "text": "spowalnia nośniki mniejszościowe"
+        },
+        {
+          "key": "d",
+          "text": "to obszar, w którym występuje duża koncentracja wolnych nośników"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "04",
+      "question": "Przy polaryzacji diody w kierunku zaporowym szerokośd bariery potencjału:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zmniejsza się"
+        },
+        {
+          "key": "b",
+          "text": "zwiększa się"
+        },
+        {
+          "key": "c",
+          "text": "w całości wnika do obszaru N"
+        },
+        {
+          "key": "d",
+          "text": "w całości wnika do obszaru P"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "05",
+      "question": "Przy polaryzacji diody w kierunku przewodzenia dla małych prądów:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rezystancja złącza RJ jest zaniedbywalnie mała"
+        },
+        {
+          "key": "b",
+          "text": "udział rezystancji złącza RJ i rezystancji podłoża RB jest porównywalny"
+        },
+        {
+          "key": "c",
+          "text": "przeważa rezystancja złącza RJ"
+        },
+        {
+          "key": "d",
+          "text": "przeważa rezystancja podłoża RB"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "06",
+      "question": "Ujemną rezystancję dynamiczną wykazują diody:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mikrofalowe"
+        },
+        {
+          "key": "b",
+          "text": "zenera"
+        },
+        {
+          "key": "c",
+          "text": "tunelowe"
+        },
+        {
+          "key": "d",
+          "text": "pojemnościowe"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "07",
+      "question": "Pracę tranzystora jako wzmacniacza zapewnia polaryzacja złącz:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "emiterowego w kierunku przewodzenia i kolektorowego w kierunku przewodzenia"
+        },
+        {
+          "key": "b",
+          "text": "emiterowego w kierunku zaporowym i kolektorowego w kierunku przewodzenia"
+        },
+        {
+          "key": "c",
+          "text": "emiterowego w kierunku przewodzenia i kolektorowego w kierunku zaporowym"
+        },
+        {
+          "key": "d",
+          "text": "emiterowego w kierunku zaporowym i kolektorowego w kierunku zaporowym"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "08",
+      "question": "Największe wzmocnienie prądowe zapewnia konfiguracja tranzystora w układzie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "żadne z poniższych"
+        },
+        {
+          "key": "b",
+          "text": "OE (WE)"
+        },
+        {
+          "key": "c",
+          "text": "OB (WB)"
+        },
+        {
+          "key": "d",
+          "text": "OC (WC)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "09",
+      "question": "Punkt pracy tranzystora PNP:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zawsze pokrywa się z punktem (0,0) charakterystyki IC od UCE. Prąd kolektora od napięcia kolektor emiter."
+        },
+        {
+          "key": "b",
+          "text": "jest jednoznacznie określony przez kombinację prądu IC(prąd kolektora), IB (prąd bazy), UCE"
+        },
+        {
+          "key": "c",
+          "text": "istnieje tylko jeden"
+        },
+        {
+          "key": "d",
+          "text": "nie zależy od prostej obciążenia"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "10",
+      "question": "W tranzystorze JFET typu N wzrost napięcia UGS powoduje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zmniejszenie prądu nasycenia drenu"
+        },
+        {
+          "key": "b",
+          "text": "zwiększenie prądu nasycenia drenu"
+        },
+        {
+          "key": "c",
+          "text": "wzrost prądu bramki"
+        },
+        {
+          "key": "d",
+          "text": "spadek prądu bramki"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "11",
+      "question": "Zakres nasycenia tranzystora MOSFET nazywamy zakresem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bramkowym"
+        },
+        {
+          "key": "b",
+          "text": "diodowym"
+        },
+        {
+          "key": "c",
+          "text": "triodowym"
+        },
+        {
+          "key": "d",
+          "text": "pentodowym"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "12",
+      "question": "Uzupełnij zdanie. Tranzystor jednozłączowy jest …………… elementem przełączającym działającym na zasadzie modulacji konduktywności półprzewodnika.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dwuzaciskowym bipolarnym"
+        },
+        {
+          "key": "b",
+          "text": "trójzaciskowym bipolarnym"
+        },
+        {
+          "key": "c",
+          "text": "dwuzaciskowym polowym"
+        },
+        {
+          "key": "d",
+          "text": "trójzaciskowym polowym"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "13",
+      "question": "Do zalet programowalnego tranzystora jednozłączowego w stosunku do nieprogramowalnego nie zaliczamy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "większe napięcie przebicia"
+        },
+        {
+          "key": "b",
+          "text": "możliwośd pracy przy małych napięciach"
+        },
+        {
+          "key": "c",
+          "text": "programowalne napięcie przełączające"
+        },
+        {
+          "key": "d",
+          "text": "mniejsza amplituda sygnału wyjściowego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "14",
+      "question": "Triodowy tyrystor blokujący wstecznie oznaczamy skrótem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "SCR"
+        },
+        {
+          "key": "b",
+          "text": "RCT"
+        },
+        {
+          "key": "c",
+          "text": "LTT"
+        },
+        {
+          "key": "d",
+          "text": "GTO"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "15",
+      "question": "Przy normalnej pracy tyrystora między stanem blokowania a stanem przewodzenia występuje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stan zaworowy"
+        },
+        {
+          "key": "b",
+          "text": "stan nasycenia"
+        },
+        {
+          "key": "c",
+          "text": "obszar uszkodzeo obwodu bramkowego"
+        },
+        {
+          "key": "d",
+          "text": "obszar ujemnej rezystancji dynamicznej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "16",
+      "question": "Jednostką natężenia oświetlenia jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kandela"
+        },
+        {
+          "key": "b",
+          "text": "luks"
+        },
+        {
+          "key": "c",
+          "text": "lumen"
+        },
+        {
+          "key": "d",
+          "text": "wat"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "17",
+      "question": "Barwa promieniowania emitowanego przez diodę LED zależy od:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "szerokości przerwy zabronionej"
+        },
+        {
+          "key": "b",
+          "text": "szerokości obszaru ładunku przestrzennego"
+        },
+        {
+          "key": "c",
+          "text": "ruchliwości nośników"
+        },
+        {
+          "key": "d",
+          "text": "kierunku polaryzacji"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "18",
+      "question": "Współczynnik wypełnienia FF ogniwa fotoelektrycznego definiowany jest jako:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bezwzględna różnica między napięciami nieobciążonego i obciążonego ogniwa fotoelektrycznego"
+        },
+        {
+          "key": "b",
+          "text": "stosunek mocy maksymalnej wydzielonej w obciążeniu do maksymalnej mocy teoretycznej"
+        },
+        {
+          "key": "c",
+          "text": "stosunek prądu maksymalnego płynącego przez obciążenie do prądu fotoelektrycznego"
+        },
+        {
+          "key": "d",
+          "text": "stosunek wytworzonej mocy elektrycznej do mocy padającego promieniowania"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "19",
+      "question": "W ogniwie fotoelektrycznym przy braku obciążenia zależnośd fotoprądu od natężenia oświetlenia jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "liniowa"
+        },
+        {
+          "key": "b",
+          "text": "ekspotencjalna"
+        },
+        {
+          "key": "c",
+          "text": "kwadratowa"
+        },
+        {
+          "key": "d",
+          "text": "logarytmiczna"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "20",
+      "question": "Które z poniższych stwierdzeo nie jest prawdziwe. Tranzystor FET w porównaniu z tranzystorem bipolarnym ma:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "większą impedancję wejść"
+        },
+        {
+          "key": "b",
+          "text": "mniejsze zakłócenia"
+        },
+        {
+          "key": "c",
+          "text": "gorsze właściwości w zakresie wielkich częstotliwości"
+        },
+        {
+          "key": "d",
+          "text": "dużo gorszą skalę integracji układu scalonego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "21",
+      "question": "W tranzystorze MOSFET z kanałem zindukowanym dla UGS=0:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "płynie duży prąd drenu"
+        },
+        {
+          "key": "b",
+          "text": "zostaje zindukowany kanał"
+        },
+        {
+          "key": "c",
+          "text": "prąd drenu nie płynie"
+        },
+        {
+          "key": "d",
+          "text": "tranzystor pracuje w zakresie aktywnym"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "22",
+      "question": "W czasie normalnej pracy tyrystora punkt przełączenia występuje przy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dodatnim napięciu bramki"
+        },
+        {
+          "key": "b",
+          "text": "ujemnym napięciu bramki"
+        },
+        {
+          "key": "c",
+          "text": "ujemnym napięciu anody"
+        },
+        {
+          "key": "d",
+          "text": "dodatnim napięciu katody"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "23",
+      "question": "Sterowanie mocy przy użyciu tyrystora polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zmianie polaryzacji anoda-katoda"
+        },
+        {
+          "key": "b",
+          "text": "pracy w obszarze ujemnej rezystancji dynamicznej"
+        },
+        {
+          "key": "c",
+          "text": "regulacji punktu przełączenia tyrystora"
+        },
+        {
+          "key": "d",
+          "text": "regulacji kąta zapłonu tyrystora"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "24",
+      "question": "Wyłączenie fototyrystora możliwe jest dzięki:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększeniu napięcia anody"
+        },
+        {
+          "key": "b",
+          "text": "zwiększeniu prądu anodowego"
+        },
+        {
+          "key": "c",
+          "text": "zmianie biegunowości napięcia zasilającego"
+        },
+        {
+          "key": "d",
+          "text": "zwiększeniu prądu bramki"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "25",
+      "question": "Włączenie tyrystora następuje przy polaryzacji (VA-potencjał anody, VK-potencjał katody, VG-potencjał bramki):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "VA>VG>VK"
+        },
+        {
+          "key": "b",
+          "text": "VA>VG<VK"
+        },
+        {
+          "key": "c",
+          "text": "VA<VG>VK"
+        },
+        {
+          "key": "d",
+          "text": "VA<VG<VK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "26",
+      "question": "Wraz ze wzrostem temperatury liczba nośników prądu w półprzewodnikach:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "maleje"
+        },
+        {
+          "key": "b",
+          "text": "rośnie"
+        },
+        {
+          "key": "c",
+          "text": "nie zmienia się"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "27",
+      "question": "Półprzewodnik domieszkowany to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "materiał łatwo mieszalny"
+        },
+        {
+          "key": "b",
+          "text": "półprzewodnik z celowo wprowadzonymi zanieczyszczeniami"
+        },
+        {
+          "key": "c",
+          "text": "materiał w którym samoistnie powstają domieszki"
+        },
+        {
+          "key": "d",
+          "text": "materiał w którym nie powstaje dodatkowy poziom energetyczny"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "28",
+      "question": "Zjawisko Zenera i przebicie lawinowe złącza PN:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "są wynikiem zderzenia nośników mniejszościowych z atomami sieci"
+        },
+        {
+          "key": "b",
+          "text": "są wynikiem działania silnego pola elektr. w obszarze złącza"
+        },
+        {
+          "key": "c",
+          "text": "mogą występowad jednocześnie"
+        },
+        {
+          "key": "d",
+          "text": "są zjawiskami nieodwracalnymi"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "29",
+      "question": "Światłem widzialnym nazywamy promieniowanie e-m w zakresie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "120-380 nanometrów"
+        },
+        {
+          "key": "b",
+          "text": "380-780 nanometrów"
+        },
+        {
+          "key": "c",
+          "text": "powyżej 380 nanometrów"
+        },
+        {
+          "key": "d",
+          "text": "poniżej 1000 nanometrów"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "30",
+      "question": "Emisja promieniowania w diodzie LED następuje w wyniku:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "poszerzenia obszaru ład. przestrz."
+        },
+        {
+          "key": "b",
+          "text": "polaryzacji w kierunku zaporowym"
+        },
+        {
+          "key": "c",
+          "text": "rekombinacji promienistej"
+        },
+        {
+          "key": "d",
+          "text": "tunelowego przebicia złącza"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "31",
+      "question": "W półprzewodniku typu N występuje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pięd elektronów walencyjnych"
+        },
+        {
+          "key": "b",
+          "text": "Nośnikami większościowymi są elektrony swobodne, nośnikami mniejszościowymi są wolne dziury."
+        },
+        {
+          "key": "c",
+          "text": "Domieszkowanie atomami pięciowartościowymi (donorowe) a więc nośnikami większościowymi są elektrony."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "32",
+      "question": "Obszarowi fotodiody odpowiada dwiartka:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "3"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "1"
+        },
+        {
+          "key": "d",
+          "text": "2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "33",
+      "question": "Wartośd prądu Ic w obwodzie wynosi(rysunek prostego obwodu z tranzystorem)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "10mA"
+        },
+        {
+          "key": "b",
+          "text": "20mA"
+        },
+        {
+          "key": "c",
+          "text": "35mA"
+        },
+        {
+          "key": "d",
+          "text": "40mA"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "34",
+      "question": "W ogniwie fotowoltaicznym przy braku obciążenia zależnośd mocy prądu od natężenia oświetlenia jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "liniowa"
+        },
+        {
+          "key": "b",
+          "text": "ekspotencjalna"
+        },
+        {
+          "key": "c",
+          "text": "kwadratowa"
+        },
+        {
+          "key": "d",
+          "text": "logarytmiczna"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    }
+  ]
+}

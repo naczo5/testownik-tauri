@@ -1,0 +1,6 @@
+X1000
+Administrator sieci sprawdza dziennik zabezpieczeń i zauważa, że w weekend nastąpił nieautoryzowany dostęp do wewnętrznego serwera plików. Po dalszym badaniu dziennika systemu plików administratir zauważa, że kilka ważnych dokumentów zostało skopiowanych na host znajdujący się poza firmą. Jakie zagrożenie reprezentowane jest w tym scenariuszu?
+kradzież informacji 
+utrata danych 
+zakłócenie usługi 
+kradzież tożsamości

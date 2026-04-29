@@ -1,0 +1,6054 @@
+{
+  "name": "Sieci-telekomunikacyjne",
+  "displayName": "Sieci telekomunikacyjne",
+  "description": "Testownik z Sieci Telekomunikacyjnych",
+  "questionCount": 234,
+  "questions": [
+    {
+      "id": "001",
+      "question": "Dźwięki mowy powstają w:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jamie nosowej i ustnej,"
+        },
+        {
+          "key": "b",
+          "text": "krtani"
+        },
+        {
+          "key": "c",
+          "text": "jamie ustnej"
+        },
+        {
+          "key": "d",
+          "text": "nasadzie"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "002",
+      "question": "Właściwy organ słyszenia mieści się w:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "okienku przedsionka"
+        },
+        {
+          "key": "b",
+          "text": "uchu środkowym(młoteczek, kowadełko, strzemiaczko)"
+        },
+        {
+          "key": "c",
+          "text": "uchu zewnetrznym i środkowym"
+        },
+        {
+          "key": "d",
+          "text": "ślimaku"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "003",
+      "question": "Jednostka poziomu głośnosci jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "son"
+        },
+        {
+          "key": "b",
+          "text": "decybel"
+        },
+        {
+          "key": "c",
+          "text": "fon"
+        },
+        {
+          "key": "d",
+          "text": "paskal"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "004",
+      "question": "Rezonatorami instrumentu głosowego sa:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "podniebienie miękkie"
+        },
+        {
+          "key": "b",
+          "text": "jama gardłowa, nosowa i ustna"
+        },
+        {
+          "key": "c",
+          "text": "krtań"
+        },
+        {
+          "key": "d",
+          "text": "wiązadła głosowe"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "005",
+      "question": "Ucho ludzkie składa sie z:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "małżowiny ustnej, ucha środkowego i ucha wewnętrznego"
+        },
+        {
+          "key": "b",
+          "text": "błony bębenkowej,przedsionka i slimaka"
+        },
+        {
+          "key": "c",
+          "text": "ucha środkowo-zewnetrznego i ucha środkowo-wewnetrznego"
+        },
+        {
+          "key": "d",
+          "text": "ucha zewnetrznego, środkowego i wewnętrznego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "006",
+      "question": "Fon jest to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "poziom sygnału, przy którym występują minima energii widma akustycznego określonego dźwięku"
+        },
+        {
+          "key": "b",
+          "text": "różnica pomiędzy szczytowym poziomem sygnału a średnim poziomem sygnału"
+        },
+        {
+          "key": "c",
+          "text": "jednostka poziomu głośności"
+        },
+        {
+          "key": "d",
+          "text": "jedna z maksymalnych wartości energii widma dźwięku"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "007",
+      "question": "Formant jest to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jedno z pasm częstotliwości, w którym występują minima energii widma akustycznego określonego dźwięku,"
+        },
+        {
+          "key": "b",
+          "text": "różnica pomiędzy szczytowym poziomem sygnału a średniim poziomem sygnału,"
+        },
+        {
+          "key": "c",
+          "text": "jedno z pasm częstotliwości, w którym skupioona jest energia widma akustycznego określonego dźwięku"
+        },
+        {
+          "key": "d",
+          "text": "jedna z maksymalnych wartości energii widma dźwięku"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "008",
+      "question": "Izofona jest to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "krzywa jednakowego poziomu głośności"
+        },
+        {
+          "key": "b",
+          "text": "krzywa jednakowego poziomu ciśnienia akustycznego"
+        },
+        {
+          "key": "c",
+          "text": "krzywa jednakowego poziomu natężenia dźwięku"
+        },
+        {
+          "key": "d",
+          "text": "krzywa jednakowego poziomu hałasu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "009",
+      "question": "Pascal małej częstotliwości transmisji radiofonicznej FM to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "3kHz"
+        },
+        {
+          "key": "b",
+          "text": "4,5kHz"
+        },
+        {
+          "key": "c",
+          "text": "15kHz"
+        },
+        {
+          "key": "d",
+          "text": "20kHz"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "010",
+      "question": "Kodowanie MUSICAM w systemie DAB ma na celu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "4-ro krotne zwiększenie przepływności"
+        },
+        {
+          "key": "b",
+          "text": "zmniejszenie przepływności do 896kbit/s na kanał stereofoniczny"
+        },
+        {
+          "key": "c",
+          "text": "zmniejszenie przepływności do 256kbit/s na kanał stereofoniczny"
+        },
+        {
+          "key": "d",
+          "text": "zmniejszenie przepływności do 20kbit/s na kanał monofoniczny"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "011",
+      "question": "COFDM to wykorzystywana w DAB metoda:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kodowania kanałowego z podziałem czasowym"
+        },
+        {
+          "key": "b",
+          "text": "kodowania kanałowego z podziałem częstotliwościowym"
+        },
+        {
+          "key": "c",
+          "text": "kodowania źródłowego"
+        },
+        {
+          "key": "d",
+          "text": "kodowania protekcyjnego"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "012",
+      "question": "Modulacja stosowana w radiodyfuzji na falach krótkich to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "AM DSB"
+        },
+        {
+          "key": "b",
+          "text": "FM"
+        },
+        {
+          "key": "c",
+          "text": "AM DSB S.C."
+        },
+        {
+          "key": "d",
+          "text": "AM SSB"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "013",
+      "question": "W systemie DAB przepływność w kanale stereofonicznym wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "16kb/s"
+        },
+        {
+          "key": "b",
+          "text": "64kb/s"
+        },
+        {
+          "key": "c",
+          "text": "128kb/s"
+        },
+        {
+          "key": "d",
+          "text": "256kb/s"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "014",
+      "question": "MUSICAM to wykorzystywana w DAB metoda:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kodowania kanałowego z podziałem czasowym"
+        },
+        {
+          "key": "b",
+          "text": "kodowania kanałowego z podziałem częstotliwościowym"
+        },
+        {
+          "key": "c",
+          "text": "kodowania protekcyjnego"
+        },
+        {
+          "key": "d",
+          "text": "kodowania źródłowego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "015",
+      "question": "Maskowanie w systemie DAB polega na wykorzystaniu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kodowania kanałowego"
+        },
+        {
+          "key": "b",
+          "text": "wielodrogowości propagacji"
+        },
+        {
+          "key": "c",
+          "text": "właściwości ucha ludzkiego"
+        },
+        {
+          "key": "d",
+          "text": "właściwości sygnału skwantowanego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "016",
+      "question": "Wystarczające , ze względu na zrozumiałość, odtworzenie sygnału mowy wymaga pasma:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ok.3 kHz"
+        },
+        {
+          "key": "b",
+          "text": "ok.8 kHz"
+        },
+        {
+          "key": "c",
+          "text": "ok.0,7 kHz"
+        },
+        {
+          "key": "d",
+          "text": "ok.15 kHz"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "017",
+      "question": "wymagane pasmo wielkiej częstotliwości kanału radiofonicznego FM stereo to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "15kHZ"
+        },
+        {
+          "key": "b",
+          "text": "53kHz"
+        },
+        {
+          "key": "c",
+          "text": "9 kHz"
+        },
+        {
+          "key": "d",
+          "text": "250kHz"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "018",
+      "question": "W systemie stereofonii z dodatkowym sygnałem pilotującym pomocniczy sygnał stereofoniczny X(t) jest sygnałem wykorzystującym:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "modulację dwuwstęgową AM z pełną falą nośną"
+        },
+        {
+          "key": "b",
+          "text": "modulację dwuwstęgową AM ze stłumioną falą nośną"
+        },
+        {
+          "key": "c",
+          "text": "modulację jednowstęgową AM z wstęgą górną"
+        },
+        {
+          "key": "d",
+          "text": "modulację dwuwstęgową FM"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "019",
+      "question": "Przepływność stereofonicznych studyjnych cyfrowych sygnałów fonicznych wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1536kbit/s"
+        },
+        {
+          "key": "b",
+          "text": "256kbit/s"
+        },
+        {
+          "key": "c",
+          "text": "48kbit/s"
+        },
+        {
+          "key": "d",
+          "text": "30kbit/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "020",
+      "question": "Zasadniczym celem kodowania źródłowego w DAB jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "polepszenie jakości transmisji"
+        },
+        {
+          "key": "b",
+          "text": "ograniczenie szerokości pasma transmisji"
+        },
+        {
+          "key": "c",
+          "text": "ograniczenie szumów transmisji"
+        },
+        {
+          "key": "d",
+          "text": "ograniczenie zniekształceń transmisji"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "021",
+      "question": "Wraz ze wzrostem częstotliwości sygnał radiowy jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bardziej wrażliwy na zakłócenia"
+        },
+        {
+          "key": "b",
+          "text": "mniej wrażliwy na zakłócenia"
+        },
+        {
+          "key": "c",
+          "text": "nie jest wrażliwy na zakłócenia"
+        },
+        {
+          "key": "d",
+          "text": "wrażliwość ta nie jest związana z częstotliwością"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "022",
+      "question": "Częstotliwości 1 kHz odpowiada długość fali:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "300 m"
+        },
+        {
+          "key": "b",
+          "text": "30 m"
+        },
+        {
+          "key": "c",
+          "text": "3 m"
+        },
+        {
+          "key": "d",
+          "text": "300 km"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "023",
+      "question": "Impuls synchronizacji pionowej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "występuje bezpośrednio po impulsie wygaszania pionowego"
+        },
+        {
+          "key": "b",
+          "text": "trwa przez pięć linii w każdym półobrazie"
+        },
+        {
+          "key": "c",
+          "text": "trwa przez dwadzieścia pięć linii w każdym półobrazie"
+        },
+        {
+          "key": "d",
+          "text": "jest podzielony na impulsy półliniowe"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "024",
+      "question": "Impuls synchronizacji pionowej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "trwa przez pięć linii w każdym półobrazie"
+        },
+        {
+          "key": "b",
+          "text": "trwa przez 25 linii w każdym półobrazie"
+        },
+        {
+          "key": "c",
+          "text": "jest poprzedzony impulsami wyrównawczymi"
+        },
+        {
+          "key": "d",
+          "text": "występuje bezpośrednio po impulsie wygaszania pionowego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "025",
+      "question": "W standardzie PAL stosuje się kodowanie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "widmowe jednoczesne"
+        },
+        {
+          "key": "b",
+          "text": "widmowe kolejne"
+        },
+        {
+          "key": "c",
+          "text": "czasowe jednoczesne"
+        },
+        {
+          "key": "d",
+          "text": "czasowe kolejne"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "026",
+      "question": "Podnośna chrominancji w standardzie PAL spełnia zależność (fH – częstotliwość odchylania poziomego)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "n fH"
+        },
+        {
+          "key": "b",
+          "text": "n fH/2"
+        },
+        {
+          "key": "c",
+          "text": "(n-1/4)fH + f0, gdzie f0 = 25Hz"
+        },
+        {
+          "key": "d",
+          "text": "nie zależy od częstotliwości odchylania poziomego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "027",
+      "question": "Ze względu na rodzaj modulacji nośnej wizji w systemach naziemnych, w odbiorniku należy zastosować:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "detektor aperiodyczny"
+        },
+        {
+          "key": "b",
+          "text": "filtr deemfazy"
+        },
+        {
+          "key": "c",
+          "text": "filtr ze zboczem Nyquista"
+        },
+        {
+          "key": "d",
+          "text": "detektor częstotliwości"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "028",
+      "question": "W standardach B, G, D, K, I dla przekazu fonii stosuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "modulację częstotliwości z dewiacją +-15kHz"
+        },
+        {
+          "key": "b",
+          "text": "dwuwstęgową modulację amplitudy"
+        },
+        {
+          "key": "c",
+          "text": "modulację częstotliwości z dewiacją +-50kHz"
+        },
+        {
+          "key": "d",
+          "text": "modulację częstotliwości z dewiacją +-130kHz"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "029",
+      "question": "W odniesieniu do sygnału w standardzie D2-MAC błędne jest stwierdzenie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "podczas wygaszania linii przesyłane są cyfrowe sygnały synchronizacji i dźwięku"
+        },
+        {
+          "key": "b",
+          "text": "w każdej aktywnej części linii przesyłane są dwa sygnały różnicowe i sygnał luminancji"
+        },
+        {
+          "key": "c",
+          "text": "w aktywnej części linii przesyłany jest jeden z sygnałów różnicowych i sygnał luminancji"
+        },
+        {
+          "key": "d",
+          "text": "stosowana jest pakietowa organizacja sygnałów cyfrowych"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "030",
+      "question": "W standardzie MPEG-2 obrazy typu B to obrazy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "oryginalne, dla których nie stosuje się prognozowania"
+        },
+        {
+          "key": "b",
+          "text": "obrazy prognozowane wyłącznie na podstawie obrazów typu P"
+        },
+        {
+          "key": "c",
+          "text": "obrazy prognozowane wyłącznie na podstawie obrazów typu I"
+        },
+        {
+          "key": "d",
+          "text": "obrazy prognozowane na podstawie obrazów typu I i P lub P i P"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "031",
+      "question": "Sygnały różnicowe w standardzie MPEG-2 są nadawane:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zawsze z taką samą rozdzielczością jak sygnał luminancji"
+        },
+        {
+          "key": "b",
+          "text": "zawsze z rozdzielczością o połowę mniejszą niż sygnał luminancji"
+        },
+        {
+          "key": "c",
+          "text": "zawsze z rozdzielczością czterokrotnie mniejszą niż sygnał luminancji"
+        },
+        {
+          "key": "d",
+          "text": "z rozdzielczością taką samą jak sygnał luminancji lub zmniejszoną (dwu lib czterokrotnie)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "032",
+      "question": "Ograniczenie przepływności bitowej w procesie kodowania uzyskuje się w standardzie MPEG-2 przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zastosowanie kodowania Reed-Salomona"
+        },
+        {
+          "key": "b",
+          "text": "zastosowanie kodowania o zmiennej długości słowa VLC"
+        },
+        {
+          "key": "c",
+          "text": "zastosowanie kodowania splotowego"
+        },
+        {
+          "key": "d",
+          "text": "na etapie kodowania nie stosuje się żadnych metod redukcji wymaganej przepływności bitowej"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "033",
+      "question": "W standardzie PAL stosuje się długość sygnału burst:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2,1 mikro sek"
+        },
+        {
+          "key": "b",
+          "text": "3,3 mikro sek"
+        },
+        {
+          "key": "c",
+          "text": "16 mikro sek"
+        },
+        {
+          "key": "d",
+          "text": "35,7 mikro sek"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "034",
+      "question": "Cechą charakterystyczną standardu PAL jest kompensacja zniekształceń:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "fazowych"
+        },
+        {
+          "key": "b",
+          "text": "charakterystyki amplitudowej"
+        },
+        {
+          "key": "c",
+          "text": "kontrastu"
+        },
+        {
+          "key": "d",
+          "text": "nasycenia"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "035",
+      "question": "Ze względu na rodzaj modulacji nośnej wizji w systemach naziemnych, w odbiorniku należy zastosować:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "detektor częstotliwości"
+        },
+        {
+          "key": "b",
+          "text": "detektor synchroniczny"
+        },
+        {
+          "key": "c",
+          "text": "detektor aperiodyczny"
+        },
+        {
+          "key": "d",
+          "text": "filtr deemfazy"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "036",
+      "question": "Przyjęty w Europie analogowy system stereofoniczny w telewizji polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "modulacji częstotliwości nośnej fonii złożonym sygnałem stereofonicznym"
+        },
+        {
+          "key": "b",
+          "text": "modulacji częstotliwości dodatkowej nośnej sygnałem kanału P"
+        },
+        {
+          "key": "c",
+          "text": "modulacji częstotliwości dodatkowej nośnej sygnałem (L-P)/2"
+        },
+        {
+          "key": "d",
+          "text": "modulacji amplitudy dodoatkowej nośnej sygnałem (L-P)/2"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "037",
+      "question": "Częstotliwość podnośnej chrominancji odbiornika kolorowego wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "0,6 MHz"
+        },
+        {
+          "key": "b",
+          "text": "3,57 MHz"
+        },
+        {
+          "key": "c",
+          "text": "8,5 MHz"
+        },
+        {
+          "key": "d",
+          "text": "1,3 MHz"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "038",
+      "question": "Wektor w standardzie NICAM przesyłany jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie jest  przesyłany w żadnej postaci"
+        },
+        {
+          "key": "b",
+          "text": "jako umieszczona w ramce sekwencja trzech dodatkowych bitów bez protekcji"
+        },
+        {
+          "key": "c",
+          "text": "jako umieszczona w ramce sekwencja trzech dodatkowych bitów i bitu parzystości"
+        },
+        {
+          "key": "d",
+          "text": "przez modyfikację bitów parzystości grupy kodowej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "039",
+      "question": "W standardzie MPEG-2 obrazy typu P to obrazy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "prognozowane na podstawie obrazów typu I lub P."
+        },
+        {
+          "key": "b",
+          "text": "prognozowane wyłącznie na podstawie obrazów typu I"
+        },
+        {
+          "key": "c",
+          "text": "prognozowane zarówno na podstawie obrazów wcześniejszych jak i późniejszych"
+        },
+        {
+          "key": "d",
+          "text": "oryginalne, dla których nie stosuje się prognozowania"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "040",
+      "question": "W standardzie MPEG-2:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stosowana modulacja  AM"
+        },
+        {
+          "key": "b",
+          "text": "stosowana modulacja  FM"
+        },
+        {
+          "key": "c",
+          "text": "stosowana modulacja QPSK"
+        },
+        {
+          "key": "d",
+          "text": "stosowana modulacja  QAM"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "041",
+      "question": "W standardzie PAL stosuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "modulację częstotliwości dwóch niezależnych podnośnych chrominancji"
+        },
+        {
+          "key": "b",
+          "text": "modulację częstotliwości ze zmianą co linię modulującego sygnału różnicowego"
+        },
+        {
+          "key": "c",
+          "text": "kwadraturową modulację amplitudy podnośnej ze stałą w każdej linii fazą składowej ortogonalnej"
+        },
+        {
+          "key": "d",
+          "text": "kwadraturową modulację amplitudy podnośnej ze zmianą co linię fazy składowej ortogonalnej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "042",
+      "question": "W wyniku kompresji czasowej pasmo przetworzonego sygnału:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rośnie proporcjonalnie do współczynnika kompresji"
+        },
+        {
+          "key": "b",
+          "text": "maleje z kwadratem współczynnika kompresji"
+        },
+        {
+          "key": "c",
+          "text": "rośnie z kwadratem współczynnika kompresji"
+        },
+        {
+          "key": "d",
+          "text": "nie ulega zmianie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "043",
+      "question": "W standardzie MPEG-2:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stosuje się wyłącznie wybieranie kolejnoliniowe"
+        },
+        {
+          "key": "b",
+          "text": "stosuje się wyłącznie wybieranie międzyliniowe"
+        },
+        {
+          "key": "c",
+          "text": "rodzaj wybierania musi być ustalony na stałe dla kodera"
+        },
+        {
+          "key": "d",
+          "text": "dopuszczalne jest zarówno wybieranie kolejnoliniowe jak i międzyliniowe"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "044",
+      "question": "Z prawem sumowania kolorów, dowolny kolor może być otrzymany w wyniku:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mieszania trzech kolorów"
+        },
+        {
+          "key": "b",
+          "text": "dodania trzech kolorów, spełniający warunek ,że dodanie dowolnych dwóch z tej trójki nie daje koloru trzeciego"
+        },
+        {
+          "key": "c",
+          "text": "tonacji koloru białego i czarnego"
+        },
+        {
+          "key": "d",
+          "text": "mieszania RGB"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "045",
+      "question": "W wyniku specjalnego doboru częstotliwości podnośnej chrominancji w standardzie PAL:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "prążki sygnału luminancji pokrywają się z prążkami sygnału różnicowego Uv"
+        },
+        {
+          "key": "b",
+          "text": "prążki sygnału luminancji pokrywają się z prążkami sygnału różnicowego Uu"
+        },
+        {
+          "key": "c",
+          "text": "prążki obu sygnałów różnicowych pokrywają się ale nie pokrywają się z prążkami sygnału luminancji"
+        },
+        {
+          "key": "d",
+          "text": "prążki żadnego z sygnałów różnicowych ani sygnału luminancji nie pokrywają się"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "046",
+      "question": "zasadniczą zaletą standardu PAL ( w stosunku do NTSC) jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kompensacja zniekształceń nasycenia"
+        },
+        {
+          "key": "b",
+          "text": "kompensacja zniekształceń fazy"
+        },
+        {
+          "key": "c",
+          "text": "poprawa stromości zboczy sygnałów różnicowych"
+        },
+        {
+          "key": "d",
+          "text": "poprawa stromości zboczy sygnału luminancji"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "047",
+      "question": "szerokośc dolnej wstęgi bocznej naziemnych i kablowych systemach telewizyjnych:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest taka sama jak wstęgi górnej"
+        },
+        {
+          "key": "b",
+          "text": "jest całkowicie wytłumiona"
+        },
+        {
+          "key": "c",
+          "text": "jest mniejsza niż wstęgi górnej"
+        },
+        {
+          "key": "d",
+          "text": "jest dwa razy szersza niż wstęgi górnej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "048",
+      "question": "W standardzie MPEG-2 obrazy typu B są tworzone na podstawie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wcześniejszego obrazu typu I lub P i późniejszego obrazu typu I lub P"
+        },
+        {
+          "key": "b",
+          "text": "dwóch wcześniejszych obrazów typu I"
+        },
+        {
+          "key": "c",
+          "text": "dwóch wcześniejszych obrazów typu P"
+        },
+        {
+          "key": "d",
+          "text": "dwóch późniejszych obrazów typu I lub P"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "049",
+      "question": "ilość rozróżnialnych poziomów sygnału luminancji (gradacja):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rośnie ze wzrostem prędkości ruchu w obrazie"
+        },
+        {
+          "key": "b",
+          "text": "rośnie ze wzrostem ilości elementów w obrazie"
+        },
+        {
+          "key": "c",
+          "text": "nie zalezy od prędkości ruchu w obrazie"
+        },
+        {
+          "key": "d",
+          "text": "maleje ze wzrostem prędkości ruchu oraz ilości elementów obrazu"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "050",
+      "question": "w jednym kanale radiowym może pracować system działający w układzie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "duosimpleks"
+        },
+        {
+          "key": "b",
+          "text": "simpleks"
+        },
+        {
+          "key": "c",
+          "text": "semidupleks"
+        },
+        {
+          "key": "d",
+          "text": "dupleks"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "051",
+      "question": "systemowe cechy odbiornika to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "odporność na zakłócenia interferencyjne, zysk anteny, szerokość kanału, częstotliwość robocza"
+        },
+        {
+          "key": "b",
+          "text": "moc na wejściu odbiornika, tłumienie fidera, zysk anteny, wzniesienie anteny nad terenem"
+        },
+        {
+          "key": "c",
+          "text": "czułość odbiornika, tłumienie fidera, zysk anteny, wzniesienie anteny nad terenem"
+        },
+        {
+          "key": "d",
+          "text": "częstotliwość, moc promieniowania, czułość uzytkowa, zasięg użytkowy"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "052",
+      "question": "Jaki rodzaj dupleksu w interfejsie radiowym stosowany jest w systemie GSM:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "częstotliwościowy FDD"
+        },
+        {
+          "key": "b",
+          "text": "czasowy TDD"
+        },
+        {
+          "key": "c",
+          "text": "mieszany MDD"
+        },
+        {
+          "key": "d",
+          "text": "kodowy CDD"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "053",
+      "question": "Do monitorowania jakości transmisji w systemach SDH wykorzystuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kodowanie cykliczne (CRC)"
+        },
+        {
+          "key": "b",
+          "text": "N-bitową przeplotową kontrolę parzystości"
+        },
+        {
+          "key": "c",
+          "text": "N-bitowe kodowanie nadmiarowe"
+        },
+        {
+          "key": "d",
+          "text": "sprawdzanie naprzemienności kodu liniowego"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "054",
+      "question": "w cyfrowych wielokrotnych systemach telefonicznych(PDH) stosuje się zwielokrotnienie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kodowe"
+        },
+        {
+          "key": "b",
+          "text": "częstotliwościowe"
+        },
+        {
+          "key": "c",
+          "text": "Falowe"
+        },
+        {
+          "key": "d",
+          "text": "z podziałem czasu"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "055",
+      "question": "Jakie centrale nie mają własnych abonentów?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "centrale zakładowe"
+        },
+        {
+          "key": "b",
+          "text": "centrale międzymiastowe"
+        },
+        {
+          "key": "c",
+          "text": "centrale końcowe"
+        },
+        {
+          "key": "d",
+          "text": "centrale abonenckie"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "056",
+      "question": "Czego dotyczy wiadomość sygnalizacyjna „information” ?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zestawienia połączenia"
+        },
+        {
+          "key": "b",
+          "text": "informacji o numerze abonenta wywołującego"
+        },
+        {
+          "key": "c",
+          "text": "informacji o numerze abonenta wywoływanego"
+        },
+        {
+          "key": "d",
+          "text": "informacji o operatorze sieci"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "057",
+      "question": "Podaj cztery fazy (procesy) centrali telefonicznej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przeglądanie łączy, obsługa sygnalizacji, wybór drogi, administracja i utrzymanie"
+        },
+        {
+          "key": "b",
+          "text": "preselekcja, zestawienie połączenia, stan rozmowy, rozłączenie"
+        },
+        {
+          "key": "c",
+          "text": "Strowger 32 AA/AB, Pentaconta 1000C, K-66, E-10 A"
+        },
+        {
+          "key": "d",
+          "text": "rejestrowanie, sterowanie, programowanie, wybieranie"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "058",
+      "question": "Pierwsza cyfra wskaźnika międzynarodowego wskazuje na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "na to, którego państwa jest to wskaźnik"
+        },
+        {
+          "key": "b",
+          "text": "na strefę czasową, w której położone jest państwo docelowe"
+        },
+        {
+          "key": "c",
+          "text": "na strefę kontynentalną państwa docelowego"
+        },
+        {
+          "key": "d",
+          "text": "jest po prostu pierwszą cyfrą prefiksu międzynarodowego i nie wskazuje na nic szczególnego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "059",
+      "question": "Warunek propagacji światła w światłowodzie, to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "n rdzenia < n płaszcza"
+        },
+        {
+          "key": "b",
+          "text": "n rdzenia > n płaszcza"
+        },
+        {
+          "key": "c",
+          "text": "mała średnica rdzenia"
+        },
+        {
+          "key": "d",
+          "text": "specjalna warstwa odbijająca na granicy rdzenia i płaszcza"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "060",
+      "question": "Co nie jest elementem okablowania światłowodowego ?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "SUK"
+        },
+        {
+          "key": "b",
+          "text": "ONU (optyczna jednostka sieciow"
+        },
+        {
+          "key": "c",
+          "text": "OLT (zakończenie linii optycznej)"
+        },
+        {
+          "key": "d",
+          "text": "ODN (optyczna sieć dystrybucyjn"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "061",
+      "question": "Co to jest ISDN?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "cyfrowa sieć z integracją usług"
+        },
+        {
+          "key": "b",
+          "text": "analogowa sieć"
+        },
+        {
+          "key": "c",
+          "text": "żadne z powyższych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "062",
+      "question": "Kto zaczyna połączenie w DECT pomiędzy słuchawką a stacją bazową?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "słuchawka (PP – część ruchom"
+        },
+        {
+          "key": "b",
+          "text": "stacja bazowa"
+        },
+        {
+          "key": "c",
+          "text": "obie naraz"
+        },
+        {
+          "key": "d",
+          "text": "żadne z powyższych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "063",
+      "question": "Jaka komutacja występuje w NGN (sieci następnej generacji)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pakietów"
+        },
+        {
+          "key": "b",
+          "text": "kanałów"
+        },
+        {
+          "key": "c",
+          "text": "łączy"
+        },
+        {
+          "key": "d",
+          "text": "łączy i kanałów"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "064",
+      "question": "Jak zmniejsza się moc sygnału z 10-krotnym wzrostem odległości odbiornika od nadajanika?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "6 dB"
+        },
+        {
+          "key": "b",
+          "text": "12 dB"
+        },
+        {
+          "key": "c",
+          "text": "20 dB"
+        },
+        {
+          "key": "d",
+          "text": "40 dB"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "065",
+      "question": "Co wykorzystuje tor symetryczny, która z technologii:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ADSL"
+        },
+        {
+          "key": "b",
+          "text": "HFC"
+        },
+        {
+          "key": "c",
+          "text": "FITL"
+        },
+        {
+          "key": "d",
+          "text": "WLL"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "066",
+      "question": "Warstwy w NGN:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "transportowa (sieć pakietowa, bramy medialne do innych sieci)"
+        },
+        {
+          "key": "b",
+          "text": "sterująca (sterowanie elementami warstwy transportowej, współpraca sygnalizacyjna z siecią PSTN (SS7))"
+        },
+        {
+          "key": "c",
+          "text": "aplikacji (usługi integrujące głos, dane, wideo, integracja rozwiązań stacjonarnych i mobilnych, współpraca z siecią IN (INAP))"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "067",
+      "question": "Co oznacza 802.3 ?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "IEEE LAN ETHERNET, dostęp CSMA/CD"
+        },
+        {
+          "key": "b",
+          "text": "Tylko IEEE LAN ETHERNET,"
+        },
+        {
+          "key": "c",
+          "text": "Tylko dostęp CSMA/CD"
+        },
+        {
+          "key": "d",
+          "text": "Ultra DMA"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "068",
+      "question": "Czy Internet jest usługą powszechną (wg polskiego prawa) ?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "NIE"
+        },
+        {
+          "key": "b",
+          "text": "TAK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "069",
+      "question": "Ilu użytkowników może pracować na jednym kanale w systemie DECT w normalnym trybie?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "8"
+        },
+        {
+          "key": "d",
+          "text": "12"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "070",
+      "question": "Co nie jest cechą systemu telekomunikacyjnego ?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tajemnica telekomunikacyjna"
+        },
+        {
+          "key": "b",
+          "text": "pasmo 300-3400 Hz"
+        },
+        {
+          "key": "c",
+          "text": "opóźnienie sygnału"
+        },
+        {
+          "key": "d",
+          "text": "czas dostępu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "071",
+      "question": "Czy NGN:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest używane powszechnie"
+        },
+        {
+          "key": "b",
+          "text": "projekt został porzucony"
+        },
+        {
+          "key": "c",
+          "text": "to przyszłość rozwoju sieci"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "072",
+      "question": "Jakie protokoły występują w NGN?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "248, SIP, SIP-T, H.323"
+        },
+        {
+          "key": "b",
+          "text": "HTTP, SIP, SIP-T"
+        },
+        {
+          "key": "c",
+          "text": "ARP, RARP, DNS"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "073",
+      "question": "Jaki protokół nie występuje w NGN?\nMGCP",
+      "answers": [
+        {
+          "key": "h",
+          "text": "248\nSIP, SIP-T"
+        },
+        {
+          "key": "h",
+          "text": "323"
+        }
+      ],
+      "correct": [
+        "h"
+      ],
+      "images": []
+    },
+    {
+      "id": "074",
+      "question": "Czy sieci IN (INAP):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "są obecnie stosowane"
+        },
+        {
+          "key": "b",
+          "text": "będą w najbliższym czasie stosowane"
+        },
+        {
+          "key": "c",
+          "text": "nie będą stosowane"
+        },
+        {
+          "key": "d",
+          "text": "były stosowane"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "075",
+      "question": "Sprawność kodowa 63B-64B: (63*100%/64 )",
+      "answers": [
+        {
+          "key": "a",
+          "text": "60%"
+        },
+        {
+          "key": "b",
+          "text": "70%"
+        },
+        {
+          "key": "c",
+          "text": "80%"
+        },
+        {
+          "key": "d",
+          "text": "90%"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "076",
+      "question": "Kto może edytować dokumenty RFC?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wszyscy"
+        },
+        {
+          "key": "b",
+          "text": "RFC editor"
+        },
+        {
+          "key": "c",
+          "text": "pracownicy naukowi"
+        },
+        {
+          "key": "d",
+          "text": "studenci"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "077",
+      "question": "Wpływ otoczenia na sygnał radiowy odbierany:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wszystko ma wpływ na sygnał"
+        },
+        {
+          "key": "b",
+          "text": "pierwsza strefa Fresnela"
+        },
+        {
+          "key": "c",
+          "text": "pierwsza półstrefa Fresnela"
+        },
+        {
+          "key": "d",
+          "text": "Nic nie wpływa"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "078",
+      "question": "Prędkość transmisji BISDN / ATM (asynchronicznej, szerokopasmowej technologii komunikacji przeznaczonej dla usług multimedialnych):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2 Mb/s"
+        },
+        {
+          "key": "b",
+          "text": "kilkaset Mb/s"
+        },
+        {
+          "key": "c",
+          "text": "512 kb/s"
+        },
+        {
+          "key": "d",
+          "text": "kilka Gb/s"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "079",
+      "question": "Które z rozwiązań jest systemem dla linii światłowodowych?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "FITL"
+        },
+        {
+          "key": "b",
+          "text": "FTTB"
+        },
+        {
+          "key": "c",
+          "text": "FTTH"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "080",
+      "question": "Na ile poziomów podzielono funkcje sygnalizacji NR 7 ?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "7"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "10"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "081",
+      "question": "Jakie jest pasmo pracy podstawowego aparatu telefonicznego",
+      "answers": [
+        {
+          "key": "a",
+          "text": "300 – 3400 Hz"
+        },
+        {
+          "key": "b",
+          "text": "300 – 4400 Hz"
+        },
+        {
+          "key": "c",
+          "text": "100 – 700 Hz"
+        },
+        {
+          "key": "d",
+          "text": "różne, zależne od rozwiązań"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "082",
+      "question": "Jaki jest najwyższy szczebel sieci telefonicznej?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sieć regionalna"
+        },
+        {
+          "key": "b",
+          "text": "sieć strefowa"
+        },
+        {
+          "key": "c",
+          "text": "sieć międzymiastowa"
+        },
+        {
+          "key": "d",
+          "text": "sieć międzynarodowa"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "083",
+      "question": "Jaki protokół sygnalizacyjny wykorzystywany jest w kanale sygnalizacyjnym D?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "TCP/IP"
+        },
+        {
+          "key": "b",
+          "text": "IPX"
+        },
+        {
+          "key": "c",
+          "text": "DSS1"
+        },
+        {
+          "key": "d",
+          "text": "HTTP"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "084",
+      "question": "Co oznacza skrót ITU?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "protokół transmisji w sieciach rozległych"
+        },
+        {
+          "key": "b",
+          "text": "Międzynarodowa Komisja Elektroniczna"
+        },
+        {
+          "key": "c",
+          "text": "techniczna podstawa regulacji (dokument)"
+        },
+        {
+          "key": "d",
+          "text": "Międzynarodowy Związek Telekomunikacyjny"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "085",
+      "question": "Które z poniższych organizacji mają wpływ na normalizację w zakresie telekomunikacji?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ITU, IEC"
+        },
+        {
+          "key": "b",
+          "text": "CENELEC, CCITT"
+        },
+        {
+          "key": "c",
+          "text": "ETSI, ITU"
+        },
+        {
+          "key": "d",
+          "text": "ETSI, IEC"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "086",
+      "question": "Który ze styków łączy abonenta analogowego z adapterem terminalowym ?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "styk S"
+        },
+        {
+          "key": "b",
+          "text": "styk R"
+        },
+        {
+          "key": "c",
+          "text": "styk V"
+        },
+        {
+          "key": "d",
+          "text": "styk U"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "087",
+      "question": "Jaki kod jest używany przy transmisji na styku U?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "AMI"
+        },
+        {
+          "key": "b",
+          "text": "zmodyfikowany kod AMI"
+        },
+        {
+          "key": "c",
+          "text": "2B1Q"
+        },
+        {
+          "key": "d",
+          "text": "HDB3"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "088",
+      "question": "Jaką wielkość ma komórka ATM?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "33 oktety"
+        },
+        {
+          "key": "b",
+          "text": "43 oktety"
+        },
+        {
+          "key": "c",
+          "text": "53 oktety"
+        },
+        {
+          "key": "d",
+          "text": "63 oktety"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "089",
+      "question": "Które stwierdzenie jest prawdziwe:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "każda ścieżka wirtualna może przenosić kilka kanałów wirtualnych"
+        },
+        {
+          "key": "b",
+          "text": "każdy kanał wirtualny może przenosić kilka ścieżek fizycznych"
+        },
+        {
+          "key": "c",
+          "text": "każdy kanał wirtualny może przenosić kilka ścieżek wirtualnych"
+        },
+        {
+          "key": "d",
+          "text": "każda ścieżka wirtualna może przenosić kilka ścieżek fizycznych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "090",
+      "question": "Kim był Almon Strowger, twórca centrali mechanicznej?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "taksówkarzem"
+        },
+        {
+          "key": "b",
+          "text": "założycielem koncernu AT&T"
+        },
+        {
+          "key": "c",
+          "text": "właścicielem zakładu pogrzebowego"
+        },
+        {
+          "key": "d",
+          "text": "elektronikiem"
+        },
+        {
+          "key": "e",
+          "text": "twoim starym"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "091",
+      "question": "Który poziom w sygnalizacji nr 7 obejmuje funkcje związane z użytkownikiem?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "poziom nr 1 (kanału)"
+        },
+        {
+          "key": "b",
+          "text": "poziom nr 2 (łącz"
+        },
+        {
+          "key": "c",
+          "text": "poziom nr 3 (sieci)"
+        },
+        {
+          "key": "d",
+          "text": "poziom nr 4"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "092",
+      "question": "Maksymalna liczba terminali podłączonych do krótkiej magistrali pasywnej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "1"
+        },
+        {
+          "key": "c",
+          "text": "8"
+        },
+        {
+          "key": "d",
+          "text": "4"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "093",
+      "question": "Strefa numeryczna to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "obszar, w którym numery abonenckie są objęte systemem numeracji jawnej"
+        },
+        {
+          "key": "b",
+          "text": "obszar, w którym numery abonenckie są objęte systemem numeracji skrytej"
+        },
+        {
+          "key": "c",
+          "text": "obszar, w którym numery abonenckie są objęte systemem numeracji jawnej i któremu w krajowej sieci telefonicznej przyporządkowano określony wskaźnik międzynarodowy"
+        },
+        {
+          "key": "d",
+          "text": "obszar, w obrębie którego abonenci realizują w sposób automatyczny połaczenia strefowe, wybierają numer strefowy NST"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "094",
+      "question": "Tlumienność odniesienia głośności:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "okreŚla tłumienie całego toru transmisyjnego"
+        },
+        {
+          "key": "b",
+          "text": "dla toru cyfrowego jest większa niż dla analogowego"
+        },
+        {
+          "key": "c",
+          "text": "charakteryzuje tłumienie dźwięków mowy przesyłanych przez badany czwórnik"
+        },
+        {
+          "key": "d",
+          "text": "jest równa średniej ważonej tłumienności skrośnych czwórnika"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "095",
+      "question": "W celu wyrównania wahań propagacji łączy stosujemy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "regenerację"
+        },
+        {
+          "key": "b",
+          "text": "sprzężenie zwrotne"
+        },
+        {
+          "key": "c",
+          "text": "wprowadzenie echa"
+        },
+        {
+          "key": "d",
+          "text": "buforowanie"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "096",
+      "question": "Jak długi jest czas negocjacji połączenie w standardzie V.92?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "5 s"
+        },
+        {
+          "key": "b",
+          "text": "10 s"
+        },
+        {
+          "key": "c",
+          "text": "20 s"
+        },
+        {
+          "key": "d",
+          "text": "30 s"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "097",
+      "question": "Przepustowość portu szeregowego wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "65 kb/s"
+        },
+        {
+          "key": "b",
+          "text": "70 kb/s"
+        },
+        {
+          "key": "c",
+          "text": "100 kb/s"
+        },
+        {
+          "key": "d",
+          "text": "115 kb/s"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "098",
+      "question": "Jakie firmy zajmują się badaniami międzynarodowego rynku telekomunikacyjnego?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Oftel, Teligen"
+        },
+        {
+          "key": "b",
+          "text": "OBOP"
+        },
+        {
+          "key": "c",
+          "text": "CBOS"
+        },
+        {
+          "key": "d",
+          "text": "TeleAudio"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "099",
+      "question": "Grupa IETF SIMPLE pracuje na d wprowadzaniem rozszerzenia do protokołu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "TCP"
+        },
+        {
+          "key": "b",
+          "text": "UDP"
+        },
+        {
+          "key": "c",
+          "text": "SIP"
+        },
+        {
+          "key": "d",
+          "text": "TELNET"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "100",
+      "question": "Jakie protokoły służą do kodowania sygnału audio ?\n T. 12x",
+      "answers": [
+        {
+          "key": "g",
+          "text": "7xx"
+        },
+        {
+          "key": "h",
+          "text": "32x"
+        },
+        {
+          "key": "h",
+          "text": "36x"
+        }
+      ],
+      "correct": [
+        "g"
+      ],
+      "images": []
+    },
+    {
+      "id": "101",
+      "question": "Który protokół jest podobny pod wieloma względami do HTTP?",
+      "answers": [
+        {
+          "key": "h",
+          "text": "323\n SIP \n T.120"
+        },
+        {
+          "key": "h",
+          "text": "245"
+        }
+      ],
+      "correct": [
+        "h"
+      ],
+      "images": []
+    },
+    {
+      "id": "102",
+      "question": "Który z protokołów jest z innej warstwy modelu OSI niż pozostałe?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "IPX"
+        },
+        {
+          "key": "b",
+          "text": "TCP"
+        },
+        {
+          "key": "c",
+          "text": "IP"
+        },
+        {
+          "key": "d",
+          "text": "ARP"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "103",
+      "question": "W systemie UMTS zastosowano:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kanały dupleksowe z podziałem czasu"
+        },
+        {
+          "key": "b",
+          "text": "kanały dupleksowe z podziałem częstotliwości"
+        },
+        {
+          "key": "c",
+          "text": "kanały dupleksowe z podziałem czasu i częstotliwości"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "104",
+      "question": "Z jakiego medium transmisyjnego zbudowana jest sieć HFC (Hybrid Fiber Control)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tylko ze światłowodów"
+        },
+        {
+          "key": "b",
+          "text": "ze światłowodów i kabla koncentrycznego"
+        },
+        {
+          "key": "c",
+          "text": "tylko z kabla konentrycznego"
+        },
+        {
+          "key": "d",
+          "text": "z dowolnego rodzaju łącza"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "105",
+      "question": "Czy sieć HFC umożliwia realizację usługi „Wideo na żądanie” (Vo",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie, z powodu braku kanału zwrotnego"
+        },
+        {
+          "key": "b",
+          "text": "nie, z powodu zbyt wąskiego pasma"
+        },
+        {
+          "key": "c",
+          "text": "zależy od liczby użytkowników"
+        },
+        {
+          "key": "d",
+          "text": "tak"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "106",
+      "question": "Szerokość pasma w systemie DECT",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1800 – 1900 MHz"
+        },
+        {
+          "key": "b",
+          "text": "1880 – 1900 MHz"
+        },
+        {
+          "key": "c",
+          "text": "1880 – 1980 MHz"
+        },
+        {
+          "key": "d",
+          "text": "1900 – 1920 MHz"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "107",
+      "question": "Do kodowania dźwięku w systemie DECT używa się kodeka",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ADPCM 32kbs"
+        },
+        {
+          "key": "b",
+          "text": "ADM 32kbs"
+        },
+        {
+          "key": "c",
+          "text": "LPC 20kbs"
+        },
+        {
+          "key": "d",
+          "text": "ACELP 10kbs"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "108",
+      "question": "Na czym polega zwielokrotnienie falowe WDM",
+      "answers": [
+        {
+          "key": "a",
+          "text": "na równoczesnej transmisji wielu fal o różnych długościach w określonych odstępach czasu"
+        },
+        {
+          "key": "b",
+          "text": "na równoczesnej transmisji wielu fal o różnych długościach, ale każda fala transmitowana jest oddzielnym włóknem światłowodowym"
+        },
+        {
+          "key": "c",
+          "text": "na równoczesnej transmisji wielu fal o różnych długościach przez jeden kanał transmisyjny"
+        },
+        {
+          "key": "d",
+          "text": "na transmisji jednej fali o stałej długości, która jest powielana w urządzeniach zwanych multiplekserami"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "109",
+      "question": "Co oznacza skrót EDFA",
+      "answers": [
+        {
+          "key": "a",
+          "text": "inna nazwa zjawiska nieliniowej intermodulacji dwóch lub więcej fal o różnych częstotliwościach"
+        },
+        {
+          "key": "b",
+          "text": "wzmacniacz wykorzystujący zjawisko Ramana"
+        },
+        {
+          "key": "c",
+          "text": "wzmacniacz optyczny domieszkowany erbem"
+        },
+        {
+          "key": "d",
+          "text": "to system przeznaczony przede wszystkim do budowy gigabitowych sieci szkieletowych"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "110",
+      "question": "Maksymalna odlegü0ĺ0oü0ö2ü0î4 terminali od szyny krĘ«kiej i dü0ĺ0ugiej",
+      "answers": [
+        {
+          "key": "a",
+          "text": "8 m"
+        },
+        {
+          "key": "b",
+          "text": "10 m"
+        },
+        {
+          "key": "c",
+          "text": "20 m"
+        },
+        {
+          "key": "d",
+          "text": "80 m"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "111",
+      "question": "Przepływność styku S(T)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "256 kbs"
+        },
+        {
+          "key": "b",
+          "text": "192 kbs"
+        },
+        {
+          "key": "c",
+          "text": "64 kbs"
+        },
+        {
+          "key": "d",
+          "text": "32 kbs"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "112",
+      "question": "Przepływność na styku U (kod 2B1Q)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "192kbs"
+        },
+        {
+          "key": "b",
+          "text": "112kbs"
+        },
+        {
+          "key": "c",
+          "text": "160kbs"
+        },
+        {
+          "key": "d",
+          "text": "128kbs"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "113",
+      "question": "Co to jest LAPD",
+      "answers": [
+        {
+          "key": "a",
+          "text": "protokół dostępu do kanału B"
+        },
+        {
+          "key": "b",
+          "text": "protokół dostępu do kanału C"
+        },
+        {
+          "key": "c",
+          "text": "protokół dostępu do kanału D"
+        },
+        {
+          "key": "d",
+          "text": "Los Angeles Police Department"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "114",
+      "question": "Na jakiej warstwie modelu ISO-OSI funkcjonuje sygnalizacja DSS1?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "funkcjonuje w warstwie sieciowej"
+        },
+        {
+          "key": "b",
+          "text": "funkcjonuje w warstwie transportowej"
+        },
+        {
+          "key": "c",
+          "text": "funkcjonuje w warstwie łącza danych"
+        },
+        {
+          "key": "d",
+          "text": "funkcjonuje w warstwie fizycznej"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "115",
+      "question": "Sektoryzacja komórki stosowana jest w celu",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększenia pojemności komórki i sieci"
+        },
+        {
+          "key": "b",
+          "text": "zmniejszenia pojemności komórki i sieci"
+        },
+        {
+          "key": "c",
+          "text": "zmniejszenia pojemność komórki i zwiększenia pojemności sieci"
+        },
+        {
+          "key": "d",
+          "text": "zwiększenia pojemności komórki i zmniejszenia pojemności sieci"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "116",
+      "question": "Sieć międzynarodowa składa się z",
+      "answers": [
+        {
+          "key": "a",
+          "text": "CT1 – sieć central międzykontynentalnych"
+        },
+        {
+          "key": "b",
+          "text": "CT2 – sieć central tranzytowych (Warszaw"
+        },
+        {
+          "key": "c",
+          "text": "CT3 – sieć central międzynarodowych końcowych (Poznań, Katowice)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "117",
+      "question": "Sieć strefowa składa się z;",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sieci okręgowej"
+        },
+        {
+          "key": "b",
+          "text": "sieci miejscowej"
+        },
+        {
+          "key": "c",
+          "text": "sieci lokalnej"
+        },
+        {
+          "key": "d",
+          "text": "sieci zakładowej"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "118",
+      "question": "Sieci światłowodowe w pętli abonenckiej FITL (Fiber In The Loop)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "FTTH (Fiber To The House)"
+        },
+        {
+          "key": "b",
+          "text": "FTTC (Fiber To The Cur)"
+        },
+        {
+          "key": "c",
+          "text": "FTTB (Fiber To The Building)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "119",
+      "question": "Flaga ramki protokołu HDLC ma postać:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "10000001"
+        },
+        {
+          "key": "b",
+          "text": "11000011"
+        },
+        {
+          "key": "c",
+          "text": "01111110"
+        },
+        {
+          "key": "d",
+          "text": "00111100"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "120",
+      "question": "W sieci ISDN realizowana jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "komutacja kanałów i pakietów"
+        },
+        {
+          "key": "b",
+          "text": "tylko komutacja kanałów"
+        },
+        {
+          "key": "c",
+          "text": "tylko komutacja pakietów"
+        },
+        {
+          "key": "d",
+          "text": "nie ma żadnej komutacji"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "121",
+      "question": "Która grupa usług nie jest świadczona w sieci ISDN:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "usługi bazowe"
+        },
+        {
+          "key": "b",
+          "text": "usługi magistralne"
+        },
+        {
+          "key": "c",
+          "text": "teleusługi"
+        },
+        {
+          "key": "d",
+          "text": "usługi dodatkowe"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "122",
+      "question": "Model odniesienia OSI nie definiuje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "funkcji każdej warstwy"
+        },
+        {
+          "key": "b",
+          "text": "komutacji między warstwami"
+        },
+        {
+          "key": "c",
+          "text": "protokołu komutacji między równorzędnymi warstwami we współpracujących urządzeniach"
+        },
+        {
+          "key": "d",
+          "text": "odległości w warstwach i między warstwami"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "124",
+      "question": "Kanał typu B ma przepustowość:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "64kb/s"
+        },
+        {
+          "key": "b",
+          "text": "72kb/s"
+        },
+        {
+          "key": "c",
+          "text": "144kb/s"
+        },
+        {
+          "key": "d",
+          "text": "60kb/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "125",
+      "question": "Kanał typu D ma przepustowość:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "8kb/s"
+        },
+        {
+          "key": "b",
+          "text": "164kb/s"
+        },
+        {
+          "key": "c",
+          "text": "16kb/s"
+        },
+        {
+          "key": "d",
+          "text": "2Mb/s"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "126",
+      "question": "Dostęp podstawowy użytkownika do sieci ISDN to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2B+D"
+        },
+        {
+          "key": "b",
+          "text": "2D+H"
+        },
+        {
+          "key": "c",
+          "text": "3D+H"
+        },
+        {
+          "key": "d",
+          "text": "2B+2H"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "127",
+      "question": "Całkowita przepływność dostępu podstawowego wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "64kb/s"
+        },
+        {
+          "key": "b",
+          "text": "124kb/s"
+        },
+        {
+          "key": "c",
+          "text": "256kb/s"
+        },
+        {
+          "key": "d",
+          "text": "192kb/s"
+        },
+        {
+          "key": "e",
+          "text": "żadne z wymienionych"
+        }
+      ],
+      "correct": [
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "128",
+      "question": "Całkowita przepływność dostępu podstawowego wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "64kb/s"
+        },
+        {
+          "key": "b",
+          "text": "144kb/s"
+        },
+        {
+          "key": "c",
+          "text": "256kb/s"
+        },
+        {
+          "key": "d",
+          "text": "192kb/s"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "129",
+      "question": "Długość mkrótkiej szyny pasywnej jest ograniczona przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "liczbę dołączonych terminali"
+        },
+        {
+          "key": "b",
+          "text": "różnicę tłumienności toru między terminalem nadawczym i najbliższym zespołem NT"
+        },
+        {
+          "key": "c",
+          "text": "różnicę opóźnienia wygnału z terminala najdalszego i najbliższego a zespołem NT"
+        },
+        {
+          "key": "d",
+          "text": "możliwościami ruchowymi centrali i zakresu świadczonych usług"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "130",
+      "question": "Zespół NT2 pracują pomiędzy stykami:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "S-T"
+        },
+        {
+          "key": "b",
+          "text": "R-S"
+        },
+        {
+          "key": "c",
+          "text": "I-U"
+        },
+        {
+          "key": "d",
+          "text": "U-V"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "131",
+      "question": "Do styku S można dołaczyć maksymalnie ... terminali.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "8"
+        },
+        {
+          "key": "d",
+          "text": "10"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "132",
+      "question": "Na styku S jest stosowany kod transmisyjny:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "HDHJ"
+        },
+        {
+          "key": "b",
+          "text": "2B-1Q"
+        },
+        {
+          "key": "c",
+          "text": "AMI zmodyfikowany"
+        },
+        {
+          "key": "d",
+          "text": "CMI standaryzowany"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "133",
+      "question": "Wiolacja - załamanie kodu na styku S",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zamiana kolejnych bitów w słowie kodowym"
+        },
+        {
+          "key": "b",
+          "text": "wygaszenie sumy binarnej ramki"
+        },
+        {
+          "key": "c",
+          "text": "przesunięcie bitów między ramkami"
+        },
+        {
+          "key": "d",
+          "text": "kodowanie dwóch kolejnych zer symbolami o tej samej polaryzacji"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "134",
+      "question": "Ramka warstwy fizycznej na styku S ma:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "192bity"
+        },
+        {
+          "key": "b",
+          "text": "144bity"
+        },
+        {
+          "key": "c",
+          "text": "32bity"
+        },
+        {
+          "key": "d",
+          "text": "48bitów"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "135",
+      "question": "Który zespół funkcyjny nie należy do wyposażenia uzytkownika",
+      "answers": [
+        {
+          "key": "a",
+          "text": "TE1"
+        },
+        {
+          "key": "b",
+          "text": "LT"
+        },
+        {
+          "key": "c",
+          "text": "NT1"
+        },
+        {
+          "key": "d",
+          "text": "TA"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "136",
+      "question": "Dezaktywację na styku S/T może rozpocząć:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tylko zespół TE"
+        },
+        {
+          "key": "b",
+          "text": "zespół TE lub NT"
+        },
+        {
+          "key": "c",
+          "text": "tylko zespół NT"
+        },
+        {
+          "key": "d",
+          "text": "zespół TA i NT"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "137",
+      "question": "Na styku U stoauje się techniki transmisji:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "z eliminacją echa"
+        },
+        {
+          "key": "b",
+          "text": "z podziałem kodowym"
+        },
+        {
+          "key": "c",
+          "text": "z kompresja liniowa"
+        },
+        {
+          "key": "d",
+          "text": "start-stopową"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "138",
+      "question": "Jakiego kodu nie stosuje się na styku U w dostępie podstawowym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2B-1Q"
+        },
+        {
+          "key": "b",
+          "text": "2B-3T"
+        },
+        {
+          "key": "c",
+          "text": "bifazowy"
+        },
+        {
+          "key": "d",
+          "text": "HDP-3"
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "139",
+      "question": "Skramblowanie to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wydzielenie impulsów synchronizacji"
+        },
+        {
+          "key": "b",
+          "text": "tworzenie pakietów informacji"
+        },
+        {
+          "key": "c",
+          "text": "pozorne nieuporządkowanie"
+        },
+        {
+          "key": "d",
+          "text": "przemiana z kodu binarnego na wielopostaciowy"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "140",
+      "question": "Procedura nadziewania bitami (bit stuffing) w protokole transmisyjnym warstwy drugiej polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przerywanie transmisji przy dużej stopie błedów"
+        },
+        {
+          "key": "b",
+          "text": "uzupełnienie flagi bitami przez odbiornik"
+        },
+        {
+          "key": "c",
+          "text": "wstawienie przez nadajnik zera po kazdej sekwencji 5 jedynek"
+        },
+        {
+          "key": "d",
+          "text": "tworzenie conajwyżej seściobitowej sekwencji"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "141",
+      "question": "FCS (Frame Check Sequence) to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stała część ramki wykorzystywana do celów synchronizacji"
+        },
+        {
+          "key": "b",
+          "text": "wzór razowania danych powstajacych przy multiplikach danych"
+        },
+        {
+          "key": "c",
+          "text": "reszta z dzielenia ramki przez wielomian generacyjny"
+        },
+        {
+          "key": "d",
+          "text": "wydzielenie sekwencji bitowych przez nadajnik w polu ramki HDLC"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "142",
+      "question": "Superramka na styku U w dostępie podstawowym zawiera:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "8 ramek podstawowych BF"
+        },
+        {
+          "key": "b",
+          "text": "10 ramek podstawowych BF"
+        },
+        {
+          "key": "c",
+          "text": "4 ramki podstawowe KF"
+        },
+        {
+          "key": "d",
+          "text": "nie zawiera ramek podstawowych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "143",
+      "question": "W systemie priorytetów w dostępie do kanału D istotna jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kolejność zgłoszeń terminali i prorytet"
+        },
+        {
+          "key": "b",
+          "text": "liczba bitów które chce nadac terminal"
+        },
+        {
+          "key": "c",
+          "text": "odlegość terminala TE1 od Terminala NT"
+        },
+        {
+          "key": "d",
+          "text": "klasa i poziom priorytetu terminala"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "144",
+      "question": "Liczba bitów słowa kodowego w systemie PCM-30 wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "8"
+        },
+        {
+          "key": "b",
+          "text": "6"
+        },
+        {
+          "key": "c",
+          "text": "7"
+        },
+        {
+          "key": "d",
+          "text": "10"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "145",
+      "question": "Keypad to protokół:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "klawiaturowy specjalny"
+        },
+        {
+          "key": "b",
+          "text": "klawiaturowy"
+        },
+        {
+          "key": "c",
+          "text": "funkcjonalny"
+        },
+        {
+          "key": "d",
+          "text": "korekcyjny"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "146",
+      "question": "Wielomian generacyjny kodu cyklicznego protokołu HDLC w kanale D jest określony zaleznością (liczby w potęgach):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "x8+x6+x4+x2"
+        },
+        {
+          "key": "b",
+          "text": "x16+x12+x5+1"
+        },
+        {
+          "key": "c",
+          "text": "x20+x16+x8+1"
+        },
+        {
+          "key": "d",
+          "text": "x3+x2+x1+1"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "147",
+      "question": "Przez styk U współpracuja ze sobą zespoły:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "TA-NT2"
+        },
+        {
+          "key": "b",
+          "text": "TE1-NT1"
+        },
+        {
+          "key": "c",
+          "text": "NT2-NT1"
+        },
+        {
+          "key": "d",
+          "text": "NT1-LT"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "148",
+      "question": "Kanał H0 ma przepływność",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2Mb/s"
+        },
+        {
+          "key": "b",
+          "text": "64kb/s"
+        },
+        {
+          "key": "c",
+          "text": "348kb/s"
+        },
+        {
+          "key": "d",
+          "text": "144kb/s"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "149",
+      "question": "Zespół TA współpracuje z zespołami",
+      "answers": [
+        {
+          "key": "a",
+          "text": "TE1, NT"
+        },
+        {
+          "key": "b",
+          "text": "TE2, NT2"
+        },
+        {
+          "key": "c",
+          "text": "NT2, NT1"
+        },
+        {
+          "key": "d",
+          "text": "NT1, LT"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "150",
+      "question": "Czas trwania ramki na styku S wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "125 mikrosek"
+        },
+        {
+          "key": "b",
+          "text": "250 mikrosek"
+        },
+        {
+          "key": "c",
+          "text": "25 milisek"
+        },
+        {
+          "key": "d",
+          "text": "10 milisek"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "151",
+      "question": "Wielodostęp do kanału D został zapewniony dzięki machenizmowi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stwierdzenia zajętości kanału i wykrywania kolizji"
+        },
+        {
+          "key": "b",
+          "text": "ramki i syperramki"
+        },
+        {
+          "key": "c",
+          "text": "adresacji ramke i wykrywania błedów"
+        },
+        {
+          "key": "d",
+          "text": "kompensacji echa"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "152",
+      "question": "Jeżeli sygnał wejściowy kodera 4B-3T ma szybkość transmisji 160 kb/s to na wyjsciu ma szybkość modulacji:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "200Kbod/s"
+        },
+        {
+          "key": "b",
+          "text": "120Kbod/s"
+        },
+        {
+          "key": "c",
+          "text": "180Kbod/s"
+        },
+        {
+          "key": "d",
+          "text": "320Kbod/s"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "153",
+      "question": "Terminal użytkownika TE1 może być oddalony od szyny styku S w zakresie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "50-100m"
+        },
+        {
+          "key": "b",
+          "text": "25-50m"
+        },
+        {
+          "key": "c",
+          "text": "0-10m"
+        },
+        {
+          "key": "d",
+          "text": "100-200m"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "154",
+      "question": "Długość lini w konfiguracji punkt-punkt na styku S jest ograniczona",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tłumiennoscią <6dB dla częstotliwości 96kHz"
+        },
+        {
+          "key": "b",
+          "text": "tłumiennością <6dB dla częstotliwości 192kHz"
+        },
+        {
+          "key": "c",
+          "text": "opóźnością"
+        },
+        {
+          "key": "d",
+          "text": "napięciem zasilania"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "155",
+      "question": "Styk S dostępu podstawowego ma",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2 przewody"
+        },
+        {
+          "key": "b",
+          "text": "4 przewody"
+        },
+        {
+          "key": "c",
+          "text": "6 przewodów"
+        },
+        {
+          "key": "d",
+          "text": "8 przewodów"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "156",
+      "question": "Na styku S w kierunku NT-TE ramka jest względem ramki na kierunku TE-NT",
+      "answers": [
+        {
+          "key": "a",
+          "text": "opóźniona o 2 bity"
+        },
+        {
+          "key": "b",
+          "text": "opóźniona o 4 bity"
+        },
+        {
+          "key": "c",
+          "text": "przyśpieszona o 2 bity"
+        },
+        {
+          "key": "d",
+          "text": "nie ma przyśpieszenia alni opóźnienia"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "157",
+      "question": "Na styku S dostępu podstawowego impulsy nadawane maja amplitudę",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1,5V"
+        },
+        {
+          "key": "b",
+          "text": "150mV"
+        },
+        {
+          "key": "c",
+          "text": "750mV"
+        },
+        {
+          "key": "d",
+          "text": "3V"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "158",
+      "question": "Dostęp pierwotny ma strukturę",
+      "answers": [
+        {
+          "key": "a",
+          "text": "23B+D"
+        },
+        {
+          "key": "b",
+          "text": "12H+B"
+        },
+        {
+          "key": "c",
+          "text": "30B+D"
+        },
+        {
+          "key": "d",
+          "text": "16B+bD"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "159",
+      "question": "Przepływność binarna systemu PCM-30 wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "8,448 Mb/s"
+        },
+        {
+          "key": "b",
+          "text": "6,34 Mb/s"
+        },
+        {
+          "key": "c",
+          "text": "1,544 Mb/s"
+        },
+        {
+          "key": "d",
+          "text": "2,044 Mb/s"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "160",
+      "question": "Na styku U dostępu podstawowego transmisja jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jednokierunkowa"
+        },
+        {
+          "key": "b",
+          "text": "swukierunkowa"
+        },
+        {
+          "key": "c",
+          "text": "asymetryczna"
+        },
+        {
+          "key": "d",
+          "text": "rozsiewcza"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "161",
+      "question": "Kod bifazowy na styku U zmienia szybkość modulacji",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwieksza dwukrotnie"
+        },
+        {
+          "key": "b",
+          "text": "zwiększa o 50%"
+        },
+        {
+          "key": "c",
+          "text": "zmniejsza dwukrotnie"
+        },
+        {
+          "key": "d",
+          "text": "nie zmienia"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "162",
+      "question": "W protokole LAP-D nie przewidziano typów ramki",
+      "answers": [
+        {
+          "key": "a",
+          "text": "informacyjnej"
+        },
+        {
+          "key": "b",
+          "text": "nadzorczej"
+        },
+        {
+          "key": "c",
+          "text": "kontrolnej"
+        },
+        {
+          "key": "d",
+          "text": "nienumerowanej"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "163",
+      "question": "Identyfikatro SAPL nie określa rodzaju informacji przenoszonej przez ramkę",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Transmisji danych T"
+        },
+        {
+          "key": "b",
+          "text": "Sygnalizacyjną S"
+        },
+        {
+          "key": "c",
+          "text": "Utrzymaniową M"
+        },
+        {
+          "key": "d",
+          "text": "Wyrównawczą W"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "164",
+      "question": "Protokól transmisyjny warstwy drugiej to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "LAP-D"
+        },
+        {
+          "key": "b",
+          "text": "DQDB"
+        },
+        {
+          "key": "c",
+          "text": "HDLC"
+        },
+        {
+          "key": "d",
+          "text": "X.25"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "165",
+      "question": "W ramce na styku S kanały B1 i B2 maja razem bitów",
+      "answers": [
+        {
+          "key": "a",
+          "text": "24"
+        },
+        {
+          "key": "b",
+          "text": "32"
+        },
+        {
+          "key": "c",
+          "text": "40"
+        },
+        {
+          "key": "d",
+          "text": "48"
+        },
+        {
+          "key": "e",
+          "text": "żadne z powyższych"
+        }
+      ],
+      "correct": [
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "166",
+      "question": "Kod 2B-1Q zmienia szybkość modulacji",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwieksza o 50%"
+        },
+        {
+          "key": "b",
+          "text": "zmniejsza dwukrotnie"
+        },
+        {
+          "key": "c",
+          "text": "zwiększa dwykrotnie"
+        },
+        {
+          "key": "d",
+          "text": "nie zmienia"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "167",
+      "question": "Protokół komunikacyjny warstwy drugiej to",
+      "answers": [
+        {
+          "key": "a",
+          "text": "RS323C"
+        },
+        {
+          "key": "b",
+          "text": "HDLC"
+        },
+        {
+          "key": "c",
+          "text": "LAP-D"
+        },
+        {
+          "key": "d",
+          "text": "SAPI"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "168",
+      "question": "Pole adresowe ramki LAP-D zawiera elementy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "TE1 oraz FSC"
+        },
+        {
+          "key": "b",
+          "text": "SAPI oraz 1CS"
+        },
+        {
+          "key": "c",
+          "text": "SAPI oraz TE1"
+        },
+        {
+          "key": "d",
+          "text": "tylko TE1"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "169",
+      "question": "EDSS-1 to",
+      "answers": [
+        {
+          "key": "a",
+          "text": "cyfrowy system zarządzania nr 1"
+        },
+        {
+          "key": "b",
+          "text": "Cyfrowy system sygnalizacji Abonenckiej nr 1"
+        },
+        {
+          "key": "c",
+          "text": "Cyfrowe zabezpieczenia danych nr1"
+        },
+        {
+          "key": "d",
+          "text": "Cyfrowa baza danych typu 1"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "170",
+      "question": "Co nie ogranicza zasiegu petli abonenckiej na styku U",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tłumienność toru"
+        },
+        {
+          "key": "b",
+          "text": "rezystancja pętli (ze względu na zdalne zasilanie)"
+        },
+        {
+          "key": "c",
+          "text": "wpływy zewnętrzne (przeniki, szumy, impulsy)"
+        },
+        {
+          "key": "d",
+          "text": "możliwosci ruchowe centrali/ISDN"
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "171",
+      "question": "Procedura synchronizacji ramki na styku S wykorzystuje",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sprzężenie zwrotne"
+        },
+        {
+          "key": "b",
+          "text": "wiolację (złamanie kodu)"
+        },
+        {
+          "key": "c",
+          "text": "polaryzacje przewodów"
+        },
+        {
+          "key": "d",
+          "text": "nadziewanie bitami"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "172",
+      "question": "Multiramka 1 rodzaju na styku S zawiera ramek podstawowych",
+      "answers": [
+        {
+          "key": "a",
+          "text": "4"
+        },
+        {
+          "key": "b",
+          "text": "5"
+        },
+        {
+          "key": "c",
+          "text": "6"
+        },
+        {
+          "key": "d",
+          "text": "12"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "173",
+      "question": "Na styku S w kanale echa E na kierunku NT-NE są transmitowane bity",
+      "answers": [
+        {
+          "key": "a",
+          "text": "z kanału B1 z kierunku TE-NT"
+        },
+        {
+          "key": "b",
+          "text": "z układu kompensacji echa zespołu NT"
+        },
+        {
+          "key": "c",
+          "text": "z kanału D z kierunku TE-NT"
+        },
+        {
+          "key": "d",
+          "text": "z układu kontroli parzystosci"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "174",
+      "question": "ISDN to skrót oznaczajacy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Cyfrowy system pamięci danych"
+        },
+        {
+          "key": "b",
+          "text": "Cyfrowa sieć z integracją usług"
+        },
+        {
+          "key": "c",
+          "text": "technologia cyfrowych worków ziemniaków"
+        },
+        {
+          "key": "d",
+          "text": "analogowa sieć wielousługowa"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "175",
+      "question": "Wiadomość dla protokołu D zawiera podstawowych elementów informacyjnych",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "3"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "5"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "176",
+      "question": "Na styku U dostępu 2B+D ramka podstawowa dla kodu 2B-1Q zawiera",
+      "answers": [
+        {
+          "key": "a",
+          "text": "192 symbole"
+        },
+        {
+          "key": "b",
+          "text": "48 symboli"
+        },
+        {
+          "key": "c",
+          "text": "222 symbole"
+        },
+        {
+          "key": "d",
+          "text": "120 symboli"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "177",
+      "question": "Element TE1 ramki LAP-D określa:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "numer ramki nadanej przez terminal współpracujacy z danym dostępem"
+        },
+        {
+          "key": "b",
+          "text": "numer logiczny terminala współpracujacego z danym dostepem"
+        },
+        {
+          "key": "c",
+          "text": "numer ramki prawidłowo odebranej"
+        },
+        {
+          "key": "d",
+          "text": "liczbe terminali współpracujacych z danym dostępem"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "178",
+      "question": "Terminale abonenckie w sieci ISDN są:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jednotorowe"
+        },
+        {
+          "key": "b",
+          "text": "jednofunkcyjne"
+        },
+        {
+          "key": "c",
+          "text": "asymetryczne"
+        },
+        {
+          "key": "d",
+          "text": "wielofunkcyjne"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "179",
+      "question": "Jaki sygnał jest nadawany przez niektóre centrale w czasie zestawiania przez nie drogi połączeniowej?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Dodatkowy"
+        },
+        {
+          "key": "b",
+          "text": "Specjalny"
+        },
+        {
+          "key": "c",
+          "text": "Marszrutowania"
+        },
+        {
+          "key": "d",
+          "text": "Zwrotny"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "180",
+      "question": "Jakie jest główne zadanie modemu podczas przesyłu danych",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Dostosowanie standardów transmisyjnych"
+        },
+        {
+          "key": "b",
+          "text": "P rzetwarzanie danych cyfrowych na analogowe i odwrotnie"
+        },
+        {
+          "key": "c",
+          "text": "Wywołanie abonenta"
+        },
+        {
+          "key": "d",
+          "text": "Kodowanie sygnałów"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "181",
+      "question": "Co to jest w GSM-ie (Teorii komórek):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zespół komórek (Klastr – cluster) – zbiór N komórek sąsiadujących ze sobą, w którym każda ma inna częstotliwość lub grupę częstotliwości (zbiór ten wyczerpuje dostępne zasoby widmowe)"
+        },
+        {
+          "key": "b",
+          "text": "Modułem siatki – odległość pomiędzy środkami sąsiednich komórek"
+        },
+        {
+          "key": "c",
+          "text": "Odległość koordynacyjna – minimalna odległość pomiędzy środkami wspólnokanałowych komórek"
+        },
+        {
+          "key": "d",
+          "text": "Promień komórki - to promień koła, w którym chcemy obsługiwać terminale ruchome z wymaganą jakością."
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "182",
+      "question": "Płaszczyzny ISDN:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Płaszczyzna użytkownika U – związana z przesyłanie wszelkiego rodzaju informacji"
+        },
+        {
+          "key": "b",
+          "text": "Płaszczyzna sterująca C – związana z przesyłanie informacji sterujących"
+        },
+        {
+          "key": "c",
+          "text": "Płaszczyzna zarządzająca M"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "183",
+      "question": "Punkty elastyczności sieci (mają dwie strony połączone w sposób półstały):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "- skrzynka kablowa lub słupek kablowy"
+        },
+        {
+          "key": "b",
+          "text": "- studnie kablowe"
+        },
+        {
+          "key": "c",
+          "text": "- szafa kablowa"
+        },
+        {
+          "key": "d",
+          "text": "- studnie podszafowe"
+        },
+        {
+          "key": "e",
+          "text": "- mufy kablowe"
+        },
+        {
+          "key": "f",
+          "text": "- przełącznica główna"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "f"
+      ],
+      "images": []
+    },
+    {
+      "id": "184",
+      "question": "Elementy stałe sieci (nie będące punktami elastyczności sieci)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "- studnie kablowe"
+        },
+        {
+          "key": "b",
+          "text": "- studnie podszafowe"
+        },
+        {
+          "key": "c",
+          "text": "- mufy kablowe"
+        },
+        {
+          "key": "d",
+          "text": "- skrzynka kablowa lub słupek kablowy"
+        },
+        {
+          "key": "e",
+          "text": "- szafa kablowa"
+        },
+        {
+          "key": "f",
+          "text": "- przełącznica główna"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "185",
+      "question": "Sieć dostępowa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest zawsze światłowodowa"
+        },
+        {
+          "key": "b",
+          "text": "jest zawsze wieloboczna"
+        },
+        {
+          "key": "c",
+          "text": "jest zwykle najtańszym elementem sieci"
+        },
+        {
+          "key": "d",
+          "text": "jest zwykle najdroższym elementem sieci"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "186",
+      "question": "DTMF",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to sygnał złożony z 2 sygnałów prostokątnych"
+        },
+        {
+          "key": "b",
+          "text": "wykorzystywany jest do sygnalizacji liniowej w łączu abonenckim"
+        },
+        {
+          "key": "c",
+          "text": "to dwuwartościowy kod liniowy w łączu ADSL"
+        },
+        {
+          "key": "d",
+          "text": "jest wykorzystywany do sygnalizacji wewnątrz pasmowej"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "187",
+      "question": "W przypadku zajętości ab. B abonent wykonawczy słyszy kluczowany sygnał o częstotliwości",
+      "answers": [
+        {
+          "key": "a",
+          "text": "13400-10"
+        },
+        {
+          "key": "b",
+          "text": "1300-100"
+        },
+        {
+          "key": "c",
+          "text": "435-25"
+        },
+        {
+          "key": "d",
+          "text": "400+50"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "188",
+      "question": "W dostępie abonenckim IDSN nie występuje interfejs.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Z"
+        },
+        {
+          "key": "b",
+          "text": "R"
+        },
+        {
+          "key": "c",
+          "text": "T"
+        },
+        {
+          "key": "d",
+          "text": "U"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "189",
+      "question": "ATM jest technika",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bezpołączeniową"
+        },
+        {
+          "key": "b",
+          "text": "pakietową"
+        },
+        {
+          "key": "c",
+          "text": "transmisji asynchronicznej"
+        },
+        {
+          "key": "d",
+          "text": "połączeniową"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "190",
+      "question": "Koncepcja sieci NGN zakłada",
+      "answers": [
+        {
+          "key": "a",
+          "text": "realizację usług w oparciu o komunikacje pakietów"
+        },
+        {
+          "key": "b",
+          "text": "wprowadzenie trybu komutacji komórek"
+        },
+        {
+          "key": "c",
+          "text": "utworzenie jednej klasy usług dla transmisji głosu oraz danych"
+        },
+        {
+          "key": "d",
+          "text": "połączenie różnych sieci we wspólną sieć komutacji kanałów"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "191",
+      "question": "W celu uzyskania b.dobrej jakości transmisji głosu w sieciach VoIP opóźnienie transmisji",
+      "answers": [
+        {
+          "key": "a",
+          "text": "powinno byś porównywalne z jitterem"
+        },
+        {
+          "key": "b",
+          "text": "nie powinno być większe niż 150us"
+        },
+        {
+          "key": "c",
+          "text": "nie powinno być większe niż 150ms"
+        },
+        {
+          "key": "d",
+          "text": "nie powinno być mniejsze niż jitter"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "192",
+      "question": "W sieci dostępowej połączone są",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tylko węzły dostępowe ze sobą"
+        },
+        {
+          "key": "b",
+          "text": "terminale użytkowników bezpośrednio ze sobą"
+        },
+        {
+          "key": "c",
+          "text": "terminale użytkowników z węzłem dostępowym"
+        },
+        {
+          "key": "d",
+          "text": "stacje bazowe ze sobą"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "193",
+      "question": "ADSL to",
+      "answers": [
+        {
+          "key": "a",
+          "text": "analogowe symetryczne łącze abonenckie"
+        },
+        {
+          "key": "b",
+          "text": "asynchroniczne cyfrowe łącze abonenckie - z angielskiego"
+        },
+        {
+          "key": "c",
+          "text": "asynchroniczne łącze dalekiego zasięgu"
+        },
+        {
+          "key": "d",
+          "text": "analogowa standardowa linia danych"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "194",
+      "question": "FILT to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "technika wykorzystująca światłowód w magistralnej rozdzielczej sieci telekomunikacyjnej,"
+        },
+        {
+          "key": "b",
+          "text": "protokół transmisyjny w sieci światłowodowej,"
+        },
+        {
+          "key": "c",
+          "text": "technika tworzenia sygnału zbiorczego w sieci telekomunikacyjnej,"
+        },
+        {
+          "key": "d",
+          "text": "jednostka w sieci światłowodowej"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "195",
+      "question": "Z jaką maksymalną częstotliwością może transmitować sygnał w torze symetrycznym kat 6",
+      "answers": [
+        {
+          "key": "a",
+          "text": "50MHz,"
+        },
+        {
+          "key": "b",
+          "text": "600MHz,"
+        },
+        {
+          "key": "c",
+          "text": "250 MHz"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "196",
+      "question": "Technologia multimedialna operują informacja skojarzoną używając kombinacji mieszanej",
+      "answers": [
+        {
+          "key": "a",
+          "text": "danych dźwięku i obrazu w transmisji równoległej"
+        },
+        {
+          "key": "b",
+          "text": "dźwięku, tekstu, grafiki, obrazu ruchomego, animacji"
+        },
+        {
+          "key": "c",
+          "text": "tekstu analog-cyfra, obrazu analog-cyfra, plikow, dokumentów"
+        },
+        {
+          "key": "d",
+          "text": "znaków umownych oddziałujących na zmysły człowieka"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "197",
+      "question": "Do realizacji usług multimedialnych niezbędne są",
+      "answers": [
+        {
+          "key": "a",
+          "text": "telefony, telewizory, komputery, nadajniki, operatorzy"
+        },
+        {
+          "key": "b",
+          "text": "standardy producenta, operatorzy, użytkownicy"
+        },
+        {
+          "key": "c",
+          "text": "infrastruktura telekomunikacyjna, użytkownicy"
+        },
+        {
+          "key": "d",
+          "text": "sieci 2.8MBps, kanał zwrotny, programy(…..)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "198",
+      "question": "W dziedzinie telekomunikacji zdecydowaną większość przekazów dokonuje się za pomocą",
+      "answers": [
+        {
+          "key": "a",
+          "text": "znaków alfa-numerycznych, bajtów, strumieni cyfrowych,"
+        },
+        {
+          "key": "b",
+          "text": "linii telefonicznych, kanałami telewizyjnymi,"
+        },
+        {
+          "key": "c",
+          "text": "torów kablowych miedzianych lub światłowodowych,"
+        },
+        {
+          "key": "d",
+          "text": "transmisji szeregowych, asynchronicznych, synchronicznych, izochronicznych,"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "199",
+      "question": "Przy propagacji w wolnej przestrzeni dziesięciokrotny wzrost odległości R powoduję zmiane mocy odebranej o [dB]",
+      "answers": [
+        {
+          "key": "a",
+          "text": "6"
+        },
+        {
+          "key": "b",
+          "text": "10"
+        },
+        {
+          "key": "c",
+          "text": "20"
+        },
+        {
+          "key": "d",
+          "text": "40"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "200",
+      "question": "Globalny ruchowy system dostępu do usług multimedialnych GMM wykorzystuje jako sieci dostępowe",
+      "answers": [
+        {
+          "key": "a",
+          "text": "IRIDIUM"
+        },
+        {
+          "key": "b",
+          "text": "GSM"
+        },
+        {
+          "key": "c",
+          "text": "NMT"
+        },
+        {
+          "key": "d",
+          "text": "GPS"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "201",
+      "question": "Efektywne korzystanie z sieci wymaga komutacji w rozproszonych sieciach telekomunikacyjnych o heterogonicznym charakterze wykonywanej przez przełączanie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "komórek pakietów kanałów"
+        },
+        {
+          "key": "b",
+          "text": "obwodów central"
+        },
+        {
+          "key": "c",
+          "text": "terminali stałych, ruchomych, sieci"
+        },
+        {
+          "key": "d",
+          "text": "sieci dostępowej, kręgosłupowej, urządzeń końcowych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "202",
+      "question": "Do przekazania informacji  przez sieć teleinformatyczną stosuje się PROTOKOŁY liniowe",
+      "answers": [
+        {
+          "key": "a",
+          "text": "znakowe SDLC, X.25, bitowe BSC,"
+        },
+        {
+          "key": "b",
+          "text": "określające sposób transmisji w 2-warstwie OSI,"
+        },
+        {
+          "key": "c",
+          "text": "bitowe SDLC, HDLC, x.25, znakowe BSC,"
+        },
+        {
+          "key": "d",
+          "text": "określające zbiór procedur sterowania w 1-warstwie OSI"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "203",
+      "question": "Erlang(duński matematyk wprowadzil) wprowadził pojęcie natężenia ruchu (A), które dla 20 abonamentów realizujących po 3 polaczenia/godz. Trwające po 0.5 min wynosi (wystarczy wzór -> 20 * 3 * 0.5/60 = 0.5)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "1"
+        },
+        {
+          "key": "c",
+          "text": "3.5"
+        },
+        {
+          "key": "d",
+          "text": "0.5"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "204",
+      "question": "NEXT jest to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dostęp pośredni do sieci telekomunikacyjnej"
+        },
+        {
+          "key": "b",
+          "text": "dostęp bezpośredni do sieci telekomunikacyjnej"
+        },
+        {
+          "key": "c",
+          "text": "Przenik zdalny"
+        },
+        {
+          "key": "d",
+          "text": "Przenik zblizny"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "205",
+      "question": "Standardowa rozmowa telefoniczna w sieci PSTN wykrozystuje pasmo o szerokości:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "7 kHz"
+        },
+        {
+          "key": "b",
+          "text": "3,4 kHz"
+        },
+        {
+          "key": "c",
+          "text": "3,1 kHz"
+        },
+        {
+          "key": "d",
+          "text": "20 kHz"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "206",
+      "question": "Sieć dostępowa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest zawsze światłowodowa"
+        },
+        {
+          "key": "b",
+          "text": "jest zawsze wieloboczna"
+        },
+        {
+          "key": "c",
+          "text": "jest zwykle najtańszym elementem sieci"
+        },
+        {
+          "key": "d",
+          "text": "jest zwykle najdroższym elementem sieci"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "207",
+      "question": "Wybieranie numeru ab. B jest (do uzupełnienia)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "informacja utrzymaniową"
+        },
+        {
+          "key": "b",
+          "text": "elementem sygnalizacji liniowej"
+        },
+        {
+          "key": "c",
+          "text": "elementem sygnalizacji rejestrowej"
+        },
+        {
+          "key": "d",
+          "text": "informacja zarządzającą"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "208",
+      "question": "W przypadku zajętości ab. B abonent wykonawczy słyszy kluczowany sygnał o częstotliwości",
+      "answers": [
+        {
+          "key": "a",
+          "text": "(3400±10)Hz"
+        },
+        {
+          "key": "b",
+          "text": "(300±)Hz"
+        },
+        {
+          "key": "c",
+          "text": "(425±25) Hz"
+        },
+        {
+          "key": "d",
+          "text": "1kHz"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "209",
+      "question": "Dostęp pierwotny w ISDN można opisać jako dostęp",
+      "answers": [
+        {
+          "key": "a",
+          "text": "30B+D"
+        },
+        {
+          "key": "b",
+          "text": "o przepływności 12b-16kb/s"
+        },
+        {
+          "key": "c",
+          "text": "o przepływności rzędu 1Mb/s"
+        },
+        {
+          "key": "d",
+          "text": "20+D"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "210",
+      "question": "Komórka ATM ma następującą wielkość",
+      "answers": [
+        {
+          "key": "a",
+          "text": "64kB"
+        },
+        {
+          "key": "b",
+          "text": "53 bajty"
+        },
+        {
+          "key": "c",
+          "text": "48 bitów"
+        },
+        {
+          "key": "d",
+          "text": "512 bajtów"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "211",
+      "question": "Jaki będzie poziom mocy, gdy na wejściu mamy 1dBm po tłumieniu 20dB:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "-19dB"
+        },
+        {
+          "key": "b",
+          "text": "19dB"
+        },
+        {
+          "key": "c",
+          "text": "21dB"
+        },
+        {
+          "key": "d",
+          "text": "-21dB"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "212",
+      "question": "Obszar istotny dla propagacji fali EM w naziemnej linii radiowej obejmuje",
+      "answers": [
+        {
+          "key": "a",
+          "text": "elipsoidę otaczającą anteny"
+        },
+        {
+          "key": "b",
+          "text": "cały obszar pomiędzy antenami"
+        },
+        {
+          "key": "c",
+          "text": "Linei radiową łącząca anteny"
+        },
+        {
+          "key": "d",
+          "text": "1szą półsferę Fresnela"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "214",
+      "question": "Pasmo telefoniczne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "300-3.400"
+        },
+        {
+          "key": "b",
+          "text": "0-3.400"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "217",
+      "question": "Jak jest zasilany aparat telefoniczny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie potrzebuje zasilania"
+        },
+        {
+          "key": "b",
+          "text": "zasilany jest z linii telefonicznej"
+        },
+        {
+          "key": "c",
+          "text": "zasilany jest z akumulatora"
+        },
+        {
+          "key": "d",
+          "text": "zasilany jest z sieci"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "218",
+      "question": "Dopasuj standardy IEEE",
+      "answers": [
+        {
+          "key": "a",
+          "text": "802.2 - LLC / 802.11 - Wireless LAN / 802.15 - Wireless PAN"
+        },
+        {
+          "key": "b",
+          "text": "802.11 - LLC / 802.15 - Wireless LAN / 802.2 - Wireless PAN"
+        },
+        {
+          "key": "c",
+          "text": "802.15 - LLC / 802.11 - Wireless PAN / 802.2 - Wireless LAN"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "220",
+      "question": "Co to jest FEXT",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dostęp pośredni do sieci telekomunikacyjnej"
+        },
+        {
+          "key": "b",
+          "text": "dostęp bezpośredni do sieci telekomunikacyjnej"
+        },
+        {
+          "key": "c",
+          "text": "Przenik zdalny"
+        },
+        {
+          "key": "d",
+          "text": "Przenik zblizny"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "230",
+      "question": "Kod występujący na styku S(T)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zmodyfikowany kod AMI"
+        },
+        {
+          "key": "b",
+          "text": "2B1Q"
+        },
+        {
+          "key": "c",
+          "text": "HDB3"
+        },
+        {
+          "key": "d",
+          "text": "kod AMI"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "231",
+      "question": "Sieć międzymiastowa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "państwa duże 3 poziomy"
+        },
+        {
+          "key": "b",
+          "text": "państwa średnie 2 poziomy"
+        },
+        {
+          "key": "c",
+          "text": "im więcej poziomów, tym więcej węzłów (central) a mniej łączy"
+        },
+        {
+          "key": "d",
+          "text": "w PL 2 poziomy centrale węzłowe (12) i centrale końcowe"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "232",
+      "question": "Co to jest VoIP",
+      "answers": [
+        {
+          "key": "a",
+          "text": "protokół umozliwiający wysyłanie mowy przez protokół‚ IP, czyli przez interent"
+        },
+        {
+          "key": "b",
+          "text": "protokół‚ umożliwiajacy przesyłanie obrazu"
+        },
+        {
+          "key": "c",
+          "text": "Standard sieci WIFI"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "233",
+      "question": "V5.2: (Odpowiedź niepewna)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to uniwersalny interfejs do podłączania sieci dostępowych do centrali"
+        },
+        {
+          "key": "b",
+          "text": "to firmowy interfejs do podłączania sieci dostępowych do centrali"
+        },
+        {
+          "key": "c",
+          "text": "jest interfejsem analogowego łacza abonenckiego w sieci PSTN/1SDN"
+        },
+        {
+          "key": "d",
+          "text": "opisuje koncepcję nowego interfejsu sieci NGN"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "234",
+      "question": "ODN to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Miernik mocy optycznej"
+        },
+        {
+          "key": "b",
+          "text": "Optyczny węzeł komunikacyjny"
+        },
+        {
+          "key": "c",
+          "text": "System zarządzania siecią optyczną"
+        },
+        {
+          "key": "d",
+          "text": "Optyczna sieć dystrybucyjna"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "235",
+      "question": "W światłowodzie wykonanym ze szkła kwarcowego szybkość rozchodzenia się fali wynosi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "v=3*10^8 m/s"
+        },
+        {
+          "key": "b",
+          "text": "v=1*10^8 m/s"
+        },
+        {
+          "key": "c",
+          "text": "v=2*10^8 m/s"
+        },
+        {
+          "key": "d",
+          "text": "v=0,5*10^8 m/s"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "236",
+      "question": "Który parametr toru miedzianego nie jest pierwotnym?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rezystancja jednostkowa"
+        },
+        {
+          "key": "b",
+          "text": "przesuwność jednostkowa"
+        },
+        {
+          "key": "c",
+          "text": "pojemność jednostkowa"
+        },
+        {
+          "key": "d",
+          "text": "indukcyjność jednostkowa"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "237",
+      "question": "W cyfrowych sieciach telefinformatycznych przełączanie informacji polega na przełączaniu\"",
+      "answers": [
+        {
+          "key": "a",
+          "text": "komórek, protokołów, kanałów"
+        },
+        {
+          "key": "b",
+          "text": "łączy, pakietów, kanałów"
+        },
+        {
+          "key": "c",
+          "text": "datagramów, pakietów, kanałów"
+        },
+        {
+          "key": "d",
+          "text": "komórek, pakietów, kanałów"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "238",
+      "question": "Fragmenty homogenicznych heterogenicznych sieci komunikacyjnych są łaczone między sobą za pomocą węzłów tworzonych przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "most, huby, routery, multiplexery"
+        },
+        {
+          "key": "b",
+          "text": "mosty, huby, routery przełaczniki"
+        },
+        {
+          "key": "c",
+          "text": "mosty, terminale, routery, multiplexery"
+        },
+        {
+          "key": "d",
+          "text": "łaczniki, huby, multiplexery"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "239",
+      "question": "W cyfrowych systemach telefonicznych z komutacją kanałów standardowo wykorzystuje się kanał o przeupustowości:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "64 KB/s"
+        },
+        {
+          "key": "b",
+          "text": "8 Kb/s"
+        },
+        {
+          "key": "c",
+          "text": "16 kB/s"
+        },
+        {
+          "key": "d",
+          "text": "64 kb/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "240",
+      "question": "DTMF wykorzystuje sygnały",
+      "answers": [
+        {
+          "key": "a",
+          "text": "analogowe o częstotliwościach spoza pasma rozmównego"
+        },
+        {
+          "key": "b",
+          "text": "cyfrowe (z wykorzystanie kodu liniowego 2B1Q)"
+        },
+        {
+          "key": "c",
+          "text": "pseudolosowe"
+        },
+        {
+          "key": "d",
+          "text": "analogowe o częstotliwościach z pasma rozmównego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "241",
+      "question": "Numer międzynarodowy poprzedzony jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kodem kraju"
+        },
+        {
+          "key": "b",
+          "text": "wskaźnikiem międzynarodowym"
+        },
+        {
+          "key": "c",
+          "text": "numerem kierunkowym"
+        },
+        {
+          "key": "d",
+          "text": "prefiksem międzynarodowym"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "242",
+      "question": "Który parametr nie dotyczy toru symetrycznego?(Nie wiem)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "impedancja falowa"
+        },
+        {
+          "key": "b",
+          "text": "tłumienie asymetrii"
+        },
+        {
+          "key": "c",
+          "text": "tarnowność falowa"
+        },
+        {
+          "key": "d",
+          "text": "zwielokrotnienie falowe"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "243",
+      "question": "Diplex jest techniką trasmisji dwukierunkowej w światłowodowej sieci dostepowej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jednym światłowodem ze zwielokrotnieniem kodowym"
+        },
+        {
+          "key": "b",
+          "text": "jednym światłowodem na dwóch falach o różnych długościach"
+        },
+        {
+          "key": "c",
+          "text": "dwoma światłowodwami z kompensacją opóźnienia"
+        },
+        {
+          "key": "d",
+          "text": "dwoma światłowodowami na dwóch falach o jednakowych długościach"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "244",
+      "question": "W sieciach światłowodowych wykorzystuje się fale o długości:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "200-400 nm"
+        },
+        {
+          "key": "b",
+          "text": "400-700nm"
+        },
+        {
+          "key": "c",
+          "text": "700-1700 nm"
+        },
+        {
+          "key": "d",
+          "text": "1700-2500 nm"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "245",
+      "question": "OLT to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "liniowy nadajnik optyczny"
+        },
+        {
+          "key": "b",
+          "text": "optyczny dzielnik sygnału"
+        },
+        {
+          "key": "c",
+          "text": "optyczny zespół zarządzania"
+        },
+        {
+          "key": "d",
+          "text": "optyczne zakończenie liniowe"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "246",
+      "question": "Jaka wersja pasywnej sieci PON nie jest realizowana:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "GEPON"
+        },
+        {
+          "key": "b",
+          "text": "CPON"
+        },
+        {
+          "key": "c",
+          "text": "GPON"
+        },
+        {
+          "key": "d",
+          "text": "EPON"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "247",
+      "question": "W którym kablu sa tory niesymetryczne?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "czwórkowym"
+        },
+        {
+          "key": "b",
+          "text": "parowym"
+        },
+        {
+          "key": "c",
+          "text": "koncentrycznym"
+        },
+        {
+          "key": "d",
+          "text": "stacyjnym"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "248",
+      "question": "Kabel teleinformatyczny (skrętka) kategorii 5 zawiera par symetrycznych:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "3"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "5"
+        },
+        {
+          "key": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    }
+  ]
+}

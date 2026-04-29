@@ -1,0 +1,6 @@
+X1000
+Widmo nieskończonego, idealnego sygnału sinusoidalnego:
+ma postać pojedynczego prążka 
+ma postać funkcji (sin(x))/x
+jest nieskończone
+nie istnieje

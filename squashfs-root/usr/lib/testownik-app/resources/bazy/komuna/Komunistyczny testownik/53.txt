@@ -1,0 +1,6 @@
+X0100
+Wspólną cechą realizacji układowej modulatora analogowego i cyfrowego jest zastosowanie:
+integratora (układu całkującego)
+mieszacza sygnałów
+sumatora sygnałów
+generatora poziomów

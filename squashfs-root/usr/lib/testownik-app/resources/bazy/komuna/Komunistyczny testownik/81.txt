@@ -1,0 +1,6 @@
+X0001
+Który parametr jest jedną z cech fali elektromagnetycznej?
+impedancja falowa
+kondyktywność
+przenikalność elektryczna
+częstotliwość

@@ -1,0 +1,6 @@
+X1000
+W architekturze klient-serwer:
+o roli urządzenia decyduje zainstalowane na nim oprogramowanie
+transmisja odbywa się tylko w kierunku od serwera do klienta
+każde urządzenie nie może jednocześnie pełnić roli klienta i serwera
+serwer może obsługiwać tylko jedną usługę w danym czasie

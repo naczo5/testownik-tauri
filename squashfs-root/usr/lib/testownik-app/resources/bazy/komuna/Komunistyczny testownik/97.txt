@@ -1,0 +1,6 @@
+X0001
+Sygnał modulujący:
+to wynikowy sygnał procesu modulacji
+musi być cyfrowy
+fala nośna
+sygnał niosący informację

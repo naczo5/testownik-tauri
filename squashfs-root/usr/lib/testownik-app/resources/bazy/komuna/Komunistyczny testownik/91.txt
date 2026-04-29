@@ -1,0 +1,6 @@
+X0001
+Proszę określić odległość Hamminga pomiędzy ciągami [010],[111]:
+WH = 12 
+WH = 3 
+WH = 5 
+WH = 2

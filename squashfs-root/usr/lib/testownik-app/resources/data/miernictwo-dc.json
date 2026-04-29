@@ -1,0 +1,6465 @@
+{
+  "name": "miernictwo-dc",
+  "displayName": "miernictwo dc",
+  "description": "",
+  "questionCount": 236,
+  "questions": [
+    {
+      "id": "001",
+      "question": "W zakres miernictwa wchodzi:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "weryfikacja koncepcji praw przyrody"
+        },
+        {
+          "key": "b",
+          "text": "analiza rozwoju techniki"
+        },
+        {
+          "key": "c",
+          "text": "technika porównywania wartości mierzonej ze wzorcem"
+        },
+        {
+          "key": "d",
+          "text": "wzorowanie się na zjawiskach naturalnych"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "002",
+      "question": "W pomiarach wykorzystuje się modele:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "aparatury i funkcji matematycznych"
+        },
+        {
+          "key": "b",
+          "text": "badanych obiekt obiektów i mierników"
+        },
+        {
+          "key": "c",
+          "text": "procedur obliczeniowych i rynku zbytu"
+        },
+        {
+          "key": "d",
+          "text": "etapów poznawania rzeczywistości"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "003",
+      "question": "Pomiarowi towarzyszy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zwiększanie entropii informacji"
+        },
+        {
+          "key": "b",
+          "text": "przeważanie nośnika informacji"
+        },
+        {
+          "key": "c",
+          "text": "transport informacji z odbiornika do źródła"
+        },
+        {
+          "key": "d",
+          "text": "transport entropii z odbiornika do źródła"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "004",
+      "question": "Układ jednostek obejmuje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zdefiniowaną prędkość światła"
+        },
+        {
+          "key": "b",
+          "text": "modele matematyczne wzorców"
+        },
+        {
+          "key": "c",
+          "text": "uśrednione wzorce naturalne"
+        },
+        {
+          "key": "d",
+          "text": "Wielkości podstawowe i pochodne"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "005",
+      "question": "Etalon to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wzorzec pierwotny"
+        },
+        {
+          "key": "b",
+          "text": "Bon (talon) typu E"
+        },
+        {
+          "key": "c",
+          "text": "Wzorzec wtórny"
+        },
+        {
+          "key": "d",
+          "text": "Połączenie metal-jon"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "006",
+      "question": "Wzorzec pierwotny ampera budowany jest jako:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Dwa równoległe nieskończone długie przewody w próżni"
+        },
+        {
+          "key": "b",
+          "text": "Polaczenie rezystora wzorcowego i źródła napięcia"
+        },
+        {
+          "key": "c",
+          "text": "Waga prądowa"
+        },
+        {
+          "key": "d",
+          "text": "Zrównoważony mostek Westona"
+        },
+        {
+          "key": "e",
+          "text": "Dwa równolegle nieskończenie długie przewody"
+        },
+        {
+          "key": "f",
+          "text": "Przewody o pomijalnie malej dlugosci umieszczone w próżni"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "007",
+      "question": "Wzorzec pierwotny rezystancji zawiera:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Złącze Josephsona"
+        },
+        {
+          "key": "b",
+          "text": "Płytkę półprzewodnikową w stałym polu magnetycznym"
+        },
+        {
+          "key": "c",
+          "text": "Płytkę półprzewodnikową w stałym polu elektromagnetycznym"
+        },
+        {
+          "key": "d",
+          "text": "Wzorzec kwantu"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "008",
+      "question": "W bezpośrednich metodach pomiarowych:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wynik pomiaru podawany jest bezpośrednio"
+        },
+        {
+          "key": "b",
+          "text": "Wynik pomiaru zależy bezpośrednio od wartości wzorca"
+        },
+        {
+          "key": "c",
+          "text": "Wielkość porównywana i wzorcowa są tego samego rodzaju"
+        },
+        {
+          "key": "d",
+          "text": "Wielkość porównywana i mierzona są tego samego rodzaju"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "009",
+      "question": "Kompensacyjna metoda pomiarowa wykorzystuje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Kompensację temperaturową wzorca"
+        },
+        {
+          "key": "b",
+          "text": "Wzorzec regulowany"
+        },
+        {
+          "key": "c",
+          "text": "Kompensację temperaturową detektora"
+        },
+        {
+          "key": "d",
+          "text": "Wzorzec stały"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "010",
+      "question": "Wartość błędu pomiaru:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Nie jest znana"
+        },
+        {
+          "key": "b",
+          "text": "Jest znana i wynosi x-x0"
+        },
+        {
+          "key": "c",
+          "text": "Nie jest liczbą"
+        },
+        {
+          "key": "d",
+          "text": "Jest liczbą obliczaną jako przedział"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "011",
+      "question": "Na niedokładność pomiarów pośrednich wpływa m. in.:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Błąd numeryczny przetwarzania"
+        },
+        {
+          "key": "b",
+          "text": "Pośrednictwo w przekazywaniu wyniku"
+        },
+        {
+          "key": "c",
+          "text": "Wyeliminowanie pomiarów bezpośrednich"
+        },
+        {
+          "key": "d",
+          "text": "Niedokładność wykorzystanego modułu matematycznego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "012",
+      "question": "Przedział ufności określony jest przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wartość błędu granicznego"
+        },
+        {
+          "key": "b",
+          "text": "Wartość błędu grubego"
+        },
+        {
+          "key": "c",
+          "text": "Zaufanie do wskazanej wartości mierzonej"
+        },
+        {
+          "key": "d",
+          "text": "Prawdopodobieństwo znalezienia w nim wartości prawdziwej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "013",
+      "question": "Wpływ błędów przypadkowych można zredukować przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Staranne wykonanie pomiarów"
+        },
+        {
+          "key": "b",
+          "text": "wykonanie pojedynczego pomiaru i obliczenie błędu granicznego"
+        },
+        {
+          "key": "c",
+          "text": "Wykonanie pojedynczego pomiaru i obliczenie błędu granicznego"
+        },
+        {
+          "key": "d",
+          "text": "Określenie serii pomiarów i obliczenie wartości średniej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "014",
+      "question": "Ostatecznym wynikiem pomiaru jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Liczba odczytana z miernika"
+        },
+        {
+          "key": "b",
+          "text": "Błąd pomiaru"
+        },
+        {
+          "key": "c",
+          "text": "Wartość prawdziwa mierzonej wartości"
+        },
+        {
+          "key": "d",
+          "text": "Przedział zawierający wartość prawdziwa"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "015",
+      "question": "Stopień przetwarzania to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zjawisko elementarne opisywane jednym równaniem matematycznym"
+        },
+        {
+          "key": "b",
+          "text": "Model matematyczny przetwarzania w mierniku"
+        },
+        {
+          "key": "c",
+          "text": "Przetwornik A/C"
+        },
+        {
+          "key": "d",
+          "text": "Przetwornik stopniowo całkujący"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "016",
+      "question": "Cechą charakterystyczną przeważania dynamicznego jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zależność wyjścia od stanu w przeszłości"
+        },
+        {
+          "key": "b",
+          "text": "Niezależność wyjścia od stanu wejścia w przeszłości"
+        },
+        {
+          "key": "c",
+          "text": "Dynamiczna zmienność wejścia w czasie"
+        },
+        {
+          "key": "d",
+          "text": "Dynamiczna zmienność wyjścia w czasie"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "017",
+      "question": "Czujnikiem nazywamy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Element pozostający poza obudową miernika"
+        },
+        {
+          "key": "b",
+          "text": "Przetwornik mający bezpośredni kontakt z wielkością mierzoną"
+        },
+        {
+          "key": "c",
+          "text": "Element przetwarzający wielkość wejściową"
+        },
+        {
+          "key": "d",
+          "text": "Sztuczną sieć neuronów czuciowych"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "018",
+      "question": "W analogowym bloku uzyskiwania wyniku pomiaru:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Sygnał jest dopasowany energetycznie"
+        },
+        {
+          "key": "b",
+          "text": "Sygnał jest dopasowany czasowo"
+        },
+        {
+          "key": "c",
+          "text": "Sygnał jest przetwarzany zgodnie z definicją wielkości mierzonej"
+        },
+        {
+          "key": "d",
+          "text": "Sygnał jest przetwarzany proporcjonalnie do wartości skutecznej"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "019",
+      "question": "Najprostszy przetwornik prądu na napięcie wykorzystuje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zasadę zachowania energii"
+        },
+        {
+          "key": "b",
+          "text": "zasadę nieoznaczoności"
+        },
+        {
+          "key": "c",
+          "text": "prawo Kirchoffa"
+        },
+        {
+          "key": "d",
+          "text": "prawo Ohma"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "020",
+      "question": "Przetwornik wartości szczytowej wykorzystuje efekt:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Prostowania jednopołówkowego przez diodę półprzewodnikową"
+        },
+        {
+          "key": "b",
+          "text": "Prostowania dwupołówkowego przez diodę półprzewodnikową"
+        },
+        {
+          "key": "c",
+          "text": "Ładowania kondensatora przez diodę półprzewodnikową"
+        },
+        {
+          "key": "d",
+          "text": "Ładowania woltomierza przez diodę półprzewodnikową"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "021",
+      "question": "Kwantowanie próbki sygnału polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Przypisaniu jednego z dozwolony chwil czasowych"
+        },
+        {
+          "key": "b",
+          "text": "Przetworzeniu jej na jedną z dowolnych chwil czasowych"
+        },
+        {
+          "key": "c",
+          "text": "Przypisaniu jej jednego z dozwolonych poziomów wartości"
+        },
+        {
+          "key": "d",
+          "text": "Przetworzeniu jej na jeden z dowolnych poziomów wartości"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "022",
+      "question": "Efektem zastosowania integratora w całkujących przetwornikach A/C jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Krótszy czas przetwarzania i zróżnicowanie zakłóceń okresowych"
+        },
+        {
+          "key": "b",
+          "text": "Dłuższy czas przetwarzania i zróżnicowanie zakłóceń okresowych"
+        },
+        {
+          "key": "c",
+          "text": "Krótszy czas przetwarzania i zredukowanie zakłóceń okresowych"
+        },
+        {
+          "key": "d",
+          "text": "Dłuższy czas przetwarzania i zredukowanie zakłóceń okresowych"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "023",
+      "question": "Rozdzielczość przetworników C/A Określona jest przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Liczbę bitów wyjściowych i rodzaju sygnału wyjściowego"
+        },
+        {
+          "key": "b",
+          "text": "Liczbę bitów wyjściowych i rodzaju sygnału wejściowego"
+        },
+        {
+          "key": "c",
+          "text": "Liczbą bitów wejściowych i zakres sygnału wyjściowego"
+        },
+        {
+          "key": "d",
+          "text": "Liczbą bitów wejściowych i zakres sygnału wejściowego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "024",
+      "question": "Duża dokładność pomiarów w miernikach mikroprocesorowych osiągana jest dzięki:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Bokowi przetwornika AC/DC"
+        },
+        {
+          "key": "b",
+          "text": "Blokowi przetwarzania A/C"
+        },
+        {
+          "key": "c",
+          "text": "Blokowi przetwarzania C/A"
+        },
+        {
+          "key": "d",
+          "text": "Blokowi przetwarzania C/C"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "025",
+      "question": "Elementem przetwarzania sygnału przemiennego w dziedzinie częstotliwości jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Przeliczenie próbek czasowych wykorzystujące transformację Fouriera"
+        },
+        {
+          "key": "b",
+          "text": "Podzielenie sygnału przemiennego na czasy częstotliwościowe"
+        },
+        {
+          "key": "c",
+          "text": "Przeliczenie próbek częstotliwościowych wykorzystujące transformację falkową"
+        },
+        {
+          "key": "d",
+          "text": "Dyskretyzacja sygnału w dziedzinie przesunięcia fazowego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "026",
+      "question": "w gwiaździstej konfiguracji systemów pomiarowych informacja przekazywana jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zawsze między dwoma miernikami"
+        },
+        {
+          "key": "b",
+          "text": "czasami między dwoma miernikami"
+        },
+        {
+          "key": "c",
+          "text": "zawsze za pośrednictwem jednostki sterującej"
+        },
+        {
+          "key": "d",
+          "text": "czasami za pośrednictwem jednostki sterującej"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "027",
+      "question": "W transmisji asynchronicznej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nadajnik i odbiornik informowane są o momencie przesyłania danych"
+        },
+        {
+          "key": "b",
+          "text": "nadajnik i odbiornik informują o momencie przesłania danych"
+        },
+        {
+          "key": "c",
+          "text": "nadajnik informuje odbiornik o momencie nadania danych"
+        },
+        {
+          "key": "d",
+          "text": "nadajnik informuje odbiornik o momencie odbioru danych"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "028",
+      "question": "W skład wirtualnego przyrządu pomiarowego wchodzą:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Czujnik obrotów i miernik cyfrowy"
+        },
+        {
+          "key": "b",
+          "text": "Komputer PC i miernik cyfrowy"
+        },
+        {
+          "key": "c",
+          "text": "Karta aktywizacji sygnałów i komputer PC"
+        },
+        {
+          "key": "d",
+          "text": "Interfejs komputerowy i specjalistyczne oprogramowanie"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "029",
+      "question": "W omomierzach małych rezystancji stosuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wzorcowanie rezystancji wejściowej i wyjściowej"
+        },
+        {
+          "key": "b",
+          "text": "Wzorcowanie źródła napięciowego i prądowego"
+        },
+        {
+          "key": "c",
+          "text": "Separację rezystancji wejściowej i wyjściowej"
+        },
+        {
+          "key": "d",
+          "text": "Separację obwodu napięciowego i prądowego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "030",
+      "question": "Zaletą metody porównawczej pomiaru rezystancji jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Redukcja błędów losowych"
+        },
+        {
+          "key": "b",
+          "text": "Redukcja błędu systematycznego"
+        },
+        {
+          "key": "c",
+          "text": "Wprowadzenie z drugiej rezystancji wzorcowej"
+        },
+        {
+          "key": "d",
+          "text": "Wprowadzanie drugiego źródła napięcia"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "031",
+      "question": "Kąt utworzony przez wektor impedancji i oś rzeczywistą jest równy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Stosunkowi wartości skutecznych napięcia i prądu"
+        },
+        {
+          "key": "b",
+          "text": "Kątowi stratności elementu"
+        },
+        {
+          "key": "c",
+          "text": "Przesunięciu fazowemu miedzy napiciem i prądem"
+        },
+        {
+          "key": "d",
+          "text": "Dobroci elementu"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "032",
+      "question": "Na impedancję wejściowa woltomierza napięć przemienny składa się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Indukcyjność i rezystancja doprowadzeń"
+        },
+        {
+          "key": "b",
+          "text": "Rezystancja i pojemność doprowadzeń"
+        },
+        {
+          "key": "c",
+          "text": "Indukcyjność i pojemność woltomierza"
+        },
+        {
+          "key": "d",
+          "text": "Rezystancja i pojemność woltomierza"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "033",
+      "question": "Amperomierze elektroniczne mierżą prąd przemienny:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Bezpośrednio, z blokiem przetwarzania U/I"
+        },
+        {
+          "key": "b",
+          "text": "Pośrednio, z blokiem przetwarzania I/U"
+        },
+        {
+          "key": "c",
+          "text": "Bezpośrednio z blokiem przetwarzania AC/DC"
+        },
+        {
+          "key": "d",
+          "text": "Pośrednio z blokiem przetwarzania DC/AC"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "034",
+      "question": "Właściwości elektrycznej cewki rzeczywistej opisane są przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Rezystancję i współczynnik strat"
+        },
+        {
+          "key": "b",
+          "text": "Rezystancję i dobroć"
+        },
+        {
+          "key": "c",
+          "text": "Indukcyjność i współczynnik strat"
+        },
+        {
+          "key": "d",
+          "text": "Indukcyjność i dobroć"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "035",
+      "question": "W mostkach czterogałęźnych stosuje się wzorce:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jeden, stały i jeden regulowany"
+        },
+        {
+          "key": "b",
+          "text": "Dwa stałe i jeden regulowany"
+        },
+        {
+          "key": "c",
+          "text": "Dwa stałe i dwa regulowane"
+        },
+        {
+          "key": "d",
+          "text": "Trzy stałe i dwa regulowane"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "036",
+      "question": "Do różnic między mostkami do pomiaru kondensatorów i cewek należy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Stosowanie innych wzorców stałych"
+        },
+        {
+          "key": "b",
+          "text": "Stosowanie wzorców regulowanych w innej konfiguracji"
+        },
+        {
+          "key": "c",
+          "text": "Stosowanie innych częstotliwości pomiarowych"
+        },
+        {
+          "key": "d",
+          "text": "Stosowanie wielkości pobudzających w innych przedziałach czasu"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "037",
+      "question": "Włączenie mierzonej reaktancji do obwodu rezonansowego powoduje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zaniknięcie oscylacji sygnału"
+        },
+        {
+          "key": "b",
+          "text": "Zamianę częstotliwości sygnału pobudzającego"
+        },
+        {
+          "key": "c",
+          "text": "Zaniknięcie impedancji wejściowej woltomierza"
+        },
+        {
+          "key": "d",
+          "text": "Zmianę częstotliwości rezonansowej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "038",
+      "question": "Na wynik pomiaru natężenia prądu stałego wpływa:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Rezystancja wewnętrzna źródła prądowego"
+        },
+        {
+          "key": "b",
+          "text": "Pojemność wewnętrzna źródła prądowego"
+        },
+        {
+          "key": "c",
+          "text": "Przetwornik AC/DC amperomierza"
+        },
+        {
+          "key": "d",
+          "text": "Indukcyjność amperomierza"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "039",
+      "question": "Rozszerzenie zakresu amperomierza uzyskuje się przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Szeregowe włączenie rezystora wzorcowego"
+        },
+        {
+          "key": "b",
+          "text": "Równoległe włącznie rezystora wzorcowego"
+        },
+        {
+          "key": "c",
+          "text": "Przemnożenie skali pomiarowej przez zdefiniowany"
+        },
+        {
+          "key": "d",
+          "text": "Podzielenie skali pomiarowej przez zdefiniowany współczynnik"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "040",
+      "question": "Błąd systematyczny pomiaru napięcia stałego zależy od:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Stosunku rezystancji woltomierza i źródła"
+        },
+        {
+          "key": "b",
+          "text": "Iloczynu rezystancji woltomierza i źródła"
+        },
+        {
+          "key": "c",
+          "text": "Stosunku napięć woltomierza i źródła"
+        },
+        {
+          "key": "d",
+          "text": "Iloczynu prądów woltomierza i źródła"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "041",
+      "question": "Wskazania watomierza elektrodynamicznego jest proporcjonalne do:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Iloczynu pola elektrycznego i magnetycznego"
+        },
+        {
+          "key": "b",
+          "text": "Iloczynu prądów w cewkach miernika"
+        },
+        {
+          "key": "c",
+          "text": "Iloczynu napięć na kondensatorach miernika"
+        },
+        {
+          "key": "d",
+          "text": "Iloczynu rezystancji i prądu miernika"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "042",
+      "question": "W cyfrowych omomierzach dużych rezystancji wykorzystuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Źródło napięcia i wzorcowy rezystor"
+        },
+        {
+          "key": "b",
+          "text": "Źródło prądowe i wzorcowy rezystor"
+        },
+        {
+          "key": "c",
+          "text": "Źródło napięcia i nieliniowy wskaźnik magnetoelektryczny"
+        },
+        {
+          "key": "d",
+          "text": "Źródło prądowe i nieliniowe wskaźnik magnetoelektryczny"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "043",
+      "question": "Mostek Wheastone`a realizuje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Pomiar metodą wychyłową"
+        },
+        {
+          "key": "b",
+          "text": "Pomiar impedancji metodą wychyłową"
+        },
+        {
+          "key": "c",
+          "text": "Pomiar rezystancji metodą zerową"
+        },
+        {
+          "key": "d",
+          "text": "Pomiar impedancji metoda zerową"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "044",
+      "question": "Sygnały okresowe opisane są wzorem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "x(t)=x(t+kT)"
+        },
+        {
+          "key": "b",
+          "text": "x=max(x(t))"
+        },
+        {
+          "key": "c",
+          "text": "x(t)=Xsin(.t+.)"
+        },
+        {
+          "key": "d",
+          "text": "X=min(x(t))"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "045",
+      "question": "Do parametrów energetycznych sygnałów należą:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wartość chwilowa i wartość okresu"
+        },
+        {
+          "key": "b",
+          "text": "Wartość wyprostowana i wartość częstotliwości"
+        },
+        {
+          "key": "c",
+          "text": "Wartość średnia i wartość skuteczna"
+        },
+        {
+          "key": "d",
+          "text": "Wartość pulsacyjna i wartość szczytowa"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "046",
+      "question": "Sygnałem sterującym bramką miernika dużych częstotliwości jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Sygnał generatora wzorcowego"
+        },
+        {
+          "key": "b",
+          "text": "Sygnał licznika"
+        },
+        {
+          "key": "c",
+          "text": "Sygnał badany"
+        },
+        {
+          "key": "d",
+          "text": "Sygnał zakłóceń"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "047",
+      "question": "Miernik odcinka czasu posiada dodatkowy blok:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Układu wejściowego"
+        },
+        {
+          "key": "b",
+          "text": "Dzielnika częstotliwości"
+        },
+        {
+          "key": "c",
+          "text": "Układu sterowania bramką"
+        },
+        {
+          "key": "d",
+          "text": "Licznika"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "048",
+      "question": "Moduł impedancji elektrycznej jest równy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Przesunięciu fazowemu między napięciem i prądem"
+        },
+        {
+          "key": "b",
+          "text": "Dobroci elementu"
+        },
+        {
+          "key": "c",
+          "text": "Stosunku wartości skutecznych napięcia i prądu"
+        },
+        {
+          "key": "d",
+          "text": "Kątowi stratności elementu"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "049",
+      "question": "Impedancja połączeń powoduje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zwiększenie symetrii wejść woltomierza napiec skutecznych"
+        },
+        {
+          "key": "b",
+          "text": "Zmniejszenie symetrii wejść woltomierza napięć skutecznych"
+        },
+        {
+          "key": "c",
+          "text": "Zwiększenie się wyniku pomiaru napięcia wraz z częstotliwością"
+        },
+        {
+          "key": "d",
+          "text": "Zmniejszenie się wyniku pomiaru napięcia wraz z częstotliwością"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "050",
+      "question": "Pomiar mocy metodą absorpcyjną pozwala wyznaczyć:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Moc pochłaniana przez źródło"
+        },
+        {
+          "key": "b",
+          "text": "Moc oddawaną przez miernik"
+        },
+        {
+          "key": "c",
+          "text": "Rezystancję dopasowania energetycznego odbiornika"
+        },
+        {
+          "key": "d",
+          "text": "Absorpcję mocy biernej w odbiorniku"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "051",
+      "question": "W miernikach elektronicznych wielkości nieelektrycznych konieczne są:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Przetworniki wartości skutecznej"
+        },
+        {
+          "key": "b",
+          "text": "Przetworniki z podwójnym całkowaniem"
+        },
+        {
+          "key": "c",
+          "text": "Przetworniki cyfrowo-analogowe"
+        },
+        {
+          "key": "d",
+          "text": "Przetworniki wielkości nieelektrycznych na elektryczne"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "052",
+      "question": "Woltomierze cyfrowe mierzą napięcie przemienne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bezpośrednio, z napięciowym przetwornikiem A/C"
+        },
+        {
+          "key": "b",
+          "text": "pośrednio z prądowym przetwornikiem C/A"
+        },
+        {
+          "key": "c",
+          "text": "Bezpośrednio z blokiem przetwarzania U/I"
+        },
+        {
+          "key": "d",
+          "text": "Pośrednio z blokiem przetwarzania I/U"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "053",
+      "question": "W woltomierzach małych napięć przemiennych przetwornik AC/DC umieszcza się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "między wzmacniaczem AC i wskaźnikiem"
+        },
+        {
+          "key": "b",
+          "text": "w bloku sterowania wraz ze wskaźnikiem"
+        },
+        {
+          "key": "c",
+          "text": "między układem wejściowym i wskaźnikiem"
+        },
+        {
+          "key": "d",
+          "text": "w sondzie z układem wejściowym"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "054",
+      "question": "Właściwości elektryczne kondensatora rzeczywistego opisane są przez:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rezystancję i współczynnik strat"
+        },
+        {
+          "key": "b",
+          "text": "rezystancję i dobroć"
+        },
+        {
+          "key": "c",
+          "text": "pojemność i współczynnik strat"
+        },
+        {
+          "key": "d",
+          "text": "pojemność i dobroć"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "055",
+      "question": "Pomiar impedancji mostkiem czterogałęźnym pozwala na wyznaczanie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wartości skutecznej mierzonej wielkości"
+        },
+        {
+          "key": "b",
+          "text": "wartości średniej mierzonej wielkości"
+        },
+        {
+          "key": "c",
+          "text": "części rzeczywistej i urojonej mierzonej wielkości"
+        },
+        {
+          "key": "d",
+          "text": "składniowej stałej i zmiennej mierzonej wielkości"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "056",
+      "question": "Podobieństwo mostków do pomiaru kondensatorów i cewek polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stosowaniu takich samych wzorców"
+        },
+        {
+          "key": "b",
+          "text": "stosowaniu takich samych elementów badanych"
+        },
+        {
+          "key": "c",
+          "text": "mierzeniu tych samych parametrów"
+        },
+        {
+          "key": "d",
+          "text": "mierzeniu tych samych nieliniowości"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "057",
+      "question": "Zwiększenie dokładności i powtarzalności mostków transformatorowych wynika z:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dokładności i stabilności napięcia w uzwojeniu pierwotnym"
+        },
+        {
+          "key": "b",
+          "text": "Równomiernego podziału napięcia w uzwojeniach wtórnych"
+        },
+        {
+          "key": "c",
+          "text": "Zastąpienia stosunku rezystancji wzorcowych stosunkiem liczby uzwojeń"
+        },
+        {
+          "key": "d",
+          "text": "Uproszczenia równoważenia mostka do jednego wzorca regulowanego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "058",
+      "question": "Do pomiaru mocy odbieranej konieczna jest znajomość:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "spadku napięcia na i prądu płynącego przez odbiornik"
+        },
+        {
+          "key": "b",
+          "text": "spadku napięcia na amperomierzu"
+        },
+        {
+          "key": "c",
+          "text": "prądu płynącego przez i spadku napięcia na źródle mocy"
+        },
+        {
+          "key": "d",
+          "text": "prądu płynącego przez woltomierz"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "059",
+      "question": "W pomiarach parametrów pola magnetycznego stosuje się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "magnesy pomiarowe"
+        },
+        {
+          "key": "b",
+          "text": "rezystory pomiarowe"
+        },
+        {
+          "key": "c",
+          "text": "kondensatory pomiarowe"
+        },
+        {
+          "key": "d",
+          "text": "cewki pomiarowe"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "060",
+      "question": "W miernikach elektronicznych wielkości nieelektrycznych konieczne są:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Przetworniki wartości skutecznej"
+        },
+        {
+          "key": "b",
+          "text": "Przetworniki z podwójnym całkowaniem"
+        },
+        {
+          "key": "c",
+          "text": "Przetworniki cyfrowo-analogowe"
+        },
+        {
+          "key": "d",
+          "text": "Przetworniki wielkości nieelektrycznych na elektryczne"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "061",
+      "question": "Błąd systematyczny pomiaru natężenia prądu stałego zależy od:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stosunku prądów źródła i amperomierza"
+        },
+        {
+          "key": "b",
+          "text": "iloczynu prądów źródła i amperomierza"
+        },
+        {
+          "key": "c",
+          "text": "stosunku rezystancji źródła i amperomierza"
+        },
+        {
+          "key": "d",
+          "text": "iloczynu rezystancji źródła i amperomierza"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "062",
+      "question": "Na wynik pomiaru napięcia stałego wpływa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przetwornik AC/DC woltomierza"
+        },
+        {
+          "key": "b",
+          "text": "pojemność woltomierza"
+        },
+        {
+          "key": "c",
+          "text": "rezystancja wewnętrzna źródła napięciowego"
+        },
+        {
+          "key": "d",
+          "text": "indukcyjność wewnętrzna źródła napięciowego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "063",
+      "question": "O dokładności pomiaru napięcia metodą różnicową decyduje głównie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dokładność źródła napięciowego"
+        },
+        {
+          "key": "b",
+          "text": "dokładność woltomierza"
+        },
+        {
+          "key": "c",
+          "text": "dokładność bloku różnicującego"
+        },
+        {
+          "key": "d",
+          "text": "dokładność napięcia porównawczego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "064",
+      "question": "W pośrednich pomiarach mocy wykorzystuje się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "woltomierz i amperomierz"
+        },
+        {
+          "key": "b",
+          "text": "rezystor wzorcowy"
+        },
+        {
+          "key": "c",
+          "text": "woltomierz magnetoelektryczny"
+        },
+        {
+          "key": "d",
+          "text": "woltomierz ferrodynamiczny"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "065",
+      "question": "W omomierzach małych rezystancji stosuje się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wzorcowanie rezystancji wejściowej i wyjściowej"
+        },
+        {
+          "key": "b",
+          "text": "wzorcowanie źródła napięciowego i prądowego"
+        },
+        {
+          "key": "c",
+          "text": "separację rezystancji wejściowej i wyjściowej"
+        },
+        {
+          "key": "d",
+          "text": "separację obwodu napięciowego i prądowego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "066",
+      "question": "zaletą metody porównawczej pomiaru rezystancji jest.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "redukcja błędów losowych"
+        },
+        {
+          "key": "b",
+          "text": "redukcja błędu systematycznego"
+        },
+        {
+          "key": "c",
+          "text": "wprowadzenie drugiej rezystancji wzorcowej"
+        },
+        {
+          "key": "d",
+          "text": "wprowadzenie drugiego źródła napięcia"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "067",
+      "question": "sygnały harmoniczne opisane są wzorem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "X=max(x(t))"
+        },
+        {
+          "key": "b",
+          "text": "X=min(x(t))"
+        },
+        {
+          "key": "c",
+          "text": "X(t)=x(t+kT)"
+        },
+        {
+          "key": "d",
+          "text": "x(t)=Xsin(.t+.)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "068",
+      "question": "współczynnik zawartości harmonicznej określa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "h-tą częstotliwość sygnału"
+        },
+        {
+          "key": "b",
+          "text": "okresowość sygnału harmonicznego"
+        },
+        {
+          "key": "c",
+          "text": "harmoniczność sygnału okresowego"
+        },
+        {
+          "key": "d",
+          "text": "zniekształcenie sygnału harmonicznego"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "069",
+      "question": "Sygnałem sterującym bramką miernika małych częstotliwości jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sygnał zakłóceń"
+        },
+        {
+          "key": "b",
+          "text": "sygnał badany"
+        },
+        {
+          "key": "c",
+          "text": "sygnał licznika"
+        },
+        {
+          "key": "d",
+          "text": "sygnał generatora wzorcowego"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "070",
+      "question": "Wybór metody pomiaru częstotliwości zależy od",
+      "answers": [
+        {
+          "key": "a",
+          "text": "częstotliwości badanego sygnału"
+        },
+        {
+          "key": "b",
+          "text": "częstotliwości mierzonej i częstotliwości granicznej miernika"
+        },
+        {
+          "key": "c",
+          "text": "zakresu częstościomierza"
+        },
+        {
+          "key": "d",
+          "text": "wartości między szczytowej badanego sygnału"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "071",
+      "question": "Kąt utworzony przez wektor impedancji i oś rzeczywistą jest równy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stosunkowi wartości skutecznych napięcia i prądu"
+        },
+        {
+          "key": "b",
+          "text": "kątowi stratności elementu"
+        },
+        {
+          "key": "c",
+          "text": "przesunięciu fazowemu między napięciem i prądem"
+        },
+        {
+          "key": "d",
+          "text": "dobroci elementu"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "072",
+      "question": "Na impedancję wejściową woltomierza napięć przemiennych składa się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "indukcyjność i rezystancja doprowadzeń"
+        },
+        {
+          "key": "b",
+          "text": "rezystancja i pojemność doprowadzeń"
+        },
+        {
+          "key": "c",
+          "text": "indukcyjność i rezystancja woltomierza"
+        },
+        {
+          "key": "d",
+          "text": "rezystancja i pojemność woltomierza"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "073",
+      "question": "W woltomierzach wysokiej częstotliwości przetwornik AC/DC umieszcza się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "między układem wejściowym i wskaźnikiem"
+        },
+        {
+          "key": "b",
+          "text": "w sondzie wraz z układem wejściowym"
+        },
+        {
+          "key": "c",
+          "text": "między wzmacniaczem AC i wskaźnikiem"
+        },
+        {
+          "key": "d",
+          "text": "w bloku sterowania wraz ze wskaźnikiem"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "074",
+      "question": "Amperomierze elektroniczne mierzą prąd przemienny",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bezpośrednio z blokiem przetwarzania U/I"
+        },
+        {
+          "key": "b",
+          "text": "pośrednio z blokiem przetwarzania I/U"
+        },
+        {
+          "key": "c",
+          "text": "bezpośrednio z blokiem przetwarzania AC/DC"
+        },
+        {
+          "key": "d",
+          "text": "pośrednio z blokiem przetwarzania DC/AC"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "075",
+      "question": "Właściwości elektryczne cewki rzeczywistej opisane są przez",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rezystancje i współczynnik strat"
+        },
+        {
+          "key": "b",
+          "text": "rezystancję i dobroć"
+        },
+        {
+          "key": "c",
+          "text": "indukcyjność i współczynnik strat"
+        },
+        {
+          "key": "d",
+          "text": "indukcyjność i dobroć"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "076",
+      "question": "W mostkach czterogałęźnych stosuje się wzorce",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jeden stały i jeden regulowany"
+        },
+        {
+          "key": "b",
+          "text": "dwa stałe i jeden regulowany"
+        },
+        {
+          "key": "c",
+          "text": "dwa stałe i dwa regulowane"
+        },
+        {
+          "key": "d",
+          "text": "trzy stałe i dwa regulowane"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "077",
+      "question": "Do różnic między mostkami do pomiaru kondensatorów i cewek należy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stosowanie innych wzorców stałych"
+        },
+        {
+          "key": "b",
+          "text": "stosowani wzorców regulowanych w innej konfiguracji"
+        },
+        {
+          "key": "c",
+          "text": "stosowanie innych częstotliwości pomiarowych"
+        },
+        {
+          "key": "d",
+          "text": "stosowanie wielkości pobudzających w innych przedziałach czasu"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "078",
+      "question": "włączenie mierzonej reaktancji do obwodu rezonansowego powoduje",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zaniknięcie oscylacji sygnału"
+        },
+        {
+          "key": "b",
+          "text": "zmianę częstotliwości sygnału pobudzającego"
+        },
+        {
+          "key": "c",
+          "text": "zaniknięcie impedancji wejściowej woltomierza"
+        },
+        {
+          "key": "d",
+          "text": "zmianę częstotliwości rezonansowej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "079",
+      "question": "Pomiar mocy metodą absorpcyjną pozwala wyznaczyć",
+      "answers": [
+        {
+          "key": "a",
+          "text": "moc pochłanianą przez źródło"
+        },
+        {
+          "key": "b",
+          "text": "moc oddawaną przez miernik"
+        },
+        {
+          "key": "c",
+          "text": "rezystancję dopasowania energetycznego odbiornika"
+        },
+        {
+          "key": "d",
+          "text": "absorbcję mocy biernej w odbiorniku"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "080",
+      "question": "w miernikach elektronicznych wielkości nieelektrycznych konieczne są",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przetworniki wartości skutecznej"
+        },
+        {
+          "key": "b",
+          "text": "przetworniki z podwójnym całkowaniem"
+        },
+        {
+          "key": "c",
+          "text": "przetworniki cyfrowo- analogowe"
+        },
+        {
+          "key": "d",
+          "text": "przetworniki wielkości nieelektrycznych na elektryczne"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "081",
+      "question": "Błąd metody można wyeliminować ponieważ:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest to błąd systematyczny, którego wartość można obliczyć"
+        },
+        {
+          "key": "b",
+          "text": "jest to błąd przypadkowy, którego wartość podaje producent"
+        },
+        {
+          "key": "c",
+          "text": "jest to błąd wartości nominalnej"
+        },
+        {
+          "key": "d",
+          "text": "stosuje się mierniki o wystarczająco dużej dokładności"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "082",
+      "question": "W systemowym opisie przyrządów wielkości zewnętrzne dzieli się na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mierzalne i niemierzalne"
+        },
+        {
+          "key": "b",
+          "text": "mierzone i zakłócające"
+        },
+        {
+          "key": "c",
+          "text": "duże i małe"
+        },
+        {
+          "key": "d",
+          "text": "elektryczne i nieelektryczne"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "083",
+      "question": "Cechą charakterystyczną elektronicznych wielkości mierników analogowych jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "elektroniczne wyświetlanie i analogiczne przetwarzanie wyniku"
+        },
+        {
+          "key": "b",
+          "text": "możliwość przekazywania wyniku pomiaru do użytkownika"
+        },
+        {
+          "key": "c",
+          "text": "wykorzystywanie zjawiska elektromagnetycznego"
+        },
+        {
+          "key": "d",
+          "text": "przetwarzanie elektrycznego nośnika informacji"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "084",
+      "question": "Wartości sygnału po spróbkowaniu są:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "większe niż wartość sygnału analogowego"
+        },
+        {
+          "key": "b",
+          "text": "takie same jak wartość sygnału analogowego"
+        },
+        {
+          "key": "c",
+          "text": "mniejsze niż wartość sygnału analogowego"
+        },
+        {
+          "key": "d",
+          "text": "zdyskretyzowane w dziedzinie wartości"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "085",
+      "question": "Przetwornik kompensacyjny A/C przy kwantowaniu wykorzystuje",
+      "answers": [
+        {
+          "key": "a",
+          "text": "metodę wychyłową"
+        },
+        {
+          "key": "b",
+          "text": "metodę różnicowania"
+        },
+        {
+          "key": "c",
+          "text": "metodę zerową"
+        },
+        {
+          "key": "d",
+          "text": "metodę pośrednią"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "086",
+      "question": "Wynik przetwarzania C/A jest skwantowany ponieważ",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wymaga tego odbiornik sygnału wyjściowego"
+        },
+        {
+          "key": "b",
+          "text": "napięcie wzorcowe przybiera ściśle określoną wartość"
+        },
+        {
+          "key": "c",
+          "text": "wartość wyjściowa jest zakodowana cyfrowo"
+        },
+        {
+          "key": "d",
+          "text": "spełnione są założenia twierdzenia Kotielnikowa-Shanona"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "087",
+      "question": "W pętlowej konfiguracji systemów pomiarowych",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kontroler ma dostęp tylko do sygnałów informacyjnych"
+        },
+        {
+          "key": "b",
+          "text": "kontroler ma dostęp tylko do sygnałów organizacyjnych"
+        },
+        {
+          "key": "c",
+          "text": "kontroler nie zajmuje wyróżnionego miejsca"
+        },
+        {
+          "key": "d",
+          "text": "kontroler zajmuje w systemie miejsce centralne"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "088",
+      "question": "Zwiększenie zasięgu interfejsu RS-232C uzyskuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "redukując liczbę nadajnikow do jednego"
+        },
+        {
+          "key": "b",
+          "text": "redukując liczbę odbiornikow do jednego"
+        },
+        {
+          "key": "c",
+          "text": "stosując ekspandery"
+        },
+        {
+          "key": "d",
+          "text": "stosując pętlę prądową"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "089",
+      "question": "Źródłem błędu systematycznego pomiaru natężenia prądu stałego jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przepływ prądu przez amperomierz"
+        },
+        {
+          "key": "b",
+          "text": "przepływ prądu przez woltomierz"
+        },
+        {
+          "key": "c",
+          "text": "spadek napięcia na amperomierzu"
+        },
+        {
+          "key": "d",
+          "text": "spadek napięcia na woltomierzu"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "090",
+      "question": "Analogowe woltomierze napięcia stałego posiadają:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mechanizm magnetoelektryczny"
+        },
+        {
+          "key": "b",
+          "text": "mechanizm elektrostatyczny"
+        },
+        {
+          "key": "c",
+          "text": "strukturę woltomierza cyfrowego"
+        },
+        {
+          "key": "d",
+          "text": "strukturę prostownika napięciowego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "091",
+      "question": "W omomierzach dużych rezystancji stosuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rezystancje wzorcową i źródło napięcia stałego"
+        },
+        {
+          "key": "b",
+          "text": "rezystancje wzorcową i źródło prądu stałego"
+        },
+        {
+          "key": "c",
+          "text": "źródło prądu stałego i strukturę woltomierza"
+        },
+        {
+          "key": "d",
+          "text": "źródło napięcia stałego i strukturę amperomierza"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "092",
+      "question": "W pośrednich pomiarach mocy w obwodach prądu stałego wystarczy znać:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rezystancje wzorcową wejściową i wskazanie woltomierza"
+        },
+        {
+          "key": "b",
+          "text": "rezystancje przejściową i wskazanie amperomierza"
+        },
+        {
+          "key": "c",
+          "text": "rezystancje odbiornika mocy i wskazanie omomierza"
+        },
+        {
+          "key": "d",
+          "text": "rezystancje odbiornika mocy i wskazanie woltomierza"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "093",
+      "question": "Sygnały odkształcone są opisane wzorem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "X = max(x(t))"
+        },
+        {
+          "key": "b",
+          "text": "X = min(x(t))"
+        },
+        {
+          "key": "c",
+          "text": "x(t) = ∑i xi cos(kwt + qi)"
+        },
+        {
+          "key": "d",
+          "text": "x(t) = Xsin(wt + q)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "094",
+      "question": "Moduł impedancji elektrycznej jest równy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dobroci elementu"
+        },
+        {
+          "key": "b",
+          "text": "przesunięciu fazowemu między napięciem i prądem"
+        },
+        {
+          "key": "c",
+          "text": "kątowi stratności elementu"
+        },
+        {
+          "key": "d",
+          "text": "stosunkowi wartości skutecznych napięcia i prądu"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "095",
+      "question": "Pomiar impedancji mostkiem czterogałęźnym pozwala na wyznaczenie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wartości skutecznej mierzonej wielkości"
+        },
+        {
+          "key": "b",
+          "text": "wartości średniej mierzonej wielkości"
+        },
+        {
+          "key": "c",
+          "text": "części rzeczywistej i urojonej mierzonej wielkości"
+        },
+        {
+          "key": "d",
+          "text": "składowej stałej i zmiennej mierzonej wielkości"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "096",
+      "question": "Zwiększenie dokładności i powtarzalności mostków transformatorowych wynika z:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dokładności i stabilności napięcia w uzwojeniu pierwotnym"
+        },
+        {
+          "key": "b",
+          "text": "równomiernego podziału napięcia na uzwojeniach wtórnych"
+        },
+        {
+          "key": "c",
+          "text": "uproszczenia równoważenia mostka do jednego wzorca regulowanego"
+        },
+        {
+          "key": "d",
+          "text": "zastąpienia stosunku rezystancji wzorcowych stosunkiem liczby uzwojeń"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "097",
+      "question": "Pomiar mocy metodą absorpcyjną umożliwia określenie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mocy czynnej i mocy biernej"
+        },
+        {
+          "key": "b",
+          "text": "mocy czynnej i rezystancji dopasowania"
+        },
+        {
+          "key": "c",
+          "text": "mocy pozornej i mocy biernej"
+        },
+        {
+          "key": "d",
+          "text": "mocy pozornej i rezystancji dopasowania"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "098",
+      "question": "Obecnie wzorce definiowane są z wykorzystaniem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "praw mechanicznego oddziaływania wielkości elektrycznych"
+        },
+        {
+          "key": "b",
+          "text": "stałych występujących we wzorach fizycznych"
+        },
+        {
+          "key": "c",
+          "text": "dokładnych wymiarów Ziemi"
+        },
+        {
+          "key": "d",
+          "text": "czasu trwania średniej doby słonecznej"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "099",
+      "question": "Wzorzec pierwotny napięcia wykorzystuje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "generator wysokiej częstotliwości wzorcowej"
+        },
+        {
+          "key": "b",
+          "text": "zjawisko Zenera"
+        },
+        {
+          "key": "c",
+          "text": "prawo Ohma"
+        },
+        {
+          "key": "d",
+          "text": "efekt Josephsona w stałym polu magnetycznym"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "100",
+      "question": "Wzorzec pierwotny czasu wykorzystuje",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kwantowy efekt Halla"
+        },
+        {
+          "key": "b",
+          "text": "elektromagnetyczny efekt radiowy"
+        },
+        {
+          "key": "c",
+          "text": "wzorzec częstotliwości i licznik okresów"
+        },
+        {
+          "key": "d",
+          "text": "licznik atomowy i wzorzec odniesienia"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "101",
+      "question": "Różnicowa metoda pomiarowa jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dokładniejsza od metody wychyłowej klasycznej"
+        },
+        {
+          "key": "b",
+          "text": "mniej dokładna niż metoda wychyłowa klasyczna"
+        },
+        {
+          "key": "c",
+          "text": "modyfikacją metody komparacyjnej"
+        },
+        {
+          "key": "d",
+          "text": "modyfikacją metody kompensacyjnej"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "102",
+      "question": "Błąd pomiaru to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "suma wyniku pomiaru i poprawki"
+        },
+        {
+          "key": "b",
+          "text": "zasada fizyczna pomiaru"
+        },
+        {
+          "key": "c",
+          "text": "dodatkowy parametr obliczany w miernikach cyfrowych"
+        },
+        {
+          "key": "d",
+          "text": "różnica między wynikiem pomiaru a wartością prawdziwą"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "103",
+      "question": "W interpretacji deterministycznej błąd pomiaru określa:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przedział, w którym z określonym prawdopodobieństwem mieści się wartość prawdziwa"
+        },
+        {
+          "key": "b",
+          "text": "zasadę stosowania propagacji błędów"
+        },
+        {
+          "key": "c",
+          "text": "przedział, w którym na pewno mieści się wartość prawdziwa"
+        },
+        {
+          "key": "d",
+          "text": "konieczność popełnienia błędu podczas pomiarów"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "104",
+      "question": "Błąd metody można wyeliminować ponieważ:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest to błąd systematyczny, którego wartość można obliczyć"
+        },
+        {
+          "key": "b",
+          "text": "jest to błąd przypadkowy, którego wartość podaje producent"
+        },
+        {
+          "key": "c",
+          "text": "jest to błąd wartości nominalnej"
+        },
+        {
+          "key": "d",
+          "text": "stosuje się mierniki o wystarczająco dużej dokładności"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "105",
+      "question": "W systemowym opisie przyrządów wielkości zewnętrznej dzieli się na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mierzalne i niemierzalne"
+        },
+        {
+          "key": "b",
+          "text": "mierzone i zakłócające"
+        },
+        {
+          "key": "c",
+          "text": "duże i małe"
+        },
+        {
+          "key": "d",
+          "text": "elektryczne i nieelektryczne"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "106",
+      "question": "Cechą charakterystyczną elektronicznych mierników analogowych jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "elektroniczne wyświetlanie i analogiczne przetwarzanie wyniku"
+        },
+        {
+          "key": "b",
+          "text": "możliwość przekazywania wyniku pomiaru do użytkownika"
+        },
+        {
+          "key": "c",
+          "text": "wykorzystanie zjawiska elektromagnetycznego"
+        },
+        {
+          "key": "d",
+          "text": "przetwarzanie elektrycznego nośnika informacji"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "107",
+      "question": "Wartości sygnału po spróbkowaniu są:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "większe niż wartości sygnału analogowego"
+        },
+        {
+          "key": "b",
+          "text": "takie same jak wartości sygnału analogowego"
+        },
+        {
+          "key": "c",
+          "text": "mniejsze niż wartości sygnału analogowego"
+        },
+        {
+          "key": "d",
+          "text": "zdyskretyzowane w dziedzinie wartości"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "108",
+      "question": "Przetwornik kompensacyjny A/C przy kwantowaniu wykorzystuje:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "metodę wychyłową"
+        },
+        {
+          "key": "b",
+          "text": "metodę różnicową"
+        },
+        {
+          "key": "c",
+          "text": "metodę zerową"
+        },
+        {
+          "key": "d",
+          "text": "metodę pośrednią"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "109",
+      "question": "Wynik przetwarzania C/A jest skwantowany ponieważ:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wymaga tego odbiornik sygnału wyjściowego z przetwornika"
+        },
+        {
+          "key": "b",
+          "text": "napięcie wzorcowe przybiera ściśle określoną wartość"
+        },
+        {
+          "key": "c",
+          "text": "wartość wyjściowa jest zakodowana cyfrowo"
+        },
+        {
+          "key": "d",
+          "text": "spełnione są założenia twierdzenia Kotielnikowa-Shanona"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "110",
+      "question": "Podstawową zaletą mierników mikroprocesorowych jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykorzystanie układów wysokiej skali integracji"
+        },
+        {
+          "key": "b",
+          "text": "cyfrowe przetwarzanie surowych danych pomiarowych"
+        },
+        {
+          "key": "c",
+          "text": "zastosowanie szybkich przetworników C/A"
+        },
+        {
+          "key": "d",
+          "text": "brak bloków przetwarzania analogowego"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "111",
+      "question": "W pętlowe konfiguracji systemów pomiarowych:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "kontroler ma dostęp tylko do sygnałów informacyjnych"
+        },
+        {
+          "key": "b",
+          "text": "kontroler ma dostęp tylko do sygnałów organizacyjnych"
+        },
+        {
+          "key": "c",
+          "text": "kontroler nie zajmuje wyróżnionego miejsca"
+        },
+        {
+          "key": "d",
+          "text": "kontroler zajmuje w systemie miejsce centralne"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "112",
+      "question": "Zwiększenie zasięgu interfejsu RS-330C uzyskuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "redukując liczbę nadajników do jednego"
+        },
+        {
+          "key": "b",
+          "text": "redukując liczbę odbiorników do jednego"
+        },
+        {
+          "key": "c",
+          "text": "stosując ekspandery"
+        },
+        {
+          "key": "d",
+          "text": "stosując pętlę prądową"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "113",
+      "question": "Źródłem błędu systematycznego pomiaru natężenia prądu stałego jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przepływ prądu przez amperomierz"
+        },
+        {
+          "key": "b",
+          "text": "przepływ prądu przez woltomierz"
+        },
+        {
+          "key": "c",
+          "text": "spadek napięcia na amperomierzu"
+        },
+        {
+          "key": "d",
+          "text": "spadek napięcia na woltomierzu"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "114",
+      "question": "Analogowe woltomierze napięcia stałego posiadają:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mechanizm magnetoelektryczny"
+        },
+        {
+          "key": "b",
+          "text": "mechanizm elektrostatyczny"
+        },
+        {
+          "key": "c",
+          "text": "strukturę woltomierza cyfrowego"
+        },
+        {
+          "key": "d",
+          "text": "strukturę prostownika napięciowego"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "115",
+      "question": "W omomierzach dużych rezystancji stosuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rezystancję wzorcową i źródło napięcia stałego"
+        },
+        {
+          "key": "b",
+          "text": "rezystancję wzorcową i źródło prądu stałego"
+        },
+        {
+          "key": "c",
+          "text": "źródło prądu stałego i strukturę woltomierza"
+        },
+        {
+          "key": "d",
+          "text": "źródło napięcia stałego i strukturę amperomierza"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "116",
+      "question": "W pośrednich pomiarach mocy w obwodach prądu stałego wystarczy znać:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rezystancję wejściową i wskazanie woltomierza"
+        },
+        {
+          "key": "b",
+          "text": "rezystancję przejściową i wskazanie amperomierza"
+        },
+        {
+          "key": "c",
+          "text": "rezystancję odbiornika mocy i wskazanie omomierza"
+        },
+        {
+          "key": "d",
+          "text": "rezystancję odbiornika mocy i wskazanie woltomierza"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "117",
+      "question": "Zadaniem układu wejściowego miernika częstotliwości jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wytworzenie impulsów wyjściowych o częstotliwości takiej jak wejściowa"
+        },
+        {
+          "key": "b",
+          "text": "wytworzenie impulsów wejściowych o okresie takim jak wyjściowy"
+        },
+        {
+          "key": "c",
+          "text": "podzielenie częstotliwości przez całkowitą potęgę liczby 10"
+        },
+        {
+          "key": "d",
+          "text": "pomnożenie okresu przez całkowitą potęgę liczby 10"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "118",
+      "question": "Dokładność cyfrowego pomiaru okresu zależy od:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "częstotliwości generatora kwarcowego"
+        },
+        {
+          "key": "b",
+          "text": "od częstotliwości otwierania bramki"
+        },
+        {
+          "key": "c",
+          "text": "czasu trwania sygnału badanego"
+        },
+        {
+          "key": "d",
+          "text": "ilości zliczonych impulsów zegarowych"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "119",
+      "question": "Zaletą rejestratorów o przetwarzaniu bezpośrednim jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "prosta budowa"
+        },
+        {
+          "key": "b",
+          "text": "możliwość rejestrowania sygnałów prostoliniowych"
+        },
+        {
+          "key": "c",
+          "text": "bezpośrednie przetwarzanie wielkości mechanicznej na elektryczną"
+        },
+        {
+          "key": "d",
+          "text": "duży pobór mocy z badanego obiektu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "120",
+      "question": "Mała rozdzielczość przetworników A/C w oscyloskopach cyfrowych:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest związana z dużą częstotliwością próbkowania i niską rozdzielczością LCD"
+        },
+        {
+          "key": "b",
+          "text": "jest związana z małymi rozmiarami i niskim kosztem tych oscyloskopów"
+        },
+        {
+          "key": "c",
+          "text": "wynika z ograniczeń stawianych przez mikroprocesor sterujący oscyloskopem"
+        },
+        {
+          "key": "d",
+          "text": "nie ma znaczenia, gdyś jest kompensowana przez dodatkowy przetwornik C/A"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "121",
+      "question": "Moduł impedancji elektrycznej jest równy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dobroci elementu"
+        },
+        {
+          "key": "b",
+          "text": "przesunięciu fazowemu między napięciem i prądem"
+        },
+        {
+          "key": "c",
+          "text": "kątowi stratności elementu"
+        },
+        {
+          "key": "d",
+          "text": "stosunkowi wartości skutecznych napięcia i prądu"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "122",
+      "question": "Impedancja wejściowa woltomierza napięć zmiennych maleje z częstotliwością gdyż:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "maleje reaktancja wejściowa woltomierza"
+        },
+        {
+          "key": "b",
+          "text": "maleje rezystancja wejściowa woltomierza"
+        },
+        {
+          "key": "c",
+          "text": "maleje impedancja doprowadzeń napięcia"
+        },
+        {
+          "key": "d",
+          "text": "maleje impedancja wyjściowa przetwornika napięcia"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "123",
+      "question": "Pomiar impedancji mostkiem czterogałęziowy pozwala na wyznaczenie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wartości skutecznej mierzonej wielkości"
+        },
+        {
+          "key": "b",
+          "text": "wartości średniej mierzonej wielkości"
+        },
+        {
+          "key": "c",
+          "text": "części rzeczywistej i urojonej mierzonej wielkości"
+        },
+        {
+          "key": "d",
+          "text": "składowej stałej i zmiennej mierzonej wielkości"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "124",
+      "question": "Zwiększenie dokładności i powtarzalności mostów transformatorowych wynika z:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "dokładności i stabilności napięcia w uzwojeniu pierwotnym"
+        },
+        {
+          "key": "b",
+          "text": "równomiernego podziału napięcia w uzwojeniach wtórnych"
+        },
+        {
+          "key": "c",
+          "text": "uproszczenia równoważenia mostka do jednego wzorca regulowanego"
+        },
+        {
+          "key": "d",
+          "text": "zastąpienia stosunku rezystancji wzorcowych stosunkiem liczby uzwojeń"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "125",
+      "question": "Pomiar mocy metodą absorpcyjną umożliwia określenie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mocy czynnej i mocy biernej"
+        },
+        {
+          "key": "b",
+          "text": "mocy czynnej i rezystancji dopasowania"
+        },
+        {
+          "key": "c",
+          "text": "mocy pozornej i mocy biernej"
+        },
+        {
+          "key": "d",
+          "text": "mocy pozornej i rezystancji dopasowania"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "129",
+      "question": "Skala pomiarowa Interwałowa:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie zawiera zera bezwzględnego"
+        },
+        {
+          "key": "b",
+          "text": "określane są w niej relacje równoważności i ścisłego uporządkowania"
+        },
+        {
+          "key": "c",
+          "text": "odwzorowuje relacje ścisłego uporządkowania i równości interwałów i równoważności ilorazów"
+        },
+        {
+          "key": "d",
+          "text": "zawiera zero bezwzględne"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "130",
+      "question": "Przykładem pomiaru funkcyjnego jest pomiar:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pasma przenoszenia wzmacniacza akustycznego"
+        },
+        {
+          "key": "b",
+          "text": "poziomu sygnału Wi-Fi w funkcji odległości"
+        },
+        {
+          "key": "c",
+          "text": "napięcia Up-p"
+        },
+        {
+          "key": "d",
+          "text": "częstotliwości napięcia sinusoidalnego"
+        },
+        {
+          "key": "e",
+          "text": "żaden z powyższych"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "131",
+      "question": "Kwantowy efekt Halla wykorzystywany jest we wzorcu",
+      "answers": [
+        {
+          "key": "a",
+          "text": "natężenia prądu"
+        },
+        {
+          "key": "b",
+          "text": "napięcia elektrycznego"
+        },
+        {
+          "key": "c",
+          "text": "częstotliwości"
+        },
+        {
+          "key": "d",
+          "text": "rezystancji"
+        },
+        {
+          "key": "e",
+          "text": "pojemności"
+        },
+        {
+          "key": "f",
+          "text": "indukcyjności"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "132",
+      "question": "Wskaż zależność opisującą reaktancję pojemnościową.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Xc=-1/wC"
+        },
+        {
+          "key": "b",
+          "text": "Xc=wC"
+        },
+        {
+          "key": "c",
+          "text": "XL=1/wL"
+        },
+        {
+          "key": "d",
+          "text": "XL=WL"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "133",
+      "question": "Wyznacz: 46dB=....V/V (stosunek mocy) oraz 2,5W= ..... dBmW(dB względem mW). Wybierz wszystkie prawidłowe odpowiedzi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "5 V/V"
+        },
+        {
+          "key": "b",
+          "text": "50 V/V"
+        },
+        {
+          "key": "c",
+          "text": "200 V/V"
+        },
+        {
+          "key": "d",
+          "text": "2000 V/V"
+        },
+        {
+          "key": "e",
+          "text": "-6 dBmW"
+        },
+        {
+          "key": "f",
+          "text": "24 dBmW"
+        },
+        {
+          "key": "g",
+          "text": "27 dBmW"
+        },
+        {
+          "key": "h",
+          "text": "34 dBmW"
+        }
+      ],
+      "correct": [
+        "c",
+        "h"
+      ],
+      "images": []
+    },
+    {
+      "id": "134",
+      "question": "Twierdzenie .... mówi, że można zastąpić .... połączeniem źródła napięciowego generującego napięcie UT i pojedynczego rezystora",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Nortona"
+        },
+        {
+          "key": "b",
+          "text": "Thevenina"
+        },
+        {
+          "key": "c",
+          "text": "Newtona"
+        },
+        {
+          "key": "d",
+          "text": "równoległym"
+        },
+        {
+          "key": "e",
+          "text": "szeregowym"
+        },
+        {
+          "key": "f",
+          "text": "mieszanym"
+        }
+      ],
+      "correct": [
+        "b",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "135",
+      "question": "Wybierz prawidłowy zapis otrzymanego wyniku i niepewności rozszerzonej. \nWyniki obliczeń: U=0,89342V; ΔU=0,0124V",
+      "answers": [
+        {
+          "key": "a",
+          "text": "U=(0,89342 ± 0,0124)V"
+        },
+        {
+          "key": "b",
+          "text": "U=(0,8934 ± 0,0124)V"
+        },
+        {
+          "key": "c",
+          "text": "U=(0,893 ± 0,012)V"
+        },
+        {
+          "key": "d",
+          "text": "U=(0,893 ± 0,013)V"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "136",
+      "question": "W metodzie technicznej zmierzono rezystancję pośrednio przez pomiar woltomierzem o Rv=10^5Ω, oraz amperomierzem o Ra=10Ω. Jeżeli rezystancja mierzona wynosił 120 Ohmów, to znaczy, że",
+      "answers": [
+        {
+          "key": "a",
+          "text": "do pomiaru należało użyć metody poprawnie mierzonego prądu."
+        },
+        {
+          "key": "b",
+          "text": "do pomiaru należało użyć metody poprawnie mierzonego napięcia."
+        },
+        {
+          "key": "c",
+          "text": "metoda techniczna nie nadaje się do pomiaru tej rezystancji."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "137",
+      "question": "Które napięcia zostaną przetworzone w 12-bitowym przetworniku A/C unipolarnym o LSB=1mv:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "5mV"
+        },
+        {
+          "key": "b",
+          "text": "2V"
+        },
+        {
+          "key": "c",
+          "text": "0mV"
+        },
+        {
+          "key": "d",
+          "text": "-15mV"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "138",
+      "question": "Na wykresie",
+      "answers": [
+        {
+          "key": "a",
+          "text": "umieszczamy punkty pomiarowe wraz z słupkami błędów"
+        },
+        {
+          "key": "b",
+          "text": "podpisujemy osie według przykładu: \"oś pionowa\",\"numer pomiaru\"."
+        },
+        {
+          "key": "c",
+          "text": "zawsze musi być widoczny punkt (0,0)"
+        },
+        {
+          "key": "d",
+          "text": "przedstawiamy wykres funkcji, więc musi to być linia ciągła przechodząca przez wszystkie punkty pomiarowe"
+        },
+        {
+          "key": "e",
+          "text": "w podpisie osi wykres u powinna być podana wielkość mierzona wraz z jednostką."
+        }
+      ],
+      "correct": [
+        "a",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "139",
+      "question": "Podaną wielkość zapisać w \"notacji inżynierskiej\". Wybierz prawidłowy zapis(zapisy).",
+      "answers": [
+        {
+          "key": "a",
+          "text": "63*10^(-2) A."
+        },
+        {
+          "key": "b",
+          "text": "0,063A"
+        },
+        {
+          "key": "c",
+          "text": "0,63A"
+        },
+        {
+          "key": "d",
+          "text": "6,3mA"
+        },
+        {
+          "key": "e",
+          "text": "63mA"
+        },
+        {
+          "key": "f",
+          "text": "630Ma"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "images": []
+    },
+    {
+      "id": "140",
+      "question": "Wskaż stwierdzenie(a) prawdziwe:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Pomiar wielkości prostych polega na bezpośrednim pomiarze danej cechy, np. masy."
+        },
+        {
+          "key": "b",
+          "text": "Mierząc wielkość bezpośrednio uzyskujemy informacje o wartości rzeczywistej."
+        },
+        {
+          "key": "c",
+          "text": "Pomiar wielkości złożonych polega na wyznaczaniu danej cechy na podstawie co najmniej dwóch pomiarów wielkości prosty."
+        },
+        {
+          "key": "d",
+          "text": "W trakcie pomiaru uzyskujemy wartości różniące się od przewidywanych w teorii."
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "141",
+      "question": "Wskaż poprawne zapisy dotyczące wzorca czasu",
+      "answers": [
+        {
+          "key": "a",
+          "text": "(8,4*10^-10)%=(8,4*10^-4)ppm=(8,4*10^-6)[s]"
+        },
+        {
+          "key": "b",
+          "text": "(8,4*10^-8)%=(8,4*10^-2)ppm=(8,4*10^-10)[s]"
+        },
+        {
+          "key": "c",
+          "text": "(1,3*10^-10)%=(1,3*10^-6)ppm=(1,3*10^-12)[s]"
+        },
+        {
+          "key": "d",
+          "text": "(1,3*10^-1)%=(1,3*10^-6)ppm=(1,3*10^-10)[s]"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "142",
+      "question": "Idealny amperomierz cechuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bardzo małą rezystancją wewnętrzną"
+        },
+        {
+          "key": "b",
+          "text": "bardzo dużą rezystancją wewnętrzną"
+        },
+        {
+          "key": "c",
+          "text": "nieskończoną rezystancją wewnętrzną"
+        },
+        {
+          "key": "d",
+          "text": "zerową rezystancją wewnętrzną"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "143",
+      "question": "Na oscyloskopie o ekranie 10x10 działek chcemy poprawnie obejrzeć przebieg sinusoidalny o okresie T=15ms i amplitudzie 7V. Jak należy dobrać nastawy oscyloskopu(podstawa czasu, wzmocnienie toru Y)? Wybierz optymalne nastawy oscyloskopu.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Podstawa czasu 1ms/dz, wzmocnienie 2V/dz"
+        },
+        {
+          "key": "b",
+          "text": "Podstawa czasu 1ms/dz, wzmocnienie 1V/dz"
+        },
+        {
+          "key": "c",
+          "text": "Podstawa czasu 10ms/dz, wzmocnienie 1V/dz"
+        },
+        {
+          "key": "d",
+          "text": "Podstawa czasu 10ms/dz, wzmocnienie 2V/dz"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "144",
+      "question": "Wskaż błędną odpowiedź. Jednostka miary powinna:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "byś jednoznacznie zdefiniowana"
+        },
+        {
+          "key": "b",
+          "text": "mieć nadaną nazwę"
+        },
+        {
+          "key": "c",
+          "text": "być pochodną wielkości podstawowych"
+        },
+        {
+          "key": "d",
+          "text": "mieć oznaczenie"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "145",
+      "question": "Wyznacz: 17db=....... W/W (stosunek mocy) oraz 20mV = ....... dBμV (db względem μV). Wybierz wszystkie prawidłowe odpowiedzi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "5 W/W"
+        },
+        {
+          "key": "b",
+          "text": "50 W/W"
+        },
+        {
+          "key": "c",
+          "text": "14 W/W"
+        },
+        {
+          "key": "d",
+          "text": "24 W/W"
+        },
+        {
+          "key": "e",
+          "text": "86 dBμV"
+        },
+        {
+          "key": "f",
+          "text": "24 dBμV"
+        },
+        {
+          "key": "g",
+          "text": "27 dBμV"
+        },
+        {
+          "key": "h",
+          "text": "50 dBμV"
+        }
+      ],
+      "correct": [
+        "b",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "146",
+      "question": "Wskaż prawidłowe stwierdzenie(a)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Napięcie na induktorze wyprzeda w fazie prąd o 90 stopni."
+        },
+        {
+          "key": "b",
+          "text": "Napięcie kondensatora wyprzedza w fazie prąd o 90 stopni."
+        },
+        {
+          "key": "c",
+          "text": "Prąd kondensatora wyprzedza w fazie napięcie o 90 stopni."
+        },
+        {
+          "key": "d",
+          "text": "Prąd na induktorze wyprzedza w fazie napięcie o 90 stopni."
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "147",
+      "question": "Dzielnik napięcia",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jest układem, który zadane napięcie dzieli na określone części"
+        },
+        {
+          "key": "b",
+          "text": "Jest układem, który zadane natężenie prądu dzieli na określone części."
+        },
+        {
+          "key": "c",
+          "text": "Można skonstruować za pomocą potencjometru"
+        },
+        {
+          "key": "d",
+          "text": "Jest układem, który dzieli sygnał wejściowy zawsze na dwa równe sygnały wyjściowe"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "148",
+      "question": "Do pomiaru mocy biernej służy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Waromierz"
+        },
+        {
+          "key": "b",
+          "text": "Watomierz"
+        },
+        {
+          "key": "c",
+          "text": "Ustomierz"
+        },
+        {
+          "key": "d",
+          "text": "Woltomierz"
+        },
+        {
+          "key": "e",
+          "text": "Wolto-amperomierz"
+        },
+        {
+          "key": "f",
+          "text": "Czynnościomierz"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "149",
+      "question": "Amperomierz o rezystancji wewnętrznej 10Ω podłączono do układu i zmierzono prąd. Rezystancja tego układu wynosiła 500kΩ. Czy do wskazania amperomierza należy doliczyć \"poprawkę\" (błąd systematyczny metody)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Tak. Zawsze uwzględniamy poprawki."
+        },
+        {
+          "key": "b",
+          "text": "Tak, ponieważ opór układu jest duży."
+        },
+        {
+          "key": "c",
+          "text": "Nie"
+        },
+        {
+          "key": "d",
+          "text": "Nigdy nie korygujemy wyników pomiaru."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "150",
+      "question": "W metodzie technicznej używamy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Woltomierz"
+        },
+        {
+          "key": "b",
+          "text": "Omomierz"
+        },
+        {
+          "key": "c",
+          "text": "Waromierz"
+        },
+        {
+          "key": "d",
+          "text": "Amperomierz"
+        },
+        {
+          "key": "e",
+          "text": "Dżulomierz"
+        },
+        {
+          "key": "f",
+          "text": "Sekundomierz"
+        }
+      ],
+      "correct": [
+        "a",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "151",
+      "question": "Jaką wielkość fizyczną zmierzono? Pomiar: 1,12 mH",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Napięcie"
+        },
+        {
+          "key": "b",
+          "text": "Natężenie pola magnetycznego"
+        },
+        {
+          "key": "c",
+          "text": "Prąd"
+        },
+        {
+          "key": "d",
+          "text": "Częstotliwość"
+        },
+        {
+          "key": "e",
+          "text": "Pojemność"
+        },
+        {
+          "key": "f",
+          "text": "Indukcyjność"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "images": []
+    },
+    {
+      "id": "152",
+      "question": "Twierdzenie Thevenina dotyczy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Źródeł prądowych"
+        },
+        {
+          "key": "b",
+          "text": "Rezystancji wewnętrznej"
+        },
+        {
+          "key": "c",
+          "text": "Źródeł napięciowych"
+        },
+        {
+          "key": "d",
+          "text": "Zamiany skomplikowanego układu elektrycznego na prostszy"
+        }
+      ],
+      "correct": [
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "153",
+      "question": "Wybierz, które z podanych stwierdzeń jest prawdziwe:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Powtarzanie pomiarów pozwala na zmniejszanie tej składowej niepewności pomiaru, która pochodzi od błędów systematycznych."
+        },
+        {
+          "key": "b",
+          "text": "Wzrost liczby powtórzeń powoduje zmniejszenie całkowitej niepewności wyniku pomiaru wielokrotnego"
+        },
+        {
+          "key": "c",
+          "text": "Analiza statystyczna wyników pomiaru wielokrotnego pozwala na znalezienie rzeczywistej wartości błędu pomiarowego."
+        },
+        {
+          "key": "d",
+          "text": "Analiza statystyczna wyników pomiaru wielokrotnego pozwala na wykrycie wyniku pomiaru obarczonego błędem grubym."
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "154",
+      "question": "Jeżeli w pomiarach rezystancji zastosujemy układ poprawnie mierzonego prądu (pmp)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to wartość rezystancji badanej jest większa niż rezystancja graniczna sqrt(RA*RV)"
+        },
+        {
+          "key": "b",
+          "text": "to wartość rezystancji badanej jest mniejsza niż rezystancja graniczna sqrt(RA*RV)"
+        },
+        {
+          "key": "c",
+          "text": "i wartość rezystancji jest mniejsza od rezystancji granicznej, to znaczy, że nie mamy w ogóle błędów pomiarowych."
+        },
+        {
+          "key": "d",
+          "text": "to woltomierz mierzy spadek napięcia tylko na badanej rezystancji."
+        },
+        {
+          "key": "e",
+          "text": "to woltomierz mierzy spadek napięcia na badanej rezystancji i amperomierzu"
+        }
+      ],
+      "correct": [
+        "a",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "155",
+      "question": "Dzielnik prądu",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest układem, który zadane napięcie dzieli na określone części."
+        },
+        {
+          "key": "b",
+          "text": "jest układem, który zadane natężenie prądu dzieli na określone części."
+        },
+        {
+          "key": "c",
+          "text": "można skonstruować za pomocą potencjometru."
+        },
+        {
+          "key": "d",
+          "text": "jest układem, który dzieli sygnał wejściowy zawsze na dwa równe sygnały wyjściowe."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "156",
+      "question": "Przyczyną powstawania błędów systematycznych jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "szum termiczny"
+        },
+        {
+          "key": "b",
+          "text": "zmiany obiektu badanego po dołączeniu do urządzenia lub układu pomiarowego."
+        },
+        {
+          "key": "c",
+          "text": "wykonanie przyrządów pomiarowych - skalowanie lub wzorcowanie."
+        },
+        {
+          "key": "d",
+          "text": "wpływ otoczenia na stanowisko pomiarowe."
+        }
+      ],
+      "correct": [
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "157",
+      "question": "W skali porządkowej możliwe są następujące operacje matematyczne",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a/b=c/d"
+        },
+        {
+          "key": "b",
+          "text": "a-b=c-d"
+        },
+        {
+          "key": "c",
+          "text": "a<b lub b > a"
+        },
+        {
+          "key": "d",
+          "text": "a=b lub a ≠ b"
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "158",
+      "question": "Wskaż fałszywe stwierdzenie(a).",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Napięcie na induktorze wyprzedza w fazie prąd o 90 stopni."
+        },
+        {
+          "key": "b",
+          "text": "Napięcie kondensatora wyprzedza w fazie prąd o 90 stopni."
+        },
+        {
+          "key": "c",
+          "text": "Prąd kondensatora wyprzedza w fazie napięcie o 90 stopni."
+        },
+        {
+          "key": "d",
+          "text": "Prąd na induktorze wyprzedza w fazie napięcie o 90 stopni."
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "159",
+      "question": "Pewien student zapisał niepewności graniczne pomiaru omomierzem. Który zapis dotyczy niepewności względnej?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ΔR = 5kΩ"
+        },
+        {
+          "key": "b",
+          "text": "δR = 2%"
+        },
+        {
+          "key": "c",
+          "text": "U(R) = 5kΩ ± 2%"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "160",
+      "question": "Diody Zenera są używane jako wzorzec prosty, ponieważ",
+      "answers": [
+        {
+          "key": "a",
+          "text": "są odporne na przeciążenia i zwarcia."
+        },
+        {
+          "key": "b",
+          "text": "ich roczna niestałość napięcia jest mniejsza niż 10^-6"
+        },
+        {
+          "key": "c",
+          "text": "Zener pracował nad wydajnością napięciową diody."
+        },
+        {
+          "key": "d",
+          "text": "są odporne na wstrząsy i mogą być długotrwale obciążane prądem."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "161",
+      "question": "Zaznacz zdania fałszywe",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Idealne źródło napięciowe jest dwójnikiem, który wymusza prąd o stałym natężeniu w dołączonym obwodzie, niezależnie od wartości napięcia na jego zaciskach."
+        },
+        {
+          "key": "b",
+          "text": "W szczególności napięcie idealnego źródła napięciowego zależy od wartości rezystancji obciążenia."
+        },
+        {
+          "key": "c",
+          "text": "Idealne źródło napięciowe jest dwójnikiem, na którego zaciskach występuje stała różnica potencjałów niezależnie od natężenia i kierunku prądu."
+        },
+        {
+          "key": "d",
+          "text": "W szczególności napięcie idealnego źródła napięciowego nie zależy od wartości rezystancji obciążenia."
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "162",
+      "question": "Na oscyloskopie o ekranie 10x10 działek chcemy poprawnie obejrzeć przebieg sinusoidalny o okresie T=3ms i amplitudzie 0,1V. Jak należy dobrać nastawy oscyloskopu(podstawa czasu, wzmocnienie toru Y)? Wybierz optymalne nastawy oscyloskopu.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Podstawa czasu 1ms/dz, wzmocnienie 1V/dz"
+        },
+        {
+          "key": "b",
+          "text": "Podstawa czasu 0,1ms/dz, wzmocnienie 1V/dz"
+        },
+        {
+          "key": "c",
+          "text": "Podstawa czasu 0,1ms/dz, wzmocnienie 0,05V/dz"
+        },
+        {
+          "key": "d",
+          "text": "Podstawa czasu 1ms/dz, wzmocnienie 0,05V/dz"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "163",
+      "question": "Wyznacz: 33dB=......W/W(stosunek mocy) oraz 400mV=.....dBV (dB względem V). Wybierz wszystkie prawidłowe odpowiedzi.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2000 W/W"
+        },
+        {
+          "key": "b",
+          "text": "50 W/W"
+        },
+        {
+          "key": "c",
+          "text": "400 W/W"
+        },
+        {
+          "key": "d",
+          "text": "3000 W/W"
+        },
+        {
+          "key": "e",
+          "text": "-8 dBV"
+        },
+        {
+          "key": "f",
+          "text": "24 dBV"
+        },
+        {
+          "key": "g",
+          "text": "27 dBV"
+        },
+        {
+          "key": "h",
+          "text": "37 dBV"
+        }
+      ],
+      "correct": [
+        "a",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "164",
+      "question": "Zaokrąglij podaną wartość obliczonego prądu do trzech cyfr znaczących: 1232,61mA",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1232,713mA"
+        },
+        {
+          "key": "b",
+          "text": "1233mA"
+        },
+        {
+          "key": "c",
+          "text": "1,233A"
+        },
+        {
+          "key": "d",
+          "text": "1,23A"
+        },
+        {
+          "key": "e",
+          "text": "1,20A"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "165",
+      "question": "Zespolona moc pozorna wynosi (40 + 30j) VA. Moc bierna ma wartość",
+      "answers": [
+        {
+          "key": "a",
+          "text": "50 var"
+        },
+        {
+          "key": "b",
+          "text": "40 var"
+        },
+        {
+          "key": "c",
+          "text": "30 var"
+        },
+        {
+          "key": "d",
+          "text": "50 VA"
+        },
+        {
+          "key": "e",
+          "text": "40 VA"
+        },
+        {
+          "key": "f",
+          "text": "30 VA"
+        },
+        {
+          "key": "g",
+          "text": "50 W"
+        },
+        {
+          "key": "h",
+          "text": "40 W\ni.\t30 W"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "166",
+      "question": "Rzeczywisty amperomierz cechuje się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bardzo małą rezystancją wewnętrzną"
+        },
+        {
+          "key": "b",
+          "text": "bardzo dużą rezystancją wewnętrzną"
+        },
+        {
+          "key": "c",
+          "text": "nieskończoną rezystancją wewnętrzną"
+        },
+        {
+          "key": "d",
+          "text": "zerową rezystancją wewnętrzną"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "167",
+      "question": "Które napięcia zostaną poprawnie przetworzone w 16-bitowym przetworniku A/C bipolarnym o LSB=100μV",
+      "answers": [
+        {
+          "key": "a",
+          "text": "+5mV"
+        },
+        {
+          "key": "b",
+          "text": "-1,5mV"
+        },
+        {
+          "key": "c",
+          "text": "3,5V"
+        },
+        {
+          "key": "d",
+          "text": "100mV"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "168",
+      "question": "Mając do dyspozycji np. diodę(-y) prostowniczą(-e) m.cz, to można za jej (ich) pomocą zbudować układ",
+      "answers": [
+        {
+          "key": "a",
+          "text": "prostownika jedno-połówkowego sygnału okresowego"
+        },
+        {
+          "key": "b",
+          "text": "prostownika pełno-kresowego, w układzie mostkowym Greatz'a sygnału okresowego"
+        },
+        {
+          "key": "c",
+          "text": "wzmacniacz"
+        },
+        {
+          "key": "d",
+          "text": "czujnik temperatury"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "169",
+      "question": "Wskaż źródła błędów, z którymi możesz spotkać się w pomiarach",
+      "answers": [
+        {
+          "key": "a",
+          "text": "niedoskonała realizacja definicji wielkości mierzonej"
+        },
+        {
+          "key": "b",
+          "text": "skończona rozdzielczość lub próg pobudliwości przyrządu"
+        },
+        {
+          "key": "c",
+          "text": "upraszczające przybliżenia i założenia stosowane w metodach i procedurach pomiarowych"
+        },
+        {
+          "key": "d",
+          "text": "niepełna znajomość wpływu warunków środowiskowych na procedurę pomiarową"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "170",
+      "question": "Wskaż prawidłowe parametry przemiennych sygnałów okresowych",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Dla sygnału trójkątnego (Um/Uo)=sqrt(3)"
+        },
+        {
+          "key": "b",
+          "text": "Dla sygnału trójkątnego (Um/Uo)=sqrt(2)"
+        },
+        {
+          "key": "c",
+          "text": "Dla sygnału prostokątnego (Um/Uo)=sqrt(2)"
+        },
+        {
+          "key": "d",
+          "text": "Dla sygnału sinusoidalnego (Um/Uo)=sqrt(3)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "171",
+      "question": "Błąd przypadkowy to",
+      "answers": [
+        {
+          "key": "a",
+          "text": "błąd wynikający z zastosowanej metody pomiaru lub innych przyczyn, zwykle zmieniający wyniki pomiaru jednostronnie."
+        },
+        {
+          "key": "b",
+          "text": "błąd wynikający z nieoprawnego wykonania pomiaru"
+        },
+        {
+          "key": "c",
+          "text": "składnik błędu pomiaru, który przy powtarzaniu pomiarów zmienia się w nieprzewidywalny sposób."
+        },
+        {
+          "key": "d",
+          "text": "składnik błędu pomiaru , który przy powtarzaniu pomiarów pozostaje stały lub zmienia sie w przewidywalny sposób."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "172",
+      "question": "Wyznacz: 14dB=..... V/V(stosunek mocy) oraz 0,25W=......dBmW(dB względem mW). Wybierz wszystkie prawidłowe odpowiedzi.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "5 V/V"
+        },
+        {
+          "key": "b",
+          "text": "50 V/V"
+        },
+        {
+          "key": "c",
+          "text": "14 V/V"
+        },
+        {
+          "key": "d",
+          "text": "24 V/V"
+        },
+        {
+          "key": "e",
+          "text": "-8 dBmW"
+        },
+        {
+          "key": "f",
+          "text": "24 dBmW"
+        },
+        {
+          "key": "g",
+          "text": "27 dBmW"
+        },
+        {
+          "key": "h",
+          "text": "50 dBmW"
+        }
+      ],
+      "correct": [
+        "a",
+        "f"
+      ],
+      "images": []
+    },
+    {
+      "id": "173",
+      "question": "Wzorcowe jednostki miar powinny spełniać wymagania:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Duże skomplikowanie budowy"
+        },
+        {
+          "key": "b",
+          "text": "Łatwa odtwarzalność"
+        },
+        {
+          "key": "c",
+          "text": "Duża dokładność"
+        },
+        {
+          "key": "d",
+          "text": "Niezmienność w czasie"
+        }
+      ],
+      "correct": [
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "174",
+      "question": "Rzeczywisty woltomierz cechuje się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bardzo małą rezystancją odbiornika"
+        },
+        {
+          "key": "b",
+          "text": "nieskończoną rezystancją wewnętrzną"
+        },
+        {
+          "key": "c",
+          "text": "bardzo dużą rezystancją wewnętrzną"
+        },
+        {
+          "key": "d",
+          "text": "bardzo małą rezystancją wewnętrzną"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "175",
+      "question": "Najdokładniejszym wzorcem jest wzorzec",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Natężenia prądu"
+        },
+        {
+          "key": "b",
+          "text": "Napięcia elektrycznego"
+        },
+        {
+          "key": "c",
+          "text": "Częstotliwości"
+        },
+        {
+          "key": "d",
+          "text": "Rezystancji"
+        },
+        {
+          "key": "e",
+          "text": "Pojemności"
+        },
+        {
+          "key": "f",
+          "text": "Indukcyjności"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "176",
+      "question": "Podaj, które parametry układów scalonych opisują przetwornik TRMS z jawną (skalą?) przetwarzania",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Pasmo przetwarzania 10MHz, Upp>1V"
+        },
+        {
+          "key": "b",
+          "text": "Pasmo przetwarzania 70kHz, Upp>0.1V"
+        },
+        {
+          "key": "c",
+          "text": "Błąd przetwarzania +/-1%; +/-0.1%/C"
+        },
+        {
+          "key": "d",
+          "text": "Błąd przetwarzania +/-0.02%; +/-0.002%/C"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "177",
+      "question": "Wybierz prawidłowy zapis otrzymywanego wyniku i niepewności rozszerzonej....Wyniki obliczeń: I=0.89342A; ΔI = 0,00284A",
+      "answers": [
+        {
+          "key": "a",
+          "text": "I=(893,42 ± 2,84) mA"
+        },
+        {
+          "key": "b",
+          "text": "I= (893,4 ± 2,9)mA"
+        },
+        {
+          "key": "c",
+          "text": "I=(0,8934±0,000....)A"
+        },
+        {
+          "key": "d",
+          "text": "I=(0,89342±0,000...)A"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "178",
+      "question": "W pomiarze uzyskano wynik 564 mH ± 12 mH. Co za wielkość zmierzono?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Natężenie"
+        },
+        {
+          "key": "b",
+          "text": "Napięcie"
+        },
+        {
+          "key": "c",
+          "text": "Częstotliwość"
+        },
+        {
+          "key": "d",
+          "text": "Pojemność"
+        },
+        {
+          "key": "e",
+          "text": "Indukcyjność"
+        },
+        {
+          "key": "f",
+          "text": "Okres"
+        }
+      ],
+      "correct": [
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "179",
+      "question": "Z zasady maksymalnego przekazu mocy wynika, że",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Maksymalna moc czynna wydzieli się w odbiorniku o rezystancji ...(równa)... od rezystancji wewnętrznej źródła."
+        },
+        {
+          "key": "b",
+          "text": "Przy maksymalnym przekazie mocy mamy spore straty energii"
+        },
+        {
+          "key": "c",
+          "text": "Rezystancji źródła jest równa zeru."
+        },
+        {
+          "key": "d",
+          "text": "Maksymalna moc czynna wydzieli się w odbiorniku o rezystancji .....(różna)niż rezystancja wewnętrzna źródła"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "180",
+      "question": "Elektroniczny przetwornik wartości międzyszczytowej(Peak-Peak)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Ma wyłącznie diodę prostowniczą, kondensator i rezystor"
+        },
+        {
+          "key": "b",
+          "text": "Jest zbudowany w oparciu o pojedynczy detektor połówkowy ze wzmacniaczem operacyjnym i diodą-detekcyjną."
+        },
+        {
+          "key": "c",
+          "text": "Oblicza wartość średnią z modułu"
+        },
+        {
+          "key": "d",
+          "text": "zawiera układy całkujące"
+        },
+        {
+          "key": "e",
+          "text": "Jest zbudowany w oparciu o dwa detektory liniowe ze wzmacniaczem operacyjnym i diodami detekcyjnymi działające bipolarnie. Wskaż zależność opisującą reaktancję nie (polaryzacja ujemna i dodatnia)"
+        }
+      ],
+      "correct": [
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "181",
+      "question": "Wzorcem pierwotnym jednostki miary jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "sZłącze Josephsona"
+        },
+        {
+          "key": "b",
+          "text": "Ogniwo Westona"
+        },
+        {
+          "key": "c",
+          "text": "Rezystor wzorcowy"
+        },
+        {
+          "key": "d",
+          "text": "Kalibratory prądu"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "182",
+      "question": "Wybierz fałszywe stwierdzenie.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Czułość mostka mierzącego impedancję zależy między innymi od parametrów źródła zasilania."
+        },
+        {
+          "key": "b",
+          "text": "Dokładność mostków prądu przemiennego jest na ogół mniejsza niż dokładność mostków prądu stałego."
+        },
+        {
+          "key": "c",
+          "text": "Czułość mostka mierzącego impedancję zależy między innymi od parametrów wskaźnika równowagi."
+        },
+        {
+          "key": "d",
+          "text": "W metodzie mostkowej służącej do pomiaru impedancji, konieczne są dwa elementy regulowane równoważące mostek."
+        },
+        {
+          "key": "e",
+          "text": "W metodzie mostkowej służącej do pomiaru impedancji, konieczny jest tylko jeden element równoważący dowolne z ramion mostka."
+        }
+      ],
+      "correct": [
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "183",
+      "question": "Przetwornik DAC (cyfrowo-analogowy): Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jest z reguły „bardzo wolny” przy dużej rozdzielczości binarnej 16-bit, 20-bit, np. w porównaniu z 16-bitowym przetwornikiem ADC (analogowo-cyfrowym)."
+        },
+        {
+          "key": "b",
+          "text": "Jest mniej skomplikowaną konstrukcją niż przetwornik ADC (analogowo-cyfrowy)?"
+        },
+        {
+          "key": "c",
+          "text": "Można zbudować z sieci rezystorów, którymi sterują odpowiednio połączone klucze elektroniczne zmieniające rezystancje sieci i w rezultacie napięcia wyjściowe zgodnie z zapisem binarnym wartości dziesiętnej?"
+        },
+        {
+          "key": "d",
+          "text": "Ze źródłami prądowymi mnożącymi jak układy scalone przetworników typu AD565, czy ADAC10 mają czasy przetwarzania pełnej skali poniżej 30ns ?"
+        },
+        {
+          "key": "e",
+          "text": "Może służyć jako programowalne źródło napięciowe/prądowe?"
+        }
+      ],
+      "correct": [
+        "b",
+        "c",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "184",
+      "question": "Na oscyloskopie o ekranie 10x10 działek chcemy poprawnie obejrzeć przebieg trójkątny itp..... o okresie T=7ms i wartości międzyszczytowej 4V. Jak należy dobrać nastawy oscyloskopu (podstawa czasu, wzmocnienie toru Y)? Wybierz optymalne nastawy oscyloskopu. Wybierz jedną odpowiedź:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Podstawa czasu 2ms/dz, wzmocnienie 2V/dz"
+        },
+        {
+          "key": "b",
+          "text": "Podstawa czasu 2ms/dz, wzmocnienie 0,5V/dz"
+        },
+        {
+          "key": "c",
+          "text": "Podstawa czasu 10ms/dz, wzmocnienie 2V/dz"
+        },
+        {
+          "key": "d",
+          "text": "Podstawa czasu 10ms/dz, wzmocnienie 0,5V/dz"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "185",
+      "question": "Częstotliwość próbkowania sygnału pomiarowego Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zależy od amplitudy tego sygnału."
+        },
+        {
+          "key": "b",
+          "text": "zależy od kształtu sygnału pomiarowego."
+        },
+        {
+          "key": "c",
+          "text": "zależy od szumu jaki jest w sygnale pomiarowym."
+        },
+        {
+          "key": "d",
+          "text": "zależy od górnej (max) częstotliwości zajmowanej przez widmo sygnału."
+        },
+        {
+          "key": "e",
+          "text": "powinna być co najmniej 2-krotnie większa od częstotliwości zajmowanej przez widmo sygnału pomiarowego."
+        }
+      ],
+      "correct": [
+        "d",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "186",
+      "question": "Zasadnicze cechy pracy interfejsu typu pętla prądowa 4-20mA to",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jednoczesne zasilanie przyrządu i transmisja wyniku przy pomocy jednej linii dwuprzewodowej."
+        },
+        {
+          "key": "b",
+          "text": "przedstawienie wartości wyniku pomiaru w postaci wartości napięcia pobieranego przez urządzenie"
+        },
+        {
+          "key": "c",
+          "text": "transmisji tylko jednego wyniku pomiaru przez jedną linię dwuprzepustową."
+        },
+        {
+          "key": "d",
+          "text": "transmisji wielu sygnałów przez jedną linię dwuprzepustową."
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "187",
+      "question": "Prawdziwa wartość skuteczna (TRMS) sygnału okresowego, Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "To taka wartość napięcia / prądu, jak napięcia/prądu stałego o tej samej wartości, która na danej rezystancji Ro, wytworzy tę samą energię."
+        },
+        {
+          "key": "b",
+          "text": "podniesiona do kwadratu - jest mocą tego sygnału odniesioną do rezystancji 1W."
+        },
+        {
+          "key": "c",
+          "text": "dowolnego, może zostać zmierzona za pomocą układu pomiaru wartości średniej z modułu, wyskalowanego w wartościach skutecznych sygnału sinusoidalnego."
+        },
+        {
+          "key": "d",
+          "text": "może zostać zmierzona za pomocą termicznego (rezystor-czujnik temp.) z transportem energii cieplnej"
+        },
+        {
+          "key": "e",
+          "text": "jest mierzona za pomocą układów scalonych realizujących funkcję pośredniego przetwarzania TRMS na DC"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "188",
+      "question": "Zaokrąglij podaną wartość obliczonego napięcia do trzech cyfro znaczących: 8932,7132mV",
+      "answers": [
+        {
+          "key": "a",
+          "text": "8932,713mV"
+        },
+        {
+          "key": "b",
+          "text": "8933mV"
+        },
+        {
+          "key": "c",
+          "text": "8,933V"
+        },
+        {
+          "key": "d",
+          "text": "8,93V"
+        },
+        {
+          "key": "e",
+          "text": "8,90V"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "189",
+      "question": "Jaki (w przybliżeniu) współczynnik rozszerzenia “k” dla niepewności o rozkładzie normalnym zapewnia poziom ufności na poziomie 95%?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "1,5"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "3"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "190",
+      "question": "Miernik, który można użyć do pomiaru częstotliwości to",
+      "answers": [
+        {
+          "key": "a",
+          "text": "częstotliwościomierz"
+        },
+        {
+          "key": "b",
+          "text": "Termometr – ponieważ częstotliwość to temperatura fal radiowych, więc termometr będzie w stanie to zmierzyć."
+        },
+        {
+          "key": "c",
+          "text": "Licznik Geigera-Müllera – ponieważ częstotliwość fotonów może być zinterpretowana jako częstotliwość fali, którą może wykryć licznik Geigera-Müllera."
+        },
+        {
+          "key": "d",
+          "text": "Miernik grubości farby – ponieważ można założyć, że im większa częstotliwość, tym grubsza farba, zatem miernik grubości farby mógłby służyć do pomiaru częstotliwości."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "191",
+      "question": "Podaj zależność określającą zespoloną susceptancję pojemnościową.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zależy od częstości kołowej i pojemności kondensatora"
+        },
+        {
+          "key": "b",
+          "text": "Zespolona susceptancja pojemnościowa jest równa ilorazowi pojemności elektrycznej do częstotliwości rezonansowej pomnożonej przez pierwiastek kwadratowy z minus jedności."
+        },
+        {
+          "key": "c",
+          "text": "Zespolona susceptancja pojemnościowa jest równa liczbie elektronów poruszających się wzdłuż przewodnika, podzielonej przez temperaturę w stopniach Celsjusza."
+        },
+        {
+          "key": "d",
+          "text": "Susceptancja pojemnościowa to po prostu liczba, która mówi ile \"pojemności\" ma dany element w obwodzie, niezależnie od częstotliwości."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "192",
+      "question": "Co to jest próbkowanie sygnału pomiarowego? Jaka powinna być częstotliwość fp próbkowania, jeśli górna (maksymalna) częstotliwość sygnału (widma) jest równa fs_max=8MHz?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Próbkowanie — dyskretyzacja w czasie - proces tworzenia sygnału dyskretnego, reprezentującego sygnał ciągły za pomocą ciągu wartości nazywanych próbkami."
+        },
+        {
+          "key": "b",
+          "text": "Częstotliwość fp próbkowania sygnału i rejestrowania jego amplitudy, powinna być minimum dwa razy większa od fs_max=8Mhz, czyli większa lub równa 16Mhz."
+        },
+        {
+          "key": "c",
+          "text": "Próbkowanie sygnału pomiarowego to proces w którym używamy łyżki do pobierania próbek sygnału z ekranu komputera."
+        },
+        {
+          "key": "d",
+          "text": "Częstotliwość próbkowania powinna być równa częstotliwości przestrzennej, czyli ilości kroków jakie musisz zrobić, by przejść od jednego punktu do drugiego na mapie sygnału. Dlatego częstotliwość próbkowania to 8 kroków na mikrosekundę (8 kroków/us)."
+        },
+        {
+          "key": "e",
+          "text": "Prostym rozwiązaniem jest ustawić częstotliwość próbkowania na 8 MHz, ponieważ im wyższa wartość, tym lepiej, prawda?"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "193",
+      "question": "Elektroniczny przetwornik wartości średniej z modułu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "To układ TRMS"
+        },
+        {
+          "key": "b",
+          "text": "To dwu-połówkowy układ z 4-diodowym mostkiem Greatza"
+        },
+        {
+          "key": "c",
+          "text": "Układ całkujący"
+        },
+        {
+          "key": "d",
+          "text": "Realizuje funkcję U(t)*sign(U(t))"
+        },
+        {
+          "key": "e",
+          "text": "To układ scalony zwierający komparator odwracający i układ mnożący jak układ scalony np. AD8036 omawiany"
+        }
+      ],
+      "correct": [
+        "d",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "194",
+      "question": "Czy miernik wchodzący w skład przyrządu wirtualnego musi posiadać (dobre=prawda)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Obudowę antywstrząsową"
+        },
+        {
+          "key": "b",
+          "text": "Interfejs cyfrowy"
+        },
+        {
+          "key": "c",
+          "text": "Wyświetlacz LCD"
+        },
+        {
+          "key": "d",
+          "text": "Przetwornik A/C"
+        },
+        {
+          "key": "e",
+          "text": "Zasilanie bateryjne"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "195",
+      "question": "Moc (………) można opisać zależnością Q = UsIs sin(), której jednostka to (…….):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bierną"
+        },
+        {
+          "key": "b",
+          "text": "czynna"
+        },
+        {
+          "key": "c",
+          "text": "var"
+        },
+        {
+          "key": "d",
+          "text": "wat"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "196",
+      "question": "Błąd systematyczny to",
+      "answers": [
+        {
+          "key": "a",
+          "text": "składnik błędu pomiaru, który przy powtarzaniu pomiarów zmienia się w nieprzewidywalny sposób."
+        },
+        {
+          "key": "b",
+          "text": "błąd wynikający z niepoprawnego wykonania pomiaru."
+        },
+        {
+          "key": "c",
+          "text": "składnik błędu pomiaru, który przy powtarzaniu pomiarów pozostaje stały lub zmienia się w przewidywalny sposób."
+        },
+        {
+          "key": "d",
+          "text": "błąd wynikający z zastosowanej metody pomiaru lub innych przyczyn, zwykle zmieniający wyniki pomiaru jednostronnie."
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "197",
+      "question": "Zasada pracy interfejsu typu pętla prądowa 4-20mA polega na:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "transmisji wielu wyników pomiaru przez jedną linię dwuprzepustową."
+        },
+        {
+          "key": "b",
+          "text": "przedstawieniu wartości wyniku pomiaru w postaci wartości prądu pobieranego przez urządzenie."
+        },
+        {
+          "key": "c",
+          "text": "przetworzeniu cyfrowym sygnału z czujnika."
+        },
+        {
+          "key": "d",
+          "text": "przedstawieniu wartości wyniku pomiaru w postaci wartości napięcia pobieranego przez urządzenie."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "198",
+      "question": "W obwodach prądu sinusoidalnego:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "W obwodzie z idealnym rezystorem prąd opóźnia się względem napięcia o kąt fazowy +90 stopni."
+        },
+        {
+          "key": "b",
+          "text": "W obwodzie z idealnym rezystorem napięcie opóźnia się względem prądu o kąt fazowy -90 stopni."
+        },
+        {
+          "key": "c",
+          "text": "W obwodzie z idealnym kondensatorem prąd opóźnia się względem napięcia o kąt fazowy -90 stopni."
+        },
+        {
+          "key": "d",
+          "text": "W obwodzie z idealnym kondensatorem napięcie opóźnia się względem prądu o kąt fazowy -90 stopni."
+        },
+        {
+          "key": "e",
+          "text": "W obwodzie z idealną cewką napięcie wyprzedza prąd o kąt fazowy +90 stopni."
+        },
+        {
+          "key": "f",
+          "text": "W obwodzie z idealną cewką prąd wyprzedza napięcie o kąt fazowy +90 stopni."
+        }
+      ],
+      "correct": [
+        "d",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "199",
+      "question": "Narzędzia pomiarowe to",
+      "answers": [
+        {
+          "key": "a",
+          "text": "środki pomiarowe, które w procesie pomiaru pełnią rolę pomocniczą, np.: zapewniają właściwe warunki pomiaru, ustalają odpowiednie ułożenie przedmiotu, itp."
+        },
+        {
+          "key": "b",
+          "text": "tylko te środki pomiarowe, których zadaniem jest przechowywanie jednostki miary wielkości fizycznej."
+        },
+        {
+          "key": "c",
+          "text": "wszystkie środki techniczne wykorzystywane przy pomiarach."
+        },
+        {
+          "key": "d",
+          "text": "środki pomiarowe, które w procesie pomiaru pełnią rolę podstawową, tzn. służą do ustalenia miary wielkości"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "200",
+      "question": "Przetworniki pomiarowe A/C dzielimy, ze względu na szybkość przetwarzania i dokładność, na bezpośrednie i pośrednie, a zatem przetworniki:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Typu Flash - szybkie."
+        },
+        {
+          "key": "b",
+          "text": "Kompensacyjne-wagowe typu SAR - szybkie i w miarę dokładne."
+        },
+        {
+          "key": "c",
+          "text": "Typu Flash, są szybkie i najdokładniejsze od 12-bit."
+        },
+        {
+          "key": "d",
+          "text": "Całkujące Gilberta DRC to przetworniki - szybkie."
+        },
+        {
+          "key": "e",
+          "text": "Sigma-delta (częstotliwościowe) to przetworniki - dokładne."
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "201",
+      "question": "Wybierz fałszywe stwierdzenie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jednostką reaktancji jest Ohm."
+        },
+        {
+          "key": "b",
+          "text": "Wartość reaktancji jak i susceptancji zależna jest od częstotliwości generatora zasilającego."
+        },
+        {
+          "key": "c",
+          "text": "Zależności zachodzące pomiędzy rezystancją, reaktancją i impedancją zespoloną mogą być odwzorowane na płaszczyźnie w postaci trójkąta."
+        },
+        {
+          "key": "d",
+          "text": "Wartość rezystancji jak i konduktancji zależna jest od częstotliwości generatora zasilającego."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "202",
+      "question": "Poprawki do mierzonego prądu nie trzeba stosować w sytuacji kiedy RV (luka1) RWE, ponieważ wpływ rezystancji wewnętrznej źródła jest (luka2) i wartość zmierzona jest praktycznie równa zmierzonemu prądowi.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Luka 1: Dużo Mniejsza"
+        },
+        {
+          "key": "b",
+          "text": "Luka 1: Dużo Większa"
+        },
+        {
+          "key": "c",
+          "text": "Luka 2: Mały"
+        },
+        {
+          "key": "d",
+          "text": "Luka 2: Duży"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "203",
+      "question": "Błąd systematyczny napięcia jest zawsze ujemny (……) wskazuje za mało), a jego wartość bezwzględna (moduł) jest tym mniejsza, im większa rezystancja wewnętrzna (…..) w porównaniu z rezystancją źródła zasilania.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Luka 1: Woltomierz"
+        },
+        {
+          "key": "b",
+          "text": "Luka 1: Amperomierz"
+        },
+        {
+          "key": "c",
+          "text": "Luka 2: Woltomierza"
+        },
+        {
+          "key": "d",
+          "text": "Luka 2: Amperomierza"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "204",
+      "question": "Twierdzenie (…): Dowolną sieć elektryczną (a w szczególności zasilacz) z (…) wybranymi zaciskami można zastąpić szeregowym połączeniem jednego źródła napięciowego o sile elektromotorycznej UT i (…).",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Luka 1: Thevenina"
+        },
+        {
+          "key": "b",
+          "text": "Luka 1: Nortona"
+        },
+        {
+          "key": "c",
+          "text": "Luka 2: Dwoma"
+        },
+        {
+          "key": "d",
+          "text": "Luka 2: Trzema"
+        },
+        {
+          "key": "e",
+          "text": "Luka 3: Pojedynczego rezystora Rt"
+        },
+        {
+          "key": "f",
+          "text": "Luka 3: Dwoma rezystorami Rt"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "205",
+      "question": "Wpływ zakłócający włączenia amperomierzu do obwodu jest tym większy, im (…) jest napięcie zasilania oraz im (…) jest impedancja amperomierza.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Luka 1: mniejsze"
+        },
+        {
+          "key": "b",
+          "text": "Luka 1: większe"
+        },
+        {
+          "key": "c",
+          "text": "Luka 2: większa"
+        },
+        {
+          "key": "d",
+          "text": "Luka 2: Mniejsza"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "206",
+      "question": "Do wyjścia dzielnika napięcia, w skład którego wchodzą dwa rezystory R1=R2=1k$2, podłączono woltomierz o\nrezystancji wewnętrznej Rv=10MQ. Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "W sytuacji tej napięcie będzie podzielone w stosunku 0,4 a nie 0,5"
+        },
+        {
+          "key": "b",
+          "text": "W sytuacji tej napięcie będzie podzielone w stosunku 0,5"
+        },
+        {
+          "key": "c",
+          "text": "Podłączenie takiego woltomierza nie wpłynie na współczynnik podziału dzielnika."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "207",
+      "question": "Jakiego sygnału, o tej samej amplitudzie (napięcia/prądu przemiennego) wartość mocy jednostkowej (wydzielonej na rezystancji 1ohm) jest największa, Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stałego (DC) o wartości amplitudy"
+        },
+        {
+          "key": "b",
+          "text": "piłokształtnego"
+        },
+        {
+          "key": "c",
+          "text": "prostokątnego"
+        },
+        {
+          "key": "d",
+          "text": "trójkątnego"
+        },
+        {
+          "key": "e",
+          "text": "sinusoidalnego"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "208",
+      "question": "Na oscyloskopie o ekranie 10x10 działek chcemy poprawnie obejrzeć przebieg prostokątny o okresie T=0,25ms i amplitudzie 3V. Jak należy dobrać nastawy oscyloskopu (podstawa czasu, wzmocnienie toru Y)? Wybierz optymalne nastawy oscyloskopu. Wybierz jedną odpowiedź:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Podstawa czasu 0,1ms/dz, wzmocnienie 10v/dz"
+        },
+        {
+          "key": "b",
+          "text": "Podstawa czasu 1ms/dz, wzmocnienie 1V/dz"
+        },
+        {
+          "key": "c",
+          "text": "Podstawa czasu 0,1ms/dz, wzmocnienie 1V/dz"
+        },
+        {
+          "key": "d",
+          "text": "Podstawa czasu 1ms/dz, wzmocnienie 10V/dz"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "209",
+      "question": "Wybierz fałszywe stwierdzenie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Idealne źródło napięciowe jest dwójnikiem, który wymusza prąd o stałym natężeniu w dołączonym obwodzie, niezależnie od wartości napięcia na jego zaciskach."
+        },
+        {
+          "key": "b",
+          "text": "W szczególności napięcie takiego źródła zależy od wartości rezystancji obciążenia."
+        },
+        {
+          "key": "c",
+          "text": "W szczególności napięcie takiego źródła nie zależy od wartości rezystancji obciążenia."
+        },
+        {
+          "key": "d",
+          "text": "Idealne źródło napięciowe jest dwójnikiem, na którego zaciskach występuje stała różnica potencjałów niezależnie od natężenia i kierunku prądu."
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "210",
+      "question": "Główną przyczyną niepewności pomiaru typu B jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "analiza statystyczna."
+        },
+        {
+          "key": "b",
+          "text": "typ użytej skali pomiarowej."
+        },
+        {
+          "key": "c",
+          "text": "model matematyczny opisujący zjawisko mierzone."
+        },
+        {
+          "key": "d",
+          "text": "niepewność przyrządu pomiarowego (niepewność wzorcowania — niepewność graniczna)."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "211",
+      "question": "Wzorcem pierwotnym jednostki miary jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Rezystor wzorcowy"
+        },
+        {
+          "key": "b",
+          "text": "Ogniwo Westona"
+        },
+        {
+          "key": "c",
+          "text": "Kondensator liczalny konstrukcji Thompsona-Lamparda"
+        },
+        {
+          "key": "d",
+          "text": "Dioda Zenera"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "212",
+      "question": "Skala addytywna (interwałowa):",
+      "answers": [
+        {
+          "key": "a",
+          "text": "odwzorowuje relacje ścisłego uporządkowania i równości interwałów i równoważności ilorazów"
+        },
+        {
+          "key": "b",
+          "text": "nie zawiera zera bezwzględnego"
+        },
+        {
+          "key": "c",
+          "text": "zawiera zero bezwzględne"
+        },
+        {
+          "key": "d",
+          "text": "określane są w niej relacje równoważności i ścisłego uporządkowania"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "213",
+      "question": "Rzeczywisty amperomierz cechuje się",
+      "answers": [
+        {
+          "key": "a",
+          "text": "bardzo małą rezystancją zewnętrzną"
+        },
+        {
+          "key": "b",
+          "text": "bardzo małą rezystancją wewnętrzną"
+        },
+        {
+          "key": "c",
+          "text": "bardzo dużą rezystancją zewnętrzną"
+        },
+        {
+          "key": "d",
+          "text": "bardzo dużą rezystancją wewnętrzną"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "214",
+      "question": "Prawnej kontroli metrologicznej podlegają przyrządy pomiarowe, stosowane:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "w pomiarach przestrzeni mieszkalnej wykonywanych przez domowników,"
+        },
+        {
+          "key": "b",
+          "text": "w ochronie zdrowia, życia i środowiska"
+        },
+        {
+          "key": "c",
+          "text": "w obrocie handlowym"
+        },
+        {
+          "key": "d",
+          "text": "w ochronie praw konsumenta"
+        }
+      ],
+      "correct": [
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "215",
+      "question": "Stosunek S/N=SNR (sygnał/szum) przetwornika n-bitowego zależy od:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "od producenta układów scalonych, tego samego typu"
+        },
+        {
+          "key": "b",
+          "text": "Stosunku pełnej skali n-bitowego przetwornika do szumu kwantyzacji"
+        },
+        {
+          "key": "c",
+          "text": "od napięcia zasilania"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "216",
+      "question": "Właściwość skali nominalnej to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Pozwala na uporządkowanie obiektów."
+        },
+        {
+          "key": "b",
+          "text": "O dwóch obiektach możemy powiedzieć tylko tyle, że są jednakowe bądź nie, w zależności od tego czy przypisana jest\nim ta sama kategoria."
+        },
+        {
+          "key": "c",
+          "text": "Nie można powiedzieć, że którejś obserwacji zmienna nominalna przysługuje w większym bądź mniejszym stopniu."
+        },
+        {
+          "key": "d",
+          "text": "Pozwala mierzyć różnice między elementami mierzonymi"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "217",
+      "question": "Podstawowymi elementami regulacyjnymi w oscyloskopie są:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Poziom wyzwalania"
+        },
+        {
+          "key": "b",
+          "text": "Podstawa napięcia"
+        },
+        {
+          "key": "c",
+          "text": "Ogranicznik poziomu szumu"
+        },
+        {
+          "key": "d",
+          "text": "Podstawa czasu"
+        }
+      ],
+      "correct": [
+        "a",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "218",
+      "question": "Które napięcia zostaną przetworzone w 12-bitowym przetworniku A/C unipolarnym o LSB=1mV:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "+5mV"
+        },
+        {
+          "key": "b",
+          "text": "-15mV"
+        },
+        {
+          "key": "c",
+          "text": "2V"
+        },
+        {
+          "key": "d",
+          "text": "0mV"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "219",
+      "question": "Za pomocą współczynników Fouriera Fn, NIE możemy obliczyć wartości sygnału zmiennego okresowego takiej jak:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "maksymalna"
+        },
+        {
+          "key": "b",
+          "text": "współczynnik szczytu Ks"
+        },
+        {
+          "key": "c",
+          "text": "skuteczna"
+        },
+        {
+          "key": "d",
+          "text": "średnia"
+        },
+        {
+          "key": "e",
+          "text": "moc sygnału"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "220",
+      "question": "O metodzie zliczania liczby okresów we wzorcowym odstępie czasu stosowanej do pomiaru częstotliwości dużych,\nmożemy powiedzieć, że",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wydłużenie czasu otwarcia bramki zwiększa błąd graniczny pomiaru częstotliwości"
+        },
+        {
+          "key": "b",
+          "text": "Zwiększenie ilości mierzonych okresów zmniejsza błąd graniczny pomiaru częstotliwości"
+        },
+        {
+          "key": "c",
+          "text": "Stosowana jest do sygnałów o częstotliwościach dużych to znaczy większych od 10kHz."
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "221",
+      "question": "Rozkład sygnału okresowego w szereg Fouriera",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jest funkcją częstotliwości."
+        },
+        {
+          "key": "b",
+          "text": "Umożliwia wyznaczenia widma sygnału (zależności rozkładu amplitud, poszczególnych harmonicznych - w funkcji częstotliwości)."
+        },
+        {
+          "key": "c",
+          "text": "Umożliwia wyznaczenie niezbędnej liczby harmonicznych „n”, w celu ograniczenia pasma, sygnału okresowego - do niezbędnego."
+        },
+        {
+          "key": "d",
+          "text": "Jest funkcją czasu."
+        },
+        {
+          "key": "e",
+          "text": "Pozwala w bardzo łatwy sposób obliczyć wartość skuteczną (RMS) każdego sygnału okresowego."
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "222",
+      "question": "Zaznacz poprawne. W metodzie pomiarowej kompensacyjnej:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "pomiar sprowadza się do przetworzenia wielkości mierzonej według podanej funkcji"
+        },
+        {
+          "key": "b",
+          "text": "obie wielkości, mierzona i wzorcowa, oddziaływają na detektor w różnym czasie"
+        },
+        {
+          "key": "c",
+          "text": "pomiar sprowadza się do regulacji wartości wzorcowej tak, aby detektor osiągnął stan równowagi"
+        },
+        {
+          "key": "d",
+          "text": "obie wielkości, mierzona I wzorcowa, oddziaływają na detektor jednocześnie i przeciwnie"
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "223",
+      "question": "Przetwornik ADC (analogowo-cyfrowy): Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jest szybszy od przetwornika DAC (cyfrowo-analogowego) o tej samej rozdzielczości n-binarnej?"
+        },
+        {
+          "key": "b",
+          "text": "DRC lub DSC — to przetwornik czasowy Gilberta z wielokrotnym całkowaniem."
+        },
+        {
+          "key": "c",
+          "text": "SAR (wagowy-kompensacyjny) zawiera układ całkujący?"
+        },
+        {
+          "key": "d",
+          "text": "Czy przetwornik pośredni typu S-Δ 32-bit ADS1262 nadaje się do systemów pomiarowych m.cz.? OLD 2 LL"
+        },
+        {
+          "key": "e",
+          "text": "Bezpośredni, jest szybszy od przetwornika pośredniego, czyli np. FLASH od S-Δ ?"
+        }
+      ],
+      "correct": [
+        "b",
+        "d",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "224",
+      "question": "Wskaż prawdziwe. Rejestrator jest narzędziem pomiarowym, które",
+      "answers": [
+        {
+          "key": "a",
+          "text": "informuje o wartości wielkości mierzonej"
+        },
+        {
+          "key": "b",
+          "text": "utrwala wynik pomiaru"
+        },
+        {
+          "key": "c",
+          "text": "ocenia zgodność z wymogami"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "225",
+      "question": "Które napięcia zostaną poprawnie przetworzone w 8-bitowym przetworniku A/C unipolarnym o LSB=1mV. Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "-1.5mV"
+        },
+        {
+          "key": "b",
+          "text": "+5mV"
+        },
+        {
+          "key": "c",
+          "text": "300mV"
+        },
+        {
+          "key": "d",
+          "text": "100mv"
+        },
+        {
+          "key": "e",
+          "text": "252mV"
+        }
+      ],
+      "correct": [
+        "b",
+        "d",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "226",
+      "question": "Przy jakiej metodzie pomiaru miarę wielkości mierzonej X wyznacza się z zależności X = f (a,b,c)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Zerowej \"przez podstawianie\""
+        },
+        {
+          "key": "b",
+          "text": "Bezpośredniej"
+        },
+        {
+          "key": "c",
+          "text": "Różnicowej"
+        },
+        {
+          "key": "d",
+          "text": "Pośredniej"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "227",
+      "question": "Stosunek S/N=SNR (sygnał/szum) przetwornika n-bitowego Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest taki jak 2*n"
+        },
+        {
+          "key": "b",
+          "text": "zależy od producenta układów scalonych tego samego typu."
+        },
+        {
+          "key": "c",
+          "text": "zależy wg wzoru 20log(2^n)+20log(12)^0.5"
+        },
+        {
+          "key": "d",
+          "text": "taki jak podaje producent w karcie katalogowej układu przetwornika — najgorszy"
+        },
+        {
+          "key": "e",
+          "text": "zależy od rozdzielczości przetwornika."
+        }
+      ],
+      "correct": [
+        "c",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "228",
+      "question": "Jako miarę niepewności stosujemy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "raczej niepewność standardową"
+        },
+        {
+          "key": "b",
+          "text": "słupki błędów"
+        },
+        {
+          "key": "c",
+          "text": "tylko niepewność złożoną"
+        },
+        {
+          "key": "d",
+          "text": "rzadziej niepewność graniczną"
+        }
+      ],
+      "correct": [
+        "a", 
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "229",
+      "question": "Skala porządkowa",
+      "answers": [
+        {
+          "key": "a",
+          "text": "nie zawiera zera bezwzględnego"
+        },
+        {
+          "key": "b",
+          "text": "zawiera zero bezwzględne"
+        },
+        {
+          "key": "c",
+          "text": "oparta jest tylko na relacji równoważności, takie same cechy obiektu odwzorowane są takimi samymi liczbami"
+        },
+        {
+          "key": "d",
+          "text": "określane są w niej relacje równoważności i ścisłego uporządkowania"
+        }
+      ],
+      "correct": [
+        "a",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "230",
+      "question": "Właściwość skali porządkowej to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Pozwala mierzyć różnice między elementami mierzonymi."
+        },
+        {
+          "key": "b",
+          "text": "Pozwala na uporządkowanie obiektów."
+        },
+        {
+          "key": "c",
+          "text": "dwóch obiektach możemy powiedzieć tylko tyle, że są jednakowe bądź nie, w zależności od tego czy przypisana jest\nim ta sama kategoria."
+        },
+        {
+          "key": "d",
+          "text": "Nie można powiedzieć, że którejś obserwacji zmienna nominalna przysługuje w większym bądź mniejszym stopniu"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "231",
+      "question": "Które napięcia zostaną poprawnie przetworzone w 12-bitowym przetworniku A/C bipolarnym o LSB=1mV? Wybierz jedną lub kilka:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "-5mV"
+        },
+        {
+          "key": "b",
+          "text": "-2.1V"
+        },
+        {
+          "key": "c",
+          "text": "+5mV"
+        },
+        {
+          "key": "d",
+          "text": "+10mV"
+        },
+        {
+          "key": "e",
+          "text": "-10mV"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "232",
+      "question": "Na wykładzie omówiono dwa rodzaje układów blokowych z przetwarzaniem TRMS, realizujących funkcję prawdziwej wartości skutecznej sygnału. Czy układ realizujący dokładne przetwarzanie o małym błędzie względnym w funkcji napięcia DC na wyjściu przetwornika TRMS odpowiadającego wartości skutecznej i paśmie pracy nie przekraczającym 200kHz to układ: Wybierz jedną odpowiedź:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "liniowy"
+        },
+        {
+          "key": "b",
+          "text": "kwadratujący"
+        },
+        {
+          "key": "c",
+          "text": "z funkcją niejawną"
+        },
+        {
+          "key": "d",
+          "text": "pierwiastkujący"
+        },
+        {
+          "key": "e",
+          "text": "z funkcją jawną"
+        }
+      ],
+      "correct": [
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "233",
+      "question": "Wskaż zdanie prawdziwe:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wzorce robocze wykorzystywane są wyłącznie do porównań z innymi wzorcami, nie wykorzystuje się ich w\npomiarach."
+        },
+        {
+          "key": "b",
+          "text": "Wszystkie wzorce są ze sobą powiązane łańcuchem spójności pomiarowej tworząc piramidę wzorów."
+        },
+        {
+          "key": "c",
+          "text": "Etalony są to wzorce wykorzystywane wyłącznie do porównań z innymi wzorcami, nie wykorzystuje się ich w\npomiarach."
+        },
+        {
+          "key": "d",
+          "text": "Rozróżniamy wzorce jednostki miary zwane etalonami i wzorce robocze."
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "234",
+      "question": "W jakim przypadku pomiar wartości skutecznej sygnału okresowego w szerokim zakresie częstotliwości, woltomierzem napięcia zmiennego jest najdokładniejszy. Wybierz jedną odpowiedź:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "poprzez pomiar wartości średniej"
+        },
+        {
+          "key": "b",
+          "text": "poprzez pomiar wartości między-szczytowej (peak-peak)"
+        },
+        {
+          "key": "c",
+          "text": "Multimetrem TRMS"
+        },
+        {
+          "key": "d",
+          "text": "Multimetrem RMS"
+        },
+        {
+          "key": "e",
+          "text": "wartości maksymalnej (amplitudy)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "235",
+      "question": "Wskaż prawdziwe. Sprawdzian jest narzędziem pomiarowym, które",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ocenia zgodność z wymogami."
+        },
+        {
+          "key": "b",
+          "text": "utrwala wynik pomiaru."
+        },
+        {
+          "key": "c",
+          "text": "informuje o wartości wielkości mierzonej."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "236",
+      "question": "Wybierz wszystkie poprawne. Do pomiaru rezystancji wykorzystuje się:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "mostek"
+        },
+        {
+          "key": "b",
+          "text": "dwa woltomierze"
+        },
+        {
+          "key": "c",
+          "text": "oscyloskop"
+        },
+        {
+          "key": "d",
+          "text": "dwa amperomierze oraz źródło prądowe"
+        },
+        {
+          "key": "e",
+          "text": "amperomierz i woltomierz"
+        },
+        {
+          "key": "f",
+          "text": "omomierz"
+        }
+      ],
+      "correct": [
+        "a",
+        "e",
+        "f"
+      ],
+      "images": []
+    },
+    {
+      "id": "237",
+      "question": "Wybierz wszystkie poprawne. Pomiar wartości skutecznej RMS sygnału sinusoidalnego w wąskim zakresie częstotliwości np. w okolicy 50Hz można dokonać woltomierzem napięcia sinusoidalnego wyskalowanym",
+      "answers": [
+        {
+          "key": "a",
+          "text": "na pomiar wartości międzyszczytowej"
+        },
+        {
+          "key": "b",
+          "text": "na pomiar wartości maksymalnej"
+        },
+        {
+          "key": "c",
+          "text": "na pomiar \"temperatury\" rezystora, na którym jest wydzielana moc"
+        },
+        {
+          "key": "d",
+          "text": "na pomiar okresu sygnału"
+        },
+        {
+          "key": "e",
+          "text": "na pomiar wartości średniej z modułu"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "238",
+      "question": "Wybierz wszystkie poprawne. Do wyjścia dzielnika napięcia, w skład którego wchodzą dwa rezystory R1-R2=1k$2, podłączono woltomierz o rezystancji wewnętrznej Rv=3kf1.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Podłączenie takiego woltomierza nie wpłynie na współczynnik podziału dzielnika."
+        },
+        {
+          "key": "b",
+          "text": "W sytuacji tej napięcie będzie podzielone w stosunku 0,5"
+        },
+        {
+          "key": "c",
+          "text": "W sytuacji tej napięcie będzie podzielone w stosunku 0,4 a nie 0,5"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "239",
+      "question": "Wybierz optymalne nastawy oscyloskopu, jedna odpowiedź.Na oscyloskopie o ekranie 10x10 działek chcemy poprawnie obejrzeć przebieg trójkątny itp. o okresie T=30ms i wartości międzyszczytowej 0,2V. Jak należy dobrać nastawy oscyloskopu (podstawa czasu, wzmocnienie toru Y)?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Podstawa czasu 0,1ms/dz, wzmocnienie 1v/dz"
+        },
+        {
+          "key": "b",
+          "text": "Podstawa czasu 10ms/dz, wzmocnienie 0,05v/dz"
+        },
+        {
+          "key": "c",
+          "text": "Podstawa czasu 10ms/dz, wzmocnienie 1v/dz"
+        },
+        {
+          "key": "d",
+          "text": "Podstawa czasu 0,1ms/dz, wzmocnienie 0,05V/dz ."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+X1000
+Które ze stwierdzeń jest prawdziwe dla systemów RFID pracujących w paśmie UHF? 
+Odczyt z tagu możliwy jest dzięki odbiciu od niego fali EM emitowanej przez czytnik
+Odczyt z tagu możliwy jest dzięki indukcji magnetycznej
+Odczyt z tagu możliwy w każdej jego orientacji względem czytnika 
+Odczyt z tagu możliwy jest dzięki sprzężeniu pojemnościowemu

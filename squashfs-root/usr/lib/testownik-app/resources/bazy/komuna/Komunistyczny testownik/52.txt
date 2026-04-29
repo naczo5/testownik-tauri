@@ -1,0 +1,6 @@
+X1000
+Pojemność informacyjna rzeczywistego kanału telekomunikacyjnego:
+zależy od stosunku S/N w tym kanale
+nie zależy od jego szerokości
+zależy od szybkości transmisji sygnału w tym kanale
+wyrażana jest w b/s/Hz

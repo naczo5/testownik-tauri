@@ -1,0 +1,6 @@
+X0100
+Liczba adresów IPv6 jest:
+nie można jej określić
+większa niż liczba adresów IPv4
+mniejsza od liczby adresów IPv4
+taka sama jak liczba adresów IPv4

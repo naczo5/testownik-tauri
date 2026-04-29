@@ -1,0 +1,6 @@
+X0001
+W sieci światłowodowej szkieletowej DWDM stosuje się zwielokrotnienie:
+przestrzenne
+kodowe
+w dziedzinie czasu
+w dziedzinie długości fali

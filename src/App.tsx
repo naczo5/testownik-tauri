@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import "./App.css";
 import { getBasesIndex, getBase, saveBase, getImageUrl, importOldBase, importNewBase, exportToAnki, BaseIndex, BaseData, Question } from "./api";
 import { open } from "@tauri-apps/plugin-dialog";
+import { openUrl } from "@tauri-apps/plugin-opener";
 
 type Screen = "select" | "quiz" | "results";
 type ResultsMode = "session" | "completed";
@@ -19,6 +20,33 @@ interface BaseProgress {
 }
 
 const PROGRESS_STORAGE_KEY = "testownik_progress";
+const GEMINI_SEARCH_PREFIX = "Pomóż mi odpowiedzieć na to pytanie:";
+
+const normalizeSearchText = (value: string): string => value.replace(/\s+/g, " ").trim();
+
+const formatAnswerForSearch = (answer: Question["answers"][number]): string => {
+  const answerLabel = answer.key.toUpperCase();
+  const answerText = normalizeSearchText(answer.text ?? "");
+  if (answerText) return `${answerLabel}: ${answerText}`;
+
+  const answerImage = normalizeSearchText(answer.image ?? "");
+  if (answerImage) return `${answerLabel}: [obraz: ${answerImage}]`;
+
+  return `${answerLabel}: [brak treści]`;
+};
+
+const buildGeminiSearchUrl = (question: Question): string | null => {
+  const normalizedQuestion = normalizeSearchText(question.question);
+  if (!normalizedQuestion) return null;
+
+  const normalizedAnswers = question.answers.map(formatAnswerForSearch);
+  const queryParts = [GEMINI_SEARCH_PREFIX, normalizedQuestion];
+  if (normalizedAnswers.length > 0) {
+    queryParts.push(`Odpowiedzi: ${normalizedAnswers.join(" | ")}`);
+  }
+
+  return `https://www.google.com/search?q=${encodeURIComponent(queryParts.join(" "))}&udm=50`;
+};
 
 const getQuestionId = (question: Question): string => {
   const questionId = question.id?.trim();
@@ -382,7 +410,26 @@ function App() {
     }
   };
 
+  const handleOpenGeminiSearch = async () => {
+    const questionForSearch = shuffledQuestions[currentQuestionIndex];
+    if (!questionForSearch) return;
+
+    const searchUrl = buildGeminiSearchUrl(questionForSearch);
+    if (!searchUrl) {
+      alert("Brak treści pytania do wyszukania.");
+      return;
+    }
+
+    try {
+      await openUrl(searchUrl);
+    } catch (err) {
+      console.error("Failed to open Gemini search URL", err);
+      alert(`Błąd: ${err}`);
+    }
+  };
+
   const currentQ = shuffledQuestions[currentQuestionIndex];
+  const geminiSearchUrl = currentQ ? buildGeminiSearchUrl(currentQ) : null;
   
   const [imageUrls, setImageUrls] = useState<Record<string, string>>({});
   
@@ -621,6 +668,9 @@ function App() {
                 <>
                   <button className="btn btn-secondary" onClick={toggleEdit}>✏️ Edytuj</button>
                   <button className="btn btn-secondary" onClick={() => setScreen("select")}>← Wróć do listy</button>
+                  <button className="btn btn-secondary" onClick={handleOpenGeminiSearch} disabled={!geminiSearchUrl}>
+                    🤖 Zapytaj Gemini AI
+                  </button>
                   {!isAnswerChecked && (
                     <button className="btn btn-primary" onClick={checkAnswer} disabled={selectedAnswers.size === 0}>
                       Sprawdź

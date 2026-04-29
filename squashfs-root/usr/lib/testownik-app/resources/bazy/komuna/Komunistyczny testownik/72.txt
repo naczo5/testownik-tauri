@@ -1,0 +1,6 @@
+X0001
+Współczynnik Fresnela jest to, inaczej:
+współczynnik tłumienia
+współczynnik dyfrakcji
+współczynnik rozproszenia
+współczynnik odbicia/załamania

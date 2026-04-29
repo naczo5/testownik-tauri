@@ -1,0 +1,1032 @@
+{
+  "name": "Systemy-operacyjne",
+  "displayName": "Systemy operacyjne",
+  "description": "Testownik do Systemów Operacyjnych do wykładu prof. Woźniaka",
+  "questionCount": 38,
+  "questions": [
+    {
+      "id": "001",
+      "question": "Domena ochrony to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zbiór par <nazwa_obiektu, zbiór_praw>"
+        },
+        {
+          "key": "b",
+          "text": "zbiór trójek <nazwa_obiektu, zbiór_praw, priorytet>"
+        },
+        {
+          "key": "c",
+          "text": "zbiór informacji o właścicielach obiektów"
+        },
+        {
+          "key": "d",
+          "text": "to np. tryb monitora i użytkownika"
+        }
+      ],
+      "correct": [
+        "a",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "002",
+      "question": "Serwer to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "główny komputer w sieci"
+        },
+        {
+          "key": "b",
+          "text": "system operacyjny głównego komputera"
+        },
+        {
+          "key": "c",
+          "text": "oprogramowanie udostępniające jakąś usługę"
+        },
+        {
+          "key": "d",
+          "text": "główny przełącznik"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "003",
+      "question": "Semantyka spójności:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "określa, w przypadku jednoczesnego dostępu do pliku, kiedy widoczne będą dla innych procesów zmiany w pliku wniesione przez dany proces"
+        },
+        {
+          "key": "b",
+          "text": "to np. semantyka sesji plikowej"
+        },
+        {
+          "key": "c",
+          "text": "podaje jak unikać blokad zasobów jakimi są pliki"
+        },
+        {
+          "key": "d",
+          "text": "to sposób reprezetnacji struktury katalogowej"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "004",
+      "question": "Prawa grupowe do pliku",
+      "answers": [
+        {
+          "key": "a",
+          "text": "stosowane są w UNIX"
+        },
+        {
+          "key": "b",
+          "text": "są odmianą wykazu dostępów"
+        },
+        {
+          "key": "c",
+          "text": "określają z jakich węzłów sieci dostępna jest dana replika pliku"
+        },
+        {
+          "key": "d",
+          "text": "udzielają uprawnień dla grupy użytkowników na zasadzie „wszystko albo nic”"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "005",
+      "question": "RPC umożliwia:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zdalna pracę na odległym komputerze"
+        },
+        {
+          "key": "b",
+          "text": "zdalne wywołanie procedury"
+        },
+        {
+          "key": "c",
+          "text": "pobranie programu z odległego serwera"
+        },
+        {
+          "key": "d",
+          "text": "współdzielenie plików"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "006",
+      "question": "Typy plików:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "są wykorzystywane we wszystkich systemach operacyjnych"
+        },
+        {
+          "key": "b",
+          "text": "wykorzysytwane są w systemach Microsoft"
+        },
+        {
+          "key": "c",
+          "text": "są rozpoznawane w UNIX poprzez odpowiednią konfigurację flag związanych uprawnieniami"
+        },
+        {
+          "key": "d",
+          "text": "w MS DOS i Windows są trzy - .exe, .com, .bat"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "007",
+      "question": "Katalog urządzenia:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest przechowywany na każdym urządzeniu pamięci masowej"
+        },
+        {
+          "key": "b",
+          "text": "zawiera informacje o plikach znajdujących się na danym urządzeniu"
+        },
+        {
+          "key": "c",
+          "text": "zawiera informacje o plikach znajdujacych sie na głównym dysku i innych urządzeniach pamięci masowej"
+        },
+        {
+          "key": "d",
+          "text": "zawiera informacje o numerach przerwań zainstalowanych urządzeń we-wy"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "008",
+      "question": "Na etapie kompilacji:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "zawsze otrzymujemy kod relokowalny"
+        },
+        {
+          "key": "b",
+          "text": "możemy otrzymać kod nierelokowalny"
+        },
+        {
+          "key": "c",
+          "text": "nagłówki bibliotek mają kod nierelokowalny"
+        },
+        {
+          "key": "d",
+          "text": "kompilowany jest także kod bibliotek statycznych"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "009",
+      "question": "Stronicowanie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to dyskretny model pamięci"
+        },
+        {
+          "key": "b",
+          "text": "powoduje, że każda komórka pamięci poadresowana jest w sposób bezpośredni,"
+        },
+        {
+          "key": "c",
+          "text": "powoduje, że adres każdej komórki pamięci składa się z numeru strony i przesunięcia na stronie"
+        },
+        {
+          "key": "d",
+          "text": "powoduje, że maksymalna „strata” pamięci związana z jednym procesem nie przekracza rozmiaru jednej strony"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "010",
+      "question": "Pamięć wirtualna:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to stworzenie iluzji dużego obszaru pamięci operacyjnej poprzez wykorzystanie w tablicy stron odwołań do obszarów pamięci masowej"
+        },
+        {
+          "key": "b",
+          "text": "to wszystkie urządzenia pamięci, które mogą być chwilowo montowane w komputerze (systemie operacyjnym)"
+        },
+        {
+          "key": "c",
+          "text": "obsługiwana jest z wykorzystaniem pułapki – błąd braku strony"
+        },
+        {
+          "key": "d",
+          "text": "to wydzielony obszar pamięci w przypadku implementacji tzw. maszyny wirtualnej"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "011",
+      "question": "W przypadku modelu ciągłego pamięci planista długoterminowy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ma za zadanie wyszukanie ciągłego obszaru w pamięci operacyjnej spełniającego wymagania pamięciowe procesu"
+        },
+        {
+          "key": "b",
+          "text": "tworzy tzw. tablicę stron,"
+        },
+        {
+          "key": "c",
+          "text": "stosuje np. algorytm „najlepiej pasujący obszar”"
+        },
+        {
+          "key": "d",
+          "text": "ładuje programy do górnego obszaru pamięci operacyjnej"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "012",
+      "question": "Optymalny algorytm zastępowania stron",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest najpopularniejszym algorytmem stosowanym w systemach o małych obciążeniach"
+        },
+        {
+          "key": "b",
+          "text": "nie jest możliwy do zastosowania, ma jedynie sens teoretyczny,"
+        },
+        {
+          "key": "c",
+          "text": "sugeruje wymienienie strony, do której najpóźniej nastąpi przyszłe odwołanie"
+        },
+        {
+          "key": "d",
+          "text": "wymienia najrzadziej używane strony"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "013",
+      "question": "Na czas dostępu do informacji na dysku ma wpływ",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rozmiar ramek w pamięci operacyjnej"
+        },
+        {
+          "key": "b",
+          "text": "czas transmisji"
+        },
+        {
+          "key": "c",
+          "text": "czas przeszukania i co za tym idzie odpowiedni algorytm"
+        },
+        {
+          "key": "d",
+          "text": "szybkość procesora"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "014",
+      "question": "Algorytmem zastępowania stron jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "SJF"
+        },
+        {
+          "key": "b",
+          "text": "LOOK"
+        },
+        {
+          "key": "c",
+          "text": "SCAN"
+        },
+        {
+          "key": "d",
+          "text": "LRU"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "015",
+      "question": "W przypadku bezstanowego serwera plików",
+      "answers": [
+        {
+          "key": "a",
+          "text": "tworzona jest rozproszona tablica otwartych plików,"
+        },
+        {
+          "key": "b",
+          "text": "każde żądanie jest samowystarczalne,"
+        },
+        {
+          "key": "c",
+          "text": "właściwie jest brak ograniczeń co do liczby otwartych plików"
+        },
+        {
+          "key": "d",
+          "text": "liczbę otwartych plików limituje wielkość globalnej tablicy otwartych plików"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "016",
+      "question": "Domena ochrony w systemie Linux jest",
+      "answers": [
+        {
+          "key": "a",
+          "text": "proces"
+        },
+        {
+          "key": "b",
+          "text": "użytkownik"
+        },
+        {
+          "key": "c",
+          "text": "wątek"
+        },
+        {
+          "key": "d",
+          "text": "grupa"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "017",
+      "question": "W przypadku wykrycia blokad można taką blokadę usunąć:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "poprzez dodanie nowych zasobów do systemu"
+        },
+        {
+          "key": "b",
+          "text": "wywłaszczenie zasobów będących przyczyną blokady"
+        },
+        {
+          "key": "c",
+          "text": "zakooczenie procesów uwikłanych w blokady"
+        },
+        {
+          "key": "d",
+          "text": "upakowanie pamięci"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "018",
+      "question": "Buforowanie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przyspiesza wykonanie puli zadan"
+        },
+        {
+          "key": "b",
+          "text": "opóźnia wykonanie puli zadan"
+        },
+        {
+          "key": "c",
+          "text": "nie opóźnia ani nie przyspiesza puli zadan"
+        },
+        {
+          "key": "d",
+          "text": "niweluje wahania w czasie przetwarzania puli zadao"
+        }
+      ],
+      "correct": [
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "019",
+      "question": "Proces niezależny:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "współpracuje z innymi procesami poprzez współdzielenie obszaru pamięci operacyjnej"
+        },
+        {
+          "key": "b",
+          "text": "jego działanie zależy tylko od parametrów wejściowych"
+        },
+        {
+          "key": "c",
+          "text": "współpracuje z innymi procesami współdzieląc zasoby plikowe"
+        },
+        {
+          "key": "d",
+          "text": "nie współdzieli żadnych zasobów z innymi procesami"
+        }
+      ],
+      "correct": [
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "020",
+      "question": "W systemach opartych o pracę wsadową:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "operator zastąpił programistę"
+        },
+        {
+          "key": "b",
+          "text": "zadania o tym samym charakterze były grupowane"
+        },
+        {
+          "key": "c",
+          "text": "pojawił się debugger oraz kompilator"
+        },
+        {
+          "key": "d",
+          "text": "pojawił się JCL (język obsługi kart sterujących)"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "021",
+      "question": "Przełączanie kontekstu:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykonywane jest przez program koordynujący (dispatcher)"
+        },
+        {
+          "key": "b",
+          "text": "polega na przełączeniu się do innego procesu (zapisanie bloku kontrolnego starego procesu i wczytanie bloku kontrolnego nowego)"
+        },
+        {
+          "key": "c",
+          "text": "wykorzystywane jest w stronicowaniu na żądanie w przypadku braku wolnych ramek"
+        },
+        {
+          "key": "d",
+          "text": "polega na wyborze kolejnych danych ze spoolera"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "022",
+      "question": "Sekcja krytyczna:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to problem związany z koordynacją grupy procesów sekwencyjnie obrabiających jakiś zasób"
+        },
+        {
+          "key": "b",
+          "text": "to problem współdzielenia zasobu (na zasadzie odczytu) przez grupę procesów"
+        },
+        {
+          "key": "c",
+          "text": "to problem współdzielenia zasobu (na zasadzie modyfikacji) przez grupę procesów"
+        },
+        {
+          "key": "d",
+          "text": "to metoda przekazania parametrów do monitora w celu wywołania funkcji systemowej"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "023",
+      "question": "Algorytm piekarni jest rozwiązaniem:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "problemu sekcji krytycznej"
+        },
+        {
+          "key": "b",
+          "text": "układu producent-konsument"
+        },
+        {
+          "key": "c",
+          "text": "problemu czytelników i pisarzy"
+        },
+        {
+          "key": "d",
+          "text": "problemu posilających się filozofów"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "024",
+      "question": "Na czas dostępu do informacji na dysku ma wpływ:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rozmiar ramek w pamięci operacyjnej"
+        },
+        {
+          "key": "b",
+          "text": "czas transmisji"
+        },
+        {
+          "key": "c",
+          "text": "czas przeszukania i co za tym idzie odpowiedni algorytm"
+        },
+        {
+          "key": "d",
+          "text": "szybkośd procesora"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "025",
+      "question": "Głodzenie procesu może zajśd w przypadku zarządzania kolejką:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przy użyciu metod opartych o kolejkę FIFO (np. FCFS)"
+        },
+        {
+          "key": "b",
+          "text": "przy użyciu algorytmu SJF"
+        },
+        {
+          "key": "c",
+          "text": "przy użyciu algorytmu priorytetowego"
+        },
+        {
+          "key": "d",
+          "text": "przy użyciu algorytmów heurystycznych i genetycznych"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "026",
+      "question": "Semafor:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to funkcja umożliwiająca określenie stanu zasobu (zajęty/używany)"
+        },
+        {
+          "key": "b",
+          "text": "to zmienna całkowita"
+        },
+        {
+          "key": "c",
+          "text": "może byd zmieniany przez dwie niepodzielne funkcje: czekaj i sygnalizuj"
+        },
+        {
+          "key": "d",
+          "text": "wykorzystywany jest jako licznik użycia w algorytmie LRU"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "027",
+      "question": "DMA to:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jeden ze sposobów obsługi przerwao"
+        },
+        {
+          "key": "b",
+          "text": "obsługa urządzeo nie wymagająca przerwania"
+        },
+        {
+          "key": "c",
+          "text": "dynamiczna alokacja pamięci wykorzystywana w stronicowaniu na żądanie"
+        },
+        {
+          "key": "d",
+          "text": "mechanizm obsług wejścia-wyjścia umożliwiający przesyłanie danych bezpośrednio z urządzenia do wydzielonego miejsca w pamięci operacyjnej"
+        }
+      ],
+      "correct": [
+        "a",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "028",
+      "question": "Algorytmem planowania czasu procesora jest:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "SJF"
+        },
+        {
+          "key": "b",
+          "text": "FCFS"
+        },
+        {
+          "key": "c",
+          "text": "LRU"
+        },
+        {
+          "key": "d",
+          "text": "SCAN"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "030",
+      "question": "Proces kooczy swoje działanie, gdy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykona swoją ostatnią instrukcję"
+        },
+        {
+          "key": "b",
+          "text": "jego wykonanie stało się zbędne lub naruszył zasoby innego procesu"
+        },
+        {
+          "key": "c",
+          "text": "wyczerpała się wolna pamięd przydzielona dla systemu"
+        },
+        {
+          "key": "d",
+          "text": "otrzymał sygnał zakooczenia od swojego potomka"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "031",
+      "question": "Stronicowanie:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to dyskretny model pamięci"
+        },
+        {
+          "key": "b",
+          "text": "powoduje, że każda komórka pamięci poadresowana jest w sposób bezposredni"
+        },
+        {
+          "key": "c",
+          "text": "powoduje, że adres każdej komórki pamięci składa się z numeru strony i przesunięcia na stronie"
+        },
+        {
+          "key": "d",
+          "text": "powoduje, że maksymalna „strata” pamięci związana z jednym procesem nie przekracza rozmiaru jednej strony"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "033",
+      "question": "W przypadku modelu ciągłego pamięci planista długoterminowy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ma za zadanie wyszukanie ciągłego obszaru w pamięci operacyjnej spełniającego wymagania pamięciowe procesu"
+        },
+        {
+          "key": "b",
+          "text": "tworzy tzw. tablicę stron"
+        },
+        {
+          "key": "c",
+          "text": "stosuje np. algorytm „najlepiej pasujący obszar”"
+        },
+        {
+          "key": "d",
+          "text": "ładuje programy do górnego obszaru pamięci operacyjnej"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "034",
+      "question": "Optymalny algorytm zastępowania stron:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "jest najpopularniejszym algorytmem stosowanym w systemach o małych obciążeniach"
+        },
+        {
+          "key": "b",
+          "text": "nie jest możliwy do zastosowania, ma jedynie sens teoretyczny"
+        },
+        {
+          "key": "c",
+          "text": "sugeruje wymienienie strony, do której najpóźniej nastąpi przyszłe odwołanie"
+        },
+        {
+          "key": "d",
+          "text": "wymienia najrzadziej używane strony"
+        }
+      ],
+      "correct": [
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "035",
+      "question": "Planista średnioterminowy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "odpowiada za wymianę procesów pomiędzy pamięcią a dyskiem"
+        },
+        {
+          "key": "b",
+          "text": "zarządza kolejką procesów gotowych, ale tylko w odniesieniu do procesów, które nie są procesami czasu rzeczywistego"
+        },
+        {
+          "key": "c",
+          "text": "zarządza kolejką procesów usuniętych, częściowo wykonanych"
+        },
+        {
+          "key": "d",
+          "text": "wydaje decyzje, czy można utworzyć nowy proces"
+        }
+      ],
+      "correct": [
+        "a",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "036",
+      "question": "Proces kończy swoje działanie, gdy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "wykona swoją ostatnią instrukcję"
+        },
+        {
+          "key": "b",
+          "text": "jego wykonanie stało się zbędne lub naruszył zasoby innego procesu"
+        },
+        {
+          "key": "c",
+          "text": "wyczerpała się wolna pamięć przydzielona dla systemu"
+        },
+        {
+          "key": "d",
+          "text": "otrzymał sygnał zakończenia od swojego potomka"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "037",
+      "question": "Algorytm planisty krótkoterminowego niewywłaszczeniowy podejmuje decyzje, gdy któreś z procesów:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przechodzi od stanu aktywności do stanu czekania"
+        },
+        {
+          "key": "b",
+          "text": "przechodzi od stanu aktywności do stanu gotowości"
+        },
+        {
+          "key": "c",
+          "text": "przechodzi od stanu czekania do stanu gotowości"
+        },
+        {
+          "key": "d",
+          "text": "kończy działanie"
+        }
+      ],
+      "correct": [
+        "a",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "038",
+      "question": "Algorytm planisty krótkoterminowego wywłaszczeniowy podejmuje decyzje, gdy któryś z procesów:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "przechodzi od stanu aktywności do stanu czekania"
+        },
+        {
+          "key": "b",
+          "text": "przechodzi od stanu aktywności do stanu gotowości"
+        },
+        {
+          "key": "c",
+          "text": "przechodzi od stanu czekania do stanu gotowości"
+        },
+        {
+          "key": "d",
+          "text": "kończy działanie"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "039",
+      "question": "Program rozruchowy:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "to proces ten generowania systemu"
+        },
+        {
+          "key": "b",
+          "text": "to specjalny program wykonywany przy inicjowaniu zadania lub wtedy, gdy użytkownik rejestruje się w systemie"
+        },
+        {
+          "key": "c",
+          "text": "to fragment kodu przechowywany w pamięci ROM, będący w stanie zlokalizować jądro, załadować je do pamięci i rozpocząć jego wykonywanie"
+        },
+        {
+          "key": "d",
+          "text": "przesyła dane na zasadzie bezpośredniego dostępu do pamięci DMA"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "040",
+      "question": "Maszyna wirtualna:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "traktuje sprzęt i system operacyjny jakby były sprzętem"
+        },
+        {
+          "key": "b",
+          "text": "zarządza wirtualnym buforem, tzw. spoolerem, zlokalizowanym we wspólnym pamięci operacyjnej"
+        },
+        {
+          "key": "c",
+          "text": "zapewnia jednolity interfejs sprzętu"
+        },
+        {
+          "key": "d",
+          "text": "zarządza wyborem procesów z kolejki procesów gotowych"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,3914 @@
+{
+  "name": "baza_fizyka_zadania",
+  "displayName": "baza_fizyka_zadania",
+  "description": "",
+  "questionCount": 160,
+  "questions": [
+    {
+      "id": "005",
+      "question": "Zależność prędkości kątowej ciała od czasu opisuje wzór ω⃗ (t)=3/2t⋅i+t2j[rads]. Wartość prędkości kątowej w 2 sekundzie wynosi: (W odpowiedzi wpisz liczbę naturalną w jednostkach rad/s)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2"
+        },
+        {
+          "key": "b",
+          "text": "5"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "7"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "006",
+      "question": "Zależność prędkości kątowej ciała od czasu opisuje wzór ω⃗ (t)=3/2t⋅i+t2j[rads]. Zależność przyspieszenia kątowego od czasu dla tego ciała ma postać",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ε⃗ (t)=3/2i+2j[rad/s^2]"
+        },
+        {
+          "key": "b",
+          "text": "ε⃗ (t)=3/2ti+t^2*j[rad/s^2]"
+        },
+        {
+          "key": "c",
+          "text": "ε⃗ (t)=3/2i+2tj[rad/s^2]"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "007",
+      "question": "Położenia ciała w zależności od czasu opisuje równanie x(t)=−t3+10⋅t2+2[m]. Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Droga przebyta przez to ciało w czasie t=1s wynosi 9m."
+        },
+        {
+          "key": "b",
+          "text": "Droga przebyta przez to ciało w czasie t=1s wynosi 2m."
+        },
+        {
+          "key": "c",
+          "text": "Jest to ruch jednostajnie zmienny."
+        },
+        {
+          "key": "d",
+          "text": "Prędkość tego ciała w t=1s wynosi 17 metrów na sekundę."
+        },
+        {
+          "key": "e",
+          "text": "Prędkość tego ciała opisuje funkcja kwadratowa."
+        },
+        {
+          "key": "f",
+          "text": "Przyspieszenie tego ciała nie zależy od czasu."
+        },
+        {
+          "key": "g",
+          "text": "Przyspieszenie tego ciała w t=1s wynosi 14m/s^2"
+        }
+      ],
+      "correct": [
+        "a",
+        "d",
+        "e",
+        "g"
+      ],
+      "images": []
+    },
+    {
+      "id": "008",
+      "question": "Przyspieszenie ciała zmienia się w czasie według zależności a(t)=4t (w SI). W czasie t=0 prędkość wynosiła 2m/s. Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jest to ruch jednostajnie zmienny."
+        },
+        {
+          "key": "b",
+          "text": "Prędkość ciała zmienia się w czasie według zależności v(t)=2t^2+2[m/s]."
+        },
+        {
+          "key": "c",
+          "text": "Prędkość ciała zmienia się w czasie według zależności v(t)=2t^2[m/s]."
+        },
+        {
+          "key": "d",
+          "text": "Prędkość tego ciała jest stała i wynosi 2m/s."
+        },
+        {
+          "key": "e",
+          "text": "Przyspieszenie tego ciała w t=2s wynosi 8m/s^2."
+        }
+      ],
+      "correct": [
+        "b",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "027",
+      "question": "Obwód prądu zmiennego składający się z połączonych ze sobą szeregowo opornika R=16Ω oraz cewki o indukcyjności L=12H zasilany jest sinusoidalnie zmiennym prądem. Jeżeli wartość napięcia skutecznego wynosi 50V, a częstotliwość f=1/2π Hz, to moduł impedancji obwodu oraz prąd są równe:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Z=10Ω, I=2.5A"
+        },
+        {
+          "key": "b",
+          "text": "Z=2Ω, I=4A"
+        },
+        {
+          "key": "c",
+          "text": "Z=20Ω, I=2.5A"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "052",
+      "question": "Wynikiem obliczeń _______ wektora a⃗ =(xyz,2xyz,3xyz) jest _______.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "rotacji, wektor (yz, 2xyz, 3xyz)"
+        },
+        {
+          "key": "b",
+          "text": "rotacji, liczba yz+2xz+3xy"
+        },
+        {
+          "key": "c",
+          "text": "dywergencji, liczba yz+2xz+3xy"
+        },
+        {
+          "key": "d",
+          "text": "dywergencji, wektor (yz, 2xyz, 3xyz)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "064",
+      "question": "Pole nazywamy centralnym, jeżeli",
+      "answers": [
+        {
+          "key": "a",
+          "text": "natężenie we wszystkich jego punktach jest jednakowe."
+        },
+        {
+          "key": "b",
+          "text": "we wszystkich jego punktach wektory natężenia skierowane są wzdłuż prostych, przecinających się w jednym punkcie, nieruchomym względem dowolnego układu inercjalnego."
+        },
+        {
+          "key": "c",
+          "text": "we wszystkich jego punktach wektory natężenia skierowane są wzdłuż prostych, przecinających się w jednym punkcie, poruszającym się względem dowolnego układu inercjalnego."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "080",
+      "question": "Kondensator w defibrylatorze medycznym o pojemności 70uF jest naładowany do 5000V. 1. Jaka energia zmagazynowana jest w kondensatorze? 2. Około 200J tej energii jest przekazywane człowiekowi podczas 2ms impulsu. Jaka jest moc impulsu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "875J, 100kW"
+        },
+        {
+          "key": "b",
+          "text": "875J, 875kW"
+        },
+        {
+          "key": "c",
+          "text": "100J, 875kW"
+        },
+        {
+          "key": "d",
+          "text": "100J, 100kW"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "083",
+      "question": "Jeżeli do węzła układu elektrycznego wpływają 3 prądy o natężeniu 20mA każdy, to wartości dwóch wpływających prądów mogą być równe: Wybierz wszystkie poprawne:",
+      "answers": [
+        {
+          "key": "a",
+          "text": "l4=30mA, l5=30mA"
+        },
+        {
+          "key": "b",
+          "text": "l4=20mA, l5=20mA"
+        },
+        {
+          "key": "c",
+          "text": "l4=20mA, l5=40mA"
+        },
+        {
+          "key": "d",
+          "text": "l4=50mA, l5=10mA"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "084",
+      "question": "Grzejnik elektryczny pryz napięciu 110V ma moc 250W. Gdy podłączymy go do napięcia 220V to jego moc wynosi (zakładamy, że opór nie zależy od temperatury, wynik wpisz jako l. całkowitą)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1000W"
+        },
+        {
+          "key": "b",
+          "text": "500W"
+        },
+        {
+          "key": "c",
+          "text": "600W"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "086",
+      "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t)=1.2sin(4pi+3) [m]. Amplituda tych drgań wynosi _______ [m], częstość tych drgań to _______ [rad/s], zaś częstotliwość to ______ [Hz]. Faza początkowa wynosi _____.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1.2, 4pi, 2, 3"
+        },
+        {
+          "key": "b",
+          "text": "2, 1.2, 2pi, 3"
+        },
+        {
+          "key": "c",
+          "text": "1.2, 3, 4pi, 2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "129",
+      "question": "Pole elektryczne wytwarzane przez jednorodnie naładowaną kulę o promieniu a i gęstości ładunku ϱ0 ma wewnątrz kuli postać E⃗ (r⃗ )=ϱ03ε0r⃗ . Dywergencja tego pola w punkcie r⃗ =0 ma wartość",
+      "answers": [
+        {
+          "key": "a",
+          "text": "(ϱ0)/(3ε0)"
+        },
+        {
+          "key": "b",
+          "text": "(ϱ0)/(ε0)"
+        },
+        {
+          "key": "c",
+          "text": "4/3*πa^3(ϱ_0)/(ε_0)"
+        },
+        {
+          "key": "d",
+          "text": "zero"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "148",
+      "question": "�ródło dŸwięku o częstotliwości f porusza się względem nieruchomego obserwatora z prędkością v. Jeżeli Ÿródło dŸwięku zbliża się do obserwatora słyszy on dŸwięk o częstotliwości f1, jeżeli oddala się to słyszy dŸwięk o częstotliwości f2. Między częstotliwościami zachodzi związek",
+      "answers": [
+        {
+          "key": "a",
+          "text": "f1-f=f-f2"
+        },
+        {
+          "key": "b",
+          "text": "f1-f>f-f2"
+        },
+        {
+          "key": "c",
+          "text": "f1-f<f-f2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "149",
+      "question": "Fala podłużna biegnąca w stalowym pręcie o gęstości 8000 kg/m^3 i polu przekroju poprzecznego 2·10^(-4) * m^2 ma postać (w SI): u(x,t)=1·10^(-5) * cos(2,5·10^3 pi* t -0,5*pi*x). Ile wynosi długość tej fali i jej prędkość fazowa?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "lambda = 4m  oraz  c = 5000 m/s"
+        },
+        {
+          "key": "b",
+          "text": "lambda = 12,56m  oraz  c = 5000 m/s"
+        },
+        {
+          "key": "c",
+          "text": "lambda = 4m  oraz  c = 2500 m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "153",
+      "question": "Kto napisał bazę pytań do tego testownika? xD",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jerzy Pietraszko"
+        },
+        {
+          "key": "b",
+          "text": "Tofik"
+        },
+        {
+          "key": "c",
+          "text": "Dziakanat W4"
+        },
+        {
+          "key": "d",
+          "text": "Rafał Jaworski, Jarosław Kot, Piotr Bednarz, Dawid Kądziela, Jacek Berentowicz, Wojciech Bezen"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "154",
+      "question": "W kartezjańskim układzie współrzędnych dane są dwa wektory: a =-10i^+0,75j^-k^ oraz b =10i^+5k^. Wyznacz wektor c =2·(a +b ).",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c =20i^+0,75j^+4k^"
+        },
+        {
+          "key": "b",
+          "text": "c =-20i^+8k^"
+        },
+        {
+          "key": "c",
+          "text": "c =1,5j^+8k^"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "155",
+      "question": "W kartezjańskim układzie współrzędnych dane są dwa wektory: a =-10i^+0,75j^-k^ oraz b =10i^+5k^. Wyznacz wektor c =12·(a -b ).",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c =-10i^+0,375j^-3k^"
+        },
+        {
+          "key": "b",
+          "text": "c =10i^-0,375j^-8k^"
+        },
+        {
+          "key": "c",
+          "text": "c =1,5j^+8k^"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "156",
+      "question": "W kartezjańskim układzie współrzędnych dane są dwa wektory: a =-10i^+0,75j^-k^ oraz b =10i^+5k^. Wyznacz wektor c =(2a -b )-a",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c =-20i^+0,75j^-6k^"
+        },
+        {
+          "key": "b",
+          "text": "c =10i^-0,75j^-8k^"
+        },
+        {
+          "key": "c",
+          "text": "c =1,5j^+8k^"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "157",
+      "question": "Wektor o współrzędnych a =-3i^+sqrt3j^ jest nachylony do osi x kartezjańskiego układu współrzędnych pod kątem",
+      "answers": [
+        {
+          "key": "a",
+          "text": "135°"
+        },
+        {
+          "key": "b",
+          "text": "150°"
+        },
+        {
+          "key": "c",
+          "text": "315°"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "158",
+      "question": "Dwa cosinusy kierunkowe pewnego wektora wynoszą cosx=-2/7 i cosy=3/7.Trzeci cosinus kierunkowy wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "cosz=-2/7"
+        },
+        {
+          "key": "b",
+          "text": "cosz=±6/7"
+        },
+        {
+          "key": "c",
+          "text": "cosz=±1/7"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "159",
+      "question": "Ile wynoszą kąty kierunkowe wektora o długości 8 i współrzędnych a =[4sqrt2,4,4]?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "45°,30°,60°"
+        },
+        {
+          "key": "b",
+          "text": "30°,60°,30°"
+        },
+        {
+          "key": "c",
+          "text": "45°,60°,60°"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "160",
+      "question": "Ile wynosi iloczyn skalarny dwóch wektorów a °b ? Współrzędne wektorów wynoszą: a =sqrt3i^-1/2j^+(sqrt7+1)k^ , b =sqrt3/3i^+2j^+(sqrt7-1)k^.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "7"
+        },
+        {
+          "key": "c",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "161",
+      "question": "W kartezjańskim układzie współrzędnych dany jest wektor: a =3i^-6j^+8k^. Wskaż wektor jednostkowy kierunku wyznaczonego przez ten wektor.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "n =1/109(3i^-6j^+8k^)"
+        },
+        {
+          "key": "b",
+          "text": "n =1"
+        },
+        {
+          "key": "c",
+          "text": "n =sqrt109/109(3i^-6j^+8k^)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "162",
+      "question": "Wektor prostopadły do wektora a =-2i^+sqrt5j^ to wektor",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a =-2/3i^+sqrt5/3j^"
+        },
+        {
+          "key": "b",
+          "text": "a =2i^-sqrt5j^"
+        },
+        {
+          "key": "c",
+          "text": "a =sqrt5/3i^+2/3j^"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "163",
+      "question": "Wskaż prawidłową wartość kąta między wektorami a =2i^-6j^ oraz b? =(6+2sqrt2)i^+(2-6sqrt2)j^.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "35,3°"
+        },
+        {
+          "key": "b",
+          "text": "54,7°"
+        },
+        {
+          "key": "c",
+          "text": "15,5°"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "164",
+      "question": "Dane są dwa wektory. Ile wynosi iloczyn wektorowy c =a ×b ? Współrzędne wektorów wynoszą: a =1/3i^+2j^-k^ oraz b =-1/2i^+3j^+3/2k^.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c =6i^+2k^"
+        },
+        {
+          "key": "b",
+          "text": "c =1/2i^+j^-1/3k^"
+        },
+        {
+          "key": "c",
+          "text": "c =-3/2i^-2j^-1/3k^"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "166",
+      "question": "Siła F =-3i^+j^ [N] działa na punkt materialny, którego położenie w kartezjańskim układzie współrzędnych określa wektor r =7i^+3j^ [m]. Który wektor przedstawia moment tej siły względem początku układu współrzędnych?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "M =16i^ [Nm]"
+        },
+        {
+          "key": "b",
+          "text": "M =16j^ [Nm]"
+        },
+        {
+          "key": "c",
+          "text": "M =16k^ [Nm]"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "167",
+      "question": "Na szerokości geograficznej północnej 60°, samochód ważący 2 tony jedzie z południa na północ z szybkością V=100kmh. Ile wynosi siła Coriolisa działająca na ten samochód?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Fc=32N"
+        },
+        {
+          "key": "b",
+          "text": "Fc=25N"
+        },
+        {
+          "key": "c",
+          "text": "Fc=7N"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "168",
+      "question": "Pociągi A oraz B jadą po sąsiednich torach z szybkościami odpowiednio Va=70km/h oraz Vb=90km/h. Oblicz wartość prędkości względnej pociągu B względem A wiedząc, że pociągi poruszają się w tą samą stronę.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wartość prędkości względnej (szybkość) wynosi Vw=160km/h."
+        },
+        {
+          "key": "b",
+          "text": "Wartość prędkości względnej (szybkość) wynosi Vw=50km/h."
+        },
+        {
+          "key": "c",
+          "text": "Wartość prędkości względnej (szybkość) wynosi Vw=20km/h."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "169",
+      "question": "Położenie ciała w chwili początkowej t1=4s wyznaczał wektor wodzący r1=(-sqrt2+1)i^+2j^[m]. Po 2 sekundach (t2=6s) nowe położenie ciała określał wektor r2=(sqrt2+3)i^-4j^[m]. Wyznacz wektor prędkość średniej przemieszczania się ciała.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "v śr=(sqrt2+1)i^-3j^[m/s]"
+        },
+        {
+          "key": "b",
+          "text": "v śr=i^-3j^[m/s]"
+        },
+        {
+          "key": "c",
+          "text": "v śr=2i^-6j^[m/s]"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "170",
+      "question": "Zależność przebytej przez ciało drogi S od czasu podaje równanie S(t)=-1-0,5t+2t^2+3t^3[m]. Po jakim czasie od rozpoczęcia ruchu przyspieszenie ciała będzie równe 5,5m/s^2?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "3/5s"
+        },
+        {
+          "key": "b",
+          "text": "5/6s"
+        },
+        {
+          "key": "c",
+          "text": "1/12s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "171",
+      "question": "Zależność przebytej przez ciało drogi S od czasu podaje równanie S(t)=-1-0,5t+2t^2+3t^3[m]. Jakie będzie średnie przyspieszenie w przedziale od 1 do 2 sekundy czasu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "31m/s^2"
+        },
+        {
+          "key": "b",
+          "text": "15m/s^2"
+        },
+        {
+          "key": "c",
+          "text": "4m/s^2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "172",
+      "question": "Cząstki A i B poruszają się wzdłuż osi współrzędnych kartezjańskiego układu odniesienia. Cząstka A z prędkością Va=2i^m/s wzdłuż osi x, a cząstka B wzdłuż osi y z prędkością Vb=(1,5i^+2j^)m/s. W chwili t=0s cząstka A znajduje się w punkcie o współrzędnych Pa=(-2,0)m, natomiast cząstka B w punkcie o współrzędnych Pb=(2,-4)m. Wyznacz funkcję określającą położenie między cząstkami.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "d=sqrt(4,25t^2-20t+32)m"
+        },
+        {
+          "key": "b",
+          "text": "d=sqrt(4t^2-10t+3,25)m"
+        },
+        {
+          "key": "c",
+          "text": "d=sqrt(4,25t^2-2t+3,25)m"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "173",
+      "question": "Cząstki A i B poruszają się wzdłuż osi współrzędnych kartezjańskiego układu odniesienia. Cząstka A z prędkością Va=2i^m/s wzdłuż osi x, a cząstka B z prędkością Vb=(1,5i^+2j^)ms. W chwili t=0s cząstka A znajduje się w punkcie o współrzędnych Pa=(-2,0)m, natomiast cząstka B w punkcie o współrzędnych Pb=(2,-4)m. W którym momencie czasu cząstki będą najbliżej siebie?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "t=1,35s"
+        },
+        {
+          "key": "b",
+          "text": "t=2,35s"
+        },
+        {
+          "key": "c",
+          "text": "t=0,35s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "174",
+      "question": "Z powierzchni Ziemi rzucono piłkę pionowo do góry, z prędkością V0=5m/s. Równocześnie z wysokości, na jaką wzniesie się wyrzucona do góry piłka, zaczyna spadać druga piłka, rzucona z taką sama prędkością początkową w dół. Ile wynosi prędkość pierwszej piłki w chwili spotkania z drugą piłką? Opór powietrza pomijamy.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "V1=10m/s"
+        },
+        {
+          "key": "b",
+          "text": "V1=6,25m/s"
+        },
+        {
+          "key": "c",
+          "text": "V1=3,75m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "175",
+      "question": "Obiekt zaczyna obracać się wokół stałej osi. W pewnej chwili czasu, całkowite przyspieszenie obiektu, tworzy z jego prędkością liniową kąt 60°. Ile wynosi prędkość kątowa w tego obiektu, jeśli przyspieszenie kątowe wynosi E=4/sqrt3 rad/s^2?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "w=4rad/s"
+        },
+        {
+          "key": "b",
+          "text": "w=2rad/s"
+        },
+        {
+          "key": "c",
+          "text": "w=1rad/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "176",
+      "question": "Rowerzysta przez 20 sekund przyspiesza. Jaką prędkość, po tym czasie, osiągnie rowerzysta? Promień koła wynosi R=0,742m, a przyspieszenie kątowe kół ma wartość E=0,674rad/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "v=10m/s"
+        },
+        {
+          "key": "b",
+          "text": "v=12m/s"
+        },
+        {
+          "key": "c",
+          "text": "v=14m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "177",
+      "question": "Kąt obrotu promienia koła od czasu opisuje równanie: fi(t)=sqrt2+2t^2+1/3t^3 [w SI]. Oblicz prędkość kątową w chwili t=1s.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "w(1)=5rad/s"
+        },
+        {
+          "key": "b",
+          "text": "w(1)=(sqrt2+7/3)rad/s"
+        },
+        {
+          "key": "c",
+          "text": "w(1)=4rad/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "178",
+      "question": "Kąt obrotu promienia koła od czasu opisuje równanie: fi(t)=sqrt2+2t^2+1/3t^3 [w SI]. Oblicz prędkość liniową w chwili t=1s. Promień koła wynosi R=2m.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "v=2m/s"
+        },
+        {
+          "key": "b",
+          "text": "v=5m/s"
+        },
+        {
+          "key": "c",
+          "text": "v=10m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "179",
+      "question": "Krzesełka karuzeli rozmieszczone są tak, że przy obrocie karuzeli zakreślają koło o promieniu R=10m. Prędkość kątowa karuzeli wynosi w=PI/2 rad/s. Wyznacz okres oraz przyspieszenie normalne krzesełka karuzeli.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "T=4PI^2s  oraz  an=10PI^2 rad/s^2"
+        },
+        {
+          "key": "b",
+          "text": "T=1s oraz  an=5PI^2 rad/s^2"
+        },
+        {
+          "key": "c",
+          "text": "T=4s oraz  an=5PI^2/2 rad/s^2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "182",
+      "question": "Człowiek ciągnie skrzynie o masie 100kg ze stałą prędkością za pomocą liny, która w czasie ruchu jest nachylona do poziomu pod kątem a. Ile wynosi ten kąt, skoro człowiek ciągnie za linę z siłą F=2000N? Przyjmij, że g=10m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a=60°"
+        },
+        {
+          "key": "b",
+          "text": "a=30°"
+        },
+        {
+          "key": "c",
+          "text": "a=20°"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "183",
+      "question": "Na środku napiętego sznura do suszenia bielizny o długości 400 centymetrów, rozpiętego między dwiema przeciwległymi ścianami suszarni, podwieszono ciężarek o masie 1 kilograma. Po podwieszeniu ciężarek opadł o 25 centymetrów. Zakładając, że sznur jest nieważki, znajdŸ kąt pomiędzy naciągniętym sznurem a osią poziomą",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a=9°"
+        },
+        {
+          "key": "b",
+          "text": "a=8°"
+        },
+        {
+          "key": "c",
+          "text": "a=7°"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "184",
+      "question": "Dwa klocki połączone sznurkiem są podnoszone pionowo w górę ze stałą prędkością. Wiedząc, że masa górnego i dolnego klocka wynosi odpowiednio 4 kg i 1 kg. Oblicz siłę naprężenia łączącego je sznurka. Przyjmij, że g=10m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Fn=10N"
+        },
+        {
+          "key": "b",
+          "text": "Fn=20N"
+        },
+        {
+          "key": "c",
+          "text": "Fn=40N"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "186",
+      "question": "Pod wpływem działania stałej siły F=200N, skierowanej pod kątem 30° do poziomu, po gładkiej powierzchni, porusza się skrzynia o masie 100kg. Oblicz przyspieszenie, z jakim porusza się skrzynia.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a=sqrt2m/s^2"
+        },
+        {
+          "key": "b",
+          "text": "a=sqrt3m/s^2"
+        },
+        {
+          "key": "c",
+          "text": "a=2m/s^2"
+        },
+        {
+          "key": "d",
+          "text": "a=3m/s^2"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "187",
+      "question": "Pod wpływem działania stałej siły F=200N, skierowanej pod kątem 30° do poziomu, po gładkiej powierzchni, porusza się skrzynia o masie 100kg. Oblicz siłę reakcji podłoża działającą na skrzynię. Do obliczeń przyjmij g=10m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Fn=900N"
+        },
+        {
+          "key": "b",
+          "text": "Fn=1000N"
+        },
+        {
+          "key": "c",
+          "text": "Fn=1100N"
+        },
+        {
+          "key": "d",
+          "text": "Fn=1200N"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "188",
+      "question": "Jaką siłę ciągu musi posiadać silnik rakiety o masie 50 ton, aby rakieta mogła wystartować z przyspieszeniem a=2g. Do obliczeń przyjmij g=10m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "F=0,5MN"
+        },
+        {
+          "key": "b",
+          "text": "F=1MN"
+        },
+        {
+          "key": "c",
+          "text": "F=1,5MN"
+        },
+        {
+          "key": "d",
+          "text": "F=2MN"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "189",
+      "question": "Ciało o masie 300kg zawieszono na utwierdzonej obrotowo belce, zabezpieczonej dodatkowo cięgnem pod katem a=45°. Wyznacz wartość siły napięcia w cięgnie Fc oraz w belce Fb. Do obliczeń przyjmij, że g=10m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Fc=4243N oraz Fb=-3000N"
+        },
+        {
+          "key": "b",
+          "text": "Fc=2828N oraz Fb=-2000N"
+        },
+        {
+          "key": "c",
+          "text": "Fc=1414N oraz Fb=-1000N"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "190",
+      "question": "Jednorodna belka o masie 200kg i długości 4m połączona jest przegubowo w punkcie B z podłożem. Do końca liny przewieszonej przez bloczek przyłożono siłę o wartości F=1200N. Lina tworzy kąt a=60° z belką (Rysunek 5). Wskaż prawidłową odpowiedŸ z czterech przedstawionych poniżej. Do obliczeń przyjmij, że g=10m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Moment sił liczony względem punktu A wynosi zero."
+        },
+        {
+          "key": "b",
+          "text": "Wartość siły Rby jest większa od wartości siły Rbx."
+        },
+        {
+          "key": "c",
+          "text": "Wartość siły Rbx jest większa od wartości siły Rby."
+        },
+        {
+          "key": "d",
+          "text": "Moment sił liczony względem punktu A wynosi M=-200N."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "192",
+      "question": "Jaki promień krzywizny powinien mieć zakręt, aby samochód jadący z szybkością 40m/s, mógł go przejechać bez poślizgu. Przyjmij, że współczynnik tarcia statycznego między oponami samochodu a asfaltem wynosi 0,7, jezdnia jest nachylona do poziomu pod kątem 20°, przyspieszenie ziemskie wynosi g=10m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "50m"
+        },
+        {
+          "key": "b",
+          "text": "64m"
+        },
+        {
+          "key": "c",
+          "text": "112m"
+        },
+        {
+          "key": "d",
+          "text": "150m"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "193",
+      "question": "Samochód o masie 1200kg porusza się po wypukłym moście, którego promień krzywizny wynosi 20m. Dla jakiej wartości prędkości siła nacisku osiąga wartość zero?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "81km/h"
+        },
+        {
+          "key": "b",
+          "text": "75km/h"
+        },
+        {
+          "key": "c",
+          "text": "67km/h"
+        },
+        {
+          "key": "d",
+          "text": "51km/h"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "194",
+      "question": "Wahadło o masie m=10kg wisi na podstawce umocowanej na wózku. ZnajdŸ siłę naprężenia Fn nici w przypadku, gdy wózek porusza się po płaszczyŸnie poziomej z przyspieszeniem a=1m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Fn=11,5N"
+        },
+        {
+          "key": "b",
+          "text": "Fn=21N"
+        },
+        {
+          "key": "c",
+          "text": "Fn=100,5N"
+        },
+        {
+          "key": "d",
+          "text": "Fn=101N"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "195",
+      "question": "Do gałęzi drzewa przywiązana jest lina, po której wspina się człowiek o masie m. Jaką pracę wykona człowiek, jeśli wspiął się do połowy długości liny 1/2l?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "W=1/4mgl"
+        },
+        {
+          "key": "b",
+          "text": "W=1/2mgl"
+        },
+        {
+          "key": "c",
+          "text": "W=mgl"
+        },
+        {
+          "key": "d",
+          "text": "W=2mgl"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "196",
+      "question": "Siła F  powoduje przemieszczenie przedmiotu z punktu A do B. Wektory wodzące, opisujące położenie punktów, są następujące Ra=(3,0)m oraz Rb=(1,3)m. Wskaż wszystkie wektory siły, przy wartości której, wykonana praca wyniesie zero.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "F =(3,2)N"
+        },
+        {
+          "key": "b",
+          "text": "F =(-3,-2)N"
+        },
+        {
+          "key": "c",
+          "text": "F =(3,-2)N"
+        },
+        {
+          "key": "d",
+          "text": "F =(-3,2)N"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "197",
+      "question": "Piłkę tenisowa o masie 60g upuszczono z wysokości 3,6m. Tuż po trzecim odbiciu piłka miała prędkość 3m/s. Ile energii traci piłka po każdym odbiciu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "50%"
+        },
+        {
+          "key": "b",
+          "text": "60%"
+        },
+        {
+          "key": "c",
+          "text": "70%"
+        },
+        {
+          "key": "d",
+          "text": "80%"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "198",
+      "question": "Kula A o masie 1kg porusza się wzdłuż osi x  z prędkością 2m/s i zderza się doskonale sprężyście i centralnie ze spoczywającą kulą B o masie 2kg. Oblicz wartość prędkości kuli A po zderzeniu.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Ua=-3/2 m/s"
+        },
+        {
+          "key": "b",
+          "text": "Ua=-2/3 m/s"
+        },
+        {
+          "key": "c",
+          "text": "Ua=1/3 m/s"
+        },
+        {
+          "key": "d",
+          "text": "Ua=5/2 m/s"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "200",
+      "question": "Człowiek o masie 50kg biegnący z prędkością 7km/h dogania wózek o masie 100kg, który jedzie z prędkością 4km/h i wskakuje na ten wózek. Jaka będzie prędkość wózka z człowiekiem w przypadku, gdy człowiek będzie biegł naprzeciw wózka?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "-3/4 km/h"
+        },
+        {
+          "key": "b",
+          "text": "-1/3 km/h"
+        },
+        {
+          "key": "c",
+          "text": "0km/h"
+        },
+        {
+          "key": "d",
+          "text": "3km/h"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "203",
+      "question": "Wyznacz moment bezwładności pełnego walca o promieniu r, wysokości h i masie m względem osi prostopadłej do osi symetrii i przechodzącej przez jego środek ciężkości",
+      "answers": [
+        {
+          "key": "a",
+          "text": "I=1/12m(r^2+h^2)"
+        },
+        {
+          "key": "b",
+          "text": "I=1/12m(3r^2+h^2)"
+        },
+        {
+          "key": "c",
+          "text": "I=1/2m(r^2+h^2)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "207",
+      "question": "Stolik poziomy obraca się z prędkością kątową w. Na środku stolika stoi człowiek i trzyma w wyciągniętych rękach w odległości R od osi obrotu dwa ciężarki o masie m każdy. Ile razy wzrośnie energia kinetyczna układu? Moment bezwładności stolika wraz z człowiekiem wynosi I.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1+mv^2/2"
+        },
+        {
+          "key": "b",
+          "text": "1+2mR^2/I"
+        },
+        {
+          "key": "c",
+          "text": "Iow+2mR^2/I"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "208",
+      "question": "Z równi pochyłej stoczyła się kula. Jaka była wysokość równi, jeżeli wiadomo, że u podstawy równi uzyskała prędkość 4m/s? Przyjmij, że przyspieszenie ziemskie wynosi g=10m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1,12m"
+        },
+        {
+          "key": "b",
+          "text": "2,01m"
+        },
+        {
+          "key": "c",
+          "text": "0,11m"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "209",
+      "question": "Zapisz równanie drgań cosinusoidalnych o amplitudzie 50cm, częstotliwości f=0,5Hz i fazie początkowej 60°.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "x(t)=50cos(PIt+PI/6)"
+        },
+        {
+          "key": "b",
+          "text": "x(t)=0,5cos(PIt/2+PI/3)"
+        },
+        {
+          "key": "c",
+          "text": "x(t)=50cos(t/2+PI/3)"
+        },
+        {
+          "key": "d",
+          "text": "x(t)=0,5cos(PIt+PI/3)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "210",
+      "question": "Znając równanie ruchu ciała wykonującego drganie harmoniczne x(t)=10cos(2t+PI), zapisz zależność opisującą prędkość tego ciała.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "v(t)=20sin(2t+PI)"
+        },
+        {
+          "key": "b",
+          "text": "v(t)=-20sin(2t+PI)"
+        },
+        {
+          "key": "c",
+          "text": "v(t)=-20cos(2t+PI)"
+        },
+        {
+          "key": "d",
+          "text": "v(t)=20sin(t+PI)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "211",
+      "question": "Znając równanie ruchu ciała wykonującego drganie harmoniczne x(t)=10cos(2t+PI), zapisz zależność opisującą przyspieszenie tego ciała.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a(t)=-20cos(t+PI)"
+        },
+        {
+          "key": "b",
+          "text": "a(t)=20cos(t+PI)"
+        },
+        {
+          "key": "c",
+          "text": "a(t)=-20sin(t+PI)"
+        },
+        {
+          "key": "d",
+          "text": "a(t)=-40cos(2t+PI)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "212",
+      "question": "Ile wynosi maksymalne przyspieszenie ciała, które wykonuje drgania o częstości PI/3 * s^-1 i amplitudzie 18m?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "amax=2PI m/s^2"
+        },
+        {
+          "key": "b",
+          "text": "amax=3PI m/s^2"
+        },
+        {
+          "key": "c",
+          "text": "amax=2PI^2 m/s^2"
+        },
+        {
+          "key": "d",
+          "text": "amax=3PI^2 m/s^2"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "213",
+      "question": "Podaj równanie ruchu harmonicznego, jeśli wartość maksymalnego przyspieszenia jest równa 4PI^2/3 m/s^2, okres 3s, a wychylenie w chwili początkowej z położenia równowagi wynosi 0,02m.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "x(t)=3cos(2PIt/3+1,56)"
+        },
+        {
+          "key": "b",
+          "text": "x(t)=2cos(3PIt/2+0,56)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "214",
+      "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t)=0,6·sin(8PIt+2) (w SI). Okres drgań tego ruchu oraz jego częstotliwość są odpowiednio równe",
+      "answers": [
+        {
+          "key": "a",
+          "text": "T=1s  oraz  f=1Hz"
+        },
+        {
+          "key": "b",
+          "text": "T=0,5s oraz  f=2Hz"
+        },
+        {
+          "key": "c",
+          "text": "T=0,25s oraz  f=4Hz"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "215",
+      "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t)=0,6·sin(8PIt+2) (w SI). Jakie są maksymalne wartości prędkości i przyspieszenia, jakie uzyskuje ten punkt materialny?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "vmax=4,8PI m/s  oraz  amax=38,4PI^2 m/s^2"
+        },
+        {
+          "key": "b",
+          "text": "vmax=2,4PI m/s oraz  amax=8,4PI^2 m/s^2"
+        },
+        {
+          "key": "c",
+          "text": "vmax=0,6PI m/s oraz  amax=0,36PI^2 m/s^2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "216",
+      "question": "Ciało o masie 0,4kg podwieszone do sprężyny k=300N/m wykonuje drgania harmoniczne proste o amplitudzie 0,035m. Ile wynosi energia mechaniczna układu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Em=0,8J"
+        },
+        {
+          "key": "b",
+          "text": "Em=0,184J"
+        },
+        {
+          "key": "c",
+          "text": "Em=0,34J"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "218",
+      "question": "Ciało o masie 0,150kg jest podwieszone do sprężyny z k=6,3N/m. Ciało to poddane działaniu siły okresowej o amplitudzie Fo=1,7N wykonuje drgania wymuszone bez tłumienia. Dla jakiej/jakich częstotliwości siły wymuszającej amplituda drgań będzie równa 0,44m?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "w=8,23s^-1"
+        },
+        {
+          "key": "b",
+          "text": "w=6,02s^-1"
+        },
+        {
+          "key": "c",
+          "text": "w=4,03s^-1"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "219",
+      "question": "Fala poprzeczna rozchodząca się wzdłuż struny opisana jest równaniem u(x,t)=0,1sin(200PIt-20PIx) (w SI). Okres drgań drgań oraz długość fali są odpowiednio równe",
+      "answers": [
+        {
+          "key": "a",
+          "text": "T=0,001s oraz  lambda=0,01m"
+        },
+        {
+          "key": "b",
+          "text": "T=0,01s oraz  lambda=0,1m"
+        },
+        {
+          "key": "c",
+          "text": "T=0,01s oraz  lambda=0,01m"
+        },
+        {
+          "key": "d",
+          "text": "T=0,1s oraz  lambda=0,1m"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "223",
+      "question": "Grupa fal wywołana przez motorówkę porusza się z prędkością 6m/s. Ile wynosi średnia prędkość fazowa fali?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Vf=2Vg=12m/s"
+        },
+        {
+          "key": "b",
+          "text": "Vf=0,5Vg=3m/s"
+        },
+        {
+          "key": "c",
+          "text": "Vf=Vg=6m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "224",
+      "question": "Fala podłużna biegnąca w stalowym pręcie o gęstości 8000kg/m^3 i polu przekroju poprzecznego 2·10^-4m^2 ma postać (w SI): u(x,t)=1·10^-5cos(2,5·10^3PIt-0,5PIx). Ile wynosi długość tej fali i jej prędkość fazowa?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "lambda=4m  oraz  c=5000m/s"
+        },
+        {
+          "key": "b",
+          "text": "lambda=12,56m oraz  c=5000m/s"
+        },
+        {
+          "key": "c",
+          "text": "lambda=4m oraz  c=2500m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "235",
+      "question": "Zależność prędkości kątowej ciała od czasu opisuje wzór w(t) = (3/2)*t*i + (t^2)*j [rad/s]. Wartość prędkości kątowej w 2 sekundzie wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "5"
+        },
+        {
+          "key": "b",
+          "text": "4"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "236",
+      "question": "Zależność prędkości kątowej ciała od czasu opisuje wzór w(t) = (3/2)*t*i + (t^2)*j [rad/s]. Zależność przyspieszenia kątowego od czasu dla tego ciała ma postać",
+      "answers": [
+        {
+          "key": "a",
+          "text": "E(t) = (3/2)*t*i + (t^2)*j [rad/s^2]"
+        },
+        {
+          "key": "b",
+          "text": "E(t) = t*i + 2tj [rad/s^2]"
+        },
+        {
+          "key": "c",
+          "text": "E(t) = (3/2)i + 2tj [rad/s^2]"
+        },
+        {
+          "key": "d",
+          "text": "E(t) = (3/2)i + 2j [rad/s^2]"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "237",
+      "question": "Położenia ciała w zależności od czasu opisuje równanie x(t) = -(t^3) + 10(t^2) + 2[m]. Wybierz wszystkie poprawne",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Droga przebyta przez to ciało w czasie t=1s wynosi 9m"
+        },
+        {
+          "key": "b",
+          "text": "Droga przebyta przez to ciało w czasie t=1s wynosi 2m."
+        },
+        {
+          "key": "c",
+          "text": "Jest to ruch jednostajnie zmienny."
+        },
+        {
+          "key": "d",
+          "text": "Prędkość tego ciała w t=1s wynosi 17 metrów na sekundę."
+        },
+        {
+          "key": "e",
+          "text": "Prędkość tego ciała opisuje funkcja kwadratowa."
+        },
+        {
+          "key": "f",
+          "text": "Przyspieszenie tego ciała nie zależy od czasu."
+        },
+        {
+          "key": "g",
+          "text": "Przyspieszenie tego ciała w t=1s wynosi 14 [m/s^2]"
+        }
+      ],
+      "correct": [
+        "a",
+        "d",
+        "e",
+        "g"
+      ],
+      "images": []
+    },
+    {
+      "id": "238",
+      "question": "Przyspieszenie ciała zmienia się w czasie według zależności a(t)=4t (w SI). W czasie t=0 prędkość wynosiła 2 m/s Wybierz poprawne",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jest to ruch jednostajnie zmienny."
+        },
+        {
+          "key": "b",
+          "text": "Prędkość ciała zmienia się w czasie według zależności v(t) = 2t^2 + 2 [m/s]"
+        },
+        {
+          "key": "c",
+          "text": "Prędkość ciała zmienia się w czasie według zależności v(t) = 2t^2 [m/s]"
+        },
+        {
+          "key": "d",
+          "text": "Prędkość tego ciała jest stała i wynosi 2 [m/s]"
+        },
+        {
+          "key": "e",
+          "text": "Przyspieszenie tego ciała w t=2s wynosi 8 [m/s^2]"
+        }
+      ],
+      "correct": [
+        "b",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "240",
+      "question": "Zaznacz wszystkie prawdziwe stwierdzenia.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Jeďż˝eli ciaďż˝o zaczyna siďż˝ juďż˝ ďż˝lizgaďż˝ po powierzchni, to wartoďż˝ďż˝ siďż˝y tarcia roďż˝nie."
+        },
+        {
+          "key": "b",
+          "text": "Przykďż˝adem siďż˝y kontaktowej jest siďż˝a nacisku."
+        },
+        {
+          "key": "c",
+          "text": "Jeďż˝eli poďż˝oďż˝ymy blisko dwa magnesy, to zauwaďż˝ymy efekt dziaďż˝ania siďż˝y kontaktowej pomiďż˝dzy dwoma magnesami."
+        },
+        {
+          "key": "d",
+          "text": "Jeďż˝eli ciaďż˝o siďż˝ nie porusza, to siďż˝a tarcia statycznego oraz skďż˝adowa siďż˝y, starajďż˝cej siďż˝ poruszyďż˝ ciaďż˝o, rďż˝wnolegďż˝a do powierzchni styku, siďż˝ rďż˝wnowaďż˝ďż˝."
+        },
+        {
+          "key": "e",
+          "text": "Siďż˝y kontaktowe wystďż˝pujďż˝, gdy dwa ciaďż˝a sďż˝ dociskane do siebie"
+        }
+      ],
+      "correct": [
+        "b",
+        "d",
+        "e"
+      ],
+      "images": []
+    },
+    {
+      "id": "260",
+      "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t) = 1,2 sin(4π t + 3) [m]. Amplituda tych drgań [m] wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1.2"
+        },
+        {
+          "key": "b",
+          "text": "4π"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "3"
+        },
+        {
+          "key": "e",
+          "text": "3π"
+        },
+        {
+          "key": "f",
+          "text": "4"
+        },
+        {
+          "key": "g",
+          "text": "12"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "261",
+      "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t) = 1,2 sin(4π t + 3) [m]. Częstość drgań [rad/s] wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1.2"
+        },
+        {
+          "key": "b",
+          "text": "4π"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "3"
+        },
+        {
+          "key": "e",
+          "text": "3π"
+        },
+        {
+          "key": "f",
+          "text": "4"
+        },
+        {
+          "key": "g",
+          "text": "12"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "262",
+      "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t) = 1,2 sin(4π t + 3) [m]. Częstotliwość drgań [Hz] wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1.2"
+        },
+        {
+          "key": "b",
+          "text": "4π"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "3"
+        },
+        {
+          "key": "e",
+          "text": "3π"
+        },
+        {
+          "key": "f",
+          "text": "4"
+        },
+        {
+          "key": "g",
+          "text": "12"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "263",
+      "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t) = 1,2 sin(4π t + 3) [m]. Faza początkowa drgań wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1.2"
+        },
+        {
+          "key": "b",
+          "text": "4π"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "3"
+        },
+        {
+          "key": "e",
+          "text": "3π"
+        },
+        {
+          "key": "f",
+          "text": "4"
+        },
+        {
+          "key": "g",
+          "text": "12"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "276",
+      "question": "Grzejnik elektryczny przy napięciu 110V ma moc 250W. Gdy podłączymy go do napięcia 220V to jego moc [W] wynosi (zakładamy, że opór nie zależy od temperatury)",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1000"
+        },
+        {
+          "key": "b",
+          "text": "24200"
+        },
+        {
+          "key": "c",
+          "text": "500"
+        },
+        {
+          "key": "d",
+          "text": "2000"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "282",
+      "question": "Kondensator w defibrylatorze medycznym o pojemności 70uF jest naładowany do 5000 V. W kondenatorze jest zmagazynowana energia [J] o wartości",
+      "answers": [
+        {
+          "key": "a",
+          "text": "875"
+        },
+        {
+          "key": "b",
+          "text": "1"
+        },
+        {
+          "key": "c",
+          "text": "1750"
+        },
+        {
+          "key": "d",
+          "text": "3500"
+        },
+        {
+          "key": "e",
+          "text": "200"
+        },
+        {
+          "key": "f",
+          "text": "10"
+        },
+        {
+          "key": "g",
+          "text": "100"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "283",
+      "question": "Kondensator w defibrylatorze medycznym o pojemności 70uF jest naładowany do 5000 V.  Około 200J tej energii jest przekazywane człowiekowi podczas 2 ms impulsu. Jaka jest moc [kW] impulsu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "875"
+        },
+        {
+          "key": "b",
+          "text": "1"
+        },
+        {
+          "key": "c",
+          "text": "1750"
+        },
+        {
+          "key": "d",
+          "text": "3500"
+        },
+        {
+          "key": "e",
+          "text": "200"
+        },
+        {
+          "key": "f",
+          "text": "10"
+        },
+        {
+          "key": "g",
+          "text": "100"
+        }
+      ],
+      "correct": [
+        "g"
+      ],
+      "images": []
+    },
+    {
+      "id": "286",
+      "question": "Wybierz wszystkie poprawne. Jeżeli do węzła układu elektrycznego wpływają 3 prądy o natężeniu 20mA każdy, to wartości dwóch wypływających prądów mogą być równe",
+      "answers": [
+        {
+          "key": "a",
+          "text": "I4 = 20mA oraz I5 = 40mA"
+        },
+        {
+          "key": "b",
+          "text": "I4 = 50mA oraz I5 = 10mA"
+        },
+        {
+          "key": "c",
+          "text": "I4 = 30mA oraz I5 = 30mA"
+        },
+        {
+          "key": "d",
+          "text": "I4 = 20mA oraz I5 = 20mA"
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "287",
+      "question": "Jednakowe akumulatory, z których każdy ma opór wewnętrzny r=0,4Ω i siłę elektromotoryczną  E=1,2V łaczymy równolegle w baterię. Oblicz ilość akumulatorów baterii dającej prąd o natężeniu 2A pod napięciem 1V.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "4"
+        },
+        {
+          "key": "b",
+          "text": "5"
+        },
+        {
+          "key": "c",
+          "text": "1"
+        },
+        {
+          "key": "d",
+          "text": "2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "288",
+      "question": "Obwód prądu zmiennego składający się z połączonych ze sobą szeregowo opornika R=16Ω oraz cewki o indukcyjności L=12H zasilany jest sinusoidalnie zmiennym prądem. Jeżeli wartość napięcia skutecznego wynosi 50V, a częstotliwość f=1/2π Hz, to moduł impedancji obwodu [omega] jest równy",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2.5"
+        },
+        {
+          "key": "b",
+          "text": "0.2"
+        },
+        {
+          "key": "c",
+          "text": "2"
+        },
+        {
+          "key": "d",
+          "text": "5"
+        },
+        {
+          "key": "e",
+          "text": "28"
+        },
+        {
+          "key": "f",
+          "text": "20"
+        }
+      ],
+      "correct": [
+        "f"
+      ],
+      "images": []
+    },
+    {
+      "id": "289",
+      "question": "Obwód prądu zmiennego składający się z połączonych ze sobą szeregowo opornika R=16Ω oraz cewki o indukcyjności L=12H zasilany jest sinusoidalnie zmiennym prądem. Jeżeli wartość napięcia skutecznego wynosi 50V, a częstotliwość f=1/2π Hz, to prąd [A] i moduł impedancji [Ohm] są równe",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2.5 A"
+        },
+        {
+          "key": "b",
+          "text": "0.2 A"
+        },
+        {
+          "key": "c",
+          "text": "2 A"
+        },
+        {
+          "key": "d",
+          "text": "5 A"
+        },
+        {
+          "key": "e",
+          "text": "28 A"
+        },
+        {
+          "key": "f",
+          "text": "20 A"
+        },
+        {
+          "key": "g",
+          "text": "20 Ohm"
+        },
+        {
+          "key": "h",
+          "text": "5 Ohm"
+        }
+      ],
+      "correct": [
+        "a",
+        "g"
+      ],
+      "images": []
+    },
+    {
+      "id": "386",
+      "question": "Wynikiem obliczeń [....] wektora a⃗ =(xyz,2xyz,3xyz) jest [.....]",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Poprawna odpowiedź to:Wynikiem obliczeń [dywergencji] wektora a⃗ =(xyz,2xyz,3xyz) jest [liczba yz+2xz+3xy]."
+        },
+        {
+          "key": "b",
+          "text": "Pozdro poćwicz."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "393",
+      "question": "W pewnym kondensatorze C1 zgromadzono energię o wartości E. Inny kondensator C2 zgromadził energię o wartości E2=9E Wskaż prawdziwe zdania.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Na kondensatorze drugim mógł być zgromadzony ten sam ładunek co na pierwszym, ale napięcie było 9 razy większe."
+        },
+        {
+          "key": "b",
+          "text": "Kondensatory miały tą samą pojemność, a napięcia wynosiły odpowiednio U1 oraz U2=3U1"
+        },
+        {
+          "key": "c",
+          "text": "Pojemności obu kondensatorów były takie same, zaś drugi kondensator zgromadził 9 razy więcej ładunku."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "424",
+      "question": "Podstawowa częstotliwość struny o długości L i masie jednostki długości μ wynosi f. Jaką siła była napięta ta struna?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "F = 4Lfμ"
+        },
+        {
+          "key": "b",
+          "text": "F = L^2f^2μ"
+        },
+        {
+          "key": "c",
+          "text": "F = 4L^2f^2μ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "432",
+      "question": "Obserwator porusza się względem nieruchomego Ÿródła dŸwięku o częstotliwości f z prędkością v. Jeżeli obserwator zbliża się do Ÿródła dŸwięku słyszy dŸwięk o częstotliwości f1, jeżeli oddala się to słyszy dŸwięk o częstotliwości f2. Między częstotliwościami zachodzi związek",
+      "answers": [
+        {
+          "key": "a",
+          "text": "f1-f=f-f2"
+        },
+        {
+          "key": "b",
+          "text": "f1-f>f-f2"
+        },
+        {
+          "key": "c",
+          "text": "f1-f<f-f2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "433",
+      "question": "Prędkość dŸwięku w stali wynosi c. Uderzono młotem w jeden z końców pręta o długości L. Człowiek stojący na drugim końcu rejestruje najpierw drgania pręta, a potem odgłos uderzenia. Jaka była różnica czasu między tymi dwoma zarejestrowanymi falami?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "147a.jpg"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "147b.jpg"
+        },
+        {
+          "key": "c",
+          "text": "",
+          "image": "147c.jpg"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "434",
+      "question": "Podstawowa częstotliwość struny o długości L i masie jednostki długości µ wynosi f. Jaką siła była napięta ta struna?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "F=4L*f*µ"
+        },
+        {
+          "key": "b",
+          "text": "F=L^2*f^2*µ"
+        },
+        {
+          "key": "c",
+          "text": "F=4L^2*f^2*µ"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "436",
+      "question": "Do wektora o długości 4 dodano wektor o długości 5. W wyniku tego działania otrzymano wektor wypadkowy, którego długość nie może być równa.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "10"
+        },
+        {
+          "key": "b",
+          "text": "9"
+        },
+        {
+          "key": "c",
+          "text": "4"
+        },
+        {
+          "key": "d",
+          "text": "1"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "437",
+      "question": "W kartezjańskim układzie współrzędnych dane są dwa wektory: a =-10i+0,75j-k oraz b? =10i+5k. Wyznacz wektor c =2·(a +b ).",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c =20i+0,75j+4k"
+        },
+        {
+          "key": "b",
+          "text": "c =-20i+8k"
+        },
+        {
+          "key": "c",
+          "text": "c =1,5j+8k"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "438",
+      "question": "W kartezjańskim układzie współrzędnych dane są dwa wektory: a =-10i+0,75j-k oraz b =10i+5k. Wyznacz wektor c =1/2·(a -b ).",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c =-10i+0,375j-3k"
+        },
+        {
+          "key": "b",
+          "text": "c =10i-0,375j-8k"
+        },
+        {
+          "key": "c",
+          "text": "c =1,5j+8k"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "440",
+      "question": "W kartezjańskim układzie współrzędnych dane są dwa wektory: a =-10i+0,75j-k oraz b =10i+5k. Wyznacz wektor c =(2a -b )-a",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c =-20i+0,75j-6k"
+        },
+        {
+          "key": "b",
+          "text": "c =10i-0,75j-8k"
+        },
+        {
+          "key": "c",
+          "text": "c =1,5j+8k"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "441",
+      "question": "Wektor o współrzędnych a =-3i+3–sqrt(3)*j jest nachylony do osi x kartezjańskiego układu współrzędnych pod kątem",
+      "answers": [
+        {
+          "key": "a",
+          "text": "135"
+        },
+        {
+          "key": "b",
+          "text": "150"
+        },
+        {
+          "key": "c",
+          "text": "315"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "442",
+      "question": "Na szerokości geograficznej północnej fi 60, samochód ważący 2 tony jedzie z południa na północ z szybkością V=100kmh. Ile wynosi siła Coriolisa działająca na ten samochód?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Fc ~32N"
+        },
+        {
+          "key": "b",
+          "text": "Fc ~25N"
+        },
+        {
+          "key": "c",
+          "text": "Fc ~7N"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "443",
+      "question": "Pojazd przejechał 1/3 drogi z szybkością v1=10m/s i pozostałe 2/3 drogi z szybkością v2=20m/s. Ile wynosi średnia szybkość pojazdu na całym odcinku drogi?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "12ms"
+        },
+        {
+          "key": "b",
+          "text": "15ms"
+        },
+        {
+          "key": "c",
+          "text": "18ms"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "444",
+      "question": "Rybak płynie łódką w górę rzeki. Przepływając pod mostem gubi zapasowe wiosło, które wpada do wody. Po godzinie rybak spostrzega brak wiosła, wraca z powrotem i dogania wiosło w odległości 6km poniżej mostu. Jaka jest prędkość rzeki, jeśli rybak poruszając się zarówno w górę, jak i w dół rzeki wiosłuje jednakowo? Załóż, że wiosło unoszone jest przez rzekę z prędkością jej nurtu.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "3km/h"
+        },
+        {
+          "key": "b",
+          "text": "4km/h"
+        },
+        {
+          "key": "c",
+          "text": "5km/h"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "445",
+      "question": "Dane są dwa wektory. Ile wynosi iloczyn wektorowy c =a x b ? Współrzędne wektorów wynoszą: a =(1/3)i + 2j - k oraz b =(-1/2)i+3j+(3/2)k.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "c =6i+2k"
+        },
+        {
+          "key": "b",
+          "text": "c =(1/2)i + j - (1/3)k"
+        },
+        {
+          "key": "c",
+          "text": "c =(-3/2)i - 2j - (1/3)k"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "446",
+      "question": "Które z podanych par wektorów są równoległe?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a =sqrt(2) – i -4j oraz b = (1/2)i + 2*sqrt(2) – k"
+        },
+        {
+          "key": "b",
+          "text": "a =-4j oraz b = (1/2)i + 2*sqrt(2)k"
+        },
+        {
+          "key": "c",
+          "text": "a =sqrt(2)i - 4j - k oraz b = 2i - 4*sqrt(2)j -sqrt(2)k"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "449",
+      "question": "Pociągi A oraz B jadą po sąsiednich torach z szybkościami odpowiednio vA=70km/h oraz vB=90km/h. Oblicz wartość prędkości względnej pociągu B względem A wiedząc, że pociągi poruszają się w przeciwne strony.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wartość prędkości względnej (szybkość) wynosi vw=160km/h."
+        },
+        {
+          "key": "b",
+          "text": "Wartość prędkości względnej (szybkość) wynosi vw=50km/h."
+        },
+        {
+          "key": "c",
+          "text": "Wartość prędkości względnej (szybkość) wynosi vw=20km/h."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "450",
+      "question": "Długość rozbiegu samolotu wynosi 600m, a wartość prędkości w chwili oderwania wynosi 100m/s. Ile wynosi przyspieszenie samolotu podczas rozbiegu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Podczas rozbiegu samolot poruszał się z przyspieszeniem a=8 i 1/3 m/s2."
+        },
+        {
+          "key": "b",
+          "text": "Podczas rozbiegu samolot poruszał się z przyspieszeniem a=9 i 1/3 m/s2."
+        },
+        {
+          "key": "c",
+          "text": "Podczas rozbiegu samolot poruszał się z przyspieszeniem a=4 i 1/3 m/s2."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "451",
+      "question": "Vśr = 2*sqrt(2) - 3j [m/s]",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Vśr = i-3j [m/s]"
+        },
+        {
+          "key": "b",
+          "text": "Vśr = 2i-6j [m/s]"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "026.jpg"
+      ]
+    },
+    {
+      "id": "452",
+      "question": "Cząstka porusza się po linii prostej. Zależność jej położenia od czasu określa równanie x(t)=0,5t^2-t[m]. Określ średnią prędkość cząstki pomiędzy 2 a 6 sekundą ruchu.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "vśr=8m/s"
+        },
+        {
+          "key": "b",
+          "text": "vśr=6m/s"
+        },
+        {
+          "key": "c",
+          "text": "vśr=3m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "453",
+      "question": "Cząstka porusza się po linii prostej. Zależność jej położenia od czasu określa równanie x(t)=0,5t^2-t[m]. Określ średnią prędkość cząstki pomiędzy 0 a 3 sekundą ruchu.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "vśr=2,25m/s"
+        },
+        {
+          "key": "b",
+          "text": "vśr=0,75m/s"
+        },
+        {
+          "key": "c",
+          "text": "vśr=0,5m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "454",
+      "question": "Zależność przebytej przez ciało drogi S od czasu podaje równanie S=-1-0,5t+2t^2+3t^3. Po jakim czasie od rozpoczęcia ruchu przyspieszenie ciała będzie równe 5,5m/s^2?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "3s"
+        },
+        {
+          "key": "b",
+          "text": "2s"
+        },
+        {
+          "key": "c",
+          "text": "1s"
+        },
+        {
+          "key": "d",
+          "text": "1/12s"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "455",
+      "question": "",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "031b.jpg"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "031c.jpg"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "031.jpg"
+      ]
+    },
+    {
+      "id": "456",
+      "question": "t ~1,35s",
+      "answers": [
+        {
+          "key": "a",
+          "text": "t ~2,35s"
+        },
+        {
+          "key": "b",
+          "text": "t ~0,35s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "032.jpg"
+      ]
+    },
+    {
+      "id": "457",
+      "question": "£ódŸ płynie z prądem rzeki z przystani A do B w czasie t1=3h, a z B do A w czasie t1=6h. Ile czasu trzeba, aby łódŸ spłynęła z przystani A do B z wyłączonym silnikiem?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "t=6 h"
+        },
+        {
+          "key": "b",
+          "text": "t=12 h"
+        },
+        {
+          "key": "c",
+          "text": "t=18 h"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "458",
+      "question": "Siła F =-3i+j działa na punkt materialny którego położenie w kartezjańskim układzie współrzędnych określa wektor r =7i+3j. Który wektor przedstawia moment tej siły względem początku układu współrzędnych?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "M =16i"
+        },
+        {
+          "key": "b",
+          "text": "M =16j"
+        },
+        {
+          "key": "c",
+          "text": "M =16k"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "459",
+      "question": "Zależność przebytej przez ciało drogi S od czasu podaje równanie S=-1-0,5t+2t^2+3t^3. Jakie będzie średnie przyspieszenie w przedziale od 1 do 2 sekundy czasu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "31ms2"
+        },
+        {
+          "key": "b",
+          "text": "15ms2"
+        },
+        {
+          "key": "c",
+          "text": "4ms2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "460",
+      "question": "Z powierzchni Ziemi rzucono piłkę pionowo do góry, z prędkością v0=5m/s. Równocześnie z wysokości, na jaką wzniesie się wyrzucona do góry piłka, zaczyna spadać druga piłka, rzucona z taką sama prędkością początkową w dół. Ile wynosi prędkość pierwszej piłki w chwili spotkania z drugą piłką? Opór powietrza pomijamy.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "v1=10m/s"
+        },
+        {
+          "key": "b",
+          "text": "v1=6,25m/s"
+        },
+        {
+          "key": "c",
+          "text": "v1=3,75m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "462",
+      "question": "Wskaż prawidłową wartość kąta między wektorami a =2i-6j oraz b? =(6+2*sqrt(2))i + (2-6*sqrt(2))j.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "fi ~ 35,3"
+        },
+        {
+          "key": "b",
+          "text": "fi ~ 54,7"
+        },
+        {
+          "key": "c",
+          "text": "fi ~ 15,5"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "470",
+      "question": "Wektor prostopadły do wektora a =-2i+sqrt(5)j to wektor",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a =(-2/3)i + (sqrt(5)/3)j"
+        },
+        {
+          "key": "b",
+          "text": "a =2i - sqrt(5)j"
+        },
+        {
+          "key": "c",
+          "text": "a =(sqrt(5)/3)j + (2/3)j"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "472",
+      "question": "Rowerzysta przez 20 sekund przyspiesza. Jaką prędkość, po tym czasie, osiągnie rowerzysta? Promień koła wynosi R=0,742mm, a przyspieszenie kątowe kół ma wartość ?=0,674rad/s2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "v=10m/s"
+        },
+        {
+          "key": "b",
+          "text": "v=12m/s"
+        },
+        {
+          "key": "c",
+          "text": "v=14m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "473",
+      "question": "Kąt obrotu promienia koła od czasu opisuje równanie: fi(t)=sqrt(2)+2t^2+(1/3)t^3. Oblicz prędkość kątową w chwili t=1s.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "omega(1) = 5 rad/s"
+        },
+        {
+          "key": "b",
+          "text": "omega(1) = (sqrt(2)+ 7/3 ) rad/s"
+        },
+        {
+          "key": "c",
+          "text": "omega(1) = 4 rad s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "474",
+      "question": "Kąt obrotu promienia koła od czasu opisuje równanie: fi(t)=sqrt(2)+2t^2+(1/3)t^3. Oblicz prędkość liniową w chwili t=1s. Promień koła wynosi R=2m.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "v = 2 m/s"
+        },
+        {
+          "key": "b",
+          "text": "v = 5 m/s"
+        },
+        {
+          "key": "c",
+          "text": "v = 10 m/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "475",
+      "question": "Obroty kola wynoszą 1500 obr/min. W pewnym momencie koło zaczyna wytracać prędkość. Po 30 sekundach, od momentu rozpoczęcia hamowania, zatrzymuje się. Oblicz przyspieszenie kątowe oraz liczbę obrotów, jakie wykonało koło w czasie hamowania.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "e=5rad/s2, a liczba obrotów wynosi 350"
+        },
+        {
+          "key": "b",
+          "text": "e=-2,4rad/s2, a liczba obrotów wynosi 400"
+        },
+        {
+          "key": "c",
+          "text": "e=-5,24rad/s2, a liczba obrotów wynosi 375"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "476",
+      "question": "Krzesełka karuzeli rozmieszczone są tak, że przy obrocie karuzeli zakreślają koło o promieniu R=10m. Prędkość kątowa karuzeli wynosi omega = pi/2* rad/s. Wyznacz okres oraz przyspieszenie normalne krzesełka karuzeli.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "T=4(pi)^2s oraz an=10(pi)^2 rad/s2"
+        },
+        {
+          "key": "b",
+          "text": "T=1s oraz an=(5pi) rad/s^2"
+        },
+        {
+          "key": "c",
+          "text": "T=4s oraz an=(5pi)/2 rad/s^2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "477",
+      "question": "a=R*pi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a=R*omega^2"
+        },
+        {
+          "key": "b",
+          "text": "a=R*omega"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "050.jpg"
+      ]
+    },
+    {
+      "id": "480",
+      "question": "Człowiek ciągnie skrzynie o masie 100kg ze stałą prędkością za pomocą liny, która w czasie ruchu jest nachylona do poziomu pod kątem alfa. Ile wynosi ten kąt, skoro człowiek ciągnie za linę z siłą F=2000N?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a=60"
+        },
+        {
+          "key": "b",
+          "text": "a=30"
+        },
+        {
+          "key": "c",
+          "text": "a=20"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "481",
+      "question": "Dwa klocki połączone sznurkiem są podnoszone pionowo w górę ze stałą prędkością. Wiedząc, że masa górnego i dolnego klocka wynosi odpowiednio 4 kg i 1 kg. Oblicz siłę naprężenia łączącego je sznurka.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "FN=10N"
+        },
+        {
+          "key": "b",
+          "text": "FN=20N"
+        },
+        {
+          "key": "c",
+          "text": "FN=40N"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "484",
+      "question": "Pod wpływem działania stałej siły F=200N, skierowanej pod kątem 30 do poziomu, po gładkiej powierzchni, porusza się skrzynia o masie 100kg. Oblicz przyspieszenie, z jakim porusza się skrzynia.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a=sqrt(2) m/s^2"
+        },
+        {
+          "key": "b",
+          "text": "a=sqrt(3) m/s^2"
+        },
+        {
+          "key": "c",
+          "text": "a=2 m/s^2"
+        },
+        {
+          "key": "d",
+          "text": "a=3 m/s^2"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "486",
+      "question": "Jaką siłę ciągu musi posiadać silnik rakiety o masie 50 ton, aby rakieta mogła wystartować z przyspieszeniem a=2g. Do obliczeń przyjmij g=10 m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "F=0,5MN"
+        },
+        {
+          "key": "b",
+          "text": "F=1MN"
+        },
+        {
+          "key": "c",
+          "text": "F=1,5MN"
+        },
+        {
+          "key": "d",
+          "text": "F=2MN"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "487",
+      "question": "Punkt materialny porusza się ze stałym przyspieszeniem kątowym po okręgu. Po 2 sekundach liczonych od momentu rozpoczęcia ruchu, siła dośrodkowa będzie 2 razy większa od siły stycznej. Ile wynosi przyspieszenie kątowe?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "e=(1/10) * rad/s^2"
+        },
+        {
+          "key": "b",
+          "text": "e=(1/8) * rad/s^2"
+        },
+        {
+          "key": "c",
+          "text": "e=(1/4) * rad/s^2"
+        },
+        {
+          "key": "d",
+          "text": "e=(1/2) * rad/s^2"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "493",
+      "question": "Lokomotywa ciągnie ze stałą prędkością wagon o masie 30000kg, działając siłą F=10kN. Ile wynosi wartość wypadkowej wszystkich sił działających na wagon?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Fw=10kN"
+        },
+        {
+          "key": "b",
+          "text": "Fw=0N"
+        },
+        {
+          "key": "c",
+          "text": "Fw=30kN"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "494",
+      "question": "Masę m1 z masą M.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Masę m1 z masą m2."
+        },
+        {
+          "key": "b",
+          "text": "Masę m2 z masą M."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "066.jpg"
+      ]
+    },
+    {
+      "id": "495",
+      "question": "Moment sił liczony względem punktu A wynosi zero.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Wartość siły RBY jest większa od wartości siły RBX."
+        },
+        {
+          "key": "b",
+          "text": "Wartość siły RBX jest większa od wartości siły RBY."
+        },
+        {
+          "key": "c",
+          "text": "Moment sił liczony względem punktu A wynosi M=-200N."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": [
+        "067.jpg"
+      ]
+    },
+    {
+      "id": "499",
+      "question": "!¼Ę‚�ż\u001e0éôÇ?P+{FÕ`Öô{mFÑł\u001cè\u001b\u001fÝ=Á÷\u0007#ð \u000bÔQE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000q\t¨ÉáMSR\u0016ú%õõ�ÍÏŸ%Í¼¢R®UA\u001b06Œ(ã&Ż[|GðÌïåÍöIç�Ê”jÕÑ4«-.MA¬%ó\nÕÑžo›;\\ªŒ{p£Šąuai}\u001eËËx§_I\u00140\n+â�\n×rę–Äzïª7¾?ðÕˆÃę‘K'h¢ù™¾‚§\u0003øZFÝ'‡ôÖoSlżáWìtM/Lź\u0000�vŸmkź\u0000\\¢\u000bü¨\u0003•ŸPń'Œ1o¤[I¢i�Ä——+ûé\u0017Ñ\u0017¶}rk¨ÑtK-\u0003NK=>=¨9g<ł·rOsZ\u0014P\u0000@`A\u0019\u0007‚+ˆÒ‡ü\"\u001e5›Is·KÕ˜ÏfOHåęéøśŸÆ»zÃńv�ź\u0000\t\u0006„ðÀÞUä,&´—¼rŻ*0(\u0003rŠÃð–»ý½ Ç<«åÝÂL71\u001e© ę\u000fó­Ê\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000ËÑt»=6MA¬¦iMÕÑš`Ì\u000eÇÚ£\u001eÜ\u0001Z•™£éVzdºƒXÊdk«“4À¾íŻµF=¸QÅiÐ\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0007\u000fª\u0003á\u000f\u001aÇ¬'ËĄjÄAx;G/ðżã’\u000fÐWqTu�*\nkG¸Óî—ts!_¡ìk\u000fÀÚĄÌ–sèšłgRÒ›É�ŸùjƒîIøŒ\u001fÆ€:ª(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€2´]*ÇLŸQ{\t|Æ»º3N7çkíQ�n\u0014V­fi\u001a]–�> ö2¼�urfś3†ÚûT`z\f\u0001ÅiÐ\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001\\gŒ­ćÑ5KO\u0016Ę!?fÄ7ńŻü´€śgßiÁú\nìę9àŽćÞH'@ńHĄ\u001dOpF\b \u0004¶¸ŽîÖ+ˆ\u0018<R taÜ\u001a–¸ż\b\\K¡k7~\u0013żbD9ŸO‘żŽ\u0013ü?Psøb»J\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000ËÑ´«\u001d6ãQ’Â]ïwrfśoÝµö¨Ç·\u0000qZ•—£é–Z}Î£%ŒÆGºąó§\u0005łµö¨Ç·\u0000VĄ\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000r~?±‘t„×¬0·ú97\u0011\u001fï¨ûÈ}Ž+sBÖ-õí\u0016ÛQ´9Žt\nƒÕsĘÔÚś¶°éw2j\u0000\u001beŒ™A\u0019ù{×’é~ }\u0013Pi4†Í‘o–\">RżNÕÁŒÆÇ\tÊć´�èà°2Æ)¨=V¾§²QY:\u001fˆ¬õÈ3nÛf\u0003çˆžEkW]:�«\u00158;¦qT§:RpšłAE\u0014V†aE\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0006f‘ĄĘé×ZŒ–2´�wqçN\u000bîÚûTcÛ€8­:ÊÑô»\n:ïR–ÆQ$—w>uÀ\u000f»kíQ�n\u0000âµh\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0002®§-¬:]Äš€\u0006Õc&PFA^õãÚĘµþÔy4å\u000bk(\u0012D\u0000ÀÚzW°ęsZÛéw2ę \u001bTŒ™C.á·ż\u001dëË¼R–÷\u001a­´ºJ£\\@†\u0005DÇ\u0018ã\u0003µxYä9°ÉögÐd3åÄµÝ\u0018–×SYÜ,ÖÒ4r)Èe5é\u001e\u0019ń¤zŽÛ]Dyw\u001d\u0003�ºź\u0000á\\]Æ‡6‰5”ÚÄ;­ć ²ƒÈ\u0019éÇ|W¨éúf––±Égi\u0006ÆPU¶\u0002Oã^vSG\u0013\u001a�)rÛtÏK8­…�(·\u001ekí%þf�\u0014Q_\\|hQE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0001™¤é–6\u0017šŒ¶R´’]\\ył†|í}ª0=8\u0002´ë/IÒì4ûÝJk\u0019wËwqćÜ\nû¶¾Õ\u0018Çn\u0000âµ(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0002®§-¬\u001a]Ìº€\u0006Õ#&PFr½ę…Ž›¦^½ž«j€Ä°�\u0002ã…SÐÕýR[Ht«™5\u0015V´XÉ˜2ä\u0015ï‘F™%¬Ú]¼šrªÚ´`Ä\u0014`\u0005í�S(FzI\u0017\u0019Ê\u001aÅĘ­â\n!5�\"[f\u0003~3\u001bz7jç¼\n«ºyº5éÄÐ“åîôî+´®\u000fÆ:|ºV­\u0006»`1ó~÷\u001d�Żã^f6.Œã‹‡M%ćżà\u001e¦\u0006J¼%ƒŸ]cäź\u0000à�å\u0015SKÔ\"Õ4èná?,‹’=\u000fqVëÓŒ”âĄ\u001d™åJ.\u0012q–è(¢Š¢BŠ( \u0002Š( \u0002Š( \u0002Š( \u0002Š( \u0002Š( \u0002Š( \u0002Š( \u0002Š( \u0002Š( \u0002Š( \f­#L±°¾Ô¦±—|·W\u001emÀÝ�ŻµF=¸\u0002µk3JÓ,,/µ)¬eg–îãÍ¸\u0005÷m}ª0\u0007n\u0000â´è\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0002®©5­¾•s6¢\u0001µHËJ\bÎWż\u0014iłZÜi–òéà\u000bgŒ\u0018€\u0018Âöâ“T–Ö\n*ć]D\u0006µHÉ”\u0011�W½;M–Úm2ÞK\u0000\u0016Ù£\u0006 \u00060½¨\u0002ÍWż²�P±–Öq”‘qV(Ą(©+1ÆN-InŽ\u0003Â—’h\u001aôú\u001dń!\u001d�–OŻoÎ»úãüu£¼¶ńę¶c\u0013Û�[\u001dHõü+gÃZÂë:<sg÷¨6H=\bŻ+\u0007'B¤°’é¬}?à\u001e¾:+\u0011J8ÈuÒ^½þf½\u0014Q^±ã…\u0014V}ć�——\u0006Vººˆ‘�±I�ùb¢nI{ªåÁEżyĘÐ¢±ź\u0000á\u001d�þïź\u0000ï÷ź\u0000Z�øGcź\u0000Ÿûź\u0000ûýź\u0000Ö¬ąęź\u0000'âkìèź\u0000?àZk™ìśý­|È\tâT\u001ft´?­\\GYc\u000f\u001b\u0006V\u0019\u0004\u001eµÎÜép«\u0018-Ż/®'Ç\b'à}N8\u0015©£é‡L¶(Ò´ŒÇ'' \u001fń÷¨ĄR£Ÿ+ZzšU§MC™=}-sBŠ(®łŒ(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000ÊÒtË\nCSžÆPó]Üy·\nv×Ú£\u0018íÀ\u0015«YzV›ae¨jSÙJÏ5ÔþeÂ–Î×Ú£\u001eÜ\u0001Z”\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0001STžÒÛIą›R\nÖ‰\u0019iƒ.àWż\u001déÚl¶łé¶òéáVÙã\u0006 «´\u0005íÇjn©5­¾“s6¢7Z¤dÊ\bÎW½;N–Ú}6Þ[\u0011‹wŒ\u0018À\u0018Âö \bµ]kMÑ-¼ýVò\u001bXÉÀ28\u001b¾ƒ½7O×´½RÉîìo š\bþû‡\u001f'×ÓńŻ\"Ò.á8øùz5/ßĘé\nV\u001bwå\u0001\u0003\u0019Ç›&µ~/Û\u001f\fh7:Î�\u001aÂ·‘\u001b;˜ã\u001bT–å_\u0003¸Ã~t\u0001é¶·Ö\u001aÍ›½•Ì7�6Qš'\u000e§ÔdW\nhïàź\u0000\u00185¼¤‹+’0{\u0000O_Â®|\u001eÒ²>\u0019iˆË†�\fäúï;‡ó­�\u0018hżÚÚ;4+›ˆ>dÇjó±Ôe8*´þ(jżTzY}xÂn�O‚z?ÑüŽ€\u0010@#�h®cÁ:×öŽ—öYÛ7\u0016ß)ÏR=k§®º\u0015£^š©\u001d™Éˆ¡,=WN[ ¢Š+c\u0003\u0007^ń#h-\u0019žÍ¤II\bÊÃś~52ęz«Æ\u0019tY0Ã#÷È?­`ø�ź\u0000jøËNÓG1Å‡lž@+®º¼†Æ\u0000ò°\u0003!T\u000e¤šó)Îu*Ô¼í\u0018»tùô=Z”éÓĄJÐNRW{÷Ó©‰m®É\u0006­\u0016�&‘%łÎÙÝ• úśƒÍtu\u0004–©-Ü7\n÷â\u0007oâ1S×e\u0018N\u0017RwíèpÖś'g\u0005m5õù…\u0014Q[˜\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0019zV—ac¨ęw\u00162ošîq-ÊïÝµö¨Æ;p\u0007\u0015©YZV›§Ùjz¤ö2‡žęq%Ê‡Î×Ú£\u0018íÀ\u0015«@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u00155Y­-ô›™u%V´HÉ˜0È+ßŠv�-´Úm¼–\n\u0016Ù£\u0006 £\u0000/n)º­ÅĄ®“s>¤\u0001´Ž2Ó\u0002»²½øïNÓ¦¶¸Ómå±\u0000[:\u0003\u0010\u000bŒ/n(\u0003Æ¼\u0013lÞ\u001eý 5Ë+Áå›Õi!-Àp~n?:µńëT7pi^\u001c²VžyçóåŠ>Jªô'ó?•zF½á\u001d'ÄSCq}\u000b-ÝąÌ70ąI\u0013ń\u001fÈÔ:_�ôm.ö[Ñ\u000bÜÞÌ»\u001ećâC#íô\u0019<~\u0014\u0000¾\u0017Öô«�7M°Ò§Y€²I\u0014!\u0007b\u0000\u0007>‡Úº\u001açü5à�\u0017Âs]K£[yOtÙrXś\fç\u0003=\u0005o’\u0015Ic€:“@\u001e{­Äþ\u0013ń\\Z�¸Ûk;|ã \u0019ę?ÏĄwöóÇso\u001cÐ¶ä‘C)Ż=ÖÖo‰7Ía¦HSE°rÒ]/ü¼J8\b§Ðs’=«CÀº¬‘<º%éÄ°±òÃ{u\u0015äÓ¶\u0013\u0013ìþÌõ^O·Ìö*_\u0019…öŸjž�Íwù\u001dµ!!T“À\u0003&–±¼K¬ÛéšEÈi�NÈU#Ýó\u001cńÒ½*µ#J\u000erÙ\u001ee*r«5\b­YÍhVKâ\u000f\u0013ęWó¼¨ˆÛQ£r§ÓŻá[\u0013xe\u0017_±ž9§–8ÉgY\\°éïQø\u0004Û&‡„™\u001ay\\»¨a¸}Gá]Uy˜<-:˜xÎJí¾o�îz˜ÜUJx‰B\u000eÉ._•¬\u0014Se$DÄ0R\u0007SÐVV�«K¨ZÜ}¡V;ˆ\u001c†P8Çc^śªF2Q{łÊ�9J\u000ekdkÑUtégžÍeą)—ù—`íÚ­UF\\É2e\u001eVÓ\n(¢¨�¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0003/LÓl,µ-NâÊFyî§\u0012\\©|í}ª0\u0007n\u0000­JËÒôÍ>ËTÕ.,eW¸»śIr¡÷m}ª1ŽÜ\u0001Z”\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0001OV¸´µÑî§Ô€kHâ-0#9^õ—¢xÃÃz�¬KĄę\u0010*í\u0001bc°¨ôÁ­MZ{;]\"ę}MU­#Œ´ÊË¸\u0015ï‘Þł\u001fÃ^\u0019ń\u0006Ÿ\fòi\u0016sE\"\u0006�Íº†\u0003¶\u000e2(\u0003m.!“îJ�ô`iZh�eäE\u001eì\u0005roðË@ÎmßPµô\u0016÷ò \u001f€jEøe¡“þ‘>©sí6£3\u000fÈµ\u0000ięÞ3Ð´a‹«äyOÝ†\u001f�Ęú\u0000+\t ×ürû/b“EÐ�X·¤\\�~È?:é4Ÿ\u000bhš\u001fÍĄé–Öòw‘c\u001bÏÕºšÖ\nö\u0016\u0016ºe”v–\u0010¬0D»Q\u0014p\u0005qž4ÓåÓ5(5Û\u0001µƒ\u000f3\u001e¾żÒ»º‚öÎ+û)m§\u0019I\u0014©ö®L^\u001fë\u0014ś:î½NÌ\u001e'ęÕ”ÞÛ5Ý\u0011iZŒz¦›\u0015Ô'‡^G¡ô«M\u0014nrè­õ\u0019®\u0007Â÷’øÄ3h—§\u0011Hß»' ?ýé^�SƒÄ}b•åń-\u001aó+\u001b‡ú½kGáz§äÆ¬hŸq\u0015~ƒ\u0014ę(®ÝŽ\u001dÊzś�lÌe€3\u0011\u0010çûÇ\u001fÖ±õ8Ą°Ö\"’Ę\u0012·±ù\u000fŽÌ:\u001fÈšè%·†vS4I!S•, âśÑ£íÜ í9\\Ž†ąªÑu:Ûk\u001dT«*vÒûÜ#EŽ5D\u0018U\u0018\u0002�E\u0015Òr…\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0019zf�agªjw\u0016R—žęa%ÊîÎÖÚ\u00061Û€+R²ôÍ7OłÕ5;›)7\\]Ì$ą]û¶¶Ð:và\nÔ \u0002Š( \u0002Š( \u0002Š( \u0002Š(\nz´ö–ºEÔúŠî´Ž2ÒŒg+ßŠ“O–Þ}:\tl†-Ý\u0001Œc\u0018^Õ\u001eŻ=Ą¶�u>¤¡­#Œ´Á†A^üTš|¶óiÐId\u0002Û²\u0003\u0018\u0003\u0000/j\u0000±E\u0014P\u0001E\u0014P\u0001E\u0014P\u0007#ã�\u0018Ïhš� ÅÅ·-Žëź\u0000Ö­_\u000bë+­hńÊÇ÷Ñ�²�_ÆµäE’6G\u0019V\u0018\"¼ö\u0006\u0007xÀÂÙû\nÉÀô\u0000ôü«ÈŻþÉ‰U×Ã-%ëÑžÍ\u000föÌ3 þ8k\u001fN¨ôJ)\u0015ƒ(e9\u0004d\u001fZZõÏ\u0018(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000ÊÓ4í:ÓUÔî,ĄW¸º˜=Ê‡ÎÖÚ\u00061Û€+V²ôÝ;O´Õu+‹)\u000b\\]J\u001eåKçkm\u0003§n\u0000­J\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000(¢Š\u0000§«ÜÙÙè÷W\u001aš†´Ž2Ó\u0002»²½øïRXMoq§Á-�\u0002ÝÐ\u0018À\\a{qQę÷\u0016–º=Ôú’î´Ž2Ó\fg+ßŠ’ÂX'Óà–Ìb\u0007@c\u0018Æ\u0007j\u0000±E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001X>.Ñ\u0006±£±Œ¤@7Æ}}EoQYVĄ\u001aÔÝ9lÍhÖ•\u001aŠ¤7G/à�lßéÆÊàź\u0000¤Úü§=H®¢¼÷]·“ÂÞ)‹UµSöi›çQúŠïm®#»¶Žx\u001btr(e\"¸°\u0015egB§Å\n=WFwć\u0014cÌ±\u0014¾\u0019ëèú¢Z(¢½#Ë\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€\n(¢€2ôÍ7NłÕµ+›)\u0015®nĄ\u000fr¢MÛ[h\u0003ŽÜ\u0001Z•—¦éú}®­©\\YIºććP÷+»;[h\u0003ŽÜ\u0001Z”\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0000QE\u0014\u0001OW¸ł´Ñî®55W´Ž\"Ó+.àWż\u001dęK\tmçÓà–ÍBÀè\f`.\u0000\u001d¸¨õ{›K=\u001eęãR]Ö‘DZa·9^üw©,e‚{\b%´\u0018�Ð\u0018Æ1�ÛŠ\u0000±E\u0014ß1?¾ż�\u0000:Šo˜Ÿß_Î ¼�í6å!º0>A\u000e„^Ô\t»\"Í\u0015‘\u000eŻ%¤‰o¬„Gn\u0016â1ˆśź\u0000ì§Û5ŻI;Š3RĘ(¢Še\u0019úć•\u001e±¤Ëk&\u0001a”oîžÆą�\u0003ę’[M6‰}•–\"|°ß¨®Þ¸_\u001aé²X_Á®Ę‚¬¬<Üzú×•Ž‹Ą8âá¼wó_ð\u000f_\u00018Ö„°•6–«Ê_ðNęŠĄ¤jQęÚd7q\u0011óŻÌ=\u000fqWkÓ„”âĄ\u001d™åN\u0012„śeº\n(¢¨�¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0003/MÓ´ëM[Rą²�µÍÔ¡îW~v¶Ð\u0007\u001d¸\u0002µ++MÓôë]_Rą²‘Zęć@×*\u001f%[h\u0003#·\u0000V­\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000\u0014QE\u0000RÖ.,í4k»�MCZG\u0011i”Œ‚½ø©le‚k\b$´\u001b`d\u00060\u00060;TZÅÕ�–�ws©¨k8¢-2²n\u0005G^;ÔÖ3Aqa\f¶€\b\u001d\u0001Œ\u0005Æ\u0007n(\u0002I¢IáxĄ\u001b‘Ô«\u000fPk\u0000ø\u000fÃ¤äéé]\u0015Gp²´\f p’c†a�*\\SÝ\u0019T§\të8ÜÀź\u0000„\u000bÃżô\u000fJ†ëÁ¾\u0016²¶iîl‘#^§\u0004þ‚°´_\u0014ø›\\ń>£¤Úµ’-‹0i™\u0018†Ãmí]\u0005ÅŻ‹¼¢ËsĄÊËó*˜›¨úÖK’Ję'\u0004]\n‘r§Nź\u0000$Q´ðU…ÕÚ\\E`¶\u0016èrŸóÒOþ$~uÙG\u001aÅ\u001aÇ\u0018Úˆ\u0002¨\u001d€®Áº¦­«iłÍ­Ã\u001c2Ç3D\u0015\u0007÷z×EZAF×G^\u001a4Ô9à­�QE\u0015gHT7–±ÞÙËm0ÊH¸55\u0014šRVcMÅÝ\u001eá›©<9âI´kÓˆeÝ“Ó=�ãÅz\u0005r^:ÑšęÅu\u001bPEÅ·$ŻRżýją x–Þ÷CŽk™\u0002Í\u001fÉ ÷Ż/\u0005ÍBłÂ?Xúvù\u001e¶;—\u0011F8ÈúK×żÌèh®_Rń6¡\u001a“cb‘ àÉxþZýA$\nÌ¶Ö5›ą·iÄÊzÇo\u000fš\u0007ü\t\u0001Ż£Ž\n¤£ÌÚ_×•Ïž–*\tÙ&ÎîŠ¡b$k1‡—vy,¤~�EÆ¤,�\u0017\u0011ÌqÑ’&qø�+—Ù·.U©ż:µÙ~ŠÂO\u0016éÏ&ÐáÏB\"a#\u000fªŽEkZ^Û_EćZL’¨àílàú\u001fJs£R\nòV\u0014jB_\u000b'¢Š+#@¢Š(\u0000¢Š(\u0000¢Š(\u0000¢Š(\u0003/NÓôë]_Q¸ł�µÍÌ�®Wvv¶Ð\u0007\u001d¸\u0002µ+/NÓ´ÛMcRą²‘Zęę@×*$ÜU‚€8íÀ\u0015©@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0005\u0014Q@\u0014µ‹›K=\u001aîãR]Ö‘DZeÆr½ø©¬Ą†k\u0018dµ\u0018…Ð\u0014\u0018Æ\u0005C¬ÜÙÙè·w\u001a¢+ÙÅ\u0011i•—p+ßŽõ5Œ°Mc\f–€,\f€ \u0003\u0000\u000eÜP\u0004õKY¾M7E»»�ábˆ±«µÃ|XÔMŻ„…śg\u0012ÞÊ#\u0003Õ{ź\u0000J‰Ë–-˜bjû*2Ÿde|(šÖÛI½Ôõ\u000b˜’{É‹\u0012Íƒ€yýk¶Ò¼Co­jwpéì%·¶U",
+      "answers": [
+        {
+          "key": "a",
+          "text": "2ž\u0019Îr\u0007Ðcó¬ý\u000bÁz5ż‡là¼Ò­%śB¾k¼*X¶9ç\u001eµsÂÞ\u001e‡Ã¶7\u0010A\u0018�f�ĄÚ;\u0003��Òł§\u0019E$rai×Ą"
+        },
+        {
+          "key": "b",
+          "text": "tÝ­×ąŻoo\u0015´e!] ±cîOSRÑEnzI[`¢Š(\u0000 �\u0001'€(¬"
+        },
+        {
+          "key": "c",
+          "text": "gSÜ^\bś¬Iþµ×©=•}I­)Óu%dDć ®ÇjzÂ¼rÃnÊ±(Û,Ï÷Gø×\u0004Œú\u000e¼\u000by±ÛÏÐ”\u001böžàgƒ]*%ÃÞEmk\u0012=è\u001b–3Ìvj‰½_żsŸj±«ø>)´Y™]§Ô>ù¸�å˜ŽÞÃÚłÍ0Ñ�(ÔĄüHj¼ûüšþº�\u0019^%ûWNŻðç£òìýWõĘdZmíö&²°Š\u0000Ã\"ćùŒ’7ąA�úÖ�®ƒz§uÞŻ&}-c\u0011\u000fËšĄàmhßiÆÆäź\u0000¤[qƒÔŻź\u0000Zºªº9‹ÄÒS…’?ÌÊ¾\u0003ęÕ]9îż®…a\u000fÙíX3Ms�üG,•pÚÖą§[NÑź\u0000ijº,Þ’Æ\f—ź\u0000^½"
+        },
+        {
+          "key": "d",
+          "text": "»²µż€Ã{o\u001cń\u001e©\"†\u001f­taëÆśï5ëÍ4sÖĄ)ÆÑvþ¾óÇîïo.Áv];Ä\u0016ËÏ™jLS¨õïF—ªÉö�ú%Ü²I\u0018ćÒàì�\u0007¢žŽ?\u0001šé5ż„š}Ä†ë@�ôë r¡IÛŸéøW\u0011ªÚßéwioã;9\u000e\u001b÷Z­¸ùÔöbÃŻãÍ}f\u001e¦\u001b\u0013\u000eZNþVłû¶öí™óÕ¡^„Ż5óé÷î¾w=OÃ¾.‡SQ"
+        },
+        {
+          "key": "e",
+          "text": "Ù\u0011Î\u000eÝÄc'ÐŽÇó®ž¼~ÜJfƒûBh™¦\u0001mudć9Çd—üMwþ\u001eÖ$”\u001b\u001bðÉq\u001fË‡9 úgż±ï_?ŽÁÆ\u000fžžÝżËúÐö0¸—5Ë3¡¢Š+È=\u0010¢Š(\u0000¢Š(\u0000¢Š(\u0003+N°Ó­µ�JâÊ@×W\u000e­r¡ł´€\u0000ã·\u0018­ZËÓ´ý:×XÔnlßuÕË«\\®üí \u00008íÅjP\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0001E\u0014P\u0005-fęÎÇE»ºÔ×uśQ\u0016™vîÊŽ¼w©¬Ą†{\u0018eµ\u0018…Ð\u0014\u0018Æ\u0007Ò¡Ön¬ì´K»�MwÚE\u0011i”Œå{ńSYK\fÖ0Éj1\u000b (1Œ"
+        },
+        {
+          "key": "f",
+          "text": "\u0000•ßdlĘfÚ3…\u0019'é^[ã\u0004Õ5ź\u0000\u0019éŽ4]E´»6Ë7ÙÛ’zńø"
+        },
+        {
+          "key": "g",
+          "text": "õJ*'\u000euc›\u0011CÛÇ‘»\";y„ð¬‚9#"
+        },
+        {
+          "key": "h",
+          "text": "ü2.Ö\u001f…IE\u0015gI\u0005Íì\u0016ĄDÏ‡oºƒ–o ®sEÔ¡ŸXÕõ&ąÛb’,\u0011îo”�\u0006\u001dÙ\u0015V=QâÔµé¤ŠI5\bÙ£·B‡\u00021ś\u0010zsÅQÑ¬Ú\u00194&¾V\u0016¬’]I•831fä{dV\u000eWhóg]Êq·õÓ_ÌíâÕ-&\u0013bP¦\u0000\fŠÜ\u0015\u0007¡#ðªZTńÜj·S}­¤iP4p‘€‰Æ\búðsX‰\u001aÜęÚŽ¡¨G\"Zę\u001b,á\u0001NJ®ã¼ŽÃšÑð„W1YK"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "501",
+      "question": "Jaki promień krzywizny powinien mieć zakręt, aby samochód jadący z szybkością 40 m/s, mógł go przejechać bez poślizgu. Przyjmij, że współczynnik tarcia statycznego między oponami samochodu a asfaltem wynosi 0,7, jezdnia jest nachylona do poziomu pod kątem 20, przyspieszenie ziemskie wynosi g= 10 m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "50m"
+        },
+        {
+          "key": "b",
+          "text": "64m"
+        },
+        {
+          "key": "c",
+          "text": "112m"
+        },
+        {
+          "key": "d",
+          "text": "150m"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "504",
+      "question": "Dwa cosinusy kierunkowe pewnego wektora wynoszą cos fi x=-2/7 i cos fi y=3/7.Trzeci cosinus kierunkowy wynosi",
+      "answers": [
+        {
+          "key": "a",
+          "text": "cos fi z= -2/7"
+        },
+        {
+          "key": "b",
+          "text": "cos fi z= ±6/7"
+        },
+        {
+          "key": "c",
+          "text": "cos fi z= ±1/7"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "506",
+      "question": "Ile wynosi iloczyn skalarny dwóch wektorów a o b  ? Współrzędne wektorów wynoszą: a =sqrt(3)i-(1/2)j+(sqrt(7)+1)k , b =(sqrt(3)/3)i – 2j + (sqrt(7)-1)k.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "7"
+        },
+        {
+          "key": "c",
+          "text": "6"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "507",
+      "question": "Obiekt zaczyna obracać się wokół stałej osi. W pewnej chwili czasu, całkowite przyspieszenie obiektu, tworzy z jego prędkością liniową kąt 60. Ile wynosi prędkość kątowa omega tego obiektu, jeśli przyspieszenie kątowe wynosi e=4/sqrt(3) *rad/s^2",
+      "answers": [
+        {
+          "key": "a",
+          "text": "omega = 4 rad/s"
+        },
+        {
+          "key": "b",
+          "text": "omega = 2 rad/s"
+        },
+        {
+          "key": "c",
+          "text": "omega = 1 rad/s"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "509",
+      "question": "Wahadło o masie m=10kg wisi na podstawce umocowanej na wózku. ZnajdŸ siłę naprężenia FN nici w przypadku, gdy wózek porusza się po płaszczyŸnie poziomej z przyspieszeniem a=1 m/s^2.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "FN=11,5N"
+        },
+        {
+          "key": "b",
+          "text": "FN=21N"
+        },
+        {
+          "key": "c",
+          "text": "FN=100,5N"
+        },
+        {
+          "key": "d",
+          "text": "FN=101N"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "516",
+      "question": "Siła F powoduje przemieszczenie przedmiotu z punktu A do B. Wektory wodzące, opisujące położenie punktów, są następujące rA=(3,0) oraz rB=(1,3). Wskaż wszystkie wektory siły, przy wartości której, wykonana praca wyniesie zero.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "F=(3,2)N"
+        },
+        {
+          "key": "b",
+          "text": "F=(-3,-2)N"
+        },
+        {
+          "key": "c",
+          "text": "F=(3,-2)N"
+        },
+        {
+          "key": "d",
+          "text": "F=(-3,2)N"
+        }
+      ],
+      "correct": [
+        "a",
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "519",
+      "question": "Piłkę tenisowa o masie 60g upuszczono z wysokości 3,6m. Tuż przed trzecim odbiciem piłki miała prędkość 3m/s. Ile energii traci piłka po każdym odbiciu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "50%"
+        },
+        {
+          "key": "b",
+          "text": "60%"
+        },
+        {
+          "key": "c",
+          "text": "70%"
+        },
+        {
+          "key": "d",
+          "text": "80%"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "520",
+      "question": "Kula A o masie 1kg porusza się wzdłuż osi x z prędkością 2m/s i zderza się doskonale sprężyście i centralnie ze spoczywającą kulą B o masie 2kg. Oblicz wartość prędkości kuli A po zderzeniu.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "uA=-3/2[m/s]"
+        },
+        {
+          "key": "b",
+          "text": "uA=-2/3[m/s]"
+        },
+        {
+          "key": "c",
+          "text": "uA=1/3[m/s]"
+        },
+        {
+          "key": "d",
+          "text": "uA=5/2[m/s]"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "523",
+      "question": "Człowiek o masie 50kg biegnący z prędkością 7[km/h] dogania wózek o masie 100kg, który jedzie z prędkością 4[kmh] i wskakuje na ten wózek. Jaka będzie prędkość wózka z człowiekiem w przypadku, gdy człowiek będzie biegł naprzeciw wózka?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "-3/4[km/h]"
+        },
+        {
+          "key": "b",
+          "text": "-1/3[kmh]"
+        },
+        {
+          "key": "c",
+          "text": "0[kmh]"
+        },
+        {
+          "key": "d",
+          "text": "3[kmh]"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "536",
+      "question": "Zawieszona na nitce kulka, porusza się jednostajnie, zakreślając w płaszczyŸnie poziomej okrąg. Wybierz ilustrację, na której rozrysowano siły działające na kulkę w układzie inercjalnym.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "",
+          "image": "071a.jpg"
+        },
+        {
+          "key": "b",
+          "text": "",
+          "image": "071b.jpg"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "541",
+      "question": "Fala poprzeczna rozchodząca się wzdłuż struny opisana jest równaniem u(x,t)=0,1sin(200*pi*t-20*pi*x) (w SI). Okres drgań drgań oraz długość fali są odpowiednio równe",
+      "answers": [
+        {
+          "key": "a",
+          "text": "T=0,001s oraz  lambda = 0,01m"
+        },
+        {
+          "key": "b",
+          "text": "T=0,01s oraz  lambda = 0,1m"
+        },
+        {
+          "key": "c",
+          "text": "T=0,01s oraz  lambda = 0,01m"
+        },
+        {
+          "key": "d",
+          "text": "T=0,1s oraz  lambda = 0,1m"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "543",
+      "question": "Ciało o masie 0,150kg jest podwieszone do sprężyny z k=6,3 N/m. Ciało to poddane działaniu siły okresowej o amplitudzie F0=1,7N wykonuje drgania wymuszone bez tłumienia. Dla jakiej/jakich częstotliwości siły wymuszającej amplituda drgań będzie równa 0,44m?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "omega = 8,23s^(-1)"
+        },
+        {
+          "key": "b",
+          "text": "omega = 6,02s^(-1)"
+        },
+        {
+          "key": "c",
+          "text": "omega = 4,03s^(-1)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "549",
+      "question": "u= omega *A",
+      "answers": [
+        {
+          "key": "a",
+          "text": "u= (M+m)/2 * v^2"
+        },
+        {
+          "key": "b",
+          "text": "u= m/(M+m) * v"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": [
+        "131.jpg"
+      ]
+    },
+    {
+      "id": "552",
+      "question": "Ile wynosi maksymalne przyspieszenie ciała, które wykonuje drgania o częstości (pi/3)s^(-1) i amplitudzie 18m?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "amax=2*pi m/s^2"
+        },
+        {
+          "key": "b",
+          "text": "amax=3*pi m/s^2"
+        },
+        {
+          "key": "c",
+          "text": "amax=2*pi^2 m/s^2"
+        },
+        {
+          "key": "d",
+          "text": "amax=3*pi^2 m/s^2"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "images": []
+    },
+    {
+      "id": "553",
+      "question": "Znając równanie ruchu ciała wykonującego drganie harmoniczne x(t)=10cos(2t+pi), zapisz zależność opisującą przyspieszenie tego ciała.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "a(t)=-20cos(t+pi)"
+        },
+        {
+          "key": "b",
+          "text": "a(t)=20cos(t+pi)"
+        },
+        {
+          "key": "c",
+          "text": "a(t)=-20sin(t+pi)"
+        },
+        {
+          "key": "d",
+          "text": "a(t)=-40cos(2t+pi)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "554",
+      "question": "Ile wynosi faza początkowa ruchu harmonicznego, jeśli wychylenie w chwili początkowej z położenia równowagi wynosi x(0)=20m, a amplituda ma wartość x0=40m",
+      "answers": [
+        {
+          "key": "a",
+          "text": "fi = pi/3"
+        },
+        {
+          "key": "b",
+          "text": "fi = pi/2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "555",
+      "question": "Podaj równanie ruchu harmonicznego, jeśli wartość maksymalnego przyspieszenia jest równa (4*pi^2)/3 * m/s^2, okres 3s, a wychylenie w chwili początkowej z położenia równowagi wynosi 0,02m.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "x(t)=3cos(2*pi/3 * t + 1,56)"
+        },
+        {
+          "key": "b",
+          "text": "x(t)=2cos(3*pi/2 * t +0,56)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "557",
+      "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t)=0,6·sin(8*pi*t+2) (w SI). Okres drgań tego ruchu oraz jego częstotliwość są odpowiednio równe",
+      "answers": [
+        {
+          "key": "a",
+          "text": "T=1s oraz  f=1Hz"
+        },
+        {
+          "key": "b",
+          "text": "T=0,5s oraz  f=2Hz"
+        },
+        {
+          "key": "c",
+          "text": "T=0,25s oraz  f=4Hz"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "558",
+      "question": "Punkt materialny wykonuje drgania mechaniczne opisane równaniem x(t)=0,6·sin(8*pi*t+2) (w SI). Jakie są maksymalne wartości prędkości i przyspieszenia, jakie uzyskuje ten punkt materialny?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "vmax=4,8*pi*m/s oraz  amax=38,4*pi^2 *m/s^2"
+        },
+        {
+          "key": "b",
+          "text": "vmax=2,4*pi*m/s oraz  amax=8,4*pi^2 *m/s^2"
+        },
+        {
+          "key": "c",
+          "text": "vmax=0,6*pi*m/s oraz  amax=0,36*pi^2 *m/s^2"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "559",
+      "question": "Znając równanie ruchu ciała wykonującego drganie harmoniczne x(t)=10cos(2t+pi), zapisz zależność opisującą prędkość tego ciała.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "v(t)=20sin(2t+pi)"
+        },
+        {
+          "key": "b",
+          "text": "v(t)=-20sin(2t+pi)"
+        },
+        {
+          "key": "c",
+          "text": "v(t)=-20cos(2t+pi)"
+        },
+        {
+          "key": "d",
+          "text": "v(t)=20sin(t+pi)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "images": []
+    },
+    {
+      "id": "560",
+      "question": "Ciało o masie 0,4kg podwieszone do sprężyny k=300 N/m wykonuje drgania harmoniczne proste o amplitudzie 0,035m. Ile wynosi energia mechaniczna układu?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "Em ~ 0,8J"
+        },
+        {
+          "key": "b",
+          "text": "Em ~ 0,184J"
+        },
+        {
+          "key": "c",
+          "text": "Em ~ 0,34J"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "561",
+      "question": "Z równi pochyłej stoczyła się kula. Jaka była wysokość równi, jeżeli wiadomo, że u podstawy równi uzyskała prędkość 4ms?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1,12ms"
+        },
+        {
+          "key": "b",
+          "text": "2,01ms"
+        },
+        {
+          "key": "c",
+          "text": "0,11ms"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "562",
+      "question": "Zapisz równanie drgań harmonicznych o amplitudzie 50cm, częstotliwości f=0,5Hz i fazie początkowej 60.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "x(t)=50cos(pi*t+pi/6)"
+        },
+        {
+          "key": "b",
+          "text": "x(t)=0,5cos(pi/2 * t +pi/3)"
+        },
+        {
+          "key": "c",
+          "text": "x(t)=50cos(1/2 * t +pi/3)"
+        },
+        {
+          "key": "d",
+          "text": "x(t)=0,5cos(pi*t+pi/3)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "563",
+      "question": "Stolik poziomy obraca się z prędkością kątową omega. Na środku stolika stoi człowiek i trzyma w wyciągniętych rękach w odległości R od osi obrotu dwa ciężarki o masie m każdy. Ile razy wzrośnie energia kinetyczna układu? Moment bezwładności stolika wraz z człowiekiem wynosi I.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "1+(mv^2)/2"
+        },
+        {
+          "key": "b",
+          "text": "1+(2mR^2)/I"
+        },
+        {
+          "key": "c",
+          "text": "I0*omega+(2mR^2)/I"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "571",
+      "question": "Z równi pochyłej o kącie nachylenia alfa staczają się bez poślizgu kula, walec i sfera. Prędkości początkowe przedmiotów wynoszą zero. Między przyspieszeniami: kuli ak, walca aw i sfery as zachodzi zależność",
+      "answers": [
+        {
+          "key": "a",
+          "text": "ak>aw>as"
+        },
+        {
+          "key": "b",
+          "text": "as>aw>ak"
+        },
+        {
+          "key": "c",
+          "text": "aw>ak>as"
+        },
+        {
+          "key": "d",
+          "text": "aw>as>ak"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "572",
+      "question": "W kartezjańskim układzie współrzędnych dany jest wektor: a =3i-6j+8k. Wskaż wektor jednostkowy kierunku wyznaczonego przez ten wektor.",
+      "answers": [
+        {
+          "key": "a",
+          "text": "n =(1/109)(3i-6j+8k)"
+        },
+        {
+          "key": "b",
+          "text": "n =1"
+        },
+        {
+          "key": "c",
+          "text": "n =(Sqrt(109)/109) (3i-6j+8k)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "images": []
+    },
+    {
+      "id": "573",
+      "question": "Samochód o masie  1200kg  porusza się po wypukłym moście, którego promień krzywizny wynosi 20m. Dla jakiej wartości prędkości siła nacisku osiąga wartość zero?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "80 km/h"
+        },
+        {
+          "key": "b",
+          "text": "75 km/h"
+        },
+        {
+          "key": "c",
+          "text": "70 km/h"
+        },
+        {
+          "key": "d",
+          "text": "51 km/h"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    },
+    {
+      "id": "578",
+      "question": "Koło zamachowe o momencie bezwładności I wiruje z prędkością kątową omega. Jaką pracę należy wykonać, aby je zatrzymać?",
+      "answers": [
+        {
+          "key": "a",
+          "text": "W=(I*omega^2)/2"
+        },
+        {
+          "key": "b",
+          "text": "W=-(2I*omega^2)/2"
+        },
+        {
+          "key": "c",
+          "text": "W=-(Iv^2)/2"
+        },
+        {
+          "key": "d",
+          "text": "W=-(I*omega^2)/2"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "images": []
+    }
+  ]
+}
